@@ -1,0 +1,67 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-en desc-en">
+  <title id="title-en">HiAPI GPT Image 2 Prompt Gallery</title>
+  <desc id="desc-en">Cover image for the HiAPI GPT Image 2 prompt gallery.</desc>
+
+  <!-- Background -->
+  <rect width="1400" height="520" fill="#fff7ed"/>
+  <rect x="28" y="28" width="1344" height="464" rx="36" fill="#ffffff" stroke="#fed7aa" stroke-width="2"/>
+
+  <!-- Top bar: logo + language switcher -->
+  <circle cx="112" cy="106" r="8" fill="#f97316"/>
+  <text x="132" y="114" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">HiAPI</text>
+
+  <!-- Language badges (EN = active / orange) -->
+  <rect x="1072" y="80" width="76" height="34" rx="17" fill="#f97316"/>
+  <text x="1110" y="102" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">EN</text>
+  <rect x="1160" y="80" width="94" height="34" rx="17" fill="#111827"/>
+  <text x="1207" y="102" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">中文</text>
+
+  <!-- Main title — "GPT Image 2 Prompts" font-size 54 -->
+  <!-- Estimated width: ~560px from x=96, ends ~656 — safely left of code block at x=810 -->
+  <text x="96" y="196" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">GPT Image 2 Prompts</text>
+
+  <!-- Subtitle -->
+  <text x="96" y="244" fill="#52525b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">106 real examples · Copy prompt · Generate on HiAPI</text>
+
+  <!-- Accent line -->
+  <text x="96" y="300" fill="#f97316" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Browse the result first, then copy</text>
+
+  <!-- Stat badges -->
+  <rect x="96"  y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="160" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">106 cases</text>
+
+  <rect x="240" y="348" width="152" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="316" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">5 categories</text>
+
+  <rect x="408" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="477" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">real images</text>
+
+  <rect x="562" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="631" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">copy &amp; use</text>
+
+  <!-- Dark code block — at x=810 to avoid title overlap -->
+  <rect x="810" y="118" width="390" height="278" rx="24" fill="#111827"/>
+
+  <!-- Window dots -->
+  <rect x="840" y="150" width="52" height="10" rx="5" fill="#ef4444"/>
+  <rect x="904" y="150" width="52" height="10" rx="5" fill="#f59e0b"/>
+  <rect x="968" y="150" width="52" height="10" rx="5" fill="#22c55e"/>
+
+  <!-- Code content -->
+  <text x="840" y="200" fill="#c4b5fd" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="18">model:</text>
+  <text x="920" y="200" fill="#fdba74" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="18">gpt-image-2</text>
+  <text x="840" y="244" fill="#c4b5fd" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="18">prompt:</text>
+  <rect x="840" y="266" width="290" height="11" rx="5" fill="#fb923c"/>
+  <rect x="840" y="294" width="220" height="11" rx="5" fill="#fed7aa"/>
+  <rect x="840" y="322" width="260" height="11" rx="5" fill="#fde68a"/>
+  <rect x="840" y="350" width="180" height="11" rx="5" fill="#86efac"/>
+
+  <!-- Decorative card — spark icon -->
+  <rect x="1222" y="180" width="88" height="88" rx="22" fill="#f97316"/>
+  <path d="M1248 236C1260 208 1283 202 1294 226C1274 216 1258 220 1248 236Z" fill="#ffffff"/>
+
+  <!-- Decorative card — plus icon -->
+  <rect x="1218" y="310" width="74" height="74" rx="16" fill="#ffedd5" stroke="#fdba74" stroke-width="1.5"/>
+  <path d="M1234 347H1278" stroke="#f97316" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1256 325V369" stroke="#f97316" stroke-width="7" stroke-linecap="round"/>
+</svg>

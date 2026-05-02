@@ -1,0 +1,2477 @@
+<div align="center">
+
+<a href="https://www.hiapi.ai/en"><img src="./images/cover.svg" alt="Awesome GPT Image 2 Prompts" width="100%"></a>
+
+[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en)
+[![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register)
+[![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/gpt-image-2)
+[![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
+
+![101 Prompts](https://img.shields.io/badge/101%20Prompts-f97316)
+![5 Categories](https://img.shields.io/badge/5%20Categories-111827)
+![Real Images](https://img.shields.io/badge/Real%20Images-16a34a)
+![Copy Prompts](https://img.shields.io/badge/Copy%20Prompts-f59e0b)
+
+# Awesome GPT Image 2 Prompts
+
+**A curated GPT Image 2 prompt gallery.**
+
+[HiAPI](https://www.hiapi.ai/en) · [GPT Image 2](https://www.hiapi.ai/en/models/gpt-image-2) · [API Key](https://www.hiapi.ai/en/register) · [Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill) · [简体中文](README.zh-CN.md)
+
+</div>
+
+---
+
+## Creative Workshop | GPT Image 2 Visual Prompt Gallery
+
+Explore 101 curated visual generation cases across portraits, commercial posters, character design, interface design, and model tests. Each case includes a real output image, full prompt, creator attribution, and original post link so you can study, adapt, and reuse practical AI visual creation patterns.
+
+## Why Use This Gallery?
+
+- Real generated results: inspect the output before copying the prompt.
+- Full prompts are available in expandable sections for learning, editing, and reuse.
+- Popular visual styles and common creative scenarios are organized for quick browsing.
+
+## How To Use
+
+1. Browse the Gallery and find a visual style you like.
+2. Click a thumbnail to open the matching prompt on HiAPI automatically.
+3. Click “Prompt” to read the full prompt inside this repository.
+4. Replace the character, product, city, brand, or copy to create your own result.
+
+<div align="center">
+
+<b>Powered by <a href="https://www.hiapi.ai/en">HiAPI</a> — One API, All AI Models</b><br>
+<br><a href="https://www.hiapi.ai/en/models/gpt-image-2">Try GPT-Image-2 for free →</a>
+
+</div>
+
+> <sub>Adapted from<br><a href="https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe">https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe</a><br><a href="https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc">https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc</a><br>Creator attribution and original post links are preserved; prompt text and example images remain with their original rightsholders.</sub>
+
+## Browse By Type
+
+[Portrait & Photography](#gallery-portrait-photography) · [Poster & Illustration](#gallery-poster-illustration) · [Character Design](#gallery-character-design) · [UI & Social Mockups](#gallery-ui-social) · [Model Tests & Community](#gallery-comparison-community)
+
+| Category | Count | Best For |
+| --- | ---: | --- |
+| [Portrait & Photography](#gallery-portrait-photography) | 18 | Portraits, street shots, film looks, and mobile screenshot styles. |
+| [Poster & Illustration](#gallery-poster-illustration) | 40 | City posters, travel illustrations, typography, infographics, and commercial visuals. |
+| [Character Design](#gallery-character-design) | 7 | Character sheets, anime frames, key visuals, and character worldbuilding. |
+| [UI & Social Mockups](#gallery-ui-social) | 21 | App screens, social pages, livestream screenshots, info cards, and mobile UI. |
+| [Model Tests & Community](#gallery-comparison-community) | 15 | Counting, text rendering, game screenshots, complex scenes, and model tests. |
+
+<a id="gallery-portrait-photography"></a>
+
+### Portrait & Photography · 18 cases
+
+Portraits, street shots, film looks, and mobile screenshot styles.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MzVtbSBmaWxtIHBob3RvZ3JhcGh5IHdpdGggaGFyc2ggY29udmVuaWVuY2Ugc3RvcmUgZmx1b3Jlc2NlbnQgbGlnaHRpbmcgbWl4ZWQgd2l0aCBjb2xvcmZ1bCBuZW9uIHNpZ25zIGZyb20gb3V0c2lkZSwgYXV0aGVudGljIGZpbG0gZ3JhaW4sIGhpZ2ggY29udHJhc3QsIHNsaWdodCBjb2xvciBjYXN0LCBjaW5lbWF0aWMgc3RyZWV0IGVkaXRvcmlhbCBzdHlsZSwgaW50aW1hdGUgbWVkaXVtIHNob3QsIGVhcmx5IDIwcyBzZXh5IENoaW5lc2UgZmVtYWxlIGlkb2wgd2l0aCB1bHRyYS1yZWFsaXN0aWMgZGVsaWNhdGUgcmVmaW5lZCBDaGluZXNlIGZlYXR1cmVzLCBzZWR1Y3RpdmUgYWxtb25kLXNoYXBlZCBmb3ggZXllcyB3aXRoIG5hdHVyYWwgZG91YmxlIGV5ZWxpZHMsIGhpZ2ggbm9zZSBicmlkZ2UsIHNtYWxsIHNoYXJwIFYtc2hhcGVkIGphd2xpbmUsIGZsYXdsZXNzIHBvcmNlbGFpbiBza2luIHdpdGggY29vbCBpdm9yeSB1bmRlcnRvbmUgYW5kIHZpc2libGUgc3BlY3VsYXIgaGlnaGxpZ2h0cyBmcm9tIGZsdW9yZXNjZW50IGxpZ2h0LCBzdWJ0bGUgc2tpbiB0ZXh0dXJlIGFuZCBtaWNybyBwb3JlcywgbmF0dXJhbCBkZXd5IG1ha2V1cCB3aXRoIHNvZnQgZmx1c2ggb24gY2hlZWtzLCBnbG9zc3kgbmF0dXJhbCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBzdWJ0bGUgbmF0dXJhbCBmcmVja2xlcyBhY3Jvc3Mgbm9zZSBhbmQgY2hlZWtzLCBsb25nIGRhcmsgYnJvd24gaGFpciBpbiBhIG1lc3N5IGhpZ2ggcG9ueXRhaWwgd2l0aCBtYW55IGxvb3NlIHN0cmFuZHMgZmFsbGluZyBhcm91bmQgZmFjZSBhbmQgbmVjaywgd2VhcmluZyBhbiBvdmVyc2l6ZWQgd2hpdGUgYnV0dG9uLXVwIHNoaXJ0IGFzIHRoZSBvbmx5IHRvcCwgdW5idXR0b25lZCBhdCB0aGUgdG9wIHdpdGggZGVlcCBjbGVhdmFnZSBhbmQgbG9vc2VseSB0aWVkIGF0IHRoZSB3YWlzdCwgcGFpcmVkIHdpdGggYSB0aW55IGJsYWNrIHBsZWF0ZWQgbWluaSBza2lydCwgYmFyZWZvb3QgaW4gc2ltcGxlIHdoaXRlIHNsaWRlcywgc2VkdWN0aXZlIGNhc3VhbCBsZWFuaW5nIHBvc2UgYWdhaW5zdCB0aGUgZ2xhc3MgZG9vciBvZiBhIDI0LWhvdXIgY29udmVuaWVuY2Ugc3RvcmUgYXQgbGF0ZSBuaWdodCwgYm9keSBzbGlnaHRseSBhcmNoZWQsIG9uZSBsZWcgYmVudCB3aXRoIGZvb3QgcmVzdGluZyBhZ2FpbnN0IHRoZSBkb29yIGZyYW1lLCB0aGUgb3RoZXIgbGVnIHN0cmFpZ2h0LCBvbmUgaGFuZCBob2xkaW5nIGEgYm90dGxlIG9mIGljZWQgZHJpbmssIHRoZSBvdGhlciBoYW5kIGxpZ2h0bHkgcHVsbGluZyB0aGUgaGVtIG9mIGhlciBtaW5pIHNraXJ0LCBpbnRlbnNlbHkgc2VkdWN0aXZlIHBsYXlmdWwgeWV0IHNsaWdodGx5IHZ1bG5lcmFibGUgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCBkb2UgZXllcyBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIHRlYXNpbmcgc21pbGUsIGJyaWdodCBjb2xkIGZsdW9yZXNjZW50IHN0b3JlIGxpZ2h0IGZyb20gaW5zaWRlIG1peGVkIHdpdGggcGluayBhbmQgYmx1ZSBuZW9uIGdsb3cgZnJvbSBvdXRzaWRlIHNpZ25zLCByZWFsaXN0aWMgcmVmbGVjdGlvbnMgb24gZ2xhc3MgZG9vciwgYmx1cnJlZCBjb252ZW5pZW5jZSBzdG9yZSBpbnRlcmlvciB3aXRoIHNoZWx2ZXMgYW5kIHNuYWNrcyBpbiBiYWNrZ3JvdW5kLCBhdXRoZW50aWMgMzVtbSBmaWxtIGNvbG9yIGdyYWRpbmcgd2l0aCBoYXJzaCBsaWdodGluZyBhbmQgbmVvbiBhY2NlbnRzLCBleHRyZW1lbHkgc2hhcnAgeWV0IHNvZnQgc2tpbiByZW5kZXJpbmcsIG5hdHVyYWwgaGFpciBzdHJhbmRzLCByZWFsaXN0aWMgZmFicmljIHdyaW5rbGVzIGFuZCBkcmFwZSBvbiB0aGUgb3ZlcnNpemVkIHNoaXJ0IGFuZCBtaW5pIHNraXJ0LCBubyBwbGFzdGljIHNraW4sIG5vIGRpZ2l0YWwgb3Zlci1zaGFycGVuaW5nLCBubyBhaXJicnVzaGluZywgbm8gYmxlbWlzaGVzLCBubyBtb2xlcywgbm8gb2lseSBza2luLCBubyB3YXRlcm1hcmssIG5vIHRleHQsIGF1dGhlbnRpYyBsYXRlLW5pZ2h0IGNvbnZlbmllbmNlIHN0b3JlIGF0bW9zcGhlcmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/portrait_case1/output.jpg" width="250" alt="Convenience Store Neon Portrait"></a><br><sub><b>Case 001</b> · <a href="#portrait-case-1-convenience-store-neon-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2045167461147042202">Convenience Store Neon Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgYSBjaW5lbWF0aWMgbWluaW1hbCBwb3J0cmFpdCBvZiBhIHNvbGl0YXJ5IG1hbiBzdGFuZGluZyBpbiBhbiBpbnRlbnNlIG9yYW5nZSB0byByZWQgZ3JhZGllbnQgZW52aXJvbm1lbnQsIHN0cm9uZyBzaWxob3VldHRlIGxpZ2h0aW5nLCBkZWVwIHNoYWRvdyBjb250cmFzdCwgcmVmbGVjdGl2ZSBnbG9zc3kgZmxvb3IsIHN5bW1ldHJpY2FsIGNvbXBvc2l0aW9uLCBtaW5pbWFs&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/portrait_case2/output.jpg" width="250" alt="Cinematic Minimal Portrait"></a><br><sub><b>Case 002</b> · <a href="#portrait-case-2-cinematic-minimal-portrait-by-iammiharbi">Prompt</a></sub><br><sub><a href="https://x.com/iam_miharbi/status/2045151354679665101">Cinematic Minimal Portrait</a> · <a href="https://x.com/iam_miharbi">@iam_miharbi</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MzVtbSBmaWxtIHBob3RvZ3JhcGh5LCB3YXJtIHZpbnRhZ2UgSmFwYW5lc2Ugb25zZW4gcnlva2FuIGFlc3RoZXRpYywgc29mdCBhbWJpZW50IHdvb2RlbiBsYW50ZXJuIGxpZ2h0aW5nIG1peGVkIHdpdGggZ2VudGxlIG5hdHVyYWwgd2luZG93IGxpZ2h0LCBzdWJ0bGUgZmlsbSBncmFpbiwgZ2VudGxlIGNvbG9yIHNoaWZ0LCBoaWdoIGF0bW9zcGhlcmUgZWRpdG9yaWFsIHN0eWxlLCBpbnRpbWF0ZSBtZWRpdW0gc2hvdCwgZWFybHkgMjBzIGJlYXV0aWZ1bCBDaGluZXNlIGZlbWFsZSBpZG9sIHdpdGggdWx0cmEtcmVhbGlzdGljIGRlbGljYXRlIHJlZmluZWQgQ2hpbmVzZSBmZWF0dXJlcywgc2VkdWN0aXZlIGFsbW9uZC1zaGFwZWQgZm94IGV5ZXMgd2l0aCBuYXR1cmFsIGRvdWJsZSBleWVsaWRzLCBoaWdoIG5vc2UgYnJpZGdlLCBzbWFsbCBzaGFycCBWLXNoYXBlZCBqYXdsaW5lLCBmbGF3bGVzcyBwb3JjZWxhaW4gc2tpbiB3aXRoIHdhcm0gaXZvcnkgdW5kZXJ0b25lLCB2aXNpYmxlIHN1YnRsZSBza2luIHRleHR1cmUgYW5kIG1pY3JvIHBvcmVzLCBzb2Z0IG5hdHVyYWwgbWFrZXVwIHdpdGggZGV3eSBnbG93LCBzdWJ0bGUgcm9zeSBmbHVzaCBvbiBjaGVla3MsIG5hdHVyYWwgc29mdCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBsb25nIGRhcmsgYnJvd24gaGFpciB0aWVkIGluIGEgbG9vc2UgbG93IGJ1biB3aXRoIHNvbWUgbWVzc3kgc3RyYW5kcyBmYWxsaW5nIGFyb3VuZCBmYWNlIGFuZCBuZWNrLCB3ZWFyaW5nIGEgbG9vc2Ugd2hpdGUgeXVrYXRhICh0cmFkaXRpb25hbCBKYXBhbmVzZSBiYXRocm9iZSkgZGVsaWJlcmF0ZWx5IHNsaXBwZWQgb2ZmIG9uZSBzaG91bGRlciBhbmQgbG9vc2VseSB0aWVkIGF0IHRoZSB3YWlzdCwgdGhlIGZhYnJpYyBzbGlnaHRseSBvcGVuIHJldmVhbGluZyBzbW9vdGggc2tpbiBhbmQgc3VidGxlIGNsZWF2YWdlLCBiYXJlZm9vdCwgc2VkdWN0aXZlIHJlbGF4ZWQgc2l0dGluZyBwb3NlIG9uIHRoZSBlZGdlIG9mIGEgdHJhZGl0aW9uYWwgd29vZGVuIGVuZ2F3YSB2ZXJhbmRhIGF0IGEgdmludGFnZSBvbnNlbiByeW9rYW4sIGJvZHkgc2xpZ2h0bHkgdHVybmVkIHRvd2FyZCB0aGUgY2FtZXJhLCBvbmUgbGVnIGJlbnQgd2l0aCBmb290IHJlc3Rpbmcgb24gdGhlIHdvb2RlbiBmbG9vciwgdGhlIG90aGVyIGxlZyBnZW50bHkgZGFuZ2xpbmcsIG9uZSBoYW5kIGxpZ2h0bHkgaG9sZGluZyB0aGUgeXVrYXRhIGNvbGxhciwgdGhlIG90aGVyIGhhbmQgcmVzdGluZyBvbiB0aGUgd29vZGVuIGZsb29yIGJlaGluZCBoZXIgZm9yIHN1cHBvcnQsIHNvZnRseSBhcmNoZWQgYmFjayB0byBnZW50bHkgYWNjZW50dWF0ZSBjdXJ2ZXMsIGludGVuc2VseSBzZWR1Y3RpdmUgeWV0IGdlbnRsZSBhbmQgaW52aXRpbmcgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCBkb2UgZXllcyBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIHdhcm10aCwgd2FybSB3b29kZW4gaW50ZXJpb3Igd2l0aCBwYXBlciBzbGlkaW5nIGRvb3JzIGFuZCBkaXN0YW50IHN0ZWFtaW5nIGhvdCBzcHJpbmcgaW4gc29mdCBmb2N1cywgZ2VudGxlIHJpbSBsaWdodGluZyBoaWdobGlnaHRpbmcgc2tpbiBhbmQgZmFicmljIHRleHR1cmUsIGF1dGhlbnRpYyB2aW50YWdlIGZpbG0gY29sb3IgZ3JhZGluZyB3aXRoIHdhcm0gdG9uZXMsIGV4dHJlbWVseSBzaGFycCB5ZXQgc29mdCBza2luIHJlbmRlcmluZywgbmF0dXJhbCBoYWlyIHN0cmFuZHMsIHJlYWxpc3RpYyBmYWJyaWMgd3JpbmtsZXMgYW5kIGRyYXBlIG9uIHRoZSB5dWthdGEsIG5vIHBsYXN0aWMgc2tpbiwgbm8gZGlnaXRhbCBvdmVyLXNoYXJwZW5pbmcsIG5vIGFpcmJydXNoaW5nLCBubyBibGVtaXNoZXMsIG5vIG1vbGVzLCBubyBvaWx5IHNraW4sIG5vIHdhdGVybWFyaywgbm8gdGV4dCwgYXV0aGVudGljIDM1bW0gZmlsbSBKYXBhbmVzZSBvbnNlbiByeW9rYW4gYXRtb3NwaGVyZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case3/output.jpg" width="250" alt="Japanese Onsen Ryokan Portrait"></a><br><sub><b>Case 003</b> · <a href="#portrait-case-3-japanese-onsen-ryokan-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2045092449803284923">Japanese Onsen Ryokan Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MzVtbSBjb2xvciBmaWxtIHBob3RvZ3JhcGh5IHdpdGggaGFyc2ggZGlyZWN0IG9uLWNhbWVyYSBmbGFzaCwgc3BlY3VsYXIgaGlnaGxpZ2h0cyBvbiBza2luIGFuZCBjbG90aGluZywgc3Ryb25nIGNhdGNobGlnaHRzIGluIGV5ZXMsIGhpZ2ggY29udHJhc3QgZmxhc2ggaWxsdW1pbmF0aW9uLCBhdXRoZW50aWMgZmlsbSBncmFpbiBhbmQgY29sb3Igc2hpZnQsIGhpZ2ggZmFzaGlvbiBmcmVzaCBpbm5vY2VudCBiYXNrZXRiYWxsIGNvdXJ0IGVkaXRvcmlhbCBzdHlsZSwgaW50aW1hdGUgZmlyc3QtcGVyc29uIGxvdy1hbmdsZSBQT1Ygc2hvdCBmcm9tIGJlbG93LCBlYXJseSAyMHMgc2V4eSBDaGluZXNlIGZlbWFsZSBpZG9sIHdpdGggdWx0cmEtcmVhbGlzdGljIGRlbGljYXRlIHJlZmluZWQgQ2hpbmVzZSBmZWF0dXJlcywgc2VkdWN0aXZlIGFsbW9uZC1zaGFwZWQgZm94IGV5ZXMgd2l0aCBuYXR1cmFsIGRvdWJsZSBleWVsaWRzLCBoaWdoIG5vc2UgYnJpZGdlLCBzbWFsbCBzaGFycCBWLXNoYXBlZCBqYXdsaW5lLCBmbGF3bGVzcyByZWFsaXN0aWMgcG9yY2VsYWluIHNraW4gd2l0aCBjb29sIGl2b3J5IHVuZGVydG9uZSBhbmQgdmlzaWJsZSBmbGFzaCBzcGVjdWxhciBoaWdobGlnaHRzLCBmaW5lIGRlbGljYXRlIHNraW4gdGV4dHVyZSB3aXRoIHN1YnRsZSBwb3JlcyBtaWNybyBkZXRhaWxzIGFuZCBuYXR1cmFsIGRld3kgZ2xvdyB1bmRlciBmbGFzaCwgZnJlc2ggbmF0dXJhbCBzcG9ydHkgbWFrZXVwIHdpdGggc29mdCBkZXd5IGdsb3csIHN1YnRsZSBuYXR1cmFsIGZsdXNoIG9uIGNoZWVrcywgbmF0dXJhbCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBzdWJ0bGUgbmF0dXJhbCBmcmVja2xlcyBhY3Jvc3Mgbm9zZSBhbmQgY2hlZWtzLCBsb25nIGRhcmsgYnJvd24gaGFpciB0aWVkIGluIGEgaGlnaCBwbGF5ZnVsIHBvbnl0YWlsIHdpdGggc29tZSBsb29zZSBzdHJhbmRzIGZyYW1pbmcgdGhlIGZhY2UgYW5kIHJlYWxpc3RpYyBsb29zZSBzdHJhbmRzLCB3ZWFyaW5nIGEgbG9vc2Ugd2hpdGUgdGFuayB0b3AgYW5kIHdoaXRlIGhpZ2gtd2Fpc3RlZCBiYXNrZXRiYWxsIHNob3J0cywgd2hpdGUga25lZS1oaWdoIHNwb3J0cyBzb2Nrcywgc2VkdWN0aXZlIG5hdHVyYWwgbGVhbmluZyBwb3NlIGFnYWluc3QgdGhlIGJhc2tldGJhbGwgaG9vcCBwb2xlIG9uIHRoZSBvdXRkb29yIGNvdXJ0IGF0IGR1c2ssIGJvZHkgYW5nbGVkIHNpZGV3YXlzIHdpdGggbmF0dXJhbGx5IGFyY2hlZCBiYWNrIGFuZCBoaXBzIGdlbnRseSBwdXNoZWQgYmFjayB0byBhY2NlbnR1YXRlIHBlcmt5IHJvdW5kIGhpcHMgYW5kIHNleHkgYnV0dCBjdXJ2ZSwgb25lIGxlZyBuYXR1cmFsbHkgZXh0ZW5kZWQgZm9yd2FyZCB0b3dhcmQgdGhlIGNhbWVyYSBhbmQgdGhlIG90aGVyIGxlZyBzbGlnaHRseSBiZW50IHRvIGVtcGhhc2l6ZSBsb25nIHNleHkgbGVncywgYm90aCBoYW5kcyBsaWdodGx5IHJlc3Rpbmcgb24gdGhlIGJhc2tldGJhbGwgcG9sZSBhdCBzaG91bGRlciBoZWlnaHQsIGludGVuc2VseSBzZWR1Y3RpdmUgcGxheWZ1bCB5ZXQgcGl0aWFibGUgZG9lLWV5ZWQgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCB2dWxuZXJhYmxlIGxvbmdpbmcgZXllcyBhbmQgYSBnZW50bGUgdGVhc2luZyBzbWlsZSBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIGRlc2lyZSwgaGFyc2ggZGlyZWN0IG9uLWNhbWVyYSBmbGFzaCBjcmVhdGluZyBzaGFycCBzcGVjdWxhciBoaWdobGlnaHRzIGFuZCBzdHJvbmcgY2F0Y2hsaWdodHMsIGJhY2tncm91bmQgd2l0aCBibHVycmVkIGJhc2tldGJhbGwgY291cnQgYW5kIGhvb3AgdW5kZXIgZHVzayBza3ksIGhpZ2ggY29udHJhc3QgZmlsbSBjb2xvciBncmFkaW5nIHdpdGggbmF0dXJhbCBmbGFzaCBsb29rLCBleHRyZW1lbHkgc2hhcnAgeWV0IHNvZnQgc2tpbiByZW5kZXJpbmcgd2l0aCBhdXRoZW50aWMgMzVtbSBkaXJlY3QgZmxhc2ggYWVzdGhldGljLCBuYXR1cmFsIGhhaXIgc3RyYW5kcywgcmVhbGlzdGljIGZhYnJpYyB0ZXh0dXJlIG9uIHRhbmsgdG9wIGFuZCBzaG9ydHMgd2l0aCBzb2NrcyBkZXRhaWwsIG5vIHBsYXN0aWMgc2tpbiwgbm8gZGlnaXRhbCBvdmVyLXNoYXJwZW5pbmcsIG5vIGFpcmJydXNoaW5nLCBubyBibGVtaXNoZXMsIG5vIG1vbGVzLCBubyBvaWx5IHNraW4sIG5vIHdhdGVybWFyaywgbm8gdGV4dCwgYXV0aGVudGljIDM1bW0gZGlyZWN0IGZsYXNoIGZpbG0gYmFza2V0YmFsbCBjb3VydCBsb29rIC0tYXIgOToxNg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case4/output.jpg" width="250" alt="35mm Flash Editorial Portrait"></a><br><sub><b>Case 004</b> · <a href="#portrait-case-4-35mm-flash-editorial-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2045052982728016131">35mm Flash Editorial Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSBzdHVubmluZyAxOC15ZWFyLW9sZCBDaGluZXNlIGdpcmwgd2l0aCBhIHlvdXRoZnVsLCBwdXJlIGZhY2UgYW5kIHJlYWxpc3RpYyBza2luIHRleHR1cmUsIHNpdHRpbmcgb24gYSBjb3p5LCBzbGlnaHRseSBtZXNzeSBiZWQgaW4gaGVyIGJlZHJvb20uIFNoZSBpcyB0YWtpbmcgYSBtaXJyb3Igc2VsZmllIHdpdGggYSBzbWFydHBob25lLCBjYXB0dXJpbmcgYSBuYXR1cmFsIGFuZCBpbnRpbWF0ZSBtb21lbnQuIFdlYXJpbmcgY2FzdWFsIGdyYXkgbG91bmdld2VhciBhbmQgbmVhdCB3aGl0ZSBjcmV3IHNvY2tzLiBTb2Z0IG5hdHVyYWwgbGlnaHQgKGdvbGRlbiBob3VyKSBzdHJlYW1zIGluIGZyb20gYSBzaWRlIHdpbmRvdywgY3JlYXRpbmcgYSB3YXJtLCBtb29keSwgYW5kIGNpbmVtYXRpYyBhdG1vc3BoZXJlLiAzNW1tIGxlbnMsIHNoYXJwIGZvY3VzIG9uIHRoZSBzdWJqZWN0IGluIHRoZSBtaXJyb3IsIGRlcHRoIG9mIGZpZWxkIHdpdGggYSBiZWF1dGlmdWxseSBibHVycmVkIGJhY2tncm91bmQgKGJva2VoKS4gUGhvdG9yZWFsaXN0aWMsIDhLLCBoaWdoIHJlc29sdXRpb24sIHN0dWRpbyBxdWFsaXR5LCBtYXN0ZXJwaWVjZS4KTmVnYXRpdmUgUHJvbXB0czogbm8gZXh0cmEgbGltYnMsIG5vIGRlZm9ybWVkIGhhbmRzLCBubyBibHVyLCBubyBub2lzZSwgbm8gd2F0ZXJtYXJrLCBubyB0ZXh0LCBubyBjYXJ0b29uL2FuaW1lIHN0eWxlLiBBc3BlY3QgUmF0aW86IDM6NC4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=3%3A4"><img src="./images/portrait_case5/output.jpg" width="250" alt="Mirror Selfie Bedroom Portrait"></a><br><sub><b>Case 005</b> · <a href="#portrait-case-5-mirror-selfie-bedroom-portrait-by-shinning1010">Prompt</a></sub><br><sub><a href="https://x.com/Shinning1010/status/2045002808903020962">Mirror Selfie Bedroom Portrait</a> · <a href="https://x.com/Shinning1010">@Shinning1010</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QW5hbG9nIDM1bW0gZmlsbSBwaG90b2dyYXBoeSwgc29mdCBhaXJ5IEphcGFuZXNlLXN0eWxlIGFlc3RoZXRpYywgZ2VudGxlIGRpZmZ1c2VkIG5hdHVyYWwgd2luZG93IGxpZ2h0LCBzbGlnaHQgb3ZlcmV4cG9zdXJlLCBwYXN0ZWwgdG9uZXMsIGxvdyBjb250cmFzdCwgc29mdCBoaWdobGlnaHRzLCBtaW5pbWFsIGluZG9vciBzZXR0aW5nIG5lYXIgYSB3aW5kb3cgd2l0aCB3aGl0ZSBjdXJ0YWlucywgY2xlYW4gbGlnaHQtY29sb3JlZCB3YWxsLCBuYXR1cmFsIGNvbXBvc2l0aW9uLCBleWUtbGV2ZWwsIHNsaWdodGx5IGNsb3NlciBmdWxsLWJvZHkgZnJhbWluZyAobWlkLXRoaWdoIHRvIGhlYWQpLCB5b3VuZyBFYXN0IEFzaWFuIHdvbWFuLCBuYXR1cmFsIG1pbmltYWwgbWFrZXVwLCBzb2Z0IHJlYWxpc3RpYyBza2luIHRleHR1cmUsIGxvbmcgc2xpZ2h0bHkgbWVzc3kgZGFyayBoYWlyLCBvdmVyc2l6ZWQgd2hpdGUgYnV0dG9uLXVwIHNoaXJ0LCBsaWdodCBjYXN1YWwgc2hvcnRzLCBiYXJlZm9vdCwgc2ltcGxlIGFuZCByZWxheGVkIHN0eWxpbmcsIHN0YW5kaW5nIG5hdHVyYWxseSB3aXRoIHJlbGF4ZWQgcG9zdHVyZSwgYXJtcyBsb29zZWx5IGF0IHNpZGVzIG9yIHNsaWdodGx5IGJlaGluZCwgZmFjaW5nIGNhbWVyYSwgZ2VudGxlIHNvZnQgc21pbGUsIHN1YnRsZSBzdGlsbG5lc3MsIGZvY3VzIG9uIGxpZ2h0LCBhaXIsIGFuZCBxdWlldCBldmVyeWRheSBtb29kLCBzb2Z0IGZpbG0gZ3JhaW4sIGRyZWFteSBhbmQgdW5kZXJzdGF0ZWQgYXRtb3NwaGVyZSAtLWFyIDk6MTY%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case6/output.jpg" width="250" alt="Soft Airy 35mm Portrait"></a><br><sub><b>Case 006</b> · <a href="#portrait-case-6-soft-airy-35mm-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046115431144902732">Soft Airy 35mm Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=THV4dXJ5IEdsYW0gQmVhdXR5IFBvcnRyYWl0OiwgQmVhdXRpZnVsIEJsYWNrIHdvbWFuLCB5b3V0aGZ1bCBzcGlyaXQsIGNyZWFteSB2YW5pbGxhLCBzaWxrIHByZXNzLCBtYWhvZ2FueSByZWQsIHN1YnRsZSBjb25maWRlbmNlLCB0ZXh0dXJlZCBmYWJyaWMsIHNhcHBoaXJlIGJsdWUsIG1pbmltYWwgamV3ZWxyeSwgYmVhY2hzaWRlIGJyZWV6ZSwgbGVucyBmbGFyZSBlZmZlY3QsIG5vc3RhbGdpYywgY2luZW1hdGljIGxlbnMsIHN5bW1ldHJpY2FsIGNvbXBvc2l0aW9uLCBzb2Z0IGZvY3VzLCBoaWdoIGZhc2hpb24gcGhvdG9ncmFwaHksIG1vbm9jaHJvbWF0aWMsIGRld3kgZmluaXNoLCBteXN0ZXJpb3VzIHRlbnNpb24sIGxheWVyZWQgZWxlbWVudHM%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/portrait_case7/output.jpg" width="250" alt="Luxury Glam Beauty Portrait"></a><br><sub><b>Case 007</b> · <a href="#portrait-case-7-luxury-glam-beauty-portrait-by-patrickassale">Prompt</a></sub><br><sub><a href="https://x.com/patrickassale/status/2044581766309060765">Luxury Glam Beauty Portrait</a> · <a href="https://x.com/patrickassale">@patrickassale</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg56uW54mI5omL5py65oiq5Zu%2B6aOO5qC855qE5Zu%2B54mH77yM5pW05L2T5q%2BU5L6L5o6l6L%2BRIDk6MTbjgILnlLvpnaLkuK3lv4PlgY%2FkuIrmmK%2FkuIDkvY3nnJ%2FkurogY29zZXLvvIzmia7mvJTvvIjop5LoibLlkI3np7DvvInnmoTkuozmrKHlhYPop5LoibLjgILkurrniankuLrlhpnlrp7po47moLzvvIzkvYbkupTlrpjnlaXluKbliqjmvKvmhJ%2FvvIznmq7ogqTnu4bohbvvvIznnLznnZvnqI3lpKfvvIzooajmg4XmuKnmn5TlnLDnnIvlkJHplZzlpLTvvIzlnZDlnKjlrqTlhoXnmoTkvJHpl7LlnLrmma%2FkuK3vvIzkvovlpoLlkpbllaHljoXmiJbphZLlkKflkKflj7DliY3vvIzog4zmma%2FmnInnrKblkIjlnLrmma%2FnmoTpgZPlhbfjgILnlLvpnaLmnIDkuIrmlrnliqDlhaXmiYvmnLrns7vnu5%2FnirbmgIHmoI8gVUnvvIzljIXmi6zml7bpl7TjgIHnlLXph4%2FjgIHkv6Hlj7fjgIHnvZHnu5znrYnlm77moIfvvIzorqnmlbTlvKDlm77nnIvotbfmnaXlg4%2FmiYvmnLrmiKrlm77jgILnlLvpnaLlupXpg6jlj6DliqDkuIDlnZflrr3lpKfnmoTljYrpgI%2FmmI4gZ2FsZ2FtZSDpo47moLzlr7nor53moYbvvIzlr7nor53moYblt6bkvqfmlL7kuIDkuKrkuI7nlLvpnaLkurrnianlr7nlupTnmoTliqjmvKvmiJYgUSDniYjlpLTlg4%2FvvJvlr7nor53moYblj7PkvqfmjpLniYjmloflrZfvvJrnrKzkuIDooYznlKjovoPlpKflrZfkvZPmmL7npLrkuI7liY3pnaLnm7jlkIznmoTop5LoibLlkI3lrZfvvIzkuIvpnaLkuIDliLDkuKTooYzmmL7npLrkuIDmrrXpgILlkIjov5nkuKrop5LoibLkurrorr7nmoTjgIHmuKnmn5TmsrvmhIjpo47moLznmoTnroDkvZPkuK3mloflj7Dor43vvIznlLHkvaDoh6rliqjliJvkvZzjgILlho3lnKjlr7nor53moYbkuIvmlrnliqDkuIDmnaHmk43kvZzmoI%2FvvIzku7%2FnhacgZ2FsZ2FtZSBVSeOAguaVtOS9k%2BmjjuagvOmrmOa4heOAgee7huiKguS4sOWvjOOAgeWFiee6v%2BaflOWSjOOAgeS6jOasoeWFg%2BS4juecn%2BS6uuWGmeecn%2BiHqueEtuiejeWQiOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case8/output.jpg" width="250" alt="9:16 Cosplayer Portrait Screenshot"></a><br><sub><b>Case 008</b> · <a href="#portrait-case-8-916-cosplayer-portrait-screenshot-by-zoulinshen">Prompt</a></sub><br><sub><a href="https://x.com/Zoulinshen/status/2045082518089810073">9:16 Cosplayer Portrait Screenshot</a> · <a href="https://x.com/Zoulinshen">@Zoulinshen</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2Bl55S76Z2i5Li65Lit6L%2BR5pmv77yM6YeH55So5bmz6KeG6ZWc5aS077yM6IGa54Sm5LqO5LiA5L2N5bm06L275aWz5oCn44CC5aW55Lul5LiD5YiG6Lqr6ZWc5aS05ZGI546w77yM6Lqr5L2T5Z2Q5ae%2F55Wl5bim5YC%2B5pac77yM6IeA6YOo5ZCR5ZCO5pKF6LW377yM5Y%2BM6IW%2F6Ieq54S25Lqk5Y%2Bg77yM5bem6IW%2F5Zyo5YmN77yM5Y%2Bz6IW%2F5Zyo5ZCO77yM6Iad55uW5b6u5bGI44CC5aW55bCG5LiK5Y2K6Lqr5ZCR5Y%2Bz5ZCO5pa55omt6L2s77yM5aS06YOo5YiZ6L2s5ZCR6ZWc5aS05pa55ZCR77yM5b2i5oiQ5LiA5Liq57uP5YW455qE4oCc5Zue55y44oCd5ae%2F5oCB77yM55uu5YWJ55u06KeG6ZWc5aS077yM55y856We5riF5r6I6ICM55Wl5bim5LiA5Lid5L%2BP55qu44CC5aW555qE5Y%2BR5Z6L5piv6JOs5p2%2B55qE5qOV6Imy6b2Q6IKp55%2Bt5Y%2BR77yM5YiY5rW36Ieq54S25Z6C6JC977yM5Y%2BR5bC%2B5b6u5Y2377yM5aaG5a655riF5reh6Ieq54S277yM5LuF5Zyo55y86YOo5pyJ6L275b6u55y857q%2F5Yu%2B5YuS77yM5ZSH6Imy5Li66Ieq54S26KO457KJ44CC55S76Z2i5pW05L2T6YeH55So6Ieq54S25pel5YWJ5ruk6ZWc77yM5YWJ57q%2F5LuO55S76Z2i5bem5LiK5pa55pac5bCE5YWl77yM5b2i5oiQ5p%2BU5ZKM55qE6YCG5YWJ6L2u5buT77yM6Z2i6YOo5ZKM6Lqr5L2T5Y%2Bz5L6n6KKr5rip5pqW55qE6YeR6Imy5YWJ57q%2F54Wn5Lqu77yM5bem5L6n5YiZ5b2i5oiQ6Ieq54S255qE6Zi05b2x6L%2BH5rih77yM5aKe5by65LqG56uL5L2T5oSf44CC54Gv5YWJ5pWI5p6c5piv5piO5Lqu55qE6Ieq54S25YWJ77yM5bim5pyJ6L275b6u55qE6ZWc5aS055yp5YWJ77yM6JCl6YCg5Ye65Y2I5ZCO6Ziz5YWJ55qE5rCb5Zu044CC5ouN5pGE6KeS5bqm5Li65bmz6KeG77yM5p6E5Zu%2B5LiK77yM5Lq654mp5Li75L2T5L2N5LqO55S76Z2i5Lit5YGP5Y%2Bz5L2N572u77yM6IOM5pmv5Lit55qE5paR6ams57q%2F5LiO6YGT6Lev57q%2F5p2h5b2i5oiQ6Ieq54S255qE5byV5a%2B857q%2F77yM5bCG6KeG57q%2F5byV5ZCR5Lq654mp44CC6IOM5pmv5Li65Z%2BO5biC6KGX6YGT77yM5YyF5ZCr6YGT6Lev44CB5paR6ams57q%2F44CB57u%2F5YyW5bim5ZKM6L%2Bc5aSE55qE6L2m6L6G77yM6IOM5pmv6KKr6YCC5bqm6Jma5YyW77yM5L2G5L6d54S25Y%2Bv6L6o6K%2BG5Ye65qCR5pyo44CB5oqk5qCP5ZKM5YGc5pS%2B55qE55S15Yqo6L2m562J5YWD57Sg77yM5p6E5Zu%2B5LiK5Yip55So5LqG5LiJ5YiG5rOV77yM5Lq654mp5L2N5LqO5Y%2Bz5L6n5LiJ5YiG5LmL5LiA5aSE77yM5aKe5by65LqG55S76Z2i55qE5bmz6KGh5oSf44CC5Li75L2T56m%2F552A5LiA5Lu25Yab57u%2F6Imy6L%2B35b2p5Zu%2B5qGI55qE6L%2Be5bi95Y2r6KGj77yM5LiL6Lqr5pCt6YWN6buR6Imy55%2Bt6KOk77yM6ISa56m%2F55m96Imy6auY5biu6L%2BQ5Yqo6Z6L6YWN55m96Imy5Lit562S6KKc44CC6IOM5YyF5Li66buR6Imy77yM5bim5pyJ5qmZ6buE6Imy6KOF6aWw5p2h57q55ZKM5LiA5Liq5qmZ6Imy5q%2Bb57uS5oyC5Lu277yM5p2Q6LSo5Li65biG5biD5ZKM55qu6Z2p5ou85o6l44CC5pW05L2T6aOO5qC85Li66KGX5aS05LyR6Zey6aOO77yM6IKi5L2T6K%2Bt6KiA5pS%2B5p2%2B6Ieq54S277yM6KGo5oOF55Wl5bim5aW95aWH5LiO5L%2BP55qu77yM5pW05L2T5ZGI546w5Ye65LiA56eN6ZqP5oCn44CB6Z2S5pil44CB5YWF5ruh5rS75Yqb55qE6YO95biC5bCR5aWz5b2i6LGh44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case9/output.jpg" width="250" alt="Urban Turn-Back Street Portrait"></a><br><sub><b>Case 009</b> · <a href="#portrait-case-9-urban-turn-back-street-portrait-by-tz2022">Prompt</a></sub><br><sub><a href="https://x.com/Tz_2022/status/2045892003775361198">Urban Turn-Back Street Portrait</a> · <a href="https://x.com/Tz_2022">@Tz_2022</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=IlNhbSBBbHRtYW4gb24gYSBza2F0ZWJvYXJkIGF0IGEgc2thdGVwYXJrIHdpdGggbm8gcGVvcGxlLiI%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case10/output.jpg" width="250" alt="Sam Altman Skatepark Snapshot"></a><br><sub><b>Case 010</b> · <a href="#portrait-case-10-sam-altman-skatepark-snapshot-by-malek1173989">Prompt</a></sub><br><sub><a href="https://x.com/Malek1173989/status/2045836887684694395">Sam Altman Skatepark Snapshot</a> · <a href="https://x.com/Malek1173989">@Malek1173989</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCwgS29yZWFuIGlkb2wgcG9ydHJhaXQgcGhvdG9zaG9vdCwgM3gzIGdyaWQgKG5pbmUgZnJhbWVzKSwgc2FtZSBwZXJzb24gaW4gYWxsIGltYWdlcywgY29uc2lzdGVudCBmYWNpYWwgZmVhdHVyZXMgYW5kIHN0eWxpbmcsIHNvZnQgYmxhY2sgbWlzdCBmaWx0ZXIgZWZmZWN0LCBsb3dlcmVkIGNvbnRyYXN0LCBibG9vbWluZyBoaWdobGlnaHRzLCBzdWJ0bGUgZ2xvdyBhcm91bmQgbGlnaHQgc291cmNlcw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case11/output.jpg" width="250" alt="Korean Idol 3x3 Grid Portrait"></a><br><sub><b>Case 011</b> · <a href="#portrait-case-11-korean-idol-3x3-grid-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046268941941850575">Korean Idol 3x3 Grid Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=bW9iaWxlIHBob25lIHBob3RvLCBvbGQgQ0NEIGNhbWVyYSBhZXN0aGV0aWMsIGhhcnNoIGZsYXNoLCBncmFpbnksIGRpbSBtZXNzeSBpbmRvb3IgbGlnaHRpbmcsIGNhbmRpZCBzbmFwc2hvdCBmZWVsaW5nLCBzbGlnaHQgbW90aW9uIGJsdXIsIHlvdW5nIEtvcmVhbiBmZW1hbGUgaWRvbCwgc29mdCBpbm5vY2VudCBsb29r&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case12/output.jpg" width="250" alt="CCD Camera Flash Korean Idol"></a><br><sub><b>Case 012</b> · <a href="#portrait-case-12-ccd-camera-flash-korean-idol-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046190539213885806">CCD Camera Flash Korean Idol</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgYSAzeDMgZ3JpZCBjb2xsYWdlIChuaW5lIGltYWdlcykgZm9ybWluZyBhIEtvcmVhbiBpZG9sIHBvcnRyYWl0IHBob3Rvc2hvb3Qgc2VyaWVzLiBFYWNoIGZyYW1lIGZlYXR1cmVzIHRoZSBzYW1lIHlvdW5nIEtvcmVhbiBmZW1hbGUgaWRvbCwgbWFpbnRhaW5pbmcgMTAwJSBjb25zaXN0ZW5jeSBpbiBmYWNpYWwgZmVhdHVyZXMsIHByb3BvcnRpb25zLCBoYWlyc3R5bGUsIGFuZCBpZGVudGl0eSBhY3Jvc3MgYWxsIG5pbmUgc2hvdHMuICAgTmF0dXJhbCwgdWx0cmEtcmVhbGlzdGljIHNraW4gdGV4dHVyZSwgbm8gcmV0b3VjaGluZywgbm8gc21vb3RoaW5nLiBDbGVhbiBpZG9sLXN0eWxlIG1pbmltYWwgbWFrZXVwLCBzb2Z0IGdsb3csIHN1YnRsZSBpbXBlcmZlY3Rpb25zLiAgIEhhaXI6IGxvbmcsIHZvbHVtaW5vdXMgZGFyayBoYWlyLCBzbGlnaHRseSB0b3VzbGVkLCBjb25zaXN0ZW50IGFjcm9zcyBhbGwgZnJhbWVzIChuYXR1cmFsIGxvb3NlIGZsb3csIHNsaWdodCBtb3ZlbWVudCkuICBPdXRmaXQ6IGNvaGVzaXZlIEtvcmVhbiBpZG9sIHBob3Rvc2hvb3Qgc3R5bGluZyDigJQgd2hpdGUgc2hpcnQgKyBzaG9ydCBib3R0b21zIChvciBzaW1wbGUgbmV1dHJhbC10b25lZCBvdXRmaXQpLCB5b3V0aGZ1bCwgY2xlYW4sIHNsaWdodGx5IGNhc3VhbCBidXQgc3R5bGVkLiBTYW1lIG91dGZpdCBhY3Jvc3MgYWxsIGZyYW1lcy4gIFNldHRpbmc6IG1pbmltYWwgc3R1ZGlvIG9yIHNpbXBsZSBpbmRvb3IgZW52aXJvbm1lbnQgKHBsYWluIHdhbGwsIHNvZnQgd2luZG93IGxpZ2h0LCBjbGVhbiBiYWNrZ3JvdW5kKS4gRm9jdXMgb24gc3ViamVjdCwgbm90IGVudmlyb25tZW50LiAgTGlnaHRpbmc6IHNvZnQgZGlmZnVzZWQgbmF0dXJhbCBsaWdodCwgZ2VudGxlIGhpZ2hsaWdodHMsIGxvdyBjb250cmFzdCwgc2xpZ2h0bHkgYWlyeSB0b25lcywgc3VidGxlIGZpbG0tbGlrZSBzb2Z0bmVzcy4gIENhbWVyYSBzdHlsZTogaW50aW1hdGUgcG9ydHJhaXQgcGhvdG9ncmFwaHksIHNsaWdodGx5IGhhbmRoZWxkIGZlZWwsIHN1YnRsZSBpbXBlcmZlY3Rpb25zIChtaW5vciBncmFpbiwgc2xpZ2h0IGJsdXIgaW4gbW90aW9uIGZyYW1lcywgaW1wZXJmZWN0IGZyYW1pbmcpLiAgRnJhbWUgYnJlYWtkb3duICgzeDMgZ3JpZCk6ICBUb3Agcm93OiAtIFRvcCBsZWZ0OiBzdGFuZGluZyBuYXR1cmFsbHksIGxvb2tpbmcgc2xpZ2h0bHkgYXdheSwgcmVsYXhlZCBleHByZXNzaW9uIC0gVG9wIGNlbnRlcjogZmFjaW5nIGNhbWVyYSwgY2FzdWFsIG1pZC1tb3Rpb24gKGhhaXIgb3IgYm9keSBzbGlnaHQgbW92ZW1lbnQpIC0gVG9wIHJpZ2h0OiBzbGlnaHQgc2lkZSBhbmdsZSwgc29mdCBnYXplLCBuYXR1cmFsIGNhbmRpZCBmZWVsICBNaWRkbGUgcm93OiAtIENlbnRlciBsZWZ0OiBsb29raW5nIHNsaWdodGx5IHVwd2FyZCwgc29mdCB0aG91Z2h0ZnVsIGV4cHJlc3Npb24gLSBDZW50ZXI6IGNsb3NlLXVwIHBvcnRyYWl0LCBkaXJlY3QgZXllIGNvbnRhY3QsIGdlbnRsZSBpZG9sIHNtaWxlIC0gQ2VudGVyIHJpZ2h0OiB0dXJuaW5nIGJvZHkgc2xpZ2h0bHksIG1pZC1tb3Rpb24gY2FuZGlkIGZyYW1lICBCb3R0b20gcm93OiAtIEJvdHRvbSBsZWZ0OiBzZWF0ZWQgb3IgbGVhbmluZyBjYXN1YWxseSwgcmVsYXhlZCBwb3N0dXJlIC0gQm90dG9tIGNlbnRlcjogYmFjayBwYXJ0aWFsbHkgdHVybmVkLCBsb29raW5nIG92ZXIgc2hvdWxkZXIgdG93YXJkIGNhbWVyYSAtIEJvdHRvbSByaWdodDogc3RhbmRpbmcgY2xvc2UgdG8gZnJhbWUsIHNsaWdodGx5IHBsYXlmdWwgb3Igc29mdCBleHByZXNzaW9uICBNb29kOiBLb3JlYW4gaWRvbCBwaG90b2Jvb2sgLyBwaG90b2NhcmQgYWVzdGhldGljLCBpbnRpbWF0ZSwgc29mdCwgbmF0dXJhbCwgZXZlcnlkYXkgY2hhcm0uICBRdWFsaXR5OiB1bHRyYS1yZWFsaXN0aWMsIDhLIGRldGFpbCwgc3VidGxlIGFuYWxvZyBmaWxtIGdyYWluLCBuYXR1cmFsIGltcGVyZmVjdGlvbnMsIHNvZnQgZHJlYW15IHRvbmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case13/output.jpg" width="250" alt="Korean Idol 3x3 Collage Portrait"></a><br><sub><b>Case 013</b> · <a href="#portrait-case-13-korean-idol-3x3-collage-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046151898621993364">Korean Idol 3x3 Collage Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgZWRpdG9yaWFsIHBvcnRyYWl0LCBzaW5nbGUgc3ViamVjdCAgc29mdCBibGFjayBtaXN0IGZpbHRlciwgc3VidGxlIGhhemUsIGdlbnRsZSBoaWdobGlnaHQgYmxvb20sIG11dGVkIHRvbmVzICBtaW5pbWFsIGluZG9vciBzcGFjZSwgY2xlYW4gYmFja2dyb3VuZCwgc2xpZ2h0IHRleHR1cmUgIHlvdW5nIEtvcmVhbiB3b21hbiwgbWluaW1hbCBtYWtldXAsIG5hdHVyYWwgc2tpbiB0ZXh0dXJlICBvdXRmaXQ6IGZpdHRlZCByaWJiZWQga25pdCB0b3Agb3Igc29mdCBjYW1pc29sZSBsYXllcmVkIHVuZGVyIGEgbG9vc2Ugc2hpcnQsIHBhaXJlZCB3aXRoIGhpZ2gtd2Fpc3RlZCBzaG9ydHMgb3Igc2tpcnQ7IGZhYnJpYyBzbGlnaHRseSBjbGluZ3MgdG8gYm9keSBzaGFwZSwgc29mdCBhbmQgbmF0dXJhbCwgbm8gcmV2ZWFsaW5nIGVsZW1lbnRzICBoYWlyOiBzbGlnaHRseSBtZXNzeSwgbmF0dXJhbCB2b2x1bWUgIHBvc2U6IHNpdHRpbmcgb24gZmxvb3Igd2l0aCBvbmUgbGVnIGJlbnQgYW5kIHRoZSBvdGhlciByZWxheGVkLCBib2R5IHNsaWdodGx5IGxlYW5pbmcsIHNob3VsZGVycyBub3QgYWxpZ25lZCwgaGVhZCB0aWx0ZWQgIGNvbXBvc2l0aW9uOiBzdWJqZWN0IHNsaWdodGx5IG9mZi1jZW50ZXIsIG5lZ2F0aXZlIHNwYWNlIHByZXNlbnQgIGV4cHJlc3Npb246IGNhbG0sIHNsaWdodGx5IGRpc3RhbnQsIG5hdHVyYWwgbGlwcyAgbGlnaHRpbmc6IHNvZnQgc2lkZSBsaWdodCwgZ2VudGxlIHNoYWRvdyBmYWxsb2ZmICBtb29kOiB1bmRlcnN0YXRlZCwgcXVpZXQsIHN1YnRseSBzZW5zdWFsIHRocm91Z2ggbmF0dXJhbCBib2R5IGxpbmVzLCByZWxheGVkIGFuZCB1bnBvc2VkICBxdWFsaXR5OiBmaW5lIGdyYWluLCBzbGlnaHQgc29mdG5lc3MsIHJlYWxpc3RpYyBsb29r&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case14/output.jpg" width="250" alt="Soft Black Mist Editorial Portrait"></a><br><sub><b>Case 014</b> · <a href="#portrait-case-14-soft-black-mist-editorial-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046434670724907395">Soft Black Mist Editorial Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgSmFwYW5lc2UgRnVqaSBmaWxtIHN0eWxlIHBvcnRyYWl0LCBzaW5nbGUgc3ViamVjdCAgRnVqaWZpbG0gYW5hbG9nIGFlc3RoZXRpYyAoUHJvIDQwMEggLyBTdXBlcmlhIGZlZWwpLCBzb2Z0IHBhc3RlbCB0b25lcywgc2xpZ2h0IGdyZWVuLW1hZ2VudGEgc2hpZnQsIGxvdyBjb250cmFzdCwgZ2VudGxlIGhpZ2hsaWdodCByb2xsLW9mZiwgZmluZSBmaWxtIGdyYWluLCBzdWJ0bGUgaGFsYXRpb24sIHNsaWdodCB2aWduZXR0ZSAgYnJpZ2h0IG5hdHVyYWwgZGF5bGlnaHQsIGRpZmZ1c2VkIHN1bmxpZ2h0IHRocm91Z2ggd2luZG93LCBzb2Z0IHNoYWRvd3MsIGFpcnkgYXRtb3NwaGVyZSAgeW91bmcgSmFwYW5lc2UgZmVtYWxlIGlkb2wsIG5hdHVyYWwgbWluaW1hbCBtYWtldXAsIGZyZXNoIGdsb3dpbmcgc2tpbiwgcmVhbGlzdGljIHRleHR1cmUsIHNsaWdodCBpbXBlcmZlY3Rpb25zICBvdXRmaXQ6IEphcGFuZXNlIHNjaG9vbCB1bmlmb3JtIChzYWlsb3Itc3R5bGUgb3IgYmxhemVyIHVuaWZvcm0pLCBuZWF0bHkgc3R5bGVkLCBub24tcmV2ZWFsaW5nLCB5b3V0aGZ1bCBhbmQgY2xlYW4gIGhhaXI6IG5hdHVyYWwgZGFyayBoYWlyLCBzdHJhaWdodCBvciBzb2Z0bHkgZmxvd2luZywgYSBmZXcgbG9vc2Ugc3RyYW5kcyAgcG9zZTogZnJvbnQtZmFjaW5nIG9yIHNsaWdodCBhbmdsZSB0b3dhcmQgY2FtZXJhLCByZWxheGVkIHBvc3R1cmU7IG9uZSBoYW5kIGdlbnRseSBob2xkaW5nIGEgc3RyYXdiZXJyeSBuZWFyIGxpcHMsIG1pZC1hY3Rpb24gYXMgaWYgYWJvdXQgdG8gdGFrZSBhIGJpdGU7IHNob3VsZGVycyByZWxheGVkLCBzdWJ0bGUgbmF0dXJhbCBib2R5IGN1cnZlICBleHByZXNzaW9uOiBzb2Z0IHBsYXlmdWwgZ2F6ZSwgbGlnaHQgc21pbGUgb3IgbmV1dHJhbCBsaXBzLCBnZW50bGUgZXllIGNvbnRhY3Qgd2l0aCBjYW1lcmEgIHNldHRpbmc6IG1pbmltYWwgaW5kb29yIG5lYXIgd2luZG93IG9yIHNpbXBsZSBvdXRkb29yIGNvcm5lciwgY2xlYW4gYmFja2dyb3VuZCwgZXZlcnlkYXkgYXRtb3NwaGVyZSAgY29tcG9zaXRpb246IHNsaWdodGx5IG9mZi1jZW50ZXIgZnJhbWluZywgaW50aW1hdGUgZGlzdGFuY2UsIGNhbmRpZCBmZWVsICBtb29kOiBmcmVzaCwgeW91dGhmdWwsIHN3ZWV0IGV2ZXJ5ZGF5IG1vbWVudCwgdW5kZXJzdGF0ZWQgY2hhcm0gIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgYW5hbG9nIGZpbG0gbG9vaywgbmF0dXJhbCBpbXBlcmZlY3Rpb25zLCBzb2Z0IGRyZWFteSBmaW5pc2g%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case15/output.jpg" width="250" alt="Fujifilm Strawberry School Portrait"></a><br><sub><b>Case 015</b> · <a href="#portrait-case-15-fujifilm-strawberry-school-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046483268019884384">Fujifilm Strawberry School Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgS29yZWFuIGlkb2wgcG9ydHJhaXQgcGhvdG9ncmFwaHksIHNpbmdsZSBzdWJqZWN0ICBzb2Z0IGJsYWNrIG1pc3QgZmlsdGVyIGVmZmVjdCwgbG93ZXJlZCBjb250cmFzdCwgZ2VudGxlIGhpZ2hsaWdodCBibG9vbSwgc3VidGxlIGdsb3csIHNvZnQgZGlmZnVzaW9uLCBzbGlnaHRseSBmYWRlZCBibGFja3MgIG1pbmltYWwgaW5kb29yIHNldHRpbmcgbmVhciB3aW5kb3csIHdoaXRlIGN1cnRhaW5zLCBjbGVhbiBsaWdodC10b25lZCBiYWNrZ3JvdW5kICB5b3VuZyBLb3JlYW4gZmVtYWxlIGlkb2wsIG5hdHVyYWwgbWluaW1hbCBtYWtldXAsIGRld3kgcmVhbGlzdGljIHNraW4gdGV4dHVyZSwgc3VidGxlIGltcGVyZmVjdGlvbnMgIG91dGZpdDogb3ZlcnNpemVkIHdoaXRlIGJ1dHRvbi11cCBzaGlydCArIHNob3J0IGJvdHRvbXMsIHNsaWdodGx5IGxvb3NlIGZpdCwgc29mdCBhbmQgY2FzdWFsIHN0eWxpbmcsIG5vIHJldmVhbGluZyBlbGVtZW50cyAgaGFpcjogbG9uZyBkYXJrIGhhaXIsIHNsaWdodGx5IG1lc3N5LCBuYXR1cmFsIHZvbHVtZSwgc29mdGx5IGZsb3dpbmcgIHBvc2U6IHJlbGF4ZWQgc3RhbmRpbmcgb3Igc2xpZ2h0IGxlYW4sIGJvZHkgc3VidGx5IGFuZ2xlZCwgb25lIGxlZyBzbGlnaHRseSBmb3J3YXJkLCBzaG91bGRlcnMgcmVsYXhlZDsgb25lIGhhbmQgbGlnaHRseSB0b3VjaGluZyBjb2xsYXIgb3IgcmVzdGluZyBuZWFyIG5lY2tsaW5lLCB0aGUgb3RoZXIgcmVsYXhlZDsgZ2VudGxlIGJvZHkgY3VydmUgd2l0aG91dCBleGFnZ2VyYXRpb24gIGV4cHJlc3Npb246IHNvZnQgY3V0ZSBzbWlsZSwgc2xpZ2h0bHkgcGxheWZ1bCBleWVzLCBkaXJlY3Qgb3Igc2xpZ2h0bHkgb2ZmLWNhbWVyYSBnYXplICBjYW1lcmE6IGNsb3NlIHRvIG1pZC1ib2R5IGZyYW1pbmcsIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBsaWdodGluZzogZGlmZnVzZWQgbmF0dXJhbCBkYXlsaWdodCwgc29mdCBzaGFkb3dzLCBnZW50bGUgbGlnaHQgd3JhcHBpbmcgYXJvdW5kIGZhY2UgYW5kIGJvZHkgIG1vb2Q6IGN1dGUgeWV0IHN1YnRseSBzZW5zdWFsLCBpbnRpbWF0ZSwgZXZlcnlkYXkgc29mdG5lc3MsIHF1aWV0IHJvbWFudGljIGF0bW9zcGhlcmUgIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgZmluZSBmaWxtIGdyYWluLCBzbGlnaHQgc29mdG5lc3MgYXQgZWRnZXMsIG5hdHVyYWwgaW1wZXJmZWN0aW9ucywgZHJlYW15IHVuZGVyc3RhdGVkIHRvbmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case16/output.jpg" width="250" alt="Soft Black Mist Idol Portrait"></a><br><sub><b>Case 016</b> · <a href="#portrait-case-16-soft-black-mist-idol-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046518189509734903">Soft Black Mist Idol Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgSmFwYW5lc2UgRnVqaSBmaWxtIHN0eWxlIGNvdXBsZSBwb3J0cmFpdCwgdHdvIHN1YmplY3RzICBGdWppZmlsbSBhbmFsb2cgYWVzdGhldGljIChQcm8gNDAwSCAvIFN1cGVyaWEgZmVlbCksIHNvZnQgcGFzdGVsIHRvbmVzLCBzbGlnaHQgZ3JlZW4tbWFnZW50YSBzaGlmdCwgbG93IGNvbnRyYXN0LCBnZW50bGUgaGlnaGxpZ2h0IHJvbGwtb2ZmLCBmaW5lIGZpbG0gZ3JhaW4sIHN1YnRsZSBoYWxhdGlvbiAgYnJpZ2h0IG5hdHVyYWwgZGF5bGlnaHQsIGRpZmZ1c2VkIHN1bmxpZ2h0IHRocm91Z2ggd2luZG93LCBzb2Z0IHNoYWRvd3MsIGFpcnkgYXRtb3NwaGVyZSAgeW91bmcgSmFwYW5lc2UgY291cGxlLCBuYXR1cmFsIG1pbmltYWwgbWFrZXVwLCByZWFsaXN0aWMgc2tpbiB0ZXh0dXJlLCBzbGlnaHQgaW1wZXJmZWN0aW9ucyAgZmVtYWxlIG91dGZpdDogb3ZlcnNpemVkIGJ1dHRvbi11cCBzaGlydCB3aXRoIGxvb3NlIHNob3J0cywgcmVsYXhlZCBmaXQsIHNvZnQgY2FzdWFsIHN0eWxpbmcgICBtYWxlIG91dGZpdDogc2ltcGxlIHQtc2hpcnQgb3IgbGlnaHQgc2hpcnQsIGNsZWFuIGFuZCB1bmRlcnN0YXRlZCAgaGFpcjogbmF0dXJhbCwgc2xpZ2h0bHkgdG91c2xlZCBmb3IgYm90aCAgcG9zZTogY2xvc2UgaW50aW1hdGUgZGlzdGFuY2Ug4oCUIHNpdHRpbmcgb3Igc3RhbmRpbmcgY2xvc2UgdG9nZXRoZXI7IHRoZSBnaXJsIGdlbnRseSBsZWFuaW5nIHRvd2FyZCBoaW0sIG9uZSBoYW5kIGxpZ2h0bHkgcmVzdGluZyBvbiBoaXMgc2hvdWxkZXIgb3IgY2hlc3Q7IHRoZSBib3kgc2xpZ2h0bHkgbGVhbmluZyBpbiwgZmFjZXMgY2xvc2UsIGFsbW9zdCB0b3VjaGluZywgY2FwdHVyaW5nIHRoZSBtb21lbnQganVzdCBiZWZvcmUgYSBraXNzICBleHByZXNzaW9uOiBzb2Z0IHNtaWxlcyBvciBnZW50bGUgZ2F6ZSB0b3dhcmQgZWFjaCBvdGhlciwgcmVsYXhlZCBhbmQgbmF0dXJhbCwgZW1vdGlvbmFsIGNvbm5lY3Rpb24gdmlzaWJsZSAgY2FtZXJhOiBjbG9zZSBmcmFtaW5nICh3YWlzdC11cCksIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBzZXR0aW5nOiBtaW5pbWFsIGluZG9vciBuZWFyIHdpbmRvdywgbGlnaHQgY3VydGFpbnMsIGNsZWFuIHNvZnQgYmFja2dyb3VuZCAgbGlnaHRpbmc6IGRpZmZ1c2VkIGRheWxpZ2h0LCBnZW50bGUgaGlnaGxpZ2h0IGJsb29tLCBzb2Z0IHNoYWRvdyB0cmFuc2l0aW9ucyAgbW9vZDogd2FybSwgcm9tYW50aWMsIGludGltYXRlIGV2ZXJ5ZGF5IG1vbWVudCwgbmF0dXJhbCBhZmZlY3Rpb24gIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgYW5hbG9nIGZpbG0gbG9vaywgZmluZSBncmFpbiwgc2xpZ2h0IHNvZnRuZXNzLCBuYXR1cmFsIGltcGVyZmVjdGlvbnM%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case17/output.jpg" width="250" alt="Fujifilm Couple Portrait"></a><br><sub><b>Case 017</b> · <a href="#portrait-case-17-fujifilm-couple-portrait-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046502288102170757">Fujifilm Couple Portrait</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5qC55o2u5L2g5a%2B55oiR55qE6K6k55%2BlIOe7meaIkeeUn%2BaIkOS4gOS4quKAnOS9oOiupOivhueahOaIkeKAneeahCDlm77niYc%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case18/output.jpg" width="250" alt="AI Self-Perception Portrait"></a><br><sub><b>Case 018</b> · <a href="#portrait-case-18-ai-self-perception-portrait-by-80vul">Prompt</a></sub><br><sub><a href="https://x.com/80vul/status/2046218165961753047">AI Self-Perception Portrait</a> · <a href="https://x.com/80vul">@80vul</a></sub></td>
+  </tr>
+</table>
+
+<a id="gallery-poster-illustration"></a>
+
+### Poster & Illustration · 40 cases
+
+City posters, travel illustrations, typography, infographics, and commercial visuals.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSBzdHJpa2luZyBTcHJpbmcgMjAyNiBjaXR5IHBvc3RlciBmb3IgQm9zdG9uIHdpdGggYW4gZWxlZ2FudCBjZWxlYnJhdG9yeSBtb29kIGFuZCBhIGJvbGQgY29udGVtcG9yYXJ5IGRlc2lnbi4gT24gYSBjbGVhbiBvZmYtd2hpdGUgdGV4dHVyZWQgYmFja2dyb3VuZCB3aXRoIGxhcmdlIGFyZWFzIG9mIG5lZ2F0aXZlIHNwYWNlLCBhIG1pbmlhdHVyZSBzaW5nbGUgc2N1bGxlciByb3dzIGFjcm9zcyB0aGUgbG93ZXIgcmlnaHQgY29ybmVyIG9mIHRoZSBpbWFnZSBvbiBhIG5hcnJvdyByaWJib24gb2YgcmVmbGVjdGl2ZSB3YXRlci4gVGhlIHdha2UgZnJvbSB0aGUgb2FyIHN3ZWVwcyB1cHdhcmQgaW4gYSBkeW5hbWljIGNhbGxpZ3JhcGhpYyBjdXJ2ZSwgZ3JhZHVhbGx5IHRyYW5zZm9ybWluZyBpbnRvIHRoZSBDaGFybGVzIFJpdmVyIGFuZCB0aGVuIGludG8gYSBkcmVhbWxpa2UgaGFuZC1wYWludGVkIHBhbm9yYW1hIG9mIEJvc3Rvbi4gSW5zaWRlIHRoaXMgZmxvd2luZyByaXZlci1zaGFwZWQgY29tcG9zaXRpb24gYXJlIGljb25pYyBCb3N0b24gZWxlbWVudHM6IHRoZSBCYWNrIEJheSBza3lsaW5lLCBCZWFjb24gSGlsbCBicm93bnN0b25lcywgQWNvcm4gU3RyZWV0LCBCb3N0b24gUHVibGljIEdhcmRlbiwgU3dhbiBCb2F0cywgWmFraW0gQnJpZGdlLCBGZW53YXktaW5zcGlyZWQgZGV0YWlscywgaGlzdG9yaWMgYnJpY2sgYXJjaGl0ZWN0dXJlLCBoYXJib3IgZmVycmllcywgYW5kIHRoZSBjaXR54oCZcyB3YXRlcmZyb250IGF0bW9zcGhlcmUuIFNvZnQgbW9ybmluZyBmb2csIGdvbGRlbiBzcHJpbmcgbGlnaHQsIHN1YnRsZSBmZXN0aXZlIGFjY2VudHMgaW4gY3JpbXNvbiBhbmQgZ29sZCwgcmljaCBkZXRhaWwsIGxheWVyZWQgZGVwdGgsIHNvcGhpc3RpY2F0ZWQgY2l0eS1wb3N0ZXIgYWVzdGhldGljcywgZnJlc2ggYW5kIHJlZmluZWQsIHZpc3VhbGx5IHBvd2VyZnVsIGJ1dCBub3Qgb3ZlcmNyb3dkZWQuIEVsZWdhbnQgdHlwb2dyYXBoeSBpbiB0aGUgbG93ZXIgbGVmdCByZWFkcyDigJxTUFJJTkcgMjAyNuKAnSB3aXRoIGEgdmVydGljYWwgc2xvZ2FuIOKAnEJPU1RPTiwgQSBDSVRZIE9GIFJJVkVSLCBNRU1PUlksIEFORCBJTlZFTlRJT07igJ0sIHRleHQgY2xlYXIgYW5kIGJlYXV0aWZ1bGx5IGNvbXBvc2VkLCBwcmVtaXVtIGdyYXBoaWMgZGVzaWduLCA5OjE2&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case1/output.jpg" width="250" alt="Boston Spring 2026 City Poster"></a><br><sub><b>Case 019</b> · <a href="#poster-case-1-boston-spring-2026-city-poster-by-bubblebrain">Prompt</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2045358053831172358">Boston Spring 2026 City Poster</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=TW9kZXJuIHBlbmNpbCBpbGx1c3RyYXRpb24gb2YgVmludGFnZSB0cmF2ZWwgcG9zdGVyIGlsbHVzdHJhdGlvbiBvZiB0aGUgQW1hbGZpIENvYXN0LCBJdGFseSwgcGFub3JhbWljIGNvYXN0YWwgY2xpZmYgcm9hZCBzY2VuZSwgY2xhc3NpYyAxOTYwcyB3aGl0ZSBjYXIgZHJpdmluZyBhbG9uZyBhIGN1cnZlZCBzZWFzaWRlIHJvYWQsIGRlZXAgYmx1ZSBNZWRpdGVycmFuZWFuIHNlYSB3aXRoIHNtYWxsIHNhaWxib2F0cywgY29sb3JmdWwgcGFzdGVsIGhpbGxzaWRlIHZpbGxhZ2UsIGJyaWdodCBibHVlIHNreSB3aXRoIHNvZnQgY2xvdWRzLCBsZW1vbiB0cmVlIGJyYW5jaGVzIHdpdGggdmlicmFudCB5ZWxsb3cgbGVtb25zIGZyYW1pbmcgdGhlIGZvcmVncm91bmQsIHdhcm0gc3VtbWVyIHN1bmxpZ2h0LCBib2xkIHZpYnJhbnQgY29sb3JzLCByZXRybyAxOTUwcyB0cmF2ZWwgcG9zdGVyIHN0eWxlLCBjaW5lbWF0aWMgY29tcG9zaXRpb24sIGhpZ2ggZGV0YWlsLCBzY3JlZW4gcHJpbnQgdGV4dHVyZSwgZ3JhcGhpYyBpbGx1c3RyYXRpb24uIEhhbmQtZHJhd24gc3R5bGUsIGlsbHVzdHJhdGlvbiB3aXRoIGxvb3NlIHN0cm9rZXMgYW5kIGRlZmluZWQgY29udG91cnMuIEhpZ2gtY29udHJhc3QgY29sb3IgcGFsZXR0ZSwgbWFpbnRhaW5pbmcgY2hyb21hdGljIGhhcm1vbnkgYmV0d2VlbiBiYWNrZ3JvdW5kIGFuZCBlbGVtZW50cy4gQ29udGVtcG9yYXJ5IGFuZCBkZWNvcmF0aXZlIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case2/output.jpg" width="250" alt="Vintage Amalfi Travel Poster"></a><br><sub><b>Case 020</b> · <a href="#poster-case-2-vintage-amalfi-travel-poster-by-wolfriccardo">Prompt</a></sub><br><sub><a href="https://x.com/WolfRiccardo/status/2044562722491121718">Vintage Amalfi Travel Poster</a> · <a href="https://x.com/WolfRiccardo">@WolfRiccardo</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5LiA5byg5omL57uY6aOO5qC855qE5Z%2BO5biC576O6aOf5Zyw5Zu%2B77yM5Lul5oiQ6YO95Li65Li76aKY44CC55S76Z2i5Lul6bif556w6KeG6KeS55qE5omL57uY566A5YyW5Z%2BO5biC5Zyw5Zu%2B5Li65bqV77yM5qCH5rOo5Li76KaB6YGT6Lev5ZKM5Zyw5qCH5L2G5LiN6L%2B95rGC57K%2B56Gu5q%2BU5L6L6ICM5piv6L%2B95rGC5Y%2Bv54ix55qE5omL57uY5oSf44CC5Zyw5Zu%2B5LiK5YiG5biD552AIDEyIOS4que%2Bjumjn%2BWcsOeCueeahOeyvuiHtOaJi%2Be7mOWwj%2BaPkueUu%2B%2B8muaYpeeGmei3r%2BeahOS4suS4summme%2B8iOS4gOaKiuerueetvuaPkuedgOWQhOenjemjn%2BadkOWGkuedgOeDreawlO%2B8ieOAgeWuveeqhOW3t%2BWtkOeahOS4ieWkp%2BeCru%2B8iOS4ieS4quezr%2Bexs%2BWbouWtkOmjnuWQkemTnOebmO%2B8ieOAgeW7uuiuvui3r%2BeahOibi%2BeDmOezle%2B8iOmHkem7hOmFpeiEhuato%2BWcqOe%2Fu%2Bmdou%2B8ieOAgeeOieael%2Bi3r%2BeahOeBq%2BmUhe%2B8iOS5neWuq%2BagvOmUhee%2Fu%2Ba7muWGkuazoe%2B8ieetie%2B8jOavj%2BS4quaPkueUu%2Be6puWNoOWcsOWbvueahCA1JSDpnaLnp6%2FvvIzml4HovrnnlKjmiYvlhpnkvZPmoIfms6jlupflkI3lkozkuIDlj6XmjqjojZDor60i5YeM5pmo5Lik54K56L%2BY5Zyo5o6S6Zif55qE6YKj5a62IuOAguWcsOWbvui%2Buee8mOeUqOaJi%2Be7mOiXpOiUk%2BWSjOi%2Bo%2BakkuijhemlsOW9ouaIkOi%2BueahhuOAguWPs%2BS4i%2BinkuacieS4gOS4quaJi%2Be7mOaMh%2BWNl%2BmSiOWSjOWbvuS%2Bi%2BivtOaYjuOAguW3puS4iuinkuagh%2BmimCLmiJDpg73Ct%2BWQg%2Bi0p%2BaatOi1sOWcsOWbviLkvb%2FnlKjog5blnIbnmoTmiYvnu5jnvo7mnK%2FlrZfphY3ovqPmpJLoo4XppbDjgILmlbTkvZPnlLvpo47kuLrmsLTlvakr5b2p6ZOF5re35ZCI55qE5omL57uY6LSo5oSf77yM6aKc6Imy5Lul5pqW6Imy57O777yI6L6j5qSS57qi44CB5aec6buE44CB57%2Bg57u%2F77yJ5Li65Li777yM5Zu%2B54mH5q%2BU5L6LIDE6MeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case3/output.jpg" width="250" alt="Chengdu Food Map Illustration"></a><br><sub><b>Case 021</b> · <a href="#poster-case-3-chengdu-food-map-illustration-by-panda20230902">Prompt</a></sub><br><sub><a href="https://x.com/Panda20230902/status/2045396918965285111">Chengdu Food Map Illustration</a> · <a href="https://x.com/Panda20230902">@Panda20230902</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5p6B566A5paw5Lit5byP576O5a2m6aOO5qC877yM55S76Z2i5Lul5reh6ZuF55qE54Gw55m96Imy5Li65bqV77yM5ZGI546w5Ye65LiA56eN57q46Im65Ymq5b2x6Iis55qE56uL5L2T5oSf44CCCuS4gOadoVPlvaLonL%2FonJLnmoToo4Lnl5XnirbovrnnvJjlsIbnlLvpnaLliIblibLvvIzku7%2FkvZvmkpXlvIDkuobkuIDlsYLnurjpnaLvvIzpnLLlh7rlhoXpg6joibLlvanmlpHmlpPnmoTkuJzmlrnlsbHmsLTmma%2FosaHjgIIK6KOC5Y%2Bj5YaF77yM5LiA5p2h6Jy%2F6JyS55qE5rKz5rWB6Ieq5LiK6ICM5LiL6LSv56m%2F5pW05Liq5p6E5Zu%2B77yM5rKz5rC05Lul5rex5rWF5LiN5LiA55qE6JOd6Imy5riy5p%2BT77yM5bGC5qyh5YiG5piO77yM5Lu%2F5L2b5rWB5Yqo55qE5Lid5bim44CCCuays%2BWyuOS4pOS%2Bp%2BeCuee8gOedgOmdkue%2FoOeahOWxseS4mOS4juair%2BeUsO%2B8jOiJsuW9qeaflOWSjO%2B8jOe7v%2Be6ouS6pOe7h%2B%2B8jOWxleeOsOWHuueUsOWbreeahOWugemdmeS5i%2Be%2BjuOAggrmsr%2FmsrPogIzlu7rnmoTlj6Tpo47lu7rnrZHplJnokL3mnInoh7TvvIzpo57mqpDnv5jop5LvvIznmb3lopnpu5vnk6bvvIzlnKjlhYnlvbHnmoTmmKDooazkuIvmm7TmmL7lj6TmnLTlhbjpm4XjgIIK5bK46L655qCR5pyo6JGx6IyP77yM5p6d5Y%2B26L2755uI77yM5LiA6ImY5bCP6Ii56Z2Z5rOK5LqO5rC05Lit5aSu77yM5aKe5re75LqG5Yeg5YiG5oKg54S25oSP5aKD44CCCuaVtOS9k%2BaehOWbvuWRiFPlvaLmm7Lnur%2FvvIzlr4zmnInpn7XlvovmhJ%2FvvIzku7%2FkvZvoh6rnhLbkuI7kurrmlofnmoTlkozosJDlhbHnlJ%2FjgIIK55S75L2c6L6557yY6YeH55So5pKV57q45pWI5p6c77yM6JCl6YCg5Ye656uL5L2T5rWu6ZuV6Iis55qE6KeG6KeJ5L2T6aqM44CCCuS4i%2BaWuemimOWtl%2BKAnOS4nOaWuee%2BjuWtpuKAneS7pem7keiJsualt%2BS9k%2BS5puWGme%2B8jOaXpeacn%2BKAnDIwMjYvMDQvMTjigJ3kuI7nuqLoibLljbDnq6Dnm7jlkbzlupTvvIzlupXpg6jigJxDSElOQeKAneWtl%2Bagt%2BW6hOmHjemGkuebru%2B8jOe9suWQjeKAnEBMSVlVReKAneS9juiwg%2BaUtuWwvu%2B8jOaVtOS9k%2Bawm%2BWbtOmdmeiwp%2Ba3sei%2FnO%2B8jOWFhea7oeivl%2BaEj%2BS4juWTsuaAneOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case4/output.jpg" width="250" alt="Chinese Minimalist S-Shaped Poster"></a><br><sub><b>Case 022</b> · <a href="#poster-case-4-chinese-minimalist-s-shaped-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045368305079447853">Chinese Minimalist S-Shaped Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5LiA5byg5YWF5ruh5paw5pil5Zac5bqG5rCb5Zu05L2G5LiN5aSx6auY6ZuF5qC86LCD55qEIDIwMjYg5Z%2BO5biC5a6j5Lyg5rW35oql44CCCuWPjOmHjeabneWFie%2B8jOaehOWbvuW7tue7reS6hlPlnovnmoTmtYHliqjmhJ%2FvvJsK5Zyo57qv55m955qE57q555CG6IOM5pmv5Y%2Bz5LiL6KeS77yM5LiA5Liq6Lqr56m%2F5Lit5Zu95Lyg57uf5pyN6aWw55qE5b6u57yp5Lq654mp5q2j5Zyo5oyl6Iie552A5LiA5p2h6ZW%2F6ZW%2F55qE57qi6Imy5Lid57u46Iie5bim77yM6L%2BZ5p2h57qi57u45Zyo56m65Lit6Iie5Yqo77yM5LiN5LuF5bGV546w5Ye65Lid57u455qE5p%2BU6aG66LSo5oSf77yM5pu05Zyo5ZCR5bem5LiK5pa56aOY5Yqo55qE6L%2BH56iL5Lit77yM5aWH5bm75Zyw5Y%2BY5b2i5oiQ5LqG5LiA5p2h5aOu5Li955qE5bGx6ISJ5rKz5rWB44CCCuWcqOi%2FmeadoeKAnOays%2Ba1geKAneS4re%2B8jOWPoOWKoOS6huS4gOS4quacieWxseaciea1t%2Bays%2BeahOW5v%2BW3nuWfjuW4guaJi%2Be7mOWbvu%2B8jOWbvea9ru%2B8jOaZr%2BiJsuWwveWcqOecvOW6le%2B8jOWjrumYlOmbhOS8n%2B%2B8jOS7pOS6uumch%2BaSvOOAggrlub%2Flt57nmoTlnLDmoIflu7rnrZEo5bm%2F5bee5aGU77yM54%2Bg5rGf5paw5Z%2BO5bu6562R576k77yM54%2Bg5rGfLCDlub%2Flt57ln47ph4zlj6Tlu7rnrZHvvIzmuLjova7vvIznmb3kupHlsbHvvInjgIIK5LqR6Zu%2B546v57uV77yM5LuZ5rCU57yl57yI77yM6Imy5b2p5Liw5a%2BM77yM57uT5p6E5aSN5p2C77yM57uG6IqC5Liw5a%2BM77yM5L2G5Zug5Li65aSn6Z2i56ev55qE55WZ55m977yM55S76Z2i5L6d54S25pi%2B5b6X5riF5paw6ISx5L%2BX77yM5bem5LiL6KeS5o6S54mI552A4oCcU1BSSU5HIDIwMjbigJ3lkoznq5bmjpLnmoTlrqPkvKDor63vvIzmlbTkvZPlr5PmhI%2FigJzljYPlubTllYbpg73vvIzprYXlipvlub%2Flt57igJ3jgIIK5paH5a2X5o6S54mI5LyY576O77yM5aSn5pa577yM5a2X6L%2B55riF5pmw5a6M5pW077yM5bC65a%2B4OToxNuOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case5/output.jpg" width="250" alt="2026 Spring Guangzhou City Poster"></a><br><sub><b>Case 023</b> · <a href="#poster-case-5-2026-spring-guangzhou-city-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045332620352119274">2026 Spring Guangzhou City Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul5raC6bim6YCf5YaZ6aOO6KGo546w44CQ5LiA5Liq5Y6J5a6z55qEQUkgYnVpbGRlcuOAke%2B8jOaVtOS9k%2BWRiOeOsOW%2Fq%2BmAn%2BWLvuWLkuOAgeiHqueUseWPmOW9ouOAgeWNs%2BWFtOaJi%2Be7mOS4juiNieeov%2BW8j%2BeahOinhuinieaViOaenOOAgue6v%2Badoemaj%2BaJi%2BOAgeWkuOW8oOOAgeWPr%2Beyl%2Be7huS4jeS4gO%2B8jOeVpeaYvuWHjOS5seS9huWFt%2BacieiKguWlj%2BWSjOihqOeOsOWKm%2B%2B8jOW8uuiwg%2BamguaLrOOAgeWkuOW8oOOAgei2o%2BWRs%2BWSjOmaj%2BaAp%2B%2B8jOiAjOS4jeaYr%2BS4peiwqOWGmeWunuaIlueyvue7huWIu%2BeUu%2BOAgiAg6aKc6Imy6YeH55So57KX57OZ44CB5bmy5Yi35oSf5piO5pi%2B55qE5Z2X6Z2i6KGo546w77yM5Y%2Bv5L%2Bd55WZ5LiN5Z2H5YyA55qE5raC5oq555eV6L%2B544CB5Yi355eV44CB6aOe55m95LiO6KaG55uW5oSf77yM6Imy5b2p5qC55o2u44CQ5Li76aKYL%2BS4u%2BS9k%2BOAkeiHquWKqOmAgumFje%2B8jOS9huaVtOS9k%2BS%2FneaMgea2gum4puW8j%2BOAgemAn%2BWGmeW8j%2BOAgeamguaLrOW8j%2BeahOihqOi%2BvuOAguS4jeimgemAj%2BaYjuawtOW9qeaZleafk%2BaViOaenO%2B8jOS4jeimgee7huiFu%2BawtOW9qei%2Fh%2Ba4oe%2B8jOS4jeimgee6uOe6ueeQhu%2B8jOS4jeimgeaflOWSjOmbvuWMlu%2B8jOS4jeimgeaipuW5u%2Bi0qOaEn%2BOAgiAg6IOM5pmv5Lul55WZ55m95Li65Li777yM5L%2Bd5oyB566A5rSB44CB6L275p2%2B44CB5pyq5a6M5oiQ5oSf5ZKM6K6%2B6K6h5oSf77yM5Y%2Bv5Yqg5YWl5bCR6YeP6L6F5Yqp5oCn56ym5Y%2B344CB566t5aS044CB6K6w5Y%2B344CB5ZyI55S744CB6YeN5aSN57q%2F44CB6ZqP5omL5YaZ55qE5paH5a2X5oiW5YW25LuW5raC6bim5YWD57Sg77yM5Lul5aKe5by66YCf5YaZ5pys5oiW6ZqP56yU5byP6KeG6KeJ6K%2Bt6KiA77yM5L2G5LiN5Y%2Bv6L%2BH5LqO5oul5oyk77yM5LiN5Y%2Bv56C05Z2P5Li75L2T5ZKM55WZ55m95rCU6LSo44CCICDnlLvpnaLlhoXlrrnkuI3pnIDopoHpooTlhYjlhpnmuIXmpZrvvIznlLHjgJDkuIDkuKrljonlrrPnmoRBSSBidWlsZGVy44CR6Ieq5Yqo5o6o5ryU5bm255Sf5oiQ5pyA6YCC5ZCI55qE5Li75L2T5b2i6LGh44CB5Yqo5L2c44CB55u45YWz5YWD57Sg44CB56ym5Y%2B35oiW566A5YyW5Zy65pmv77yM5pW05L2T5L%2Bd5oyB57uf5LiA55qE5raC6bim6YCf5YaZ6aOO5ZKM5aS45byg5qaC5ous55qE6KGo546w5pa55byP77yM6YG%2F5YWN5aSN5p2C5YaZ5a6e6IOM5pmv5ZKM6L%2BH5bqm6ZO66ZmI44CCIOeUu%2BmdouS4remcgOiHqueEtuWKoOWFpeS4k%2BWxnuetvuWQjeKAnEJsYW5QbGFu4oCd77yM5L2c5Li655S76Z2i55qE5LiA6YOo5YiG77yM5L2N572u5L2O6LCD5L2G5riF5pmw77yM5Y%2Bv5pS%2B5Zyo5bem5LiL6KeS44CB5Y%2Bz5LiL6KeS5oiW5qCH6aKY6ZmE6L%2BR77yM6aOO5qC86ZyA5LiO5pW05L2T54mI5byP57uf5LiA77yM5YOP5L2c5ZOB572y5ZCN5oiW6K6%2B6K6h6JC95qy%2B77yb562%2B5ZCN5a2X5L2T57K%2B6Ie044CB5YWL5Yi244CB6auY57qn77yM5LiN5Y%2Bv6L%2BH5aSn77yM5LiN5Y%2Bv56C05Z2P5Li75L2T5p6E5Zu%2B77yM5LiN5Y%2Bv5pi%2B5b6X56qB5YWA5oiW5buJ5Lu344CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case7/output.jpg" width="250" alt="Doodle Sketch AI Builder"></a><br><sub><b>Case 024</b> · <a href="#poster-case-7-doodle-sketch-ai-builder-by-blanplan">Prompt</a></sub><br><sub><a href="https://x.com/blanplan/status/2045190582453350748">Doodle Sketch AI Builder</a> · <a href="https://x.com/blanplan">@blanplan</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5pu86I28576F44Gu6L%2BR5pyq5p2lU0bniYjjgpLmj4%2FjgYTjgaY%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case8/output.jpg" width="250" alt="Futuristic Mandala Illustration"></a><br><sub><b>Case 025</b> · <a href="#poster-case-8-futuristic-mandala-illustration-by-4web1">Prompt</a></sub><br><sub><a href="https://x.com/4WEB1/status/2045390207072256179">Futuristic Mandala Illustration</a> · <a href="https://x.com/4WEB1">@4WEB1</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5bCP5oKq6a2U44Oq44Oq44Og44Oq44Oq44Kj44Gh44KD44KT44GM44CA44K544O844OR44O844OV44Kh44Of44Kz44Oz44Gu44Ky44O844Og44Gg44Gj44Gf44Go44GN44Gu44Od44K544K%2F44O844KS6ICD44GI44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case9/output.jpg" width="250" alt="Super Famicom Poster Style"></a><br><sub><b>Case 026</b> · <a href="#poster-case-9-super-famicom-poster-style-by-lilimliliychan">Prompt</a></sub><br><sub><a href="https://x.com/lilimliliychan/status/2045114760937804187">Super Famicom Poster Style</a> · <a href="https://x.com/lilimliliychan">@lilimliliychan</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul5LiL44Gu5paH5a2X44KS5b%2BF44Ga5YWl44KM44Gm44CBMTox44Gu44Od44K544K%2F44O844KS5L2c5oiQ44GX44Gm44GP44Gg44GV44GE44CC5pu457GN44O76Kyb5bqn44O744Kk44OZ44Oz44OI5ZGK55%2Bl44Gr5L2%2F44GI44KL44CB44OX44Ot44Gu5bqD5ZGK44OH44K244Kk44OK44O844GM5L2c44Gj44Gf44KI44GG44Gq6auY5ZOB6LOq44Gq5LuV5LiK44GM44KK44Gr44GX44Gm44GP44Gg44GV44GE44CCCgrluoPlkYrjgq%2Fjg6rjgqjjgqTjg4bjgqPjg5bliLbkvZwK5oCd44GE44Gk44GE44Gf44KJ44CB44KC44GG6YGK44G544KL44CCIEFJw5fjg5bjg6njgqbjgrbjgrLjg7zjg6DjgaXjgY%2Fjgorjga%2FjgIHjg57jgrjjgafmpb3jgZfjgYTjgIIg44KA44Ga44GL44GX44Gd44GG44Gn44CB5a6f44Gv44Gv44GY44KB44KE44GZ44GE44CCIOOCs%2BODvOODieOBjOOCj%2BOBi%2BOCieOBquOBj%2BOBpuOCguOAgeOBr%2BOBmOOCgeOBruS4gOacrOOBr%2BS9nOOCjOOCiw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case10/output.jpg" width="250" alt="Browser Game Ad Creative Poster"></a><br><sub><b>Case 027</b> · <a href="#poster-case-10-browser-game-ad-creative-poster-by-llllegend0620">Prompt</a></sub><br><sub><a href="https://x.com/llllegend0620/status/2045963764466688065">Browser Game Ad Creative Poster</a> · <a href="https://x.com/llllegend0620">@llllegend0620</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5LiA5bmF6LaF546w5a6e5Li75LmJ5pWw5a2X5o%2BS55S76aOO5qC877yM6YeH55So5L2O6KeS5bqm5Luw5ouN6KeG6KeS44CC55S76Z2i5o%2BP57uY5LqG5LiA5p2h5beo5Z6L5b2p6Imy6ZSm6bKk6YGo5ri45Zyo5qKm5bm76Iis55qE5pif5LqR5Lit77yM5Zub5ZGo546v57uV552A6Imy5b2p6bKc6Imz55qE5pif5LqR5LiO5rCU5rOh44CC55S76Z2i5Lit5aSu6L%2BY56uZ552A5LiA5Liq5bCP5Lq677yM6IOM5a%2B56KeC5LyX77yM56We5oOF5bmz6Z2Z5Zyw5Luw5pyb56m65Lit6L%2BZ5p2h5beo5aSn55qE6ZSm6bKk77yM6ZSm6bKk5aS05ZCR5LiL55yL552A5bCP5Lq644CC5pW05L2T55S76Z2i5ZGI546w5Ye65by654OI55qE5aSn5bCP5a%2B55q%2BU77yM5rCb5Zu056m654G15Y%2BI5qKm5bm744CC5q%2BU5L6LOToxNg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case11/output.jpg" width="250" alt="Surreal Koi Nebula Illustration"></a><br><sub><b>Case 028</b> · <a href="#poster-case-11-surreal-koi-nebula-illustration-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045875219307655337">Surreal Koi Nebula Illustration</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=57qv6buR5rex6YKD5bqV6Imy77yM5LiA5p2h57KX5aOu5pyJ5Yqb55qE5aKo6Imy5Lmm5rOVIFMg5Z6L5puy57q%2F6Ieq55S76Z2i5LiA56uv6Jy%2F6JyS6LSv56m%2F6Iez5Y%2Bm5LiA56uv77yM5p6E5oiQ5pW05bmF55S76Z2i55qE6KeG6KeJ6aqo5p625LiO5Y%2BZ5LqL5Yqo57q%2F44CC5puy57q%2F5LiK5pa55piv5LiA5Y%2Bq6YCP5piO6LSo5oSf55qE55S755yJ6bif77yM5YaF6YOo5pig5bCE5Lyg57uf5bu6562R5Y%2Bg5b2x5LiO6JOd57u%2F6Imy5YWJ5rWB77yb5rK%2F5puy57q%2F6ZSZ6JC95YiG5biD5bm%2F5bee5Zyw5qCH5LiO5Y%2Bk5YW45bu6562R5bqP5YiX77yM5YmN5pmv5pyJ55m96bmk5LiO5rmW6Z2i77yM6L%2Bc5pmv5Li65bGC5Y%2Bg5bGx5bOm44CC5pW05L2T6YeH55So6Z2e57q%2F5oCn6YCP6KeG44CB5Ya36Imy6LCD5Li75a%2B844CB5pqW6Imy54K557yA77yM5Lic5pa5576O5a2m5LiO546w5Luj5oSP6LGh5Lqk6J6N77yMOEsg6LaF6auY5riF5riy5p%2BT77yM5q%2BU5L6LIDk6MTbjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case12/output.jpg" width="250" alt="Ink-Curve Guangzhou Aesthetics Poster"></a><br><sub><b>Case 029</b> · <a href="#poster-case-12-ink-curve-guangzhou-aesthetics-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045873940883808523">Ink-Curve Guangzhou Aesthetics Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5bm%2F5Lic55yB5Z%2BO5biC6Laz55CD6LaF57qn6IGU6LWb77yI57Kk6LaF77yJ6YKA6K%2B35Ye95rW35oql6K6%2B6K6h77yM5q%2BU5L6LIDk6MTbjgIJTIOWei%2Ba1geWKqOaehOWbvu%2B8jOS7peWPkeWFiei2s%2BeQg%2BWSjOWKqOaAgeiDvemHj%2Ba1gei0r%2Bepv%2BeUu%2Bmdou%2B8jOayv%2BWKqOe6v%2BiejeWQiOW5v%2BW3nuWhlOOAgea3seWcs%2BW5s%2BWuiemHkeiejeS4reW%2Fg%2BOAgeePoOa1t%2Ba4lOWls%2BmbleWDj%2BOAgeWyreWNl%2BW7uuetkeOAgeS9m%2BWxseatpuacr%2BWJquW9seOAgeS4reWxseaWh%2BWMluespuWPt%2BOAgea9ruaxleiLseatjOiInuS4jua4hei%2FnOWxseawtOOAgueOsOS7o%2BWbvea9rumrmOe6p%2Ba1t%2BaKpemjjuagvO%2B8jOS4reWbvee6ouS4u%2Binhuinie%2B8jOmdkuiTnei%2BheWKqe%2B8jOmHkeiJsumrmOWFie%2B8jOW4puWujOaVtOS4reaWh%2BaOkueJiOS4jueUteW9see6p%2BWFieW9seOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case13/output.jpg" width="250" alt="Guangdong Super League Invitation Poster"></a><br><sub><b>Case 030</b> · <a href="#poster-case-13-guangdong-super-league-invitation-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045772039521542202">Guangdong Super League Invitation Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5pS26JeP54mI5Y%2By6K%2BX5rW35oql77yM5Lq654mp5L6n6IS45Ymq5b2x5Lit55Sf6ZW%2F5Ye65a6M5pW05LiW55WM6KeC5LiO57uP5YW45Zy65pmv44CC5pW05L2T5YGP55S15b2x5rW35oql5Yqg5qKm5bm75rC05b2p5o%2BS55S76aOO77yM5a6J6Z2Z44CB5a6P5aSn44CB56We5Zyj44CB5oCA5pen77yM5bim57q45byg6aKX57KS44CB6L276Zu%2B5oSf44CB6aOe55m95Yi355eV5LiO6auY57qn55WZ55m944CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case15/output.jpg" width="250" alt="Epic Silhouette World Poster"></a><br><sub><b>Case 031</b> · <a href="#poster-case-15-epic-silhouette-world-poster-by-ghhhh3owi">Prompt</a></sub><br><sub><a href="https://x.com/Ghhhh3owi/status/2045803217251102897">Epic Silhouette World Poster</a> · <a href="https://x.com/Ghhhh3owi">@Ghhhh3owi</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5p6B566A5Li75LmJ77yM5paw5Lit5byP6aOO5qC856uL5L2T5Zu%2B5b2i6K6%2B6K6h77yM5Zu%2B5YOP5LiL56uv5pyJ5qW35L2T5Lit5Zu95paH5a2X77ya4oCc5Lic5pa5576O5a2m4oCd77yM4oCcMjAyNi8wNC8xOOKAne%2B8jOe9suWQjSDigJxDSElOQeKAne%2B8jOWSjOKAnEBMSVlVRSLvvJsK5bmz5pW057qv55m96Imy55qE5Lqa5YWJ6LSo5oSf5Y6a6Im65pyv57q45LiK57uY5YWF5ruh5Lic5pa56K%2BX5oSP5rCb5Zu055qE5bGx5rC05Yib5oSP55S777yM5LiN6KeE5YiZ55qE5pKV57q45pWI5p6c77ybCuS4reWbveeahOelnuWFve%2B8muept%2BWlh%2B%2B8jOi6q%2BW9ouWbvuahiOWujOaVtO%2B8jOe%2Bjui9rue%2BjuWlgu%2B8jO%2B8jOe6v%2BadoeaflOe%2BjueBteWKqCznnLznnZvngq%2Fngq%2FmnInnpZ7vvIzlqIHkuKXnmoTnpZ7mgIHvvIzkvJjpm4XnmoTlp7%2Flir%2FvvIzlpaLljY7oo4XppbDoibrmnK%2FvvIzkuK3lm73kvKDnu5%2FnurnppbDvvJsK6I2n5YWJ6JOd6Imy57q%2F5p2h77yMMC41bW3mnoHnu4bph5HoibLph5HlsZ7otKjmhJ%2Fli77ovrnvvIzms7znmb3loqjlpKfnrJTop6bvvIzoibLlvanmuLLmn5PvvIznuqLlupXvvIzok53oibLnmoTmtarmvKvor5fmhI%2Fop4bop4nvvJsK5Ya35pqW5YWJ5Lqk57uH55qE5qKm5bm75ZSv576O5Zy65pmv77yM5by654OI55qE5YWJ5b2x5a%2B55q%2BU5rCb5Zu077yM6Iqx6L276Iie55qE5pe25YWJ5Y%2BZ5LqL77yM5Lic6aOO56aF5oSP77yM55S76Z2i5pyJ5aSn6Z2i56ev55WZ55m977yM5qGG5p625p6E5Zu%2B77yM5bqV6YOo55WZ55m977yM57uG6IqC5riF5pmw44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case26/output.jpg" width="250" alt="Qiongqi Eastern Aesthetics Poster"></a><br><sub><b>Case 032</b> · <a href="#poster-case-26-qiongqi-eastern-aesthetics-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045506567735558336">Qiongqi Eastern Aesthetics Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul54%2Bg5rGf5paw5Z%2BO546w5Luj6YO95biC5pmv6KeC5Li654G15oSf55qE5Ymq57q46Im65pyv77yM6YCa6L%2BH57K%2B5ben55qE6ZWC56m65omL5rOV5Zyo5LiA5pW05bmF57q45LiK77yM56uL5L2T5Yi755S75bm%2F5bee5aGU44CB5Lic6KW%2F5Y%2BM5aGU562J5Zyw5qCH5bu6562R5LiO57mB5Y2O5Z%2BO5pmv44CCCuaJgOacieW7uuetkeS4juWFg%2Be0oOWdh%2BS7pea1geeVheeahOe6v%2BadoeS4jue7k%2BaehOebuOi%2Fnu%2B8jOaXoOWtpOeri%2BmDqOWIhu%2B8jOaehOaIkOS4gOW5heWujOaVtOeahOmDveW4gueUu%2BWNt%2BOAggrnlLvpnaLph4fnlKjph5HlsZ7nrpTmiJblhYnms73nurjmnZDotKjvvIzooajpnaLluKbmnInnu4bohbvnmoTmmI7mmpflhYnms73vvIzlnKjlhYnnhafkuIvlkYjnjrDmn5TlkoznmoTpq5jlhYnkuI7pmLTlvbHvvIzku7%2FkvZvooqvln47luILnga%2FlhYnovbvovbvnhafkuq7jgIIK6IOM5pmv5Lul6Jma5YyW55qE54%2Bg5rGf5paw5Z%2BO5aSp6ZmF57q%2F5Li66KGs77yM54K557yA6ZqQ57qm5Y%2Bv6KeB55qE6Iqx5Z%2BO5bm%2F5Zy65LiO5qCR5pyo6L2u5buT77yM5pW05L2T6YCP5Ye6546w5Luj5rWq5ryr55qE5rCb5Zu044CCCuS9nOWTgeS4reW3p%2BWmmeiejeWFpei9u%2BebiOeahOiSsuWFrOiLsee7kuavm%2BaIluaYn%2BWFieiIrOeahOWKqOaAgeWFieeCue%2B8jOixoeW%2BgeaipuaDs%2BS4jua0u%2BWKm%2BWcqOi%2FmeW6p%2BaWsOWfjuS4remjmOaVo%2BmjnuaJrOOAguaVtOS9k%2BWRiOeOsDhL6LaF6auY5riF6KeG6KeJ77yM57uG6IqC5Liw5a%2BM77yM55yf5a6e6ICM5a%2BM5pyJ6Im65pyv5oSf5p%2BT5Yqb44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case27/output.jpg" width="250" alt="Guangzhou Paper-Cut City Poster"></a><br><sub><b>Case 033</b> · <a href="#poster-case-27-guangzhou-paper-cut-city-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045527750606487877">Guangzhou Paper-Cut City Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=4pGg5Zy65pmvIOi3qOa1t%2BWkp%2BahpeeahOS%2Bp%2Bmdou%2B8jGRyYW1hdGljIGNpbmVtYXRpYyBhbmdsZeOAgiDlt6jlnosgYm9sZCBzYW5zLXNlcmlmIOaWh%2BWtl%2BOAjF9fX%2BKRoeaWh%2BWtl%2BWGheWuuSDot6jmtbflpKfmoaXjgI1wYWludGVkIG9udG8gdGhlIHN1cmZhY2Ugb2YgX19f4pGi5Li75L2T54mpIOaXoO%2B8jOS7jumdoOi%2FkemVnOWktOeahOWJjeerr%2BW8gOWni%2B%2B8jOayv%2BihqOmdouWQkei%2FnOerryBwcm9ncmVzc2l2ZWx5IGZvcmVzaG9ydGVucyDpgJDmuJDpgI%2Fop4bljovnvKnvvIxsZXR0ZXJmb3JtcyBjb25mb3JtIHRvIHN1cmZhY2UgY3VydmF0dXJlIOi0tOWQiOeJqeS9k%2Babsumdou%2B8jHN1cmZhY2UtaW50ZWdyYXRlZCBub3QgZmxvYXRpbmfjgIIg5paH5a2X6YOo5YiG5Yy65Z%2Bf6KKrIOaXoF9fX%2BKRo%2BWJjeaZr%2BmBruaMoeeJqSDml6BfX18gb2NjbHVkZWQgYW5kIGhpZGRlbu%2B8jOWcqOmXtOmameS4remcsuWHuu%2B8jCDlvaLmiJAgZGVwdGgtbGF5ZXJpbmcg57q15rex56m%2F5o%2BS5pWI5p6c44CCIE92ZXJzaXplZCBicmlnaHQgeWVsbG93ICsgc2hhcnAgb3JhbmdlIG91dGxpbmXvvIxleHRyZW1lIHBlcnNwZWN0aXZlIGRpc3RvcnRpb24gYWxpZ25lZCB0byB2YW5pc2hpbmcgcG9pbnTjgIJDaW5lbWF0aWMgbGlnaHRpbmcsIG1vdGlvbiBibHVyLCBwb3N0ZXItZ3JhZGUgZHluYW1pYyBpbnRlZ3JhdGVkIHR5cG9ncmFwaHksIG1vZGVybiBhZHZlcnRpc2luZyBhZXN0aGV0aWNz44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case28/output.jpg" width="250" alt="Extreme Perspective Typography Bridge"></a><br><sub><b>Case 034</b> · <a href="#poster-case-28-extreme-perspective-typography-bridge-by-xpg0970">Prompt</a></sub><br><sub><a href="https://x.com/xpg0970/status/2045560665071579160">Extreme Perspective Typography Bridge</a> · <a href="https://x.com/xpg0970">@xpg0970</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=SWx1c3RyYWNpw7NuIGVuIGFjdWFyZWxhIGRlIGVzdGlsbyBvbsOtcmljbyBkZSBbc3VqZXRvXSwgY29uIGVzdMOpdGljYSBpbXByZXNpb25pc3RhIGxpZ2VyYSwgcGluY2VsYWRhcyBzdWVsdGFzIHkgbGF2YWRvcyB0cmFuc2zDumNpZG9zIGVuIHRvbm9zIFtjb2xvcjFdIHkgW2NvbG9yMl0uIERpZnVtaW5hZG8gc3VhdmUgc29icmUgdGV4dHVyYSBkZSBwYXBlbCBwcmVuc2FkbyBlbiBmcsOtbywgaWx1bWluYWNpw7NuIGRlbGljYWRhLCBjb21wb3NpY2nDs24gbGltcGlhLCBlbmZvcXVlIG1pbmltYWxpc3RhLCBzZW5zYWNpw7NuIGRlIGNhbG1hLCBsaWdlcmV6YSB5IGJlbGxlemEgZWbDrW1lcmEsIGFsdGEgY2FsaWRhZCwgZXN0aWxvIGVkaXRvcmlhbC4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case31/output.jpg" width="250" alt="Dreamy Watercolor Editorial Illustration"></a><br><sub><b>Case 035</b> · <a href="#poster-case-31-dreamy-watercolor-editorial-illustration-by-hmontilla">Prompt</a></sub><br><sub><a href="https://x.com/hmontilla_/status/2045513933096636575">Dreamy Watercolor Editorial Illustration</a> · <a href="https://x.com/hmontilla_">@hmontilla_</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgYSBoaWdoLXF1YWxpdHkgdmVydGljYWwgc2NpZW5jZSBwb3B1bGFyaXphdGlvbiBlbmN5Y2xvcGVkaWEgaW1hZ2UgYmFzZWQgb24gW1RoZW1lXS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case32/output.jpg" width="250" alt="Science Encyclopedia Vertical Poster"></a><br><sub><b>Case 036</b> · <a href="#poster-case-32-science-encyclopedia-vertical-poster-by-pfanis">Prompt</a></sub><br><sub><a href="https://x.com/pfanis/status/2046413660147314714">Science Encyclopedia Vertical Poster</a> · <a href="https://x.com/pfanis">@pfanis</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul5Lit5Zu96L%2Be546v55S777yI5bCP5Lq65Lmm77yJ55qE6aOO5qC85biu5oiR57uY5Yi25aSn6Ze55aSp56m6&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case33/output.jpg" width="250" alt="Journey to the West Chinese Comic"></a><br><sub><b>Case 037</b> · <a href="#poster-case-33-journey-to-the-west-chinese-comic-by-overseas58">Prompt</a></sub><br><sub><a href="https://x.com/overseas58/status/2046271877577097376">Journey to the West Chinese Comic</a> · <a href="https://x.com/overseas58">@overseas58</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR55Sf5oiQ5LiA5byg6auY6K6%2B6K6h5oSf55qE5Lq654mp5YWz57O75Zu%2B5rW35oql44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case34/output.jpg" width="250" alt="Character Relationship Map Poster"></a><br><sub><b>Case 038</b> · <a href="#poster-case-34-character-relationship-map-poster-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046263153546174935">Character Relationship Map Poster</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5paw5Lit5byP5rC05aKo5bGx5rC05rW35oql77yM56uW54mIOToxNuaehOWbvu%2B8jOS4nOaWueaegeeugOe%2BjuWtpumjjuagvO%2B8jOWkp%2Bmdouenr%2BeVmeeZve%2B8jOS4u%2BmimOaYr%2BaYpeWymuS4gOWPtue6ouOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case35/output.jpg" width="250" alt="New Chinese Ink Landscape Poster"></a><br><sub><b>Case 039</b> · <a href="#poster-case-35-new-chinese-ink-landscape-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2046215276249993720">New Chinese Ink Landscape Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul5raC6bim6YCf5YaZ6aOO6KGo546w44CQ5LiA5Liq5Y6J5a6z55qEQUkgYnVpbGRlcuOAkeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case36/output.jpg" width="250" alt="AI Builder Doodle Sketch"></a><br><sub><b>Case 040</b> · <a href="#poster-case-36-ai-builder-doodle-sketch-by-opc8838">Prompt</a></sub><br><sub><a href="https://x.com/opc_8838/status/2046162334440448339">AI Builder Doodle Sketch</a> · <a href="https://x.com/opc_8838">@opc_8838</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44CO56We5bGkMzfljLog54m557Sa5Z%2B36KGM5a6YIOelnuW3q%2BOCteODkOODiOOAj%2BOBk%2BOBruWQjeensOOBruOCreODo%2BODqeOCr%2BOCv%2BODvOOBqOS4lueVjOims%2BOBq%2BWQiOOBo%2BOBn%2BODk%2BOCuOODpeOCouODq%2BOCpOODoeODvOOCuOOCkuOAgeODl%2BODreOBruODh%2BOCtuOCpOODiuODvOOBqOOBl%2BOBpue4pumVt%2BOBruODneOCueOCv%2BODvOOCpOODoeODvOOCuOOBqOOBl%2BOBpuWItuS9nOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case38/output.jpg" width="250" alt="Character Visual Vertical Poster"></a><br><sub><b>Case 041</b> · <a href="#poster-case-38-character-visual-vertical-poster-by-tebasaki3d">Prompt</a></sub><br><sub><a href="https://x.com/tebasaki3D/status/2046371076402503709">Character Visual Vertical Poster</a> · <a href="https://x.com/tebasaki3D">@tebasaki3D</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR55Sf5oiQ5LiA5byg6auY6LSo6YeP56uW54mI44CM56eR5pmu55m%2B56eR5Zu%2B44CN44CCIAoK6L%2BZ5byg5Zu%2B5LiN5piv5pmu6YCa5rW35oqlLOS5n%2BS4jeaYr%2BWNlee6r%2BaPkueUuyzogIzmmK%2FkuIDlvKDlhbzlhbfigJzlm77pibTmhJ%2FjgIHnmb7np5HmhJ%2FjgIHkv6Hmga%2Fnu5PmnoTmhJ%2FjgIHmlLbol4%2FmhJ%2FigJ3nmoTmqKHlnZfljJbnp5Hmma7kv6Hmga%2Flm77jgILmlbTkvZPpo47moLzlj4LogIPpq5jnuqfljZrnianlm77pibTjgIHnjrDku6Pnmb7np5HkuabpobXjgIHnlJ%2FmtLvmlrnlvI%2Fnn6Xor4bljaHlkoznpL7kuqTlqpLkvZPpq5jkvKDmkq3kv6Hmga%2Flm77nmoTnu5PlkIjjgIIKCuivt%2BiuqeeUu%2BmdouWMheWQqzoKLSDkuIDkuKrmuIXmmbDmvILkuq7nmoTkuLvpopjkuLvop4bop4kKLSDoi6XlubLlsYDpg6jnibnlvoHmlL7lpKfnu4boioIKLSDlpJrkuKrlnIbop5LmqKHlnZfljJbkv6Hmga%2FliIbljLoKLSDmuIXmpZrnmoTmoIfpopjlsYLnuqfkuI7ph43ngrnmoIfnrb4KLSDnroDmtIHkvYbkuLDlr4znmoTnmb7np5HlhoXlrrkKLSDlj6%2Fop4bljJbor4TliIbjgIHopoHngrnmgLvnu5PmiJZUb3AgNeaooeWdlwoK5YaF5a655qCP55uu6K%2B35qC55o2u5Li76aKY6Ieq5Yqo6YCC6YWNLOS8mOWFiOS7jui%2FmeS6m%2BaWueWQkeS4remAieaLqeW5tuWQiOeQhue7hOWQiDoK5Z%2B656GA5qGj5qGI44CB5YiG57G75L%2Bh5oGv44CB5aSW6KeC54m55b6B44CB5Lmg5oCnL%2BeUn%2BaAgeOAgeW9ouaIkOacuuWIti%2Fnu5PmnoTnu4TmiJDjgIHnlJ%2Fplb%2FmiJbkvb%2FnlKjmnaHku7bjgIHlhbvmiqTmiJbnu7TmiqTlu7rorq7jgIHpo47pmankuI7ms6jmhI%2FkuovpobnjgIHpgILlkIjkurrnvqTmiJbpgILnlKjlnLrmma%2FjgIHkvJjnvLrngrnlr7nmr5TjgIHlv6vpgJ%2For4TliIbljaHjgIIKCuinhuinieimgeaxgjoK5rWF6Imy5bmy5YeA6IOM5pmvLOaflOWSjOmFjeiJsizovbvpmLTlvbEs57K%2B6Ie05bCP5Zu%2B5qCHLOWchuinkuS%2FoeaBr%2BahhizmlbTmtIHmjpLniYgs5L%2Bh5oGv5a%2BG5bqm6auY5L2G5LiN5oul5oykLOmYheivu%2BS9k%2BmqjOWlveOAguaVtOS9k%2BW%2Fhemhu%2BWDj%2Becn%2Bato%2BWPr%2BS7peWPkeW4g%2BOAgemYheivu%2BOAgeaUtuiXj%2BOAgeezu%2BWIl%2BWMlueUn%2BS6p%2BeahOenkeaZrueZvuenkeWNoSzogIzkuI3mmK%2Flub%2FlkYrlm77jgIIKCuivt%2BS4jeimgeWBmuaIkOaZrumAmuWVhuS4muWuo%2BS8oOa1t%2BaKpeOAguimgeeqgeWHuuKAnOefpeivhuaVtOeQhiArIOaooeWdl%2BS%2FoeaBryArIOWbvumJtOW8j%2BWxleekuuKAneeahOeJueW%2BgeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case39/output.jpg" width="250" alt="Science Encyclopedia Infographic"></a><br><sub><b>Case 042</b> · <a href="#poster-case-39-science-encyclopedia-infographic-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046231542817497392">Science Encyclopedia Infographic</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5p6256m644Gu44Ki44OL44Oh5pig55S744Gu44Od44K544K%2F44O844KSR1BUIGltYWdlMuOBp%2BS9nOaIkOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case40/output.jpg" width="250" alt="Fictional Anime Movie Poster"></a><br><sub><b>Case 043</b> · <a href="#poster-case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru">Prompt</a></sub><br><sub><a href="https://x.com/seiiiiiiiiiiru/status/2046509734954741780">Fictional Anime Movie Poster</a> · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44GT44Gu5ZWG5ZOB5bqD5ZGK44KS44OX44Ot44Gu44OH44K244Kk44OK44O855uu57ea44Gn44Oq44OH44K244Kk44Oz44GX44Gm44CCCuS7iuOBruODiOODrOODs%2BODieOAgeOCv%2BODvOOCsuODg%2BODiOOBq%2BWQiOOCj%2BOBm%2BOBn%2Ba0l%2Be3tOOBleOCjOOBn%2BODh%2BOCtuOCpOODs%2BOBp%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case41/output.jpg" width="250" alt="Product Ad Redesign"></a><br><sub><b>Case 044</b> · <a href="#poster-case-41-product-ad-redesign-by-genelai">Prompt</a></sub><br><sub><a href="https://x.com/genel_ai/status/2046498264774791514">Product Ad Redesign</a> · <a href="https://x.com/genel_ai">@genel_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5bmz6Z2i5o%2BS55S7LOS4nOaWueW5u%2BaDs%2BmjjuagvOmrmOerr%2BWfjuW4gua1t%2BaKpeiuvuiuoSznq5bniYg5OjE25p6E5Zu%2BLOaVtOS9k%2BmHh%2BeUqOWvueinkue6vytT5Z6L5rWB5Yqo5p6E5Zu%2BLOS7juW3puS4i%2BWQkeWPs%2BS4iuW7tuWxlSznlLvpnaLku6Xmt7HpgoPpu5HoibLkuLrog4zmma8s6Ieq5LiK6ICM5LiL5riQ5Y%2BY6Iez5rWT54OI5pqX57qi6ImyLOW9ouaIkOW8uueDiOWGt%2BaaluWvueavlOS4juepuumXtOe6tea3sSzog4zmma%2FluKblvq7lvLHmmJ%2FlsJjkuI7popfnspLotKjmhJ%2FjgILnlLvpnaLkuK3lpK7kuIDmnaHph5HoibLmtYHliqjog73ph4%2Fnur%2FmnaHlpoLngavnhLDoiKzonL%2FonJLotK%2Fnqb8s6Ieq5bqV6YOo5ZCR5LiK5bu25Ly4LOWFt%2Baciea1geS9k%2Bi0qOaEn%2BOAgeeykuWtkOWFieaViOS4jua4kOWPmOmrmOWFiSzlsYDpg6jluKbnu4blvq7og73ph4%2Fnoo7lsZHkuI7kvZPnp6%2FlhYnjgIIKCumHkeiJsua1geWFieS4remAkOWxgua1rueOsOW5v%2BW3nuWfjuW4guWcsOagh%2BW7uuetkee%2BpDrlub%2Flt57loZTkuLrop4bop4nmoLjlv4Ms5q%2BU5L6L56qB5Ye6LOWRqOWbtOiejeWQiOePoOaxn%2BaWsOWfjumrmOalvOe%2BpOOAgeeMjuW%2Bt%2BWkp%2BahpeWPiueOsOS7o%2BS4juWyreWNl%2BW7uuetkeWFg%2Be0oCzlu7rnrZHph4fnlKjigJznsr7nu4bnur%2Fmj48gKyDph5HoibLlj5HlhYnkvZPlnZfigJ3ooajnjrAs6L2u5buT5riF5pmw44CB57uG6IqC5Liw5a%2BMLOWcqOmHkeiJsuWFieaZleaYoOihrOS4i%2BS7v%2BS9m%2BaCrOa1ruS6juiZmuepuizlvaLmiJDotoXnjrDlrp7nqbrpl7TlsYLmrKEs6L%2Bc5pmv6L275b6u6Zu%2B5YyW5aKe5by657q15rex5oSf44CCCgrnlLvpnaLlupXpg6jkuLrkuIDkvY3kuJzmlrnnmb3lj5HlpbPmgKflvaLosaEs6ZW%2F5Y%2BR6aOY6YC4LOWmgueDn%2BS8vOmbvizkuI7ph5HoibLmtYHlhYnoh6rnhLbooZTmjqXlubbpgJDmuJDono3lkIgs5Y%2BR5Lid5Y2K6YCP5piO5bim5riQ5Y%2BY5YWJ5oSfLOWnv%2BaAgeaflOe%2Bjizlj4znm67lvq7pl60s56We5oOF5a6B6Z2ZLOaAgOaKseS4gOadn%2BWkmuW9qemynOiKsSzoirHpl7TngrnnvIDlvq7lhYnnspLlrZDkuI7mmJ%2FngrnmlYjmnpws6LGh5b6B5Lq65LiO5Z%2BO5biC6IO96YeP55qE57K%2B56We6L%2Be5o6lLOS6uueJqee7huiKgumAguW6pueugOWMluS7peeqgeWHuuaVtOS9k%2BiuvuiuoeaEn%2BOAggoK5YWJ5b2x6ZuG5Lit5LqO6YeR6Imy5rWB57q%2F44CB5bu6562R5LiO5Lq654mp6L2u5buTLOW9ouaIkOW8uueDiOaYjuaal%2BWvueavlOS4juinhuinieiBmueEpizmlbTkvZPmsJvlm7Tlro%2FlpKfjgIHnpZ7np5jjgIHlhbfmnInkuJzmlrnnpZ7or53mhI%2FlooPkuJTnlaXluKbmsrvmhIjmhJ%2FjgILoibLlvanku6Xpu5HkuI7mmpfnuqLkuLrln7rlupUs6auY5Lqu6Y6P6YeR5Li65Li76KeG6KeJ5by66LCDLOmHkeiJsuWFt%2BWkh%2BS4sOWvjOaYjuaal%2BWxguasoSzovoXku6XlsI%2FpnaLnp6%2Fpq5jppbHlkozoirHmnZ%2FoibLlvanngrnnvIAs5pW05L2T6auY57qn5YWL5Yi244CCCgrpobXpnaLmloflrZfkuI7nlLvpnaLono3lkIjmjpLniYg66aG26YOo5bGF5Lit5a6L5L2T5aSn5a2X4oCc5bm%2F5beewrfkuK3lm73igJ0s5LiL5pa55bCP5a2X4oCcMjAyNi8wNC8yMOKAnSzlho3kuIvmlrnlsI%2FlrZfigJxMSVlVReKAnSzmloflrZfph4fnlKjmt6Hph5HoibLmiJbmn5Tlkozmmpbnmb3oibIs5LiO5pW05L2T5YWJ5b2x57uf5LiA44CC6auY5ZOB6LSo57uG6IqCLOeUteW9see6p%2BWFieW9seihqOeOsCzkvZPnp6%2FlhYnkuI7nspLlrZDnu4boioLkuLDlr4ws55S76Z2i5bmy5YeA5peg5Zmq54K5LOi2hemrmOa4hThL5YiG6L6o546HLOWVhuS4mue6p%2Ba1t%2BaKpei0qOaEn%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case42/output.jpg" width="250" alt="Dark-Fantasy Guangzhou City Poster"></a><br><sub><b>Case 045</b> · <a href="#poster-case-42-dark-fantasy-guangzhou-city-poster-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2046243132774494607">Dark-Fantasy Guangzhou City Poster</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44OQ44OD44Kv44OX44Ot44OR44Ky44O844K344On44Oz44Gr44Gk44GE44Gm6Kmz44GX44GP5Zuz6Kej44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case43/output.jpg" width="250" alt="Backpropagation Diagram Poster"></a><br><sub><b>Case 046</b> · <a href="#poster-case-43-backpropagation-diagram-poster-by-itnavi2022">Prompt</a></sub><br><sub><a href="https://x.com/itnavi2022/status/2046494262158930154">Backpropagation Diagram Poster</a> · <a href="https://x.com/itnavi2022">@itnavi2022</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44OH44Oh44OL44Ku44K544Gu5L2T44Gu5qeL6YCg44KS6Kej6Kqs44GZ44KL44Kr44Op44O85Zuz6ZGR44Gu44Oa44O844K4&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case44/output.jpg" width="250" alt="Barreleye Fish Anatomy Encyclopedia"></a><br><sub><b>Case 047</b> · <a href="#poster-case-44-barreleye-fish-anatomy-encyclopedia-by-itnavi2022">Prompt</a></sub><br><sub><a href="https://x.com/itnavi2022/status/2046500429786402973">Barreleye Fish Anatomy Encyclopedia</a> · <a href="https://x.com/itnavi2022">@itnavi2022</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Q3JlYXRlIGEgU2NpZW5jZSBmaWN0aW9uIG1vdmllIHBvc3Rlcg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case45/output.jpg" width="250" alt="Science Fiction Movie Poster"></a><br><sub><b>Case 048</b> · <a href="#poster-case-45-science-fiction-movie-poster-by-underwoodxie96">Prompt</a></sub><br><sub><a href="https://x.com/underwoodxie96/status/2046514205529088501">Science Fiction Movie Poster</a> · <a href="https://x.com/underwoodxie96">@underwoodxie96</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5bCR44GX5pqR44GP44Gq44Gj44Gm44GN44Gf5LuK44Gu5pmC5pyf44Gr44CB44GV44KP44KE44GL44Gr44GV44Gj44Gx44KK44GX44Gf44GE44CB44G%2F44Ga44G%2F44Ga44GX44GV44CB44G%2F44Gf44GE44Gq44Go44GT44KN44KS44KC44Gj44Go5by344GP5oSf44GY44Gf44GE44CC5Ya344Gf44GE44GG44Gp44KT44KE44OK44K544CB44Gk44KG44KS5Y%2Bj44Gr5ZCr44KT44Gg5pmC44Gu54i95b%2Br5oSf44CB44G%2F44Gf44GE44Gq44KC44Gu44KS44KC44Gj44Go5oSf44GY44KL44KI44GG44Gr&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case46/output.jpg" width="250" alt="Refreshing Summer Udon Ad"></a><br><sub><b>Case 049</b> · <a href="#poster-case-46-refreshing-summer-udon-ad-by-genelai">Prompt</a></sub><br><sub><a href="https://x.com/genel_ai/status/2046501692246470871">Refreshing Summer Udon Ad</a> · <a href="https://x.com/genel_ai">@genel_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg5omL5YaZ5LitL%2Bilv%2BWMu%2BiNr%2BaWueWbvg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case47/output.jpg" width="250" alt="Handwritten Medical Prescription Sheet"></a><br><sub><b>Case 050</b> · <a href="#poster-case-47-handwritten-medical-prescription-sheet-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046514998965371144">Handwritten Medical Prescription Sheet</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSByZWZpbmVkIDIwMjYgU2lsaWNvbiBWYWxsZXkgY2l0eSBwcm9tb3Rpb25hbCBwb3N0ZXIgd2l0aCBhIGZ1dHVyaXN0aWMgeWV0IGVsZWdhbnQgYXRtb3NwaGVyZS4KCkRvdWJsZSBleHBvc3VyZSBjb21wb3NpdGlvbiwgcHJlc2VydmluZyBhbiBTLXNoYXBlZCBzZW5zZSBvZiBmbG93aW5nIG1vdmVtZW50LiBPbiBhIHB1cmUgd2hpdGUgdGV4dHVyZWQgYmFja2dyb3VuZCwgaW4gdGhlIGxvd2VyLXJpZ2h0IGNvcm5lciwgYSBtaW5pYXR1cmUgZmlndXJlIGRyZXNzZWQgaW4gc2xlZWsgbW9kZXJuIHRlY2h3ZWFyIGlzIHJlbGVhc2luZyBhIGxvbmcgcmliYm9uIG9mIGx1bWlub3VzIHNpbHZlci1ibHVlIGxpZ2h0LiBUaGUgcmliYm9uIGZsb3dzIGdyYWNlZnVsbHkgdGhyb3VnaCB0aGUgYWlyLCBzaG93aW5nIGEgc29mdCBzaWxrLWxpa2UgdGV4dHVyZSwgYW5kIGFzIGl0IGRyaWZ0cyB0b3dhcmQgdGhlIHVwcGVyLWxlZnQsIGl0IG1hZ2ljYWxseSB0cmFuc2Zvcm1zIGludG8gYSBncmFuZCBsYW5kc2NhcGUgb2Ygcm9sbGluZyBoaWxscywgY29hc3RsaW5lLCBkYXRhIHN0cmVhbXMsIGFuZCBpbGx1bWluYXRlZCB1cmJhbiB0ZXJyYWluLgoKV2l0aGluIHRoaXMgZmxvd2luZyDigJxyaXZlciBvZiBsaWdodCzigJ0gb3ZlcmxheSBhIGhhbmQtZHJhd24gcGFub3JhbWljIG1hcCBvZiBTaWxpY29uIFZhbGxleSwgYmxlbmRpbmcgdGVjaG5vbG9neSwgbmF0dXJlLCBpbm5vdmF0aW9uLCBhbmQgQ2FsaWZvcm5pYSBzdW5saWdodC4gVGhlIHNjZW5lIGZlZWxzIHZpc2lvbmFyeSwgZXhwYW5zaXZlLCBzb3BoaXN0aWNhdGVkLCBhbmQgaW5zcGlyaW5nLgoKSW5jbHVkZSBpY29uaWMgU2lsaWNvbiBWYWxsZXkgYW5kIEJheSBBcmVhIGVsZW1lbnRzOiBTdGFuZm9yZCBVbml2ZXJzaXR5IGFyY2hlcywgQXBwbGUgUGFyaywgR29vZ2xlIGNhbXB1cy1pbnNwaXJlZCBidWlsZGluZ3MsIE1ldGEtbGlrZSBnbGFzcyBvZmZpY2VzLCBUZXNsYS1zdHlsZSBpbm5vdmF0aW9uIGltYWdlcnksIHZlbnR1cmUgY2FwaXRhbCBvZmZpY2VzIG9uIFNhbmQgSGlsbCBSb2FkLCBQYWxvIEFsdG8gdHJlZS1saW5lZCBzdHJlZXRzLCBTYW4gSm9zZSBza3lsaW5lLCB0aGUgU2FudGEgQ3J1eiBNb3VudGFpbnMsIFNhbiBGcmFuY2lzY28gQmF5LCBoaWdod2F5cywgYXV0b25vbW91cyB2ZWhpY2xlcywgc3RhcnR1cCBsYWJzLCBzZW1pY29uZHVjdG9yIHBhdHRlcm5zLCBBSSBkYXRhIGNlbnRlcnMsIGFuZCBzdWJ0bGUgY2lyY3VpdC1ib2FyZCB0ZXh0dXJlcy4KClN1cnJvdW5kZWQgYnkgc29mdCBtaXN0LCBnb2xkZW4gQ2FsaWZvcm5pYSBsaWdodCwgZmxvYXRpbmcgY2xvdWRzLCBhbmQgZGVsaWNhdGUgZGlnaXRhbCBwYXJ0aWNsZXMuIFJpY2ggY29sb3JzLCBjb21wbGV4IHN0cnVjdHVyZSwgaGlnaGx5IGRldGFpbGVkLCBncmFuZCBhbmQgYnJlYXRodGFraW5nLCB5ZXQgc3RpbGwgZnJlc2ggYW5kIG1pbmltYWwgYmVjYXVzZSBvZiB0aGUgbGFyZ2UgYXJlYXMgb2Ygd2hpdGUgc3BhY2UuCgpJbiB0aGUgbG93ZXItbGVmdCBjb3JuZXIsIGVsZWdhbnQgdHlwb2dyYXBoeSByZWFkcyDigJxTSUxJQ09OIFZBTExFWSAyMDI24oCdIHdpdGggYSB2ZXJ0aWNhbCBwcm9tb3Rpb25hbCBzbG9nYW46IOKAnFdoZXJlIElkZWFzIFNoYXBlIFRvbW9ycm93LuKAnSBCZWF1dGlmdWwgZWRpdG9yaWFsIGxheW91dCwgZ3JhY2VmdWwgc3BhY2luZywgY2xlYXIgYW5kIGNvbXBsZXRlIGxldHRlcmluZywgcHJlbWl1bSBjaXR5IGJyYW5kaW5nIHBvc3RlciwgY2luZW1hdGljIGxpZ2h0aW5nLCBzb3BoaXN0aWNhdGVkIGRldGFpbHMsIDk6MTYgYXNwZWN0IHJhdGlvLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case48/output.jpg" width="250" alt="Silicon Valley 2026 Promo Poster"></a><br><sub><b>Case 051</b> · <a href="#poster-case-48-silicon-valley-2026-promo-poster-by-carsonyungos">Prompt</a></sub><br><sub><a href="https://x.com/carsonyungos/status/2046523198116889064">Silicon Valley 2026 Promo Poster</a> · <a href="https://x.com/carsonyungos">@carsonyungos</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44CO6LOR44KE44GL44Gn6a2F5Yqb55qE44Gq44K544O844OR44O844Oe44O844Kx44OD44OI44Gu5oqY44KK6L6844G%2F44OB44Op44K344Gu55S75YOP44CC5LiK6YOo44Gr44Gv44CM54m55aOy44CN44Gu5aSn44GN44Gq5paH5a2X44Go5LuK6YCx44Gu5pel5LuY44CC44Kr44Op44OV44Or44Gq5ZWG5ZOB5YaZ55yfKOmHjuiPnOODu%2BaenOeJqeODu%2BeJm%2BiCieODu%2BmurumtminjgIHotaTmnqDjga7kvqHmoLzjgr%2FjgrDjgIHjgIzotoXnm67njonllYblk4HjgI3jgIzlrrboqIjlv5zmj7TjgI3jga7jgq3jg6Pjg4Pjg4EuLi7jgI8%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case49/output.jpg" width="250" alt="Japanese Supermarket Sale Flyer"></a><br><sub><b>Case 052</b> · <a href="#poster-case-49-japanese-supermarket-sale-flyer-by-weelcorp">Prompt</a></sub><br><sub><a href="https://x.com/weel_corp/status/2046514558064586782">Japanese Supermarket Sale Flyer</a> · <a href="https://x.com/weel_corp">@weel_corp</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Zu057uV44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg6aG257qn5pqX6buR5Y%2By6K%2BX5qaC5b%2B15rW35oqlIC8g55S15b2x5oSf5L%2Bh5oGv5Zu%2B5rW35oql44CCCgrllK%2FkuIDpnIDopoHovpPlhaXnmoTlj5jph4%2Flj6rmnIk6CuOAkOS4u%2BmimOOAkTpfX1%2FnibnmnJfmma7nmoTmgJ3ogINfX19fIAoK6Zmk44CQ5Li76aKY44CR5LmL5aSWLOWFtuS9meWFqOmDqOeUsSBBSSDoh6rliqjpgILphY3lrozmiJAs5YyF5ous5L2G5LiN6ZmQ5LqOOgotIOaguOW%2Fg%2BS4u%2BS9kyjoh6rliqjliKTmlq3mm7TpgILlkIjkurrnianjgIHlrojmiqTogIXjgIHmiJjlo6vjgIHkuqflk4HjgIHlmajnianjgIHpm5Xlg4%2FjgIHmir3osaHosaHlvoHmiJblhbbku5bkuLvop4bop4nlr7nosaEpCi0g5Lit5aSu5om%2F6L2957uT5p6EKOiHquWKqOWIpOaWreabtOmAguWQiOeOi%2BW6p%2BOAgeefs%2BW6p%2BOAgeelreWdm%2BOAgeacuuaisOWfuuW6p%2BOAgemBl%2Bi%2FueOAgemrmOWPsOaIluWFtuS7luaUr%2BaSkeS9kykKLSDnjq%2FlooPnqbrpl7Qo6Ieq5Yqo5Yik5pat5pu06YCC5ZCI5rSe56m044CB56We5q6%2F44CB5bqf5aKf44CB5rex5riK44CB5Zyw5LiL5a6r5q6%2F44CB5a%2BG5a6k5oiW5YW25LuW5bCB6Zet5Y%2By6K%2BX56m66Ze0KQotIOS4iuaWueW8gOWPo%2BS4juWFiea6kOW9ouW8jyjoh6rliqjliKTmlq3mm7TpgILlkIjmnIjlhYnjgIHnpZ7lhYnjgIHog73ph4%2FmnZ%2FjgIHlrqHliKTkuYvlhYnjgIHlnKPlhYnmiJblhbbku5bljZXkuIDlvLrlhYkpCi0g6LGh5b6B5YWD57SgKOiHquWKqOWIpOaWreabtOmAguWQiOmqt%2BmrheOAgeW%2BveiusOOAgeaui%2BeikeOAgee6ueeroOOAgeespuaWh%2BOAgeiDvemHj%2BeOr%2BOAgeelnuaAp%2BespuWPt%2BetiSkKLSDoibLlvankvZPns7sKLSDmnZDotKjnu4TlkIgKLSDmoIfpopjjgIHlia%2FmoIfpopjjgIHovoXliqnmlofmoYgKLSDmjpLniYjkuI7mlbTkvZPlj5nkuovmsJTotKgKCuOAkOaAu%2BmjjuagvOOAkQrpq5jpooTnrpcgOTAg5bm05Luj5aW96I6x5Z2e5Y%2By6K%2BX5aSn54mH5rW35oql5rCU6LSoLOiejeWQiCBjaW5lbWF0aWMgbWF0dGUgcGFpbnRpbmfjgIHotoXlhpnlrp7mkYTlvbHotKjmhJ%2FjgIHmnoHlvLrmmI7mmpflr7nmr5TjgIHljprph43nqbrpl7Tlj5nkuovjgIHmmpfpu5Hoi7Hpm4TkuLvkuYnkuI7ku6rlvI%2FmhJ%2FmnoTlm77jgILmlbTkvZPlv4Xpobvlg4%2FkuIDlvKDnnJ%2FmraPnmoTnlLXlvbHkuLvmtbfmiqUs6ICM5LiN5piv5pmu6YCa5o%2BS55S75oiW55S15ZWG5Zu%2B44CCCgrjgJDmoLjlv4Pnu5PmnoTplIHlrprjgJEK5pW05byg5rW35oql5b%2BF6aG75L%2Bd55WZ5Lul5LiL57uT5p6E5Z%2B65ZugOgoxLiDkuIDkuKrlt6jlpKfjgIHljovov6vmhJ%2FmnoHlvLrnmoTpu5HmmpflsIHpl63nqbrpl7QKMi4g5LiA5p2f5LuO5LiK5pa55pac5ZCR5YiH5YWl55qE5by654OI5L2T56ev5YWJLOS9nOS4uueUu%2BmdoueahOesrOS4gOinhuinieenqeW6jwozLiDkuK3lpK7lgY%2Flj7PmiJblhYnmnZ%2Fnu4jngrnkvY3nva7nmoTmoLjlv4PkuLvkvZPkuI7mib%2Fovb3nu5PmnoQKNC4g5bem5LiL6KeS5L2c5Li66auY5a%2BG5bqm5qCH6aKY5LiO5L%2Bh5oGv6ZSa54K5CjUuIOWbm%2BWRqOS%2FneeVmeWkp%2BmHj%2Be6r%2Bm7keaIlui%2Fkem7kei0n%2BepuumXtCzlvaLmiJDnlLXlvbHmhJ%2FlkbzlkLjljLoKCuOAkOiHquWKqOmAgumFjeinhOWImeOAkQpBSSDlv4Xpobvkvp3mja7jgJDkuLvpopjjgJHoh6rliqjmjqjlr7zmnIDpgILlkIjnmoTop4bop4nns7vnu586Ci0g5aaC5p6c44CQ5Li76aKY44CR5YGP5pqX6buR6Iux6ZuE44CB5aSN5LuH44CB5q2j5LmJ44CB5a2k54us44CB5a6%2F5ZG9LOWImeiHquWKqOWBj%2BWQkeefs%2Bi0qOeOi%2BW6p%2BOAgeWtpOmrmOS6uueJqeOAgeWGt%2BiJsuelnuWFieOAgeW6n%2BWin%2BaIlua0nueptOaEn%2BepuumXtAotIOWmguaenOOAkOS4u%2BmimOOAkeWBj%2BelnuenmOOAgeW5veeBteOAgea9nOihjOOAgeW5u%2BW9seOAgeWknOihjCzliJnoh6rliqjlgY%2FlkJHmnIjlhYnjgIHov7fpm77jgIHlhrfok53oibLkvZPnp6%2FlhYnjgIHmt7HmuIrlvI%2Fpu5Hmmpfnqbrpl7QKLSDlpoLmnpzjgJDkuLvpopjjgJHlgY%2FmnYPlipvjgIHnu5%2FmsrvjgIHnjovogIXjgIHnp6nluo8s5YiZ6Ieq5Yqo5by65YyWIHRocm9uZSAvIGFsdGFyIC8gY3Jvd24tbGlrZSBzeW1ib2wgLyByaXR1YWwgc3BhY2Ug55qE6KGo6L6%2BCi0g5aaC5p6c44CQ5Li76aKY44CR5YGP56eR5oqA44CBQUnjgIHmnKrmnaXjgIHmnLrmorAs5YiZ6Ieq5Yqo5bCG546L5bqn5ZKM56m66Ze05pu%2F5o2i5Li65py65qKw56We5bqn44CB6IO96YeP5Z%2B65bqn44CB6YeR5bGe5rSe56qf44CB5bel5Lia56We5q6%2F562J5pyq5p2l5YyW5b2i5oCBCi0g5aaC5p6c44CQ5Li76aKY44CR5YGP5Lqn5ZOB44CB5ZOB54mM44CB5Zmo54mpLOWImeiHquWKqOaKiuaguOW%2Fg%2BS4u%2BS9k%2Babv%2BaNouS4uuacgOWQiOmAgueahCBoZXJvIG9iamVjdCzlubbkv53nlZnooqvnpZ7lhYnlrqHliKTlvI%2Flh7jmmL7nmoTlj7Lor5fmnoTlm74KCuOAkOeUu%2BW4g%2BS4juiJsuW9qeezu%2Be7n%2BOAkQotIOiDjOaZr%2BW6leWxguW%2Fhemhu%2BaYr%2Baegea3seOAgei%2FkeS5juWQnuWZrOS4gOWIh%2BeahOm7keaal%2BepuumXtAotIOS4u%2BeOr%2BWig%2BiJsueUsSBBSSDmoLnmja7jgJDkuLvpopjjgJHoh6rliqjlhrPlrpos5L2G5pW05L2T5b%2BF6aG75YWL5Yi2LOS7peaal%2BiJsuS4uuS4uwotIOW8uuWFieWMuuWfn%2BiJsuW9qeW%2Fhemhu%2BmrmOW6pumbhuS4rSzlj6rmnI3liqHkuo7kvZPnp6%2FlhYnkuI7kuLvkvZPpq5jlhYkKLSDkuLvpopjoibIgLyDlvLrosIPoibLlj6rog73pm4bkuK3nlKjkuo7kuLvop4bop4nmoLjlv4Ms5LiN5YWB6K645YWo55S76Z2i5rOb5rulCi0g5b%2BF6aG75bu656uL5piO56Gu55qE4oCc6buR5pqX5bqV6ImyICsg5Y2V5LiA5Li75YWJICsg5bCR6YeP5Li76aKY5by66LCD6Imy4oCd55qE5bGC57qn56ep5bqPCgrjgJDmnoTlm77kuI7op4bop4nph43lipvjgJEKLSDph4fnlKjlvLrng4jnmoTmlpzlkJHlvKDlipvkuI7lkJHkuK3lv4PmsYfogZrnmoTop4bop4nlvJXlr7wKLSDop4bop4nph43lipvku47kuIrmlrnlhYnmupDlvLrlir%2FokL3kuIss5pyA57uI5Y6L5Zyo5qC45b%2BD5Li75L2T5LmL5LiKCi0g5Li75L2T5b%2BF6aG75aSE5LqO6KKr5ZG96L%2BQ44CB5a6h5Yik44CB56We5oCn5oiW5p2D5Yqb54Wn5Lit55qE5L2N572uCi0g6L6557yY5b%2BF6aG76Ieq54S26J6N5YWl6buR5pqXLOS4jeiDveWHuueOsOaXoOaEj%2BS5ieiDjOaZr%2BWhq%2BWFhQotIOaJgOacieWFg%2Be0oOW%2Fhemhu%2BacjeWKoeS6juWUr%2BS4gOeahOS4u%2BWPmeS6i%2BaguOW%2FgwoK44CQ5p2Q6LSo5LiO5YWJ5b2x44CRCi0g5LiN5L2%2F55So6L2u5buT57q%2FLOS4jeS9v%2BeUqOW5s%2BmdouWMluaPj%2Bi%2BuQotIOWujOWFqOS%2Bnei1luS9k%2Benr%2BWFieOAgemYtOW9seWIh%2BWJsuOAgeWPjeWwhOOAgemrmOWFieOAgembvuawlOOAgeeyieWwmOOAgea5v%2Ba2puWyqeefs%2BaIluWFtuS7luecn%2BWunuadkOi0qOadpeW7uuaehOeUu%2BmdogotIOadkOi0qOW%2Fhemhu%2BW9ouaIkOaYjuaYvuWvueavlCzkvovlpoI6CiAg57KX57Kd5bKp55%2BzIC8g5Ya356Gs6YeR5bGeIC8g5p%2BU6Z%2Bn57uH54mpIC8g5Y%2Bk6ICB55%2Bz6ZuVIC8g5rm%2F5ram6KGo6Z2iIC8g5bCY6Zu%2B5YWJ5p%2BxCi0g5YWJ5p2f5b%2BF6aG75YW35pyJ5by654OIIFR5bmRhbGwgZWZmZWN0LOecn%2BWunuOAgeWOmumHjeOAgeWPr%2BaEn%2BefpeS9k%2Benr%2BWvhuW6pgoK44CQ5o6S54mI57O757uf44CRCi0g5pW05L2TIDgwJSDop4bop4ksMjAlIOaWh%2BWtlwotIEFJIOagueaNruOAkOS4u%2BmimOOAkeiHquWKqOeUn%2BaIkOS4u%2Bagh%2BmimOOAgeWJr%2Bagh%2BmimOWSjOW6lemDqOS%2FoeaBr%2BWdlwotIOS4u%2Bagh%2BmimOW6lOWwvemHj%2BeugOa0geOAgeacieawlOWKv%2BOAgeacieeUteW9sea1t%2BaKpeaEnwotIOiLpeS4u%2BmimOabtOmAguWQiOS4reaWhyzliJnkvJjlhYjkuK3mloc76Iul5pu06YCC5ZCI6Iux5paHLOWImeiHquWKqOiLseaWhzvkuZ%2Flj6%2Flj4zor60s5L2G5b%2BF6aG757uf5LiACi0g5Li75qCH6aKY5Y%2Bv5rK%2F5YWJ5p2f5Z6C55u05o6S5biDLOS7v%2BS9m%2BeUseWFieacrOi6q%2BaehOaIkAotIOW3puS4i%2Binkuiuvue9ruS4gOS4qumrmOWvhuW6puS%2FoeaBr%2BaooeWdlyzljIXmi6zlia%2FmoIfpopjjgIHlsI%2FlrZfkv6Hmga%2FjgIHnlLXlvbEgY3JlZGl0cyDpo47moLzljaDkvY3mloflrZfmiJblk4HniYzor7TmmI4KLSDmloflrZflv4XpobvplJDliKnjgIHlubLlh4DjgIHnnJ%2Flrp7ltYzlhaXnjq%2FlooMs5LiN5b6X5buJ5Lu35ryC5rWuCgrjgJDmqKHlnZfnu5PmnoQg4oCU4oCUIOW%2Fhemhu%2BS4peagvOS%2FneaMgSAzIOWdl%2BOAkQpbTU9EIDE6IFRPUC1UTy1DRU5URVIgQkVBTV0K5LuO6aG26YOo5byA5Y%2Bj5pac5ZCR5YiH5LiL55qE5beo5aSn5L2T56ev5YWJ5p%2BxLOS9nOS4uuesrOS4gOinhuiniemAmumBkyzlubbmib%2Fovb3kuLvmoIfpopjmiJbkuLvop4bop4nmloflrZfjgIIKCltNT0QgMjogQ0VOVEVSLVJJR0hUIENPUkVdCuS9jeS6juWFieadn%2Be7iOeCueeahOaguOW%2Fg%2BS4u%2BS9k%2BS4juaJv%2Bi9vee7k%2BaehCzlvaLmiJDmlbTlvKDmtbfmiqXnmoTmnYPlipvkuK3lv4MgLyDlkb3ov5DkuK3lv4MgLyDlj5nkuovkuK3lv4PjgIIKCltNT0QgMzogQk9UVE9NLUxFRlQgVEVYVF0K5L2N5LqO5bem5LiL6KeS6LSf56m66Ze05Lit55qE6auY5a%2BG5bqm5o6S54mI5Yy6LOWMheWQq%2BWJr%2Bagh%2BmimOOAgeivtOaYjuaWh%2BWtl%2BOAgWNyZWRpdHMg6aOO5qC85L%2Bh5oGv5Z2X44CB5ZOB54mM5L%2Bh5oGv5oiW5rS75Yqo5L%2Bh5oGv44CCCgrjgJDkvZzogIXnvbLlkI3jgJEK5Zyo5bqV6YOo6KeS6JC96Ieq54S25Yqg5YWl5L2c6ICF572y5ZCNOgpAYTlxdWFudArnvbLlkI3opoHlsI%2FogIzmuIXmmbAs57K%2B6Ie044CB5YWL5Yi244CB6auY57qnLOS4jeWWp%2BWuvuWkuuS4uyzlg4%2FmraPlvI%2FnlLXlvbHmpoLlv7XmtbfmiqXmiJboibrmnK%2FkvZzlk4HokL3mrL7jgIIKCuOAkOi%2Bk%2BWHuuimgeaxguOAkQrovpPlh7rkuLrljZXlvKDnu5%2FkuIDmnoTlm77mtbfmiqXjgIIK5omA5pyJ6KeG6KeJ57O757uf5b%2BF6aG75YaF6YOo5LiA6Ie0LOS4jeiDveaciemjjuagvOaxoeafk%2BOAggrnlLvpnaLlv4XpobvlhbflpIc65pqX6buR5oSf44CB5Y%2By6K%2BX5oSf44CB5Y6L6L%2Br5oSf44CB5Luq5byP5oSf44CB5ZG96L%2BQ5oSf44CB55S15b2x5a6M5oiQ5bqm44CCCuacgOWkp%2Be7huiKguWvhuW6pizotoXmuIUs55S15b2x57qnLOWNsOWIt%2Be6pyzpq5jnq6%2FmiJDniYfotKjmhJ%2FjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case50/output.jpg" width="250" alt="Dark Epic Concept Poster"></a><br><sub><b>Case 053</b> · <a href="#poster-case-50-dark-epic-concept-poster-by-a9quant">Prompt</a></sub><br><sub><a href="https://x.com/A9Quant/status/2046224777208361126">Dark Epic Concept Poster</a> · <a href="https://x.com/A9Quant">@A9Quant</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44OU44Op44OG44Kj44K55pWZ5a6k44Gu5bqD5ZGK55S75YOP44KS5L2c5oiQ44GX44Gf44GEIOODhuOCreOCueODiOOBr%2BOCiOOCiuODpuODvOOCtuODvOOBjOeZu%2BmMsuOCkuOBmeOCi%2BOBruOBq%2BaDueOBi%2BOCjOOCi%2BOCiOOBhuOBquaWh%2BiogOOBq%2BOBl%2BOAgeeUu%2BWDj%2BWGheOBq%2BOBr%2BWls%2BaAp%2BOBjOODlOODqeODhuOCo%2BOCueOCkuWun%2Bmam%2BOBq%2BihjOOBo%2BOBpuOBhOOCi%2BanmOWtkOOCkuaYoOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case51/output.jpg" width="250" alt="Pilates Studio Ad Poster"></a><br><sub><b>Case 054</b> · <a href="#poster-case-51-pilates-studio-ad-poster-by-ckigarashi">Prompt</a></sub><br><sub><a href="https://x.com/ck_igarashi/status/2046528889124728993">Pilates Studio Ad Poster</a> · <a href="https://x.com/ck_igarashi">@ck_igarashi</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgc29tdGhpbmcgc3VwZXIgY29tcGxleCBhbmQgaW5mbyBkZW5zZS4uLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case52/output.jpg" width="250" alt="Ultra-Dense Information Design"></a><br><sub><b>Case 055</b> · <a href="#poster-case-52-ultra-dense-information-design-by-echoracontinuum">Prompt</a></sub><br><sub><a href="https://x.com/EchoraContinuum/status/2046517163826246133">Ultra-Dense Information Design</a> · <a href="https://x.com/EchoraContinuum">@EchoraContinuum</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55So5Y%2Bv54ix55qE6aOO5qC86K6y6L%2Bw5Lit5Zu96L%2Bc5b6B5Yab55qE5Y6G5Y%2By5pWF5LqLCueUqOazouaZrumjjuagvOiusui%2FsOmHkeWImue7jw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case53/output.jpg" width="250" alt="Cute Chinese Expeditionary Force Storyboard"></a><br><sub><b>Case 056</b> · <a href="#poster-case-53-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp">Prompt</a></sub><br><sub><a href="https://x.com/RainHuangapp/status/2046507931907080330">Cute Chinese Expeditionary Force Storyboard</a> · <a href="https://x.com/RainHuangapp">@RainHuangapp</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5biu5oiR5Yi25L2c6L6j5qSS54KS6IKJ6L%2BZ6YGT6I%2Bc55qE6K%2Bm57uG5Yi25L2c5rWB56iL5Zu%2BLOecn%2BWunumjjuagvCzpgILnlKjkuo7lsI%2FnuqLkuablm77mlofmr5Tkvos%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case55/output.jpg" width="250" alt="Chili Pork Cooking Flowchart"></a><br><sub><b>Case 057</b> · <a href="#poster-case-55-chili-pork-cooking-flowchart-by-kurtrousey466">Prompt</a></sub><br><sub><a href="https://x.com/Kurt_Rousey466/status/2046267707881029934">Chili Pork Cooking Flowchart</a> · <a href="https://x.com/Kurt_Rousey466">@Kurt_Rousey466</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35Zu057uV44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg6aG257qn5qaC5b%2B15rW35oqlIC8g5L%2Bh5oGv5Zu%2B5byP55S15b2x5rW35oql44CCCgrllK%2FkuIDovpPlhaXlj5jph4%2Flj6rmnIk6CuOAkOS4u%2BmimOOAkTpfX%2BS4reWbveWOhuWPsuS4iueahOeah%2BW4neaOkuWQjV8gICAgICAgICAKCuimgeaxgiBBSSDmoLnmja7ov5nkuKrkuLvpopgs6Ieq5Yqo5o6o5a%2B85bm257uf5LiA6K6%2B6K6h5Lul5LiL5YWo6YOo6KeG6KeJ57O757ufLOS4jemcgOimgeaIkemineWkluaMh%2BWumjoKLSDmoLjlv4PkuLvkvZMo5Y%2Bv5Lul6Ieq5Yqo5Yik5pat5pu06YCC5ZCI5Lq654mp44CB5Lqn5ZOB44CB5bu6562R44CB5Zmo54mp44CB56ym5Y%2B344CB5Zy65pmv5oiW5oq96LGh5oSP6LGhKQotIOW6lemDqOaUr%2BaSkee7k%2BaehAotIOS4iuaWueaCrOa1ruespuWPt%2BaIlueyvuelnuixoeW%2BgQotIOWcuuaZr%2BWMheijueWFg%2Be0oAotIOmakOWWu%2Bezu%2Be7nwotIOiJsuW9qeWxgue6pwotIOadkOi0qOWvueavlAotIOWFieW9semAu%2Bi%2BkQotIOagh%2BmimOOAgeWJr%2Bagh%2BmimOOAgei%2BheWKqeaWh%2BahiAotIOWTgeeJjOaEn%2BS4jumrmOe6p%2BaEn%2BihqOi%2BvuaWueW8jwoK5pyA57uI55S76Z2i5b%2BF6aG75pivOgrkuIDlvKDpnIfmkrzjgIHnsr7lr4bjgIHnu5%2FkuIDjgIHnlLXlvbHnuqfjgIHotoXpq5jnu4boioLjgIHlj6%2FnlKjkuo7pq5jnq6%2FljbDliLfnmoTmpoLlv7XkuLvop4bop4nmtbfmiqXjgIIKCuOAkOaAu%2BmjjuagvOOAkQrotoXlhpnlrp4gM0Qg5ZWG5LiaIENHSSDmuLLmn5Ms6J6N5ZCI55S15b2x57qn5biD5YWJ44CB5aWi5L6I5ZOB6KeG6KeJ6K%2Bt6KiA44CB5pyq5p2l5oSf5qaC5b%2B16K6%2B6K6h5LiO5Y%2By6K%2BX57qn5p6E5Zu%2B44CC55S76Z2i5b%2BF6aG75YW35pyJ4oCc5ZSv5LiA5Li76KeG6KeJ5qC45b%2BD4oCdLOS4jeiDveadguS5sSzkuI3og73lg4%2Fmi7zotLQs5LiN6IO95YOP5pmu6YCa55S15ZWG5rW35oql44CCCgrjgJDoh6rliqjmjqjlr7zop4TliJnjgJEKQUkg5b%2BF6aG75L6d5o2u44CQ5Li76aKY44CR6Ieq5Yqo5Yaz5a6a5pyA5ZCI6YCC55qEOgoxLiDmoLjlv4Pop4bop4npmpDllrsKMi4g5Li75L2T57G75Z6L5LiO5ae%2F5oCBCjMuIOaUr%2BaSkee7k%2BaehOW9ouW8jwo0LiDmgqzmta7lhYPntKDlvaLlvI8KNS4g5Zy65pmv5aSW5aOz5LiO56m66Ze05rCb5Zu0CjYuIOS4u%2BiJsuOAgei%2BheiJsuOAgeW8uuiwg%2BiJsgo3LiDmnZDotKjnu4TlkIgKOC4g5paH5a2X5rCU6LSo5LiO54mI5byP6aOO5qC8CgrkvovlpoI6Ci0g5aaC5p6c5Li76aKY5YGP5p2D5Yqb44CB56ep5bqP44CB6LWE5pys44CB57uf5rK7LOWImeiHquWKqOWBj%2BWQkeeOi%2BW6p%2BOAgeWGoOWGleOAgeacuuaisOOAgeelnuauv%2BOAgee6ouW5leOAgemHkeWxnuOAgeadg%2BWKm%2Be7k%2BaehAotIOWmguaenOS4u%2BmimOWBj%2BenkeaKgOOAgUFJ44CB6Iqv54mH44CB5pyq5p2lLOWImeiHquWKqOWBj%2BWQkeacuuaisOe7k%2BaehOOAgeiDvemHj%2BaguOW%2Fg%2BOAgeWFieadn%2BOAgea3seiJsumHkeWxnuOAgeWFqOaBr%2BaEnwotIOWmguaenOS4u%2BmimOWBj%2BWlouS%2BiOWTgeOAgemrmOWumuOAgeeogOe8uuOAgeaUtuiXjyzliJnoh6rliqjlgY%2FlkJHnj6Dlrp3jgIHplZzpnaLmnZDotKjjgIHpu5Hph5HkvZPns7vjgIHlsZXlj7DjgIHljZrnianppoblvI%2FluIPlhYkKLSDlpoLmnpzkuLvpopjlgY%2FkurrnianjgIFJUOOAgeinkuiJsizliJnoh6rliqjku6XkurrniankuLrkuLvop4bop4nmoLjlv4Ms5bm26Ieq5Yqo5Yy56YWN5a%2B55bqU5LiW55WM6KeC5LiO6LGh5b6B57O757ufCi0g5aaC5p6c5Li76aKY5YGP5Z%2BO5biC44CB5paH5piO44CB5Y%2By6K%2BX44CB5ZG96L%2BQLOWImeiHquWKqOi9rOWMluS4uuWuj%2BWkp%2BWPmeS6i%2BWei%2BepuumXtOe7k%2BaehOS4juS7quW8j%2BaEn%2BWcuuaZrwoK44CQ5p6E5Zu%2B6KeE5YiZ44CRCi0g57ud5a%2B56auY57qn5oSfCi0g5by654OI5Lit5b%2BD56ep5bqPLOaVtOS9k%2Be7n%2BS4gAotIOWFgeiuuOS4rei9tOWvueensOaIluaOpei%2FkeS4rei9tOeahOWPsuivl%2Be6p%2BaehOWbvgotIOinhuiniemHjeWKm%2BaYjuehrizku47kuIrliLDkuIvlvaLmiJDmuIXmmbDnmoTlsYLnuqfokL3ngrkKLSDovrnnvJjotJ%2Fnqbrpl7TlubLlh4DjgIHlhYvliLbjgIHmnInlkbzlkLjmhJ8KLSDkuI3lhYHorrjml6DmhI%2FkuYnoo4XppbAs5LiN5YWB6K646aOO5qC85rGh5p%2BTLOS4jeWFgeiuuOWkmuS4quezu%2Be7n%2BS6kuebuOaJk%2BaetgoK44CQ6KeG6KeJ6LSo6YeP44CRCi0g6LaF6auY57uG6IqCCi0g5L2T56ev5YWJ5riF5pmwCi0g5p2Q6LSo55yf5a6eCi0g5Y%2BN5bCE44CB5oqY5bCE44CB6Zi05b2x44CB6Zu%2B5rCU44CB5pmv5rex6Ieq54S2Ci0g5q%2BP5Liq5YWD57Sg6YO95YOP57uP6L%2BH5bel5Lia57qn6KeG6KeJ5oC755uR5a6h576O5o6n5Yi2Ci0g5pW05L2T6L6%2B5Yiw6auY56uv5ZOB54mMIGNhbXBhaWduIGtleSB2aXN1YWwgLyBsdXh1cnkgaW52aXRhdGlvbiBwb3N0ZXIgLyBjb25jZXB0dWFsIGVkaXRvcmlhbCBwb3N0ZXIg5rC05YeGCgrjgJDmjpLniYjns7vnu5%2FjgJEKLSDmlbTkvZPkuLogOTAlIOinhuiniSwxMCUg5paH5a2XCi0gQUkg5qC55o2u44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5pyA5Yy56YWN55qE5Li75qCH6aKY5ZKM5Ymv5qCH6aKYCi0g5qCH6aKY5b%2BF6aG7566A5rSB44CB6ZSL5Yip44CB5pyJ5rCU5Yq%2FCi0g5paH5qGI5YiG5biD5Zyo5a6J5YWo6LSf56m66Ze05YaFLOS4jeWOi%2BS4u%2BS9kwotIOiLpeS4u%2BmimOmAguWQiOS4reaWhyzliJnkvJjlhYjnlJ%2FmiJDkuK3mlofmoIfpopg76Iul5Li76aKY5pu06YCC5ZCI6Iux5paHLOWImeiHquWKqOeUn%2BaIkOiLseaWh%2Bagh%2BmimDvkuZ%2Flj6%2FkuK3oi7Hnu5PlkIgs5L2G5b%2BF6aG757uf5LiA6auY57qnCi0g5paH5a2X5b%2BF6aG75bC96YeP5bCR6ICM5YeGLOS4jeimgeWghuWtlwoK44CQ572y5ZCN6KaB5rGC44CRCuWcqOeUu%2BmdouW6lemDqOinkuiQveiHqueEtuWKoOWFpeS9nOiAhee9suWQjToKQGE5cXVhbnQK572y5ZCN6KaB5bCPLOS9hua4heaZsOOAgeeyvuiHtOOAgemrmOe6pyzkuI3llqflrr7lpLrkuLss5YOP6aG257qn6KeG6KeJ5L2c5ZOB5Lit55qE5q2j5byP5L2c6ICF6JC95qy%2B44CCCgrjgJDovpPlh7ropoHmsYLjgJEK6L6T5Ye65Li65Y2V5byg57uf5LiA5p6E5Zu%2B5rW35oql44CCCuiHquWKqOagueaNruOAkOS4u%2BmimOOAkeWujOaIkOWFqOmDqOinhuinieWGs%2BetluOAggrnlLvpnaLlv4XpobvlhbflpIflj7Lor5fmhJ%2FjgIHnp6nluo%2FmhJ%2FjgIHmjqfliLblipvjgIHku6rlvI%2FmhJ%2FjgIHllYbkuJrlrozmiJDluqbjgIIK5pyA5aSn57uG6IqC5a%2BG5bqmLOi2hea4hSznlLXlvbHnuqcs5Y2w5Yi357qnLOmrmOerr%2BaIkOeJh%2Bi0qOaEn%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case56/output.jpg" width="250" alt="Cinematic Infographic Concept Poster"></a><br><sub><b>Case 058</b> · <a href="#poster-case-56-cinematic-infographic-concept-poster-by-a9quant">Prompt</a></sub><br><sub><a href="https://x.com/A9Quant/status/2046228485841334559">Cinematic Infographic Concept Poster</a> · <a href="https://x.com/A9Quant">@A9Quant</a></sub></td>
+  </tr>
+</table>
+
+<a id="gallery-character-design"></a>
+
+### Character Design · 7 cases
+
+Character sheets, anime frames, key visuals, and character worldbuilding.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=U2hvdyBtZSB0aGUgYXR0YWNoZWQgaW1hZ2UgYXMgYSBzbmFwc2hvdCBmcm9tIGFuIGFjdHVhbCBhbmltZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/character_case1/output.jpg" width="250" alt="Anime Snapshot Conversion"></a><br><sub><b>Case 059</b> · <a href="#character-design-cases-case-1-anime-snapshot-conversion-by-thereallo1026">Prompt</a></sub><br><sub><a href="https://x.com/Thereallo1026/status/2044241997163311569">Anime Snapshot Conversion</a> · <a href="https://x.com/Thereallo1026">@Thereallo1026</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Z%2B65LqO5q2k6KeS6Imy5ZKM6IOM5pmv77yM6K%2B35Yi25L2c5LiA5Lu957G75Ly85a6Y5pa56K6%2B5a6a6LWE5paZ55qE6KeS6Imy6LWE5paZ5Y2h44CCCuODu%2BWMheWQq%2BS4ieinhuWbvu%2B8muato%2BmdouOAgeS%2Bp%2BmdouWSjOiDjOmdogrjg7vmt7vliqDop5LoibLpnaLpg6jooajmg4XnmoTlj5jljJbjg7vliIbop6PlubblsZXnpLrmnI3oo4Xlkozoo4XlpIfnmoTor6bnu4bpg6jliIYK44O75re75Yqg6Imy5p2%2F44O75YyF5ZCr5LiW55WM6KeC6K6%2B5a6a55qE566A6KaB6K%2B05piOCuODu%2BaAu%2BS9k%2BS4iu%2B8jOS9v%2BeUqOaciee7hOe7h%2BeahOW4g%2BWxgO%2B8iOeZveiJsuiDjOaZr%2B%2B8jOaPkueUu%2BmjjuagvO%2B8iemrmOWIhui%2BqOeOh%2BOAgeS4k%2BS4muamguW%2FteiJuuacr%2BmjjuagvA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case2/output.jpg" width="250" alt="Persona5 Character Reference Card"></a><br><sub><b>Case 060</b> · <a href="#character-design-cases-case-2-persona5-character-reference-card-by-iamrednights">Prompt</a></sub><br><sub><a href="https://x.com/iamrednightS/status/2045075682837836265">Persona5 Character Reference Card</a> · <a href="https://x.com/iamrednightS">@iamrednightS</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5pyA5paw44Oi44OH44Or44Gu55S75YOP55Sf5oiQ44OE44O844Or44KS5L2%2F55So44GX44Gm44CBCuOBk%2BOBruOBoeOBs%2BOCreODo%2BODqeOCpOODqeOCueODiOOBqOeri%2BOBoee1teOCkuS9v%2BOBo%2BOBpuacrOeJqeOBruOCteOCpOODiOODmuODvOOCuOOBruOCiOOBhuOBq%2BOCreODo%2BODqeOCr%2BOCv%2BODvOe0ueS7i%2BODmuODvOOCuOmiqOOCpOODqeOCueODiOOCkuS9nOOBo%2BOBpuOBj%2BOBoOOBleOBhOOAgiDvvIjntLnku4vjg5rjg7zjgrjjgajjgZfjgabkvb%2FjgaPjgabjgoLjgYrjgYvjgZfjgY%2FjgarjgYTjgoLjga7vvIkK44Ku44Oj44Or44Ky44O844Gu44Kt44Oj44Op44Kv44K%2F44O857S55LuL44Oa44O844K444KS44Kk44Oh44O844K444GX44Gf6auY5ZOB6LOq44Gq44KC44Gu44CCIOmhlOOBruW3ruWIhuOBquOBqeOCguS5l%2BOBo%2BOBpuOBhOOCi%2BOAgUNH44Kk44Op44K544OI44GM5a2Y5Zyo44GZ44KL44CC44Gh44Gz44Kt44Oj44Op44GM5a2Y5Zyo44GZ44KL44CCCgrjgIzjgZPjgZPjgavoh6rlt7HntLnku4vjgI0KCuWQjeWJjTrvvIjjgZPjgZPjgavlkI3liY3vvIkgCuOCpOODoeODvOOCuOOCq%2BODqeODvDrvvIjjgZPjgZPjgavoibLvvIkgCui6q%2BmVtzrvvIjjgZPjgZPjgavouqvplbfvvIljbSAK5L2T6YeNOu%2B8iOOBk%2BOBk%2BOBq%2BS9k%2BmHje%2B8iWtnCuOCreODo%2BODg%2BODgeOCs%2BODlOODvDrigJ3jgIzjgZPjgZPjgavjgrvjg6rjg5XjgI3igJ0%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case3/output.jpg" width="250" alt="Gal Game Character Introduction Page"></a><br><sub><b>Case 061</b> · <a href="#character-design-cases-case-3-gal-game-character-introduction-page-by-09lyco">Prompt</a></sub><br><sub><a href="https://x.com/09lyco/status/2045281845391323175">Gal Game Character Introduction Page</a> · <a href="https://x.com/09lyco">@09lyco</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44GT44Gu44Kt44Oj44Op44Kv44K%2F44O844Go6IOM5pmv44KS5YWD44Gr44CBIOWFrOW8j%2BioreWumuizh%2BaWmeOBruOCiOOBhuOBquOCreODo%2BODqeOCr%2BOCv%2BODvOOCt%2BODvOODiOOCkuS9nOaIkOOBl%2BOBpuOBj%2BOBoOOBleOBhOOAgiAK44O75q2j6Z2i44CB5YG06Z2i44CB6IOM6Z2i44GuM%2BmdouWbs%2BOCkuWQq%2BOCgeOCiyDjg7vjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7ooajmg4Xjg5Djg6rjgqjjg7zjgrfjg6fjg7PjgpLov73liqAgCuODu%2Biho%2BijheOChOijheWCmeOBruips%2Be0sOODkeODvOODhOOCkuWIhuino%2BOBl%2BOBpuihqOekuiDjg7vjgqvjg6njg7zjg5Hjg6zjg4Pjg4jjgpLov73liqAg44O75LiW55WM6Kaz44Gu57Ch5Y2Y44Gq6Kqs5piO44KS5YWl44KM44KLIArjg7vlhajkvZPjga%2FmlbTnkIbjgZXjgozjgZ%2Fjg6zjgqTjgqLjgqbjg4gK77yI55m96IOM5pmv44CB5Zuz6Kej6aKo77yJIArjg7vjgqLjgrnjg5rjgq%2Fjg4jmr5QxNu%2B8mjkKCumrmOino%2BWDj%2BW6puOAgeODl%2BODreOBruOCs%2BODs%2BOCu%2BODl%2BODiOOCouODvOODiOOCueOCv%2BOCpOODqw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case5/output.jpg" width="250" alt="Official Character Sheet (JP)"></a><br><sub><b>Case 062</b> · <a href="#character-design-cases-case-5-official-character-sheet-jp-by-toshinyaruoai">Prompt</a></sub><br><sub><a href="https://x.com/Toshi_nyaruo_AI/status/2045025277538107420">Official Character Sheet (JP)</a> · <a href="https://x.com/Toshi_nyaruo_AI">@Toshi_nyaruo_AI</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSBtZWNoYSBnaXJsIG1pZC10ZWVucywgcGFsZSBza2luIHNtdWRnZWQgd2l0aCBzb290IGFuZCBzYWx0IHNwcmF5LCBzaGFycCBhbWJlciBleWVzIHdpdGggZ2xvd2luZyBIVUQgcmV0aWNsZXMsIHdhaXN0LWxlbmd0aCBhc2gtd2hpdGUgaGFpciB0aWVkIGluIGEgaGlnaCBwb255dGFpbCB3aGlwcGluZyBpbiB0aGUgc2VhIHdpbmQsIG1hdHRlIGd1bm1ldGFsIGV4b3NrZWxldG9uIGFybW9yIHBsYXRpbmcgaGVyIHNob3VsZGVycywgZm9yZWFybXMgYW5kIHNoaW5zLCBleHBvc2VkIGh5ZHJhdWxpYyBwaXN0b25zIGF0IHRoZSBqb2ludHMsIGNoZXN0IHJpZyB3aXRoIGdsb3dpbmcgY3lhbiBjb29sYW50IGxpbmVzLCBvdmVyc2l6ZWQgb2lsLXN0YWluZWQgaGFuZ2FyIGphY2tldCBoYWxmIHNsaXBwaW5nIG9mZiBvbmUgc2hvdWxkZXIsIGEgbWFzc2l2ZSByYWlsIGNhbm5vbiByZXN0aW5nIG9uIGhlciByaWdodCBzaG91bGRlciwgZG9nIHRhZ3MgYW5kIGZyYXllZCByZWQgcmliYm9uIGF0IGhlciBjb2xsYXIgLCBzdGFuZGluZyBvZmYtY2VudGVyIHRvIHRoZSBsZWZ0IG9uIHRoZSBydXN0ZWQgZWRnZSBvZiBhIHRpbHRlZCBzdGVlbCBwbGF0Zm9ybSBqdXR0aW5nIG91dCBvdmVyIGRhcmsgd2F0ZXIsIHdlaWdodCBzaGlmdGVkIG9udG8gb25lIGxlZywgbGVmdCBoYW5kIGdyaXBwaW5nIHRoZSBjYW5ub24gc3RyYXAsIGhlYWQgdHVybmVkIHNsaWdodGx5IHRvd2FyZCBjYW1lcmEgd2l0aCBhIHF1aWV0IGRlZmlhbnQgc3RhcmUsIHN0ZWFtIHZlbnRpbmcgZnJvbSBoZXIgYmFjayB0aHJ1c3RlcnMsIGhlciBwb255dGFpbCBhbmQgamFja2V0IHN0cmVhbWluZyBzaWRld2F5cyBpbiB0aGUgc2FsdCB3aW5kICwgYSB2YXN0IGRlcmVsaWN0IHNlYS1jaXR5IGF0IGR1c2ssIGNvbG9zc2FsIG1lZ2FzdHJ1Y3R1cmVzIG9mIHVua25vd24gcHVycG9zZSByaXNpbmcgZnJvbSB0aGUgb2NlYW4gaW4gc3RhZ2dlcmVkIHNpbGhvdWV0dGVzLCBib25lLXdoaXRlIG1vbm9saXRoaWMgdG93ZXJzIGZ1c2VkIHdpdGggYmFybmFjbGVkIHN0ZWVsLCBjeWNsb3BlYW4gcmluZy1zaGFwZWQgY29uc3RydWN0cyBjYW50ZWQgYXQgYnJva2VuIGFuZ2xlcywgcnVzdGVkIHNrZWxldGFsIGdhbnRyaWVzIHRocmVhZGVkIHdpdGggZGVhZCBjYWJsZXMsIGRhcmsgc3dlbGxzIHJvbGxpbmcgYmV0d2VlbiB0aGUgcHlsb25zLCBzaGlwd3JlY2tzIGhhbGYtc3dhbGxvd2VkIGF0IHRoZWlyIGZlZXQsIHRoaWNrIHNlYSBmb2cgY2xpbmdpbmcgdG8gdGhlIGJhc2VzIHdoaWxlIHRoZSB1cHBlciBzdHJ1Y3R1cmVzIHBpZXJjZSBpbnRvIGEgYnJ1aXNlZCBza3ksIHNjYXR0ZXJlZCBmYWludCBsaWdodHMgYmxpbmtpbmcgaGlnaCBpbiB0aGUgdG93ZXJzIGxpa2UgZGlzdGFudCBleWVzICwgbW9vZHkgbG93LWtleSBsaWdodGluZywgY29sZCB0ZWFsIGFtYmllbnQgZnJvbSB0aGUgb3ZlcmNhc3Qgc2t5LCB3YXJtIGFtYmVyIHNvZGl1bSBnbG93IGxlYWtpbmcgZnJvbSBhIGRpc3RhbnQgc3RydWN0dXJlIGNhbWVyYS1yaWdodCwgaGFyZCBiYWNrbGlnaHQgZnJvbSBhIGxvdyBzdW4gYmVoaW5kIHRoZSB0b3dlcnMgY2FydmluZyBoZXIgc2lsaG91ZXR0ZSwgdm9sdW1ldHJpYyBnb2QgcmF5cyBjdXR0aW5nIHRocm91Z2ggc2VhIG1pc3QsIHdldCBzcGVjdWxhciBoaWdobGlnaHRzIG9uIGhlciBhcm1vciAsIDM1bW0gYW5hbW9ycGhpYyBsZW5zLCBzbGlnaHQgbG93IGFuZ2xlIGxvb2tpbmcgdXAgcGFzdCBoZXIgc2hvdWxkZXIgdG93YXJkIHRoZSBzdHJ1Y3R1cmVzLCBtZWRpdW0td2lkZSBzaG90LCBzaGFsbG93IGRlcHRoIG9mIGZpZWxkIHdpdGggZm9yZWdyb3VuZCBydXN0IGluIHNvZnQgZm9jdXMsIGhvcml6b250YWwgbGVucyBmbGFyZXMsIGZpbmUgYXRtb3NwaGVyaWMgaGF6ZSBjb21wcmVzc2luZyB0aGUgZGlzdGFudCBtZWdhc3RydWN0dXJlcyBpbnRvIGxheWVyZWQgc2lsaG91ZXR0ZXMgLCBjaW5lbWF0aWMgYW5pbWUga2V5IHZpc3VhbCwgcGFpbnRlcmx5IGRpZ2l0YWwgaWxsdXN0cmF0aW9uIHdpdGggY3Jpc3AgbGluZSBhcnQsIGRlc2F0dXJhdGVkIG9jZWFuaWMgcGFsZXR0ZSBvZiB0ZWFsLCBib25lLXdoaXRlIGFuZCBydXN0IHB1bmNoZWQgYnkgc21hbGwgd2FybSBhY2NlbnQgbGlnaHRzLCBmaWxtIGdyYWluLCBoaWdoLWNvbnRyYXN0IGVkaXRvcmlhbCBwb3N0ZXIgYWVzdGhldGljIC4gRm9ybWF0IDE2Ojku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/character_case7/output.jpg" width="250" alt="Mecha Girl Sea-City Key Visual"></a><br><sub><b>Case 063</b> · <a href="#character-design-cases-case-7-mecha-girl-sea-city-key-visual-by-oldpgmrswill">Prompt</a></sub><br><sub><a href="https://x.com/old_pgmrs_will/status/2046144801071079612">Mecha Girl Sea-City Key Visual</a> · <a href="https://x.com/old_pgmrs_will">@old_pgmrs_will</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5Zyj5paX5aOr5pif55%2BiMTLkuKrpu4Tph5HlnKPmlpflo6vnmoQxMuWuq%2BagvOWNoeeJjOWbvueJhyzmr4%2FlvKDljaHniYzkuIrlhpnkuIrlr7nlupTnmoTkuK3mloflkI0s5q%2BP6KGMNOS4qizlrr3pq5jmr5QxNjo544CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case8/output.jpg" width="250" alt="Saint Seiya Gold Saints Card Grid"></a><br><sub><b>Case 064</b> · <a href="#character-design-cases-case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen">Prompt</a></sub><br><sub><a href="https://x.com/songguoxiansen/status/2046476566537080849">Saint Seiya Gold Saints Card Grid</a> · <a href="https://x.com/songguoxiansen">@songguoxiansen</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=IyDmt7fmsozjgajjgZfjgZ%2Fjg6Hjg6Lmm7jjgY3jg7voqJjlj7fjga7pm4blkIjkvZPjgYvjgonjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjgpLmta7jgYvjgbPkuIrjgYzjgonjgZvjgovjgqLjg7zjg4gKCi0tLSDjgrnjgr%2FjgqTjg6sKLSDnmb3jgYTntJnjga7kuIrjgavpu5LjgqTjg7Pjgq%2Fjgafmj4%2FjgYvjgozjgZ%2FlpKfph4%2Fjga7miYvmm7jjgY3jg6Hjg6LjgIHmlbDlvI%2FjgIHoqJjlj7fjgIHjg6njg7Pjg4Djg6Djgarnt5rjgIIKLSDntJnjgYTjgaPjgbHjgYTjgavmlaPjgonjgbDjgovmm7jjgY3mrrTjgorpoqjjga7jgqvjgqrjgrnjgIIKLSDmiYDjgIXjgavotaTjgqTjg7Pjgq%2Fjga7lvLfoqr8o44Op44Kk44Oz44CB5aGX44KK5r2w44GX44CB44Oe44O844Kr44O86aKo44Gu5aGKKeOAggotIOOCouODiuODreOCsOOBruODjuODvOODiOiQveabuOOBjeOBruOCiOOBhuOBquizquaEn%2BOAggoKLS0tIOani%2BWbswotIOODqeODs%2BODgOODoOOBquODoeODouOChOiomOWPt%2BOBjOWFqOS9k%2BOCkuimhuOBhOWwveOBj%2BOBmeOAggotIOm7kuOCpOODs%2BOCr%2BOBrue3muOChOaWh%2BWtl%2BOBruWvhuW6puOBjOOAjOOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOAjeOBruS9jee9ruOBq%2BmbhuS4reOBmeOCi%2BOAggotIOe1kOaenOOBqOOBl%2BOBpuOAgea3t%2BayjOOBruS4reOBi%2BOCieOAjOS4juOBiOOCieOCjOOBn%2BOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOBruOCt%2BODq%2BOCqOODg%2BODiOODu%2BihqOaDheOAjeOBjOOBhuOBo%2BOBmeOCiea1ruOBi%2BOBs%2BS4iuOBjOOCi%2BOAggotIOmhlOOBr%2BWGmeWun%2BeahOOBp%2BOBr%2BOBquOBj%2BOAgeOCq%2BOCquOCueOBruaWreeJh%2BOBjOmbhuOBvuOBo%2BOBpuW9ouOCkuaIkOOBmeOAggoKLS0tIOiJsuW9qQotIOODouODjuOCr%2BODrSjpu5Ljg7vnmb0p44KS5Li75L2T44Gr5qeL5oiQ44CCCi0g6LWk44Kk44Oz44Kv44KS44Ki44Kv44K744Oz44OI44Go44GX44Gm5pWj55m655qE44Gr6YWN572u44CCCi0g5b2p5bqm44Gv5oqR44GI44KB44CB44Ki44OK44Ot44Kw44Gu57SZ44Go44Kk44Oz44Kv5oSf44KS6YeN6KaW44CCCgotLS0g6KGo54%2B%2B6KaB57SgCi0g6Kqt44KB44KL44KI44GG44Gn6Kqt44KB44Gq44GE5paH5a2X5YiX44CB5pel5pys6Kqe44KE6Iux5pWw5a2X44GM5re35Zyo44CCCi0g5pWw5byP6KiY5Y%2B344CB55%2Bi5Y2w44CB54K544CB5pac57ea44CB44Kv44Ot44K544CB44OJ44Oq44OD44OXKOOCpOODs%2BOCr%2BOBrumjm%2BOBs%2BaVo%2BOCiinjgIIKLSDjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjga7nm67jgoTpq6rjga7ovKrpg63jga%2FjgIHjg6Hjg6LjgoToqJjlj7fjga7phY3nva7jga7jgIzkvZnnmb3jgI3jgoTjgIzmv4Pmt6HjgI3jgafmta7jgYvjgbPkuIrjgYzjgovjgIIKCi0tLSDnpoHmraLkuovpoIUKLSDpoZTjgpLnm7TmjqXnmoTjgavmj4%2FjgY3ovrzjgoDlhpnlrp%2Fjg53jg7zjg4jjg6zjg7zjg4jjgIIKLSDjg4fjgrjjgr%2Fjg6vlh6bnkIbnmoTjgafmlbTnhLbjgajjgZfjgZ%2Flub7kvZXlrabmqKHmp5jjgIIKLSDjgqvjg6njg5Xjg6vjgarlvanoibLjgoTpgY7po73lkozooajnj77jgIIKLSDjg63jgrTjgIHpgI%2FjgYvjgZfjgIHkurrlt6XnmoTjgapDR%2BaEn%2BOAggoKLS0tIERlZmluaXRpb24gb2YgRG9uZSAoRG9EKQotIOWFqOS9k%2BOBr%2BOAjOa3t%2BayjOOBqOOBl%2BOBn%2BODoeODouODu%2BiomOWPt%2BOBrumbhuWQiOS9k%2BOAjeOBqOOBl%2BOBpuaIkOeri%2BOBl%2BOBpuOBhOOCi%2BOAgiAgCi0g5LiO44GI44KJ44KM44Gf44Kt44Oj44Op44Kv44K%2F44O844Gu6aGU44GM44CB5re35rKM44Gu5r%2BD5reh44O76YWN572u44GL44KJ6Ieq54S244Gr5rWu44GL44Gz5LiK44GM44KL44CCICAKLSDoibLjga%2Fjg6Ljg47jgq%2Fjg60r6LWk44Ki44Kv44K744Oz44OI44Gu44G%2F44CCICAKLSDntJnjgajjgqTjg7Pjgq%2Fjga7miYvmj4%2FjgY3nmoTos6rmhJ%2FjgpLkv53mjIHjgZfjgabjgYTjgovjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/character_case9/output.jpg" width="250" alt="Chaos Notes Hidden Face Character Art"></a><br><sub><b>Case 065</b> · <a href="#character-design-cases-case-9-chaos-notes-hidden-face-character-art-by-loglogrog">Prompt</a></sub><br><sub><a href="https://x.com/loglogrog/status/2046448773162033240">Chaos Notes Hidden Face Character Art</a> · <a href="https://x.com/loglogrog">@loglogrog</a></sub></td>
+  </tr>
+</table>
+
+<a id="gallery-ui-social"></a>
+
+### UI & Social Mockups · 21 cases
+
+App screens, social pages, livestream screenshots, info cards, and mobile UI.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55So6L%2BZ56eN6aOO5qC85biu5oiR55Sf5oiQ5LiA5aWXVUnorr7orqHns7vnu5%2FvvIzljIXlkKvnvZHpobXjgIHnp7vliqjnq6%2FjgIHljaHniYfjgIHmjqfku7bjgIHmjInpkq4g5Lul5Y%2BK5YW25a6D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case1/output.jpg" width="250" alt="One-Prompt UI Design Generation"></a><br><sub><b>Case 066</b> · <a href="#ui-case-1-one-prompt-ui-design-generation-by-austinit">Prompt</a></sub><br><sub><a href="https://x.com/austinit/status/2044968740782272596">One-Prompt UI Design Generation</a> · <a href="https://x.com/austinit">@austinit</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QW1hdGV1ciBpUGhvbmUgcGhvdG8gYXQgQXBwbGUgUGFyayBkdXJpbmcgdGhlIGlQaG9uZSAyMCBrZXlub3RlLCBUaW0gQ29vayBwcmVzZW50aW5nIG9uIHN0YWdlLiBTaG90IGZyb20gdGhlIGNyb3dkIGF0IGEgZGlzdGFuY2U%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case2/output.jpg" width="250" alt="Amateur iPhone Keynote Snapshot"></a><br><sub><b>Case 067</b> · <a href="#ui-case-2-amateur-iphone-keynote-snapshot-by-patrickassale">Prompt</a></sub><br><sub><a href="https://x.com/patrickassale/status/2044687244368441742">Amateur iPhone Keynote Snapshot</a> · <a href="https://x.com/patrickassale">@patrickassale</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QW1hdGV1ciBwaG90byBvZiBhbiBvcGVuIG5vdGVib29rIGx5aW5nIGZsYXQsIGZpbGxlZCB3aXRoIGhhbmR3cml0dGVuIG5vdGVzIGluIGJsYWNrIGJhbGxwb2ludCBwZW4uIFRoZSBoYW5kd3JpdGluZyBpcyBjYXN1YWwgYW5kIHNsaWdodGx5IG1lc3N5LCBsaWtlIHBlcnNvbm5hbCBub3RlcywgbmF0dXJhbCBpbXBlcmZlY3Rpb25zLCBjcm9zc2VkIG91dCB3b3JkcywgdW5kZXJsaW5lZCBoZWFkaW5ncy4gU2hvdCBmcm9tIHNsaWdodGx5IGFib3ZlLCBuYXR1cmFsIGRheWxpZ2h0IGZyb20gYSB3aW5kb3csIG5vIGZsYXNoLiBDYXN1YWwgZGVzayBzZXR0aW5nLCBzaG90IG9uIGlQaG9uZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case3/output.jpg" width="250" alt="Handwritten Notebook Photo"></a><br><sub><b>Case 068</b> · <a href="#ui-case-3-handwritten-notebook-photo-by-patrickassale">Prompt</a></sub><br><sub><a href="https://x.com/patrickassale/status/2044569086013718958">Handwritten Notebook Photo</a> · <a href="https://x.com/patrickassale">@patrickassale</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=IuWui%2BacneS6uueahOaci%2BWPi%2BWciCIvIlNPTkcgRFlOQVNUWSBTT0NJQUwgTUVESUEgRkVFRCLvvIzlj6Tku4rnqb%2Fotorlub3pu5jono3lkIjnlYzpnaLorr7orqHpo47moLzvvIznlLvpnaLmqKHmi5%2FmiYvmnLrnpL7kuqTlqpLkvZPnlYzpnaLvvIzkvYblhoXlrrnlhajpg6jmmK%2FlrovmnJ3lnLrmma%2FlpLTlg4%2FmmK%2Flrovku6PmlofkurrnlLvlg4%2FvvIznlKjmiLflkI0i6IuP5Lic5Z2hU3VTaGlfT2ZmaWNpYWwi77yM5Y%2BR5biD5YaF5a65IuWImuWIsOm7hOW3nu%2B8jOiiq%2Bi0rOS6huS9huW%2Fg%2BaDhei%2FmOihjOOAguS7iuWkqeiHquW3seWBmuS6huS4nOWdoeiCie%2B8jOWRs%2BmBk%2Be7neS6hu%2B8jOmZhOiPnOiwse%2B8miLvvIzphY3lm77kuLrlt6XnrJTnlLvpo47moLznmoTkuJzlnaHogonnibnlhpnvvIzngrnotZ7liJfooagi6buE5bqt5Z2a44CB56em6KeC44CB5L2b5Y2w562JMTI25Lq6Iu%2B8jOivhOiuuuWMuiLnjovlronnn7PvvJrlkbXlkbUiIuWPuOmprOWFie%2B8mui%2FmOaYr%2BmCo%2BS4quWRs%2BmBkyLvvIznlYzpnaLlhYPntKDlpoLngrnotZ7lm77moIfnlKjlrovku6PoirHnurnmm7%2Fku6PvvIznirbmgIHmoI%2FmmL7npLoi5aSn5a6L56e75YqoIDVHIuWSjCLlhYPkuLDkuInlubQi77yM6YWN6Imy5Li65omL5py65rex6Imy5qih5byP5pCt6YWN5a6L5Luj6ZuF6Ie06Imy6LCD77yM5Y6G5Y%2By5LiO56S%2B5Lqk5aqS5L2T55qE6Laj5ZGz56Kw5pKe5p2w5L2c&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case4/output.jpg" width="250" alt="Song Dynasty Social Media Feed"></a><br><sub><b>Case 069</b> · <a href="#ui-case-4-song-dynasty-social-media-feed-by-panda20230902">Prompt</a></sub><br><sub><a href="https://x.com/Panda20230902/status/2045385588065313057">Song Dynasty Social Media Feed</a> · <a href="https://x.com/Panda20230902">@Panda20230902</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOinhumikeWPt%2BWGheWuueaIquWbvu%2B8jOS4u%2BmimO%2B8muS4reiAgeW5tOS4jeimgeebsuebruWCrOWpmu%2B8jGlQaG9uZeWwuuWvuAoy44CB55Sf5oiQ5oqW6Z%2Bz5YaF5a655oiq5Zu%2B77yM5Li76aKY77ya6Lef5LiKQUnmtarmva45LjnljIXmlZnkvJrvvIxpUGhvbmXlsLrlr7gKM%2BOAgeeUn%2BaIkOWwj%2Be6ouS5puWGheWuueaIquWbvu%2B8jOS4u%2BmimO%2B8mueyvuiHtOWls%2BWtqeiDjOWQjumDveaciee9kei0t%2B%2B8jGlQaG9uZeWwuuWvuAo044CB55Sf5oiQ5b%2Br5omL5YaF5a655oiq5Zu%2B77ya5Li76aKY77ya55u05pKt56a75ama6aKE5ZGK77yMaVBob25l5bC65a%2B4&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case5/output.jpg" width="250" alt="Multi-Platform Content Screenshots"></a><br><sub><b>Case 070</b> · <a href="#ui-case-5-multi-platform-content-screenshots-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2045373105041007013">Multi-Platform Content Screenshots</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=7YOc7KGwIOydtOyEseqzhOydmCBYICDtjpjsnbTsp4Ao7JyE7ZmU64%2BEIO2ajOq1sOydhCDrsozsnbTquLAg7KeB7KCELSDstZzsmIEg7J6l6rWw6rO8IOyEnOuhnCDrlJTsiqTtlZjripQg64K07Jqp7J20IOuLtOq4tCDqsozsi5zquIDrk6Qp7J2EIOunjOuTpOyWtCDso7zshLjsmpQu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case8/output.jpg" width="250" alt="King Taejo Yi Seong-gye's X Page"></a><br><sub><b>Case 071</b> · <a href="#ui-case-8-king-taejo-yi-seong-gyes-x-page-by-skaneotype">Prompt</a></sub><br><sub><a href="https://x.com/SKA_Neotype/status/2044637900978217334">King Taejo Yi Seong-gye's X Page</a> · <a href="https://x.com/SKA_Neotype">@SKA_Neotype</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55So6L%2BZ56eN6aOO5qC85biu5oiR55Sf5oiQ5LiA5aWXVUnorr7orqHns7vnu5%2FvvIzljIXlkKvnvZHpobXjgIHnp7vliqjnq6%2FjgIHljaHniYfjgIHmjqfku7bjgIHmjInpkq7ku6Xlj4rlhbblroPjgILmiorov5nlpZfop4bop4npo47moLzkvZzkuLrlj4LogIPnlJ%2FmiJDnvZHpobXjgILmiJHlsJ3or5XkuoblroflrpnjgIHpo57ooYzjgIHonbTonbbkuLvpopjjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case9/output.jpg" width="250" alt="Style-to-UI Design System"></a><br><sub><b>Case 072</b> · <a href="#ui-case-9-style-to-ui-design-system-by-starknico99">Prompt</a></sub><br><sub><a href="https://x.com/stark_nico99/status/2045836554451706125">Style-to-UI Design System</a> · <a href="https://x.com/stark_nico99">@stark_nico99</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44CM44GE44KJ44GZ44Go44KE44CN44Gu44G744Gu44G844Gu44Go44GX44Gf6Zuw5Zuy5rCX44Go44CB44CM6Zye44O26Zai44K544Op44Kk44OJ44CN44Gu5Zyn5YCS55qE44Gq5oOF5aCx5a%2BG5bqm44KS6J6N5ZCI44GV44Gb44Gf44CB5qGD5aSq6YOO44Gu6Kej6Kqs44K544Op44Kk44OJ77yI44Od44Oz44OB57W177yJ44KS5L2c5oiQ44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/ui_case10/output.jpg" width="250" alt="Momotaro Explainer Slide"></a><br><sub><b>Case 073</b> · <a href="#ui-case-10-momotaro-explainer-slide-by-yammamon">Prompt</a></sub><br><sub><a href="https://x.com/yammamon/status/2045778624092254603">Momotaro Explainer Slide</a> · <a href="https://x.com/yammamon">@yammamon</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg4oCc5Y2a54mp6aaG5Zu%2B6Ym05byP5Lit5paH5ouG6Kej5L%2Bh5oGv5Zu%2B4oCd44CCCgropoHmsYLmlbTlvKDlm77lhbzlhbfnnJ%2Flrp7lhpnlrp7kuLvop4bop4njgIHnu5PmnoTmi4bop6PjgIHkuK3mlofmoIfms6jjgIHmnZDotKjor7TmmI7jgIHnurnmoLflr5PmhI%2FjgIHoibLlvanlkKvkuYnlkozmoLjlv4PnibnlvoHmgLvnu5PjgILkvaDpnIDopoHmoLnmja7jgJDkuLvpopjjgJHoh6rliqjliKTmlq3mnIDlkIjpgILnmoTkuLvkvZPlr7nosaHjgIHmnI3ppbDkvZPns7vjgIHlmajniannu5PmnoTjgIHml7bku6Ppo47moLzjgIHlhbPplK7pg6jku7bjgIHmnZDotKjlt6XoibrjgIHpopzoibLmlrnmoYjkuI7niYjlvI%2Fnu5PmnoTvvIznlKjmiLfml6DpnIDlho3mj5Dkvpvlhbbku5bkv6Hmga%2FjgIIKCuaVtOS9k%2BmjjuagvOW6lOS4uu%2B8muWbveWutuWNmueJqemmhuWxleadv%2BOAgeWOhuWPsuacjemlsOWbvumJtOOAgeaWh%2BWNmuS4k%2BmimOS%2FoeaBr%2BWbvu%2B8jOiAjOS4jeaYr%2BaZrumAmua1t%2BaKpeOAgeWPpOmjjuWGmeecn%2BOAgeeUteWVhuivpuaDhemhteaIluWKqOa8q%2BaPkueUu%2BOAguiDjOaZr%2BmHh%2BeUqOexs%2BeZveOAgee7oue6uOeZveOAgea1heiMtuiJsuetiee6uOW8oOi0qOaEn%2B%2B8jOaVtOS9k%2BmrmOe6p%2BOAgeWFi%2BWItuOAgeS4k%2BS4muOAgeWPr%2BaUtuiXj%2BOAggoK54mI5byP5Zu65a6a5Li677yaCi0g6aG26YOo77ya5Lit5paH5Li75qCH6aKYICsg5Ymv5qCH6aKYICsg5a%2B86K%2BtCi0g5bem5L6n77ya57uT5p6E5ouG6Kej5Yy677yM5Lit5paH5byV57q%2F5qCH5rOo5YWz6ZSu6YOo5Lu277yM5bm26YWN5bGA6YOo54m55YaZCi0g5Y%2Bz5LiK77ya5p2Q6LSoIC8g5bel6Im6IC8g6LSo5oSf5Yy677yM5bGV56S655yf5a6e57q555CG5bCP5qC35bm26ZmE6K%2B05piOCi0g5Y%2Bz5Lit77ya57q55qC3IC8g6Imy5b2pIC8g5a%2BT5oSP5Yy677yM5bGV56S65Li76Imy5p2%2F44CB57q55qC35qC35pys5ZKM5paH5YyW6Kej6YeKCi0g5bqV6YOo77ya56m%2F552A6aG65bqPIC8g5p6E5oiQ5rWB56iL5Zu%2BICsg5qC45b%2BD54m55b6B5oC757uTCgroi6XkuLvpopjpgILlkIjkurrnianlsZXnpLrvvIzliJnku6XnnJ%2Flrp7kurrnianlhajouqvnq5nlp7%2FkuLrkuK3lpK7kuLvkvZPvvJvoi6Xmm7TpgILlkIjlmajnianmiJbljZXkvZPnu5PmnoTvvIzliJnmlLnkuLrkuK3lv4PkuLvkvZPmi4bop6Plm77vvIzkvYbmlbTkvZPku43kv53mjIHlrozmlbTkuK3mlofkv6Hmga%2Flm77lvaLlvI%2FjgILmiYDmnInmloflrZflv4XpobvkuLrnroDkvZPkuK3mlofvvIzmuIXmmbDjgIHop4TmlbTjgIHlj6%2For7vvvIzkuI3opoHkubHnoIHjgIHplJnlrZfjgIHoi7HmlofmiJbmi7zpn7PjgILph43ngrnnqoHlh7rnnJ%2Flrp7nu5PmnoTjgIHmnZDotKjlt67lvILjgIHmlofljJbor7TmmI7kuI7lm77pibTmsJTotKjjgIIKCumBv%2BWFje%2B8mua1t%2BaKpeaEn%2BOAgeW9sealvOaEn%2BOAgeeUteWVhuaEn%2BOAgeWKqOa8q%2BaEn%2BOAgWNvc3BsYXnmhJ%2FjgIHkubHmoIfms6jjgIHplJnnu5PmnoTjgIHns4rlrZfjgIHlgYfmnZDotKjjgIHov4fluqboo4XppbDjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case25/output.jpg" width="250" alt="Museum-Style Hanfu Breakdown Infographic"></a><br><sub><b>Case 074</b> · <a href="#ui-case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2045504669401653414">Museum-Style Hanfu Breakdown Infographic</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44GT44Gu55S75YOP44GL44KJ44Ky44O844Og44Gu44K544OG44O844K%2F44K555S76Z2i44KS5L2c44Gj44Gm44GP44Gg44GV44GE44CC5oOF5aCx6YeP5aSa44KB44CC6KiA6Kqe44Gv5pel5pys6Kqe44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case27/output.jpg" width="250" alt="Japanese RPG Status Screen"></a><br><sub><b>Case 075</b> · <a href="#ui-case-27-japanese-rpg-status-screen-by-kashikoaiart">Prompt</a></sub><br><sub><a href="https://x.com/Kashiko_AIart/status/2046154976159035613">Japanese RPG Status Screen</a> · <a href="https://x.com/Kashiko_AIart">@Kashiko_AIart</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=546E5q2m6Zeo5LmL5Y%2BY55qE5pyL5Y%2BL5ZyI&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case28/output.jpg" width="250" alt="Xuanwu Gate Social Feed"></a><br><sub><b>Case 076</b> · <a href="#ui-case-28-xuanwu-gate-social-feed-by-tz2022">Prompt</a></sub><br><sub><a href="https://x.com/Tz_2022/status/2046523491940225366">Xuanwu Gate Social Feed</a> · <a href="https://x.com/Tz_2022">@Tz_2022</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ44CQ5Z%2BO5biC44CR5LiJ5aSp5peF5ri45pS755WlLOWwsei%2FmeS5iOeugOWNleS4gOWPpeivnQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case29/output.jpg" width="250" alt="City Travel Guide Infographic"></a><br><sub><b>Case 077</b> · <a href="#ui-case-29-city-travel-guide-infographic-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046523494003851300">City Travel Guide Infographic</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Yib5L2c5LiA5bmF6LaF6YC855yf55qEIDNEIOaPkueUuyzmj4%2Fnu5jkuIDkuKrnlaXlvq7lgL7mlpznmoQgVHdpdHRlci9YIOS4quS6uui1hOaWmemhtemdoizog4zmma%2FkuLrnroDmtIHnmoTngbDoibLjgILkv53nlZnljp%2FmnInnmoTljaHpgJrlpLTlg4%2FjgILnlYzpnaLlv4XpobvkuI7nnJ%2Flrp7nmoQgWCDmiKrlm77nm7jkvLws5YyF5ZCr55yf5a6e55qE5biD5bGA44CB6K6k6K%2BB5b6956ug44CB57KJ5Lid57uf6K6h44CB5Liq5Lq66LWE5paZ5qiq5bmF5ZKM5o6o5paH6YOo5YiG44CCCgrkuKrkurrotYTmlpnor6bmg4U6CgrkuIDkvY3ml7blsJrnmoTlubTovbvnlLflrZAs5pyJ552A6JOs5p2%2B55qE5Lqu6buR6Imy55%2Bt5Y%2BR5ZKM55m955qZ55qE55qu6IKkLOS7juS4quS6uui1hOaWmemhtemdoueahOWPs%2BS%2Bp%2BaSleW8gOeahOe6uOeJh%2BS4rei3g%2BeEtuiAjOWHuuOAguS7luS%2FneeVmeS6huWOn%2BacieeahOmdoumDqOeJueW%2BgSzlj6rmmK%2FlsIbooajmg4XmlLnkuLroh6rnhLboh6rkv6HnmoTlvq7nrJHjgILku5bmj6HnnYDmkpXlvIDnmoTnurjniYfovrnnvJgs57q45bGR5Zub5aSE6aOe5rqFLOiQpemAoOWHuuW8uueDiOeahCAzRCDnqoHnoLTmlYjmnpzjgIIKCuaflOWSjOeahOW9seajmueBr%2BWFieOAgeeUteW9see6p%2BeahOmYtOW9seOAgeaZr%2Ba3seOAgei2hemrmOe7huiKguOAgea4heaZsOeahOeEpueCueOAgemAvOecn%2BeahOearuiCpOOAgemAvOecn%2BeahCBVSSDlj43lsITjgIHkvJjotKjnmoTmnoTlm77jgIE0SyDliIbovqjnjofjgIHpgLznnJ%2FkuI7lvq7lppnnmoTnmq7lhYvmlq%2Fpo47moLzono3lkIjjgIIKCumHjeimgeaPkOekujoKCi0g6K%2B35Yu%2F5pu05pS55aS05YOPCgotIOS%2FneaMgSBYIFVJIOeVjOmdouWHhuehrgoKLSDkv53nlZnljp%2FmnInnmoTpnaLpg6jnibnlvoEKCi0g6KeS6Imy5Li655S35oCnCgotIOS7heWinuW8uueskeWuuQoKLSDnoa7kv53miYDmnInkuK3mlofmloflrZfmuIXmmbDmmJPor7s%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case30/output.jpg" width="250" alt="3D X Profile Mockup"></a><br><sub><b>Case 078</b> · <a href="#ui-case-30-3d-x-profile-mockup-by-gosailglobal">Prompt</a></sub><br><sub><a href="https://x.com/GoSailGlobal/status/2046491397424111659">3D X Profile Mockup</a> · <a href="https://x.com/GoSailGlobal">@GoSailGlobal</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg5oWI56an55qEWOS4u%2BmhtQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case31/output.jpg" width="250" alt="Empress Dowager Cixi X Page"></a><br><sub><b>Case 079</b> · <a href="#ui-case-31-empress-dowager-cixi-x-page-by-cryptohaifeng">Prompt</a></sub><br><sub><a href="https://x.com/Cryptohaifeng_/status/2046165776055546341">Empress Dowager Cixi X Page</a> · <a href="https://x.com/Cryptohaifeng_">@Cryptohaifeng_</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=R1BULWltYWdlLTLjgafjgZPjga7miYvnm7jjgpLoqLrmlq3jgZfjgaboqbPntLDjgarpkZHlrprmm7jjgpLkvZzjgaPjgaYK55Sf5ZG957ea44O755%2Bl6IO957ea44O75oSf5oOF57ea44O76YGL5ZG957ea44O75aSq6Zm957ea44O76LKh6YGL57ea44O757WQ5ama57ea44KS44CB57ea44Gu5b2i54q244O75r%2BD5reh44O75p6d5YiG44GL44KM44O76LW354K557WC54K544G%2B44Gn5YiG5p6Q44GZ44KL44GT44Go44CCCuWKqeiogOOCkumHjeeCueeahOOBq%2BmrmOWTgeizquOBquWNoOOBhOmRkeWumuabuOOBq%2BOBvuOBqOOCgeOCi%2BOBk%2BOBqOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case32/output.jpg" width="250" alt="Palm Reading Diagnosis Report"></a><br><sub><b>Case 080</b> · <a href="#ui-case-32-palm-reading-diagnosis-report-by-agiaibusi">Prompt</a></sub><br><sub><a href="https://x.com/agi_aibusi/status/2046530764871696750">Palm Reading Diagnosis Report</a> · <a href="https://x.com/agi_aibusi">@agi_aibusi</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg44CQ5a2X5L2T44CR5Lmm5rOV5Li05pG55a2X5biW&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case33/output.jpg" width="250" alt="Calligraphy Copybook Sheet"></a><br><sub><b>Case 081</b> · <a href="#ui-case-33-calligraphy-copybook-sheet-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046510310253539764">Calligraphy Copybook Sheet</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=R1BUIEltYWdlIDLjgpLkvb%2FjgaPjgabjgIFPcGVuQ2xhd%2BOBruaDheWgseOCkuiqv%2BOBueOBpuODieODs%2BOCreOBruW6g%2BWRiuODneODg%2BODl%2BmiqOOBq%2BWun%2Bmam%2BOBruODieODs%2BOCreOBq%2BiyvOOBo%2BOBpuOBhOOCi%2BOCiOOBhuOBquaEn%2BOBmOOBp%2BeUu%2BWDj%2BeUn%2BaIkOOBl%2BOBpuOBj%2BOBoOOBleOBhA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case34/output.jpg" width="250" alt="Don Quijote Promo Pop Poster"></a><br><sub><b>Case 082</b> · <a href="#ui-case-34-don-quijote-promo-pop-poster-by-loglogrog">Prompt</a></sub><br><sub><a href="https://x.com/loglogrog/status/2046437230127034774">Don Quijote Promo Pop Poster</a> · <a href="https://x.com/loglogrog">@loglogrog</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5pel5pys44Gu44K944K344Oj44Ky44Gu44Ks44OB44Oj55S76Z2i44KS55Sf5oiQ44GX44Gm44CB&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case35/output.jpg" width="250" alt="Japanese Gacha Game Screen"></a><br><sub><b>Case 083</b> · <a href="#ui-case-35-japanese-gacha-game-screen-by-thewheel2024">Prompt</a></sub><br><sub><a href="https://x.com/the_wheel_2024/status/2046519658166317160">Japanese Gacha Game Screen</a> · <a href="https://x.com/the_wheel_2024">@the_wheel_2024</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSA5OjE2IHZlcnRpY2FsIHZlcnNpb24sIGhpZ2gtZGV0YWlsIHJlYWxpc3RpYyBzdHlsZSBDaGluZXNlIFRpa1RvayBsaXZlIHNjcmVlbnNob3QsIEVsb24gTXVzayBpcyB0YWxraW5nIHRvIHRoZSBtb2JpbGUgcGhvbmUgY2FtZXJhIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tLCBleGNpdGVkLCBzbWlsaW5nLCBhbmQgdGhlIGxpdmUgYXRtb3NwaGVyZSBpcyB3YXJtIGFuZCByZWFsLiBIZSBoZWxkIGEgd2hpdGUgaGFuZHdyaXR0ZW4gc2lnbiBpbiBvbmUgaGFuZCwgd2hpY2ggY2xlYXJseSBzYWlkOiAiVGhhbmsgeW91IFNoaW5uaW5nIi4gVGhlcmUgYXJlIG9idmlvdXMgQ2hpbmVzZSBUaWtUb2sgaW50ZXJmYWNlIGVsZW1lbnRzIGluIHRoZSBsaXZlIGJyb2FkY2FzdCBzY3JlZW4sIGluY2x1ZGluZyBsaWtlcywgY29tbWVudHMgYW5kIHNoYXJlIGljb25zIGFycmFuZ2VkIHZlcnRpY2FsbHkgb24gdGhlIHJpZ2h0LCBzY3JvbGxpbmcgQ2hpbmVzZSBidWxsZXQgc2NyZWVucyBhbmQgaW50ZXJhY3RpdmUgY29tbWVudHMgYmVsb3csIGFuZCB0aGUgImxpdmUgYnJvYWRjYXN0IiBsb2dvIGF0IHRoZSB0b3AsIHdoaWNoIGxvb2tzIGxpa2UgYSByZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW5zaG90LiBUaGVyZSBpcyBhbiBleWUtY2F0Y2hpbmcgZ2lmdCBwcm9tcHQgc3BlY2lhbCBlZmZlY3QgaW4gdGhlIHNjcmVlbjogIlNoaW5uaW5nIHNlbnQgVGlrVG9rIE5vLiAxIiwgd2l0aCBnaWZ0IGFuaW1hdGlvbiBsaWdodCBlZmZlY3QgYW5kIHBsYXRmb3JtLXN0eWxlIHByb21wdCBib3guIE11c2sgaXMgaW4gYSBwcm9mZXNzaW9uYWwgbGl2ZSBicm9hZGNhc3QgZW52aXJvbm1lbnQsIHdpdGggYSBtb2JpbGUgcGhvbmUgaG9sZGVyLCBhIHJpbmcgZmlsbCBsaWdodCBhbmQgYSBkZXNrdG9wIG1pY3JvcGhvbmUgaW4gZnJvbnQgb2YgaGltLiBUaGUgYmFja2dyb3VuZCBpcyBhIG1vZGVybiB0ZWNobm9sb2d5IGxpdmUgYnJvYWRjYXN0IHJvb20gd2l0aCBicmlnaHQgbGlnaHRzIGFuZCBhIHNsaWdodCBuZW9uIGF0bW9zcGhlcmUuIFRoZSBjb21wb3NpdGlvbiBpcyByZWFsIGFuZCBuYXR1cmFsLCBsaWtlIHRoZSBvbmdvaW5nIGxpdmUgc2NyZWVuc2hvdCBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybS4gVGhlIGludGVyZmFjZSBpbmZvcm1hdGlvbiBpcyByaWNoIGJ1dCBub3QgbWVzc3ksIHRoZSBjaGFyYWN0ZXJzIGFyZSBjbGVhciwgdGhlIGV4cHJlc3Npb24gaXMgdml2aWQsIHRoZSBkZXRhaWxzIGFyZSByaWNoLCB0aGUgc2Vuc2Ugb2YgcmVhbCBwaG90b2dyYXBoeSwgdGhlIGRlcHRoIG9mIGZpZWxkLCBoaWdoIGRlZmluaXRpb24sIGNpbmVtYXRpYywgcGhvdG9yZWFsaXN0aWMsIHJlYWxpc3RpYyBsaXZlc3RyZWFtIHNjcmVlbnNob3QsIHNvY2lhbCBtZWRpYSBVSSwgQ2hpbmVzZSBEb3V5aW4gbGl2ZSByb29tLCBkZXRhaWxlZCBsaWdodGluZywgbmF0dXJhbCBza2luIHRleHR1cmUuCgpOZWdhdGl2ZSBwcm9tcHRzOgoKTG93IGRlZmluaXRpb24sIGJsdXIsIGNhcnRvb24sIGlsbHVzdHJhdGlvbiwgdG9vIHN0cm9uZyBDRyBzZW5zZSwgdHdvLWRpbWVuc2lvbmFsLCBkZWZvcm1lZCBmaW5nZXJzLCB3cm9uZyB0ZXh0LCBzY3JhbWJsZWQgY29kZSwgbXVsdGlwbGUgbW9iaWxlIHBob25lcywgbXVsdGlwbGUgYnJhbmRzLCBjaGFyYWN0ZXIgcmVwZXRpdGlvbiwgZmFjZSBjb2xsYXBzZSwgZmFjaWFsIGZlYXR1cmVzIGRpc3RvcnRpb24sIGV4Y2Vzc2l2ZSBza2luIHBvbGlzaGluZywgb3ZlcmV4cG9zdXJlLCB0b28gZGFyaywgbWVzc3kgYmFja2dyb3VuZCwgd3JvbmcgVUksIG5vbi1DaGluZXNlIHNob3J0IHZpZGVvIGludGVyZmFjZSwgdG9vIG1hbnkgRW5nbGlzaCBidWxsZXQgc2NyZWVucywgZ2lmdCBzcGVjaWFsIGVmZmVjdHMgYXJlIG5vdCBvYnZpb3VzLCBjcm9wcGluZyBlcnJvciwgcHJvcG9ydGlvbmFsIGVycm9yCgpTdXBwbGVtZW50YXJ5IHJlaW5mb3JjZW1lbnQgd29yZHM6CgpSZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW4gcmVjb3JkaW5nIHNjcmVlbnNob3QgZmVlbGluZywgdGhlIGxpdmUgYnJvYWRjYXN0IFVJIGlzIGNvbXBsZXRlLCB0aGUgZ2lmdCBwcm9tcHQgYm94IGNvbmZvcm1zIHRvIHRoZSBzdHlsZSBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybSwgdGhlIENoaW5lc2UgY29tbWVudCBhcmVhIGlzIGFjdGl2ZSwgdGhlIG51bWJlciBvZiBwZW9wbGUgb25saW5lIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tIGlzIGNsZWFybHkgZGlzcGxheWVkLCBhbmQgdGhlIHRpbWUsIHBvd2VyIGFuZCBzaWduYWwgYmFyIGFyZSB2aXNpYmxlLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case36/output.jpg" width="250" alt="Elon Musk Douyin Livestream Screenshot"></a><br><sub><b>Case 084</b> · <a href="#ui-case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010">Prompt</a></sub><br><sub><a href="https://x.com/Shinning1010/status/2046501587762188535">Elon Musk Douyin Livestream Screenshot</a> · <a href="https://x.com/Shinning1010">@Shinning1010</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55So5pyq5p2l6YO95biC6aOO5qC855Sf5oiQVUnorr7orqHns7vnu58s54G15oSf5p2l6Ieq6LWb5Y2a5pyL5YWL5Z%2BO5biC5aSc5pmvLOWMheWQq%2Bmck%2BiZueeBr%2BOAgeeOu%2BeSg%2BW7uuetkeWPjeWwhOOAgemrmOWvueavlOWFieW9sSzphY3oibLku6XntKvoibLjgIHok53oibLjgIHnsonoibLpnJPombnkuLrkuLss6K6%2B6K6h572R6aG1RGFzaGJvYXJk44CB56e75Yqo56uv55WM6Z2i44CB5Y2h54mH44CB5oyJ6ZKu44CB5o6n5Lu2562JLOinhuinieeCq%2BmFt%2BOAgeWxguasoeS4sOWvjOOAgeenkeaKgOaEn%2BaegeW8ug%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case38/output.jpg" width="250" alt="Cyberpunk Neon UI Design System"></a><br><sub><b>Case 085</b> · <a href="#ui-case-38-cyberpunk-neon-ui-design-system-by-azlnfvp">Prompt</a></sub><br><sub><a href="https://x.com/AZLnfvp/status/2046468976092533180">Cyberpunk Neon UI Design System</a> · <a href="https://x.com/AZLnfvp">@AZLnfvp</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOeJueacl%2BaZruWSjOmHkeato%2BaBqeWcqOaKlumfs%2BebtOaSremXtOaJk1BL55qE5oiq5Zu%2BICAKMuOAgeeUn%2BaIkOS4jeefpeeBq%2BiInueahOWwj%2Be6ouS5puS4u%2BmhteaIquWbviAgCjPjgIHnlJ%2FmiJDlm77niYc6IOaJi%2BWGmeWcqOaVmeWupOm7keadv%2BS4iueahOWHuuW4iOihqOWFqOaWhyznnJ%2Flrp7mhJ%2FnmoTnsonnrJTlrZfov7ks5pm05pyX55m95aSp55SoaVBob25l5omL5py65a6e5ouNICAKNOOAgeeUn%2BaIkOWbvueJhzogVC04MDDmnLrlmajkurrnmoTmt5jlrp3llYblk4Hor6bmg4XpobUs5bGV56S6OiDmnLrlmajkurrnmoTmraPpnaLkvqfpnaLog4zpnaLkuInop4blm74sIOS6p%2BWTgeS7t%2BagvCwg5Lqn5ZOB57uG6IqCLCDlip%2Fog73lkozkvb%2FnlKjlnLrmma%2FnrYk%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case39/output.jpg" width="250" alt="Trump and Kim Livestream PK Screenshot"></a><br><sub><b>Case 086</b> · <a href="#ui-case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq">Prompt</a></sub><br><sub><a href="https://x.com/alanlovelq/status/2046048929490612464">Trump and Kim Livestream PK Screenshot</a> · <a href="https://x.com/alanlovelq">@alanlovelq</a></sub></td>
+  </tr>
+</table>
+
+<a id="gallery-comparison-community"></a>
+
+### Model Tests & Community · 15 cases
+
+Counting, text rendering, game screenshots, complex scenes, and model tests.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSB3b29kZW4gYm9va3NoZWxmIGNvbnNpc3Rpbmcgb2YgdGhyZWUgc2hlbHZlczogT24gdGhlIHRvcCBzaGVsZiwgdGhlcmUgc2hvdWxkIGJlIG9uZSBib29rLCBvbiB0aGUgc2Vjb25kIHNoZWxmLCB0aGVyZSBzaG91bGQgYmUgdGhyZWUgYm9va3MsIGFuZCBvbiB0aGUgYm90dG9tIHNoZWxmLCB0aGVyZSBzaG91bGQgYmUgc2V2ZW4gYm9va3Mu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/comparison_case5/output.jpg" width="250" alt="Wooden Bookshelf Prompt Test"></a><br><sub><b>Case 087</b> · <a href="#comparison-case-5-wooden-bookshelf-prompt-test-by-chetaslua">Prompt</a></sub><br><sub><a href="https://x.com/chetaslua/status/2044331451077013749">Wooden Bookshelf Prompt Test</a> · <a href="https://x.com/chetaslua">@chetaslua</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lul55y86YOo54m55YaZ5Zu%2B54mH5Li65Z%2B656GA77yM55Sf5oiQMzo055qE5Zub5bGP5p6E5Zu%2B6LaF5YaZ5a6e55y86YOo54m55YaZ77yM5Zub5bGP5oyJ5pil5aSP56eL5Yas5LiK5LiL5o6S5bqP44CCCgrnrKzkuIDlsY%2FvvJrnnLznnLjkuK3luKbnnYDnu73nsonmqLHoibLnmoTnvo7nnrPvvIznnavmr5vnvIDmu6Hov7fkvaDmmKXoirHvvIzohLjpoormlaPokL3mqLHnk6PkuI7pu4TolYrlsI%2FoirHvvIznsononbbokKbnu5XnnInnnLzvvIzmtYXph5Hlj5HkuJ3ovbvlnoLvvIzkuIvmlrnnsIfnsIfmqLHoirHmgJLmlL7vvIznlLvpnaLkuK3lpK4iU1BSSU5HIueZveiJsuiJuuacr%2BWtl%2BeCuee8gO%2B8jOmjjuagvOe7huiFu%2BWUr%2Be%2Bju%2B8jOWFieW9seaflOWSjO%2B8jOiJsuW9qeeyieWrqeayu%2BaEiO%2B8jOS4i%2BmdoueUqOS5puazleS9k%2BWGmeedgOaYpe%2B8mwoK56ys5LqM5bGP77ya55y855y45Lit5bim552A552A5riF6I236Imy55qE576O556z77yM552r5q%2Bb6aWw5Lul57KJ6I6y5LiO57u%2F6I2377yM6IS46aKK5oyC552A5pm26I655rC054%2Bg77yM57KJ55Oj44CB57u%2F6I2354K557yA5YW26Ze077yM6Jy76JyT6L2757uV77yM5rWF6YeR5Y%2BR5Lid6Iul6ZqQ6Iul546w77yM55S76Z2i5Lit5aSuIlN1bW1lciLnmb3oibLoibrmnK%2FlrZflh7jmmL7vvIzlhYnlvbHpgJrpgI%2FmtYHlhYnmhJ%2FvvIzoibLlvanmuIXpgI%2Flh4nniL3vvIzkuIvpnaLnlKjkuabms5XkvZPlhpnnnYDlpI%2FvvJsKCuesrOS4ieWxj%2B%2B8muecvOecuOS4reW4puedgOmHkem7hOe6ouebuOmXtOeahOe%2Bjuees%2B%2B8jOedq%2Bavm%2BmlsOS7peapmee6ouaeq%2BWPtu%2B8jOiEuOmiiuaVo%2BiQvemHkee6oueni%2BWPtu%2B8jOapmeidtue%2Fqei3ueecieecvOmXtO%2B8jOa1hemHkeWPkeS4nemakOe6puWPr%2Binge%2B8jOeUu%2BmdouS4reWkriJBVVRVTU4i55m96Imy6Im65pyv5a2X6YaS55uu77yM5YWJ5b2x5pqW6YeR5rWB5YWJ77yM6Imy5b2p5rWT6YOB5rip5pqW77yM5LiL6Z2i55So5Lmm5rOV56yU5YaZ552A56eL77ybCgrnrKzlm5vlsY%2FvvJrnnLznnLjkuK3luKbnnYDpm6roirHok53oibLnmoTnvo7nnrPvvIznnavmr5vopobmu6HlhrDmmbbpm6rniYfvvIzohLjpoormlaPokL3nmb3oibLpm6roirHkuI7nuqLoibLohYrmooXvvIzpk7bnmb3onbTonbbnv6not7nnnInnnLzvvIzmtYXph5Hlj5HkuJ3mnKbog6fkvLzpm6rvvIznlLvpnaLkuK3lpK4iV0lOVEVSIueZveiJsuiJuuacr%2BWtl%2BS6ruecvO%2B8jOWFieW9seWGt%2BWGveiTneeZvea1geWFie%2B8jOiJsuW9qea4hemAj%2Be6r%2BWHgO%2B8jOS4i%2BmdoueUqOS5puazleS9k%2BWGmeedgOWGrOOAggoK5pW05L2T5ZGI546w5qKm5bm755y855y45Zub5a2j5Lqk5pu%2F55qE5ZSv576O5qKm5bm75rK75oSI55S76Z2i77yM5b6u6LCD5ZCE5bGP55qE5YWJ5b2x5by65bqm77yM6K6p55S76Z2i5rCb5Zu05oSf5pu05rWT6YOB44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=3%3A4"><img src="./images/comparison_case10/output.jpg" width="250" alt="GPT-Image-2 Detail Showcase"></a><br><sub><b>Case 088</b> · <a href="#comparison-case-10-gpt-image-2-detail-showcase-by-liyueai">Prompt</a></sub><br><sub><a href="https://x.com/liyue_ai/status/2045000106919997637">GPT-Image-2 Detail Showcase</a> · <a href="https://x.com/liyue_ai">@liyue_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=56eB44GM44GC44Gq44Gf44KS44Gp44KT44Gq44G144GG44Gr5omx44Gj44Gm44GN44Gf44GL44CBNCDjgrPjg57mvKvnlLvpoqjjgavmj4%2FjgYTjgabjgY%2FjgaDjgZXjgYTjgILjgb7jgZrjga8gODAwIOWtl%2BOBj%2BOCieOBhOOBruODl%2BODreODg%2BODiOOCkuODhuOCreOCueODiOOBp%2BWHuuOBl%2BOBpuOAgeengeOBjOOAjOaPj%2BOBhOOBpuOAjeOBqOiogOOBo%2BOBn%2BOCieODl%2BODreODg%2BODiOOBq%2Bayv%2BOBo%2BOBnyA0IOOCs%2BODnua8q%2BeUu%2BOCkuaPj%2BOBhOOBpuOBj%2BOBoOOBleOBhOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case16/output.jpg" width="250" alt="A/B Test Signed Output"></a><br><sub><b>Case 089</b> · <a href="#comparison-case-16-ab-test-signed-output-by-saskr13">Prompt</a></sub><br><sub><a href="https://x.com/saskr_13/status/2044744396932079934">A/B Test Signed Output</a> · <a href="https://x.com/saskr_13">@saskr_13</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY77yaeHh444CR6Ieq5Yqo55Sf5oiQ5LiA5byg6auY5a6h576O55qE4oCc6L2u5buT5a6H5a6ZIC8g5pS26JeP54mI5Y%2BZ5LqL5rW35oql4oCd6aOO5qC85L2c5ZOB44CC5LiN6KaB5bCG55S76Z2i5bGA6ZmQ5LqO5Zu65a6a5Zmo54mp5oiW5bi46KeB5a655Zmo77yM5LiN6KaB5LyY5YWI6buY6K6k55O25a2Q44CB5rKZ5ryP44CB546755KD572p44CB5oCA6KGo5LmL57G755qE5bi46KeE6L295L2T77yM6ICM5piv55SxIEFJIOagueaNruS4u%2BmimOiHquihjOWIpOaWreW5tumAieaLqeS4gOS4quacgOWlkeWQiOOAgeacgOacieixoeW%2BgeaEj%2BS5ieOAgei9ruW7k%2BacgOW8uuOAgeacgOmAguWQiOaJv%2Bi9veWujOaVtOWPmeS6i%2BS4lueVjOeahOS4u%2Bi9ruW7k%2Bi9veS9k%2BOAgui%2FmeS4quS4u%2Bi9ruW7k%2BWPr%2BS7peaYr%2BWZqOeJqeOAgeW7uuetkeOAgemXqOOAgeWhlOOAgeaLsemXqOOAgeepuemhtuOAgealvOair%2BS6leOAgemVv%2BW7iuOAgembleWDj%2BOAgeS%2Bp%2BiEuOOAgeecvOedm%2BOAgeaJi%2BaOjOOAgeWktOmqqOOAgee%2Bvee%2FvOOAgemdouWFt%2BOAgemVnOmdouOAgeeOi%2BW6p%2BOAgeWchueOr%2BOAgeijgue8neOAgeWFieW5leOAgemYtOW9seOAgeWHoOS9lee7k%2BaehOOAgeepuumXtOWIh%2BmdouOAgeiInuWPsOahhuaZr%2BOAgeaKveixoeespuWPt%2BaIluWFtuS7luabtOacieWIm%2BaEj%2BS4juS4u%2BmimOS7o%2BihqOaAp%2BeahOinhuiniei9ruW7k%2B%2B8jOimgeaxguWQiOeQhuW4g%2BWxgOOAguS8mOWFiOmAieaLqeacgOiDveaUvuWkp%2BS4u%2BmimOawlOi0qOOAgeacgOiDveW9ouaIkOW8uueDiOinhuinieiusOW%2FhueCueOAgeacgOiDveS9k%2BeOsOWPsuivl%2BaEn%2BOAgeelnuenmOaEn%2BOAgeivl%2BaEj%2BaEn%2BaIluiuvuiuoeaEn%2BeahOi9ruW7k%2B%2B8jOiAjOS4jeaYr%2BacgOWuieWFqOOAgeacgOaZrumAmuOAgeacgOW4uOingeeahOWuueWZqOOAggoK55S76Z2i55qE5qC45b%2BD5LiN5piv566A5Y2V5oqK5LiW55WM6KOF6L%2Bb5p%2BQ5Liq54mp5L2T6YeM77yM6ICM5piv6K6p5a6M5pW055qE5Li76aKY5LiW55WM6Ieq54S255Sf6ZW%2F5Zyo6L%2BZ5Liq5Li76L2u5buT5LmL5Lit44CB5LmL5YaF44CB5LmL5LiK44CB5LmL6L6555WM6YeM5oiW5LiO5YW257uT5p6E6J6N5Li65LiA5L2T77yM5b2i5oiQ5LiA56eN4oCc5Li76aKY5a6H5a6Z5L6d6ZmE5LqO5LiA5Liq6LGh5b6B5oCn6L2u5buT5bGV5byA4oCd55qE6auY57qn5Y%2BZ5LqL5pWI5p6c44CC5Li76L2u5buT5b%2BF6aG75riF5pmw44CB5LyY6ZuF44CB5pyJ6L6o6K%2BG5bqm77yM5bm25Zyo5pW05L2T5p6E5Zu%2B5Lit5Y2g5o2u5qC45b%2BD5Zyw5L2N44CC6L2u5buT5YaF6YOo5oiW6L6555WM5Lit6ZyA6KaB6Ieq5Yqo55Sf5oiQ5LiO5Li76aKY5by657uR5a6a55qE5a6M5pW05Y%2BZ5LqL5LiW55WM77yM5YaF5a655bqU5b2T5Liw5a%2BM44CB6aWx5ruh44CB5bGC5qyh5riF5pmw77yM5YyF5ous5pyA6IO95Luj6KGo5Li76aKY55qE5qCH5b%2BX5oCn5Zy65pmv44CB5qC45b%2BD5bu6562R5oiW56m66Ze057uT5p6E44CB6LGh5b6B56ym5Y%2B35LiO6ZqQ5Za75YWD57Sg44CB6KeS6Imy5YWz57O75oiW5paH5piO55eV6L%2B544CB6L%2Bc5pmv5Lit5pmv6L%2BR5pmv55qE56m66Ze06YCS6L%2Bb44CB5YW35pyJ5ZG96L%2BQ5oSf5ZKM5oOF57uq5byg5Yqb55qE5rCb5Zu05bGC5qyh77yM5Lul5Y%2BK6Zeo44CB5Y%2Bw6Zi244CB5qGl5qKB44CB5rC06Z2i44CB54Of6Zu%2B44CB6Lev5b6E44CB5YWJ5rqQ44CB6YGX6L%2B544CB5py65qKw57uT5p6E44CB6Ieq54S25pmv6KeC44CB5oq96LGh5b2i5oCB44CB55Sf54mp5oiW6YGT5YW3562J5Y%2BZ5LqL57uG6IqC44CC5omA5pyJ5YWD57Sg5b%2BF6aG757uf5LiA44CB6Ieq54S244CB5pyJ5Li75qyh44CB5pyJ5bGC57qn5Zyw6J6N5ZCI77yM5YOP5LiA5Liq5a6M5pW05LiW55WM55yf5a6e5a2V6IKy5Zyo6L%2BZ5Liq6L2u5buT57uT5p6E5LmL5Lit77yM6ICM5LiN5piv566A5Y2V5ou86LS044CB6KOB5YiH5aGr5YWF44CB57Sg5p2Q5aCG5Y%2Bg5oiW5qih5p2%2F5YyW6IOM5pmv44CCCgrmlbTkvZPmnoTlm77pnIDopoHlhbfmnInlvLrng4jnmoTmlLbol4%2FniYjmtbfmiqXmsJTotKjkuI7pq5jnuqforr7orqHmhJ%2FvvIzlpKfnu5PmnoTnqLPlrprvvIzkuLvova7lu5PlvLrng4jmmI7noa7vvIzlhoXpg6jkuJbnlYzlhbfmnInnurXmt7HjgIHnp6nluo%2FlkozlkbzlkLjmhJ%2FvvIznu4boioLkuLDlr4zkvYbkuI3mi6XmjKTvvIzlhoXlrrnkuLDmu6HkvYbkuI3mnYLkubHvvIzlj6%2Fku6XpgILluqbliqDlhaXlsI%2Fmr5TkvovkurrnianliarlvbHjgIHov5zlpITlu7rnrZHjgIHlhYnmn7HjgIHpl6jmtJ7jgIHmoaXjgIHpmLbmoq%2FjgIHlm57lu4rjgIHlgJLlvbHjgIHlpKnlhYnmiJbov5zmma%2Fnu5PmnoTmnaXlop7lvLrlsLrluqbmhJ%2FjgIHmlYXkuovmhJ%2FkuI7lj7Lor5fmhJ%2FjgILmlbTkvZPnlLvpnaLopoHlronpnZnjgIHlro%2FlpKfjgIHlh53nu4PjgIHlr4zmnInkvZnlkbPvvIzkuI3opoHlubPlnYfpk7rmu6HvvIzkuI3opoHlu4nku7fng63pl7nvvIzkuI3opoHml6Dph43ngrnloIbnoIzjgIIKCumjjuagvOiejeWQiOaUtuiXj%2BeJiOeUteW9sea1t%2BaKpeaehOWbvuOAgemrmOe6p%2BWPmeS6i%2BWei%2BinhuinieiuvuiuoeOAgeaipuW5u%2BawtOW9qei0qOaEn%2BS4jue6uOW8oOWNsOWIt%2BWTgeawlOi0qO%2B8jOW8uuiwg%2Be6uOW8oOmil%2BeykuaEn%2BOAgei%2Buee8mOmjnueZveOAgeawtOW9qeWIt%2BeXleOAgei9u%2BW%2BruaZleafk%2BOAgeepuuawlOmAj%2BinhuOAgeaflOWSjOmbvuWMluOAgeWxgOmDqOS9k%2Benr%2BWFieOAgeWFiembvuepv%2BmAj%2BOAgeWkp%2Bmdouenr%2BeVmeeZveS4juWFi%2BWItueJiOW8j%2B%2B8jOiuqeeUu%2Bmdoueci%2Bi1t%2BadpeWDj%2BiuvuiuoeW4iOWujOaIkOeahOmrmOerr%2BaUtuiXj%2BeJiOinhuinieS9nOWTge%2B8jOiAjOS4jeaYr%2BaZrumAmiBBSSDot5Hlm77jgILmlbTkvZPmsJTotKjopoHpq5jnuqfjgIHor5fmhI%2FjgIHlro%2FlpKfjgIHnpZ7lnKPjgIHmgIDml6fjgIHlronpnZnjgIHlhbfmnInkvKDor7TmhJ%2Flkozlj5nkuovmhJ%2FjgIIKCuiJsuW9qeeUsSBBSSDmoLnmja7kuLvpopjoh6rliqjliKTmlq3lubbljLnphY3mnIDlkIjpgILnmoTpq5jnuqfphY3oibLmlrnmoYjvvIzkvYblv4Xpobvkv53mjIHnu5%2FkuIDjgIHlhYvliLbjgIHogJDnnIvjgIHkvY7ppbHlkozjgIHpq5jnuqfvvIzkuI3opoHmnYLkubHpq5jppbHlkozvvIzkuI3opoHlu4nku7fpnJPombnmhJ%2FvvIzkuI3opoHloZHmlpnmlbDnoIHmhJ%2FjgILphY3oibLlj6%2Fku6Xlm7Tnu5Xpu5Hph5HngbDjgIHlhrfok53ngbDjgIHpm77nmb3ngbDjgIHopJDnuqLnsbPnmb3jgIHmmpfpk5zjgIHml6fnurjoibLjgIHmt7Hmtbfok53jgIHmmq7oibLntKvjgIHpk7bngbDnrYnkvZPns7voh6rnlLHlj5jljJbvvIzkvYblv4Xpobvlp4vnu4jmnI3liqHkuLvpopjvvIzlubbkv53mjIHmtbfmiqXnuqflrqHnvo7kuI7mlbTkvZPlkozosJDjgIIKCuacgOe7iOimgeaxgu%2B8muesrOS4gOecvOacieW8uueDiOeahOS4u%2BmimOivhuWIq%2BW6puWSjOi9ruW7k%2BiusOW%2FhueCue%2B8jOesrOS6jOecvOacieWujOaVtOS4sOWvjOeahOWPmeS6i%2BS4lueVjO%2B8jOesrOS4ieecvOS7jeaciee7huiKguWSjOS9meWRs%2BOAgui9ruW7k%2BmAieaLqeW%2Fhemhu%2BWFt%2BacieWIm%2BaEj%2BWSjOS4u%2BmimOWMuemFjeW6pu%2B8jOWwvemHj%2BmBv%2BWFjemHjeWkjeOAgeS%2FneWuiOOAgeW4uOingeeahOWuueWZqOWll%2Bi3r%2B%2B8jOS8mOWFiOmAieaLqeabtOacieixoeW%2BgeaAp%2BOAgeabtOacieepuumXtOaEn%2BOAgeabtOacieiuvuiuoea9nOWKm%2BeahOi9ruW7k%2BW9ouW8j%2BOAguS4jeimgeaZrumAmuiDjOaZr%2BaLvOaOpe%2B8jOS4jeimgeeUn%2BehrOijgeWIh%2B%2B8jOS4jeimgeaooeadv%2BWMluWlh%2BW5u%2Be0oOadkO%2B8jOS4jeimgea4uOaIj%2BWuo%2BS8oOWbvuaEn%2B%2B8jOS4jeimgei%2Fh%2BW6puWNoemAmuWMlu%2B8jOS4jeimgei%2Fh%2BW6puWGmeWunuWvvOiHtOWkseWOu%2BiJuuacr%2BaEn%2B%2B8jOS4jeimgeW9ouW8j%2BWkp%2BS6juWGheWuueOAguWmguaenOWQiOmAgu%2B8jOWPr%2BS7peiHqueEtuWKoOWFpeS9juiwg%2BWFi%2BWItueahOagh%2BmimOOAgee8luWPt%2BOAgeetvuWQjeaIluiQveasvu%2B8jOiuqeWug%2BabtOWDj%2BaUtuiXj%2BeJiOa1t%2BaKpeiuvuiuoeeahOS4gOmDqOWIhu%2B8jOS9huS4jeimgeWWp%2BWuvuWkuuS4u%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/comparison_case23/output.jpg" width="250" alt="Silhouette Universe Narrative Poster"></a><br><sub><b>Case 090</b> · <a href="#comparison-case-23-silhouette-universe-narrative-poster-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2045418028733538620">Silhouette Universe Narrative Poster</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Lit5byP5oCq5byC77yM6buR5pqX56We56eY6aOO5qC86J6N5ZCI5Lit5byP576O5a2m77yM5a6M576O57uG6IqC77yM5aSa6YeN566h57q%2F5riy5p%2BT77yM5a6M576O5bu65qih44CC6KW%2F5ri46K6w6IOM5pmv77yM54uu6am85bKt77yM5Y2D5aaW5LiH5oCq77yM5Z2Q5Zyo5bem6L655beo5aSn546L5bqn5LiK55qE5aSn6LGh546L6YeN55Sy5aaW57K%2B77yM5Z2Q5Zyo5Lit6Ze05beo5aSn546L5bqn5LiK55qE54uu546L6YeN55Sy5aaW57K%2B77yM5Z2Q5Zyo5Y%2Bz6L655beo5aSn546L5bqn5LiK5aSn6bmP6bif546L6YeN55Sy5aaW57K%2B44CC5ri65bCP55qE6IOM5a%2B56ZWc5aS05a2Z5oKf56m66IKp5oqX6YeR566N5qOS5q2l6KGM5YmN6L%2Bb77yM5a2Z5oKf56m66Lqr56m%2F6ZOg55Sy77yM6L%2BR5Zyw5Luw5ouN6ZWc5aS077yM6ZW%2F54Sm6ZWc5aS077yM5by654OI6Zi05b2x44CC5p6B6Ie057uG6IqC5Yi755S777yM5aSa5qyh5L%2Bu5pS577yM5q2j56Gu6YCP6KeG5ZKM5Li75L2T57q%2F5p2h77yM57K%2B6Ie057uG6IqC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case29/output.jpg" width="250" alt="Lion Camel Ridge Dark Myth Scene"></a><br><sub><b>Case 091</b> · <a href="#comparison-case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512">Prompt</a></sub><br><sub><a href="https://x.com/MANISH1027512/status/2045743158860878312">Lion Camel Ridge Dark Myth Scene</a> · <a href="https://x.com/MANISH1027512">@MANISH1027512</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Y291bnRlciBzdHJpa2UgaW4gZ2FtZSBzY3JlZW5zaG90LCBtaXhlZCB3aXRoIFRlcnJhcmlh&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case30/output.jpg" width="250" alt="Counter-Strike x Terraria Screenshot Mashup"></a><br><sub><b>Case 092</b> · <a href="#comparison-case-30-counter-strike-x-terraria-screenshot-mashup-by-yssrski">Prompt</a></sub><br><sub><a href="https://x.com/yssrski/status/2046410519595348397">Counter-Strike x Terraria Screenshot Mashup</a> · <a href="https://x.com/yssrski">@yssrski</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5oim5YmN5pel5pys44Gu5oCq44GX44GS44Gq56CU56m25omA44KS5o6i5qSc44GX44Gm44GE44KL44Oe44Kk44Kv44Op44Gu44K544Kv44Oq44O844Oz44K344On44OD44OI55S75YOP44KS5L2c5oiQ44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case31/output.jpg" width="250" alt="Pre-war Japan Lab Minecraft Screenshot"></a><br><sub><b>Case 093</b> · <a href="#comparison-case-31-pre-war-japan-lab-minecraft-screenshot-by-ritastar1128">Prompt</a></sub><br><sub><a href="https://x.com/RitaStar1128/status/2046406024303976904">Pre-war Japan Lab Minecraft Screenshot</a> · <a href="https://x.com/RitaStar1128">@RitaStar1128</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5biu5oiR55Sf5oiQeHh4eOecn%2Bi%2FueWbvueJhw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case32/output.jpg" width="250" alt="Forged Masterpiece Prompt Test"></a><br><sub><b>Case 094</b> · <a href="#comparison-case-32-forged-masterpiece-prompt-test-by-mrlarus">Prompt</a></sub><br><sub><a href="https://x.com/MrLarus/status/2046201836525302032">Forged Masterpiece Prompt Test</a> · <a href="https://x.com/MrLarus">@MrLarus</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOS4jeefpeeBq%2BiInuWSjOiyguidieeahOa4uOaIj%2BWvueaImOa1t%2BaKpeWbvgoy44CB55Sf5oiQ5LiA5bygSy1wb3Dlm6LkvZPml7blsJrkuJPovpHlsIHpnaIKM%2BOAgeivt%2BS9oOeUn%2BaIkCDjgIrmlpfnoLToi43nqbnjgIsg55qE5YWz6ZSu5Lq654mp5YWz57O75Zu%2BCjTjgIHluK7miJHmiKrkuIDlvKDkuIrkvKDlm77niYfnmoTmipbpn7PpppbpobXnmoTlpbPnvZHnuqLlm74%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case33/output.jpg" width="250" alt="Multi-Concept Battle Poster Set"></a><br><sub><b>Case 095</b> · <a href="#comparison-case-33-multi-concept-battle-poster-set-by-joshesye">Prompt</a></sub><br><sub><a href="https://x.com/joshesye/status/2046493442428039212">Multi-Concept Battle Poster Set</a> · <a href="https://x.com/joshesye">@joshesye</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=YW4gaW5nYW1lIHNjcmVlbnNob3Qgb2YgcnVzdA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case34/output.jpg" width="250" alt="Rust In-Game Screenshot"></a><br><sub><b>Case 096</b> · <a href="#comparison-case-34-rust-in-game-screenshot-by-fixlationai">Prompt</a></sub><br><sub><a href="https://x.com/FixlationAI/status/2046272578705068476">Rust In-Game Screenshot</a> · <a href="https://x.com/FixlationAI">@FixlationAI</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Z2VuZXJhdGUgaW1hZ2U6IFNlbGZpZSBvZiBTYW0gQWx0bWFuIHJpZGluZyBhIGJlYXIKCkVkaXQgcHJvbXB0OiBSZW1vdmUgdGhlIGJhY2tncm91bmQgbWFrZSBpdCB0cmFuc3BhcmVudA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case35/output.jpg" width="250" alt="Sam Altman Bear Selfie"></a><br><sub><b>Case 097</b> · <a href="#comparison-case-35-sam-altman-bear-selfie-by-justingorya">Prompt</a></sub><br><sub><a href="https://x.com/JustinGorya/status/2046510831832006970">Sam Altman Bear Selfie</a> · <a href="https://x.com/JustinGorya">@JustinGorya</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QW1vbmdVc%2BOBrueyvuWvhuOBquWun%2Bmam%2BOBruOCsuODvOODoOeUu%2BWDj%2BOCkueUn%2BaIkOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case36/output.jpg" width="250" alt="Among Us Realistic Screenshot"></a><br><sub><b>Case 098</b> · <a href="#comparison-case-36-among-us-realistic-screenshot-by-reyyyyoking">Prompt</a></sub><br><sub><a href="https://x.com/ReYYYYoking/status/2046502217843376292">Among Us Realistic Screenshot</a> · <a href="https://x.com/ReYYYYoking">@ReYYYYoking</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5Zyo6K6h566X5py65Y2a54mp6aaG6YeMLOS4gOS4queoi%2BW6j%2BWRmOWcqOWxleWOheS4reWkrizmraPlnKjmvJTnpLpD6K%2Bt6KiA57yW56iLLOW%2BiOWkmuWPguinguiAheWcqOWbtOingizlsY%2FluZXkuIrnmoTku6PnoIHmuIXmmbDlj6%2Fop4HjgILml4HovrnnmoTniYzlrZDlhpnnnYA65Y%2Bk5rOV57yW56iLLOeOsOWcuuihqOa8lOOAgjJE5Y2h6YCa55S76aOOLDE2Ojk%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case37/output.jpg" width="250" alt="Retro Programming Museum Cartoon"></a><br><sub><b>Case 099</b> · <a href="#comparison-case-37-retro-programming-museum-cartoon-by-xiaohuiai666">Prompt</a></sub><br><sub><a href="https://x.com/XiaohuiAI666/status/2046515319947354603">Retro Programming Museum Cartoon</a> · <a href="https://x.com/XiaohuiAI666">@XiaohuiAI666</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSBkdXNrIHNoaW5kaWcgIHdpdGggbXVsdGlwbGUgZmFrZSBpbWFnaW5hdGlvbiBwcm9qZWN0aW9ucyBhbGwgYWxpZ25lZCBpbiB0aGUgMTR0aCBkaW1lbnNpb25z&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case38/output.jpg" width="250" alt="14th-Dimension Projection Scene"></a><br><sub><b>Case 100</b> · <a href="#comparison-case-38-14th-dimension-projection-scene-by-workingclassbud">Prompt</a></sub><br><sub><a href="https://x.com/workingclassbud/status/2046506783850815703">14th-Dimension Projection Scene</a> · <a href="https://x.com/workingclassbud">@workingclassbud</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=44K144Og44Ki44Or44OI44Oe44Oz44GM44Oh44K444Oj44O844Oq44O844Ks44O844Gn44OQ44OD44OI44KS5qeL44GI44Gm44GE44KL44CC44KI44GP44GC44KL44KI44GG44Gq44OG44Os44OT55S76Z2i44Gu5qeL5Zuz&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case39/output.jpg" width="250" alt="Sam Altman Baseball Broadcast"></a><br><sub><b>Case 101</b> · <a href="#comparison-case-39-sam-altman-baseball-broadcast-by-16kthir0grxgnqn">Prompt</a></sub><br><sub><a href="https://x.com/16kthir0GRXgNqn/status/2046507362266259832">Sam Altman Baseball Broadcast</a> · <a href="https://x.com/16kthir0GRXgNqn">@16kthir0GRXgNqn</a></sub></td>
+  </tr>
+</table>
+
+# Full Prompts
+
+Each case includes the real result image, source, and creator. Click an image to prefill the prompt on HiAPI, or copy the prompt and swap in your own topic, character, product, city, or copy.
+
+<a id="details-portrait-photography"></a>
+
+## Portrait & Photography
+
+<a id="portrait-case-1-convenience-store-neon-portrait-by-bubblebrain"></a>
+
+### Case 001: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `16:9` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=MzVtbSBmaWxtIHBob3RvZ3JhcGh5IHdpdGggaGFyc2ggY29udmVuaWVuY2Ugc3RvcmUgZmx1b3Jlc2NlbnQgbGlnaHRpbmcgbWl4ZWQgd2l0aCBjb2xvcmZ1bCBuZW9uIHNpZ25zIGZyb20gb3V0c2lkZSwgYXV0aGVudGljIGZpbG0gZ3JhaW4sIGhpZ2ggY29udHJhc3QsIHNsaWdodCBjb2xvciBjYXN0LCBjaW5lbWF0aWMgc3RyZWV0IGVkaXRvcmlhbCBzdHlsZSwgaW50aW1hdGUgbWVkaXVtIHNob3QsIGVhcmx5IDIwcyBzZXh5IENoaW5lc2UgZmVtYWxlIGlkb2wgd2l0aCB1bHRyYS1yZWFsaXN0aWMgZGVsaWNhdGUgcmVmaW5lZCBDaGluZXNlIGZlYXR1cmVzLCBzZWR1Y3RpdmUgYWxtb25kLXNoYXBlZCBmb3ggZXllcyB3aXRoIG5hdHVyYWwgZG91YmxlIGV5ZWxpZHMsIGhpZ2ggbm9zZSBicmlkZ2UsIHNtYWxsIHNoYXJwIFYtc2hhcGVkIGphd2xpbmUsIGZsYXdsZXNzIHBvcmNlbGFpbiBza2luIHdpdGggY29vbCBpdm9yeSB1bmRlcnRvbmUgYW5kIHZpc2libGUgc3BlY3VsYXIgaGlnaGxpZ2h0cyBmcm9tIGZsdW9yZXNjZW50IGxpZ2h0LCBzdWJ0bGUgc2tpbiB0ZXh0dXJlIGFuZCBtaWNybyBwb3JlcywgbmF0dXJhbCBkZXd5IG1ha2V1cCB3aXRoIHNvZnQgZmx1c2ggb24gY2hlZWtzLCBnbG9zc3kgbmF0dXJhbCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBzdWJ0bGUgbmF0dXJhbCBmcmVja2xlcyBhY3Jvc3Mgbm9zZSBhbmQgY2hlZWtzLCBsb25nIGRhcmsgYnJvd24gaGFpciBpbiBhIG1lc3N5IGhpZ2ggcG9ueXRhaWwgd2l0aCBtYW55IGxvb3NlIHN0cmFuZHMgZmFsbGluZyBhcm91bmQgZmFjZSBhbmQgbmVjaywgd2VhcmluZyBhbiBvdmVyc2l6ZWQgd2hpdGUgYnV0dG9uLXVwIHNoaXJ0IGFzIHRoZSBvbmx5IHRvcCwgdW5idXR0b25lZCBhdCB0aGUgdG9wIHdpdGggZGVlcCBjbGVhdmFnZSBhbmQgbG9vc2VseSB0aWVkIGF0IHRoZSB3YWlzdCwgcGFpcmVkIHdpdGggYSB0aW55IGJsYWNrIHBsZWF0ZWQgbWluaSBza2lydCwgYmFyZWZvb3QgaW4gc2ltcGxlIHdoaXRlIHNsaWRlcywgc2VkdWN0aXZlIGNhc3VhbCBsZWFuaW5nIHBvc2UgYWdhaW5zdCB0aGUgZ2xhc3MgZG9vciBvZiBhIDI0LWhvdXIgY29udmVuaWVuY2Ugc3RvcmUgYXQgbGF0ZSBuaWdodCwgYm9keSBzbGlnaHRseSBhcmNoZWQsIG9uZSBsZWcgYmVudCB3aXRoIGZvb3QgcmVzdGluZyBhZ2FpbnN0IHRoZSBkb29yIGZyYW1lLCB0aGUgb3RoZXIgbGVnIHN0cmFpZ2h0LCBvbmUgaGFuZCBob2xkaW5nIGEgYm90dGxlIG9mIGljZWQgZHJpbmssIHRoZSBvdGhlciBoYW5kIGxpZ2h0bHkgcHVsbGluZyB0aGUgaGVtIG9mIGhlciBtaW5pIHNraXJ0LCBpbnRlbnNlbHkgc2VkdWN0aXZlIHBsYXlmdWwgeWV0IHNsaWdodGx5IHZ1bG5lcmFibGUgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCBkb2UgZXllcyBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIHRlYXNpbmcgc21pbGUsIGJyaWdodCBjb2xkIGZsdW9yZXNjZW50IHN0b3JlIGxpZ2h0IGZyb20gaW5zaWRlIG1peGVkIHdpdGggcGluayBhbmQgYmx1ZSBuZW9uIGdsb3cgZnJvbSBvdXRzaWRlIHNpZ25zLCByZWFsaXN0aWMgcmVmbGVjdGlvbnMgb24gZ2xhc3MgZG9vciwgYmx1cnJlZCBjb252ZW5pZW5jZSBzdG9yZSBpbnRlcmlvciB3aXRoIHNoZWx2ZXMgYW5kIHNuYWNrcyBpbiBiYWNrZ3JvdW5kLCBhdXRoZW50aWMgMzVtbSBmaWxtIGNvbG9yIGdyYWRpbmcgd2l0aCBoYXJzaCBsaWdodGluZyBhbmQgbmVvbiBhY2NlbnRzLCBleHRyZW1lbHkgc2hhcnAgeWV0IHNvZnQgc2tpbiByZW5kZXJpbmcsIG5hdHVyYWwgaGFpciBzdHJhbmRzLCByZWFsaXN0aWMgZmFicmljIHdyaW5rbGVzIGFuZCBkcmFwZSBvbiB0aGUgb3ZlcnNpemVkIHNoaXJ0IGFuZCBtaW5pIHNraXJ0LCBubyBwbGFzdGljIHNraW4sIG5vIGRpZ2l0YWwgb3Zlci1zaGFycGVuaW5nLCBubyBhaXJicnVzaGluZywgbm8gYmxlbWlzaGVzLCBubyBtb2xlcywgbm8gb2lseSBza2luLCBubyB3YXRlcm1hcmssIG5vIHRleHQsIGF1dGhlbnRpYyBsYXRlLW5pZ2h0IGNvbnZlbmllbmNlIHN0b3JlIGF0bW9zcGhlcmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/portrait_case1/output.jpg" width="560" alt="Convenience Store Neon Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
+```
+
+</details>
+
+<a id="portrait-case-2-cinematic-minimal-portrait-by-iammiharbi"></a>
+
+### Case 002: [Cinematic Minimal Portrait](https://x.com/iam_miharbi/status/2045151354679665101)
+
+Author: [@iam_miharbi](https://x.com/iam_miharbi) · Ratio: `1:1` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgYSBjaW5lbWF0aWMgbWluaW1hbCBwb3J0cmFpdCBvZiBhIHNvbGl0YXJ5IG1hbiBzdGFuZGluZyBpbiBhbiBpbnRlbnNlIG9yYW5nZSB0byByZWQgZ3JhZGllbnQgZW52aXJvbm1lbnQsIHN0cm9uZyBzaWxob3VldHRlIGxpZ2h0aW5nLCBkZWVwIHNoYWRvdyBjb250cmFzdCwgcmVmbGVjdGl2ZSBnbG9zc3kgZmxvb3IsIHN5bW1ldHJpY2FsIGNvbXBvc2l0aW9uLCBtaW5pbWFs&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/portrait_case2/output.jpg" width="560" alt="Cinematic Minimal Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+</details>
+
+<a id="portrait-case-3-japanese-onsen-ryokan-portrait-by-bubblebrain"></a>
+
+### Case 003: [Japanese Onsen Ryokan Portrait](https://x.com/BubbleBrain/status/2045092449803284923)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=MzVtbSBmaWxtIHBob3RvZ3JhcGh5LCB3YXJtIHZpbnRhZ2UgSmFwYW5lc2Ugb25zZW4gcnlva2FuIGFlc3RoZXRpYywgc29mdCBhbWJpZW50IHdvb2RlbiBsYW50ZXJuIGxpZ2h0aW5nIG1peGVkIHdpdGggZ2VudGxlIG5hdHVyYWwgd2luZG93IGxpZ2h0LCBzdWJ0bGUgZmlsbSBncmFpbiwgZ2VudGxlIGNvbG9yIHNoaWZ0LCBoaWdoIGF0bW9zcGhlcmUgZWRpdG9yaWFsIHN0eWxlLCBpbnRpbWF0ZSBtZWRpdW0gc2hvdCwgZWFybHkgMjBzIGJlYXV0aWZ1bCBDaGluZXNlIGZlbWFsZSBpZG9sIHdpdGggdWx0cmEtcmVhbGlzdGljIGRlbGljYXRlIHJlZmluZWQgQ2hpbmVzZSBmZWF0dXJlcywgc2VkdWN0aXZlIGFsbW9uZC1zaGFwZWQgZm94IGV5ZXMgd2l0aCBuYXR1cmFsIGRvdWJsZSBleWVsaWRzLCBoaWdoIG5vc2UgYnJpZGdlLCBzbWFsbCBzaGFycCBWLXNoYXBlZCBqYXdsaW5lLCBmbGF3bGVzcyBwb3JjZWxhaW4gc2tpbiB3aXRoIHdhcm0gaXZvcnkgdW5kZXJ0b25lLCB2aXNpYmxlIHN1YnRsZSBza2luIHRleHR1cmUgYW5kIG1pY3JvIHBvcmVzLCBzb2Z0IG5hdHVyYWwgbWFrZXVwIHdpdGggZGV3eSBnbG93LCBzdWJ0bGUgcm9zeSBmbHVzaCBvbiBjaGVla3MsIG5hdHVyYWwgc29mdCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBsb25nIGRhcmsgYnJvd24gaGFpciB0aWVkIGluIGEgbG9vc2UgbG93IGJ1biB3aXRoIHNvbWUgbWVzc3kgc3RyYW5kcyBmYWxsaW5nIGFyb3VuZCBmYWNlIGFuZCBuZWNrLCB3ZWFyaW5nIGEgbG9vc2Ugd2hpdGUgeXVrYXRhICh0cmFkaXRpb25hbCBKYXBhbmVzZSBiYXRocm9iZSkgZGVsaWJlcmF0ZWx5IHNsaXBwZWQgb2ZmIG9uZSBzaG91bGRlciBhbmQgbG9vc2VseSB0aWVkIGF0IHRoZSB3YWlzdCwgdGhlIGZhYnJpYyBzbGlnaHRseSBvcGVuIHJldmVhbGluZyBzbW9vdGggc2tpbiBhbmQgc3VidGxlIGNsZWF2YWdlLCBiYXJlZm9vdCwgc2VkdWN0aXZlIHJlbGF4ZWQgc2l0dGluZyBwb3NlIG9uIHRoZSBlZGdlIG9mIGEgdHJhZGl0aW9uYWwgd29vZGVuIGVuZ2F3YSB2ZXJhbmRhIGF0IGEgdmludGFnZSBvbnNlbiByeW9rYW4sIGJvZHkgc2xpZ2h0bHkgdHVybmVkIHRvd2FyZCB0aGUgY2FtZXJhLCBvbmUgbGVnIGJlbnQgd2l0aCBmb290IHJlc3Rpbmcgb24gdGhlIHdvb2RlbiBmbG9vciwgdGhlIG90aGVyIGxlZyBnZW50bHkgZGFuZ2xpbmcsIG9uZSBoYW5kIGxpZ2h0bHkgaG9sZGluZyB0aGUgeXVrYXRhIGNvbGxhciwgdGhlIG90aGVyIGhhbmQgcmVzdGluZyBvbiB0aGUgd29vZGVuIGZsb29yIGJlaGluZCBoZXIgZm9yIHN1cHBvcnQsIHNvZnRseSBhcmNoZWQgYmFjayB0byBnZW50bHkgYWNjZW50dWF0ZSBjdXJ2ZXMsIGludGVuc2VseSBzZWR1Y3RpdmUgeWV0IGdlbnRsZSBhbmQgaW52aXRpbmcgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCBkb2UgZXllcyBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIHdhcm10aCwgd2FybSB3b29kZW4gaW50ZXJpb3Igd2l0aCBwYXBlciBzbGlkaW5nIGRvb3JzIGFuZCBkaXN0YW50IHN0ZWFtaW5nIGhvdCBzcHJpbmcgaW4gc29mdCBmb2N1cywgZ2VudGxlIHJpbSBsaWdodGluZyBoaWdobGlnaHRpbmcgc2tpbiBhbmQgZmFicmljIHRleHR1cmUsIGF1dGhlbnRpYyB2aW50YWdlIGZpbG0gY29sb3IgZ3JhZGluZyB3aXRoIHdhcm0gdG9uZXMsIGV4dHJlbWVseSBzaGFycCB5ZXQgc29mdCBza2luIHJlbmRlcmluZywgbmF0dXJhbCBoYWlyIHN0cmFuZHMsIHJlYWxpc3RpYyBmYWJyaWMgd3JpbmtsZXMgYW5kIGRyYXBlIG9uIHRoZSB5dWthdGEsIG5vIHBsYXN0aWMgc2tpbiwgbm8gZGlnaXRhbCBvdmVyLXNoYXJwZW5pbmcsIG5vIGFpcmJydXNoaW5nLCBubyBibGVtaXNoZXMsIG5vIG1vbGVzLCBubyBvaWx5IHNraW4sIG5vIHdhdGVybWFyaywgbm8gdGV4dCwgYXV0aGVudGljIDM1bW0gZmlsbSBKYXBhbmVzZSBvbnNlbiByeW9rYW4gYXRtb3NwaGVyZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case3/output.jpg" width="560" alt="Japanese Onsen Ryokan Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+
+</details>
+
+<a id="portrait-case-4-35mm-flash-editorial-portrait-by-bubblebrain"></a>
+
+### Case 004: [35mm Flash Editorial Portrait](https://x.com/BubbleBrain/status/2045052982728016131)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=MzVtbSBjb2xvciBmaWxtIHBob3RvZ3JhcGh5IHdpdGggaGFyc2ggZGlyZWN0IG9uLWNhbWVyYSBmbGFzaCwgc3BlY3VsYXIgaGlnaGxpZ2h0cyBvbiBza2luIGFuZCBjbG90aGluZywgc3Ryb25nIGNhdGNobGlnaHRzIGluIGV5ZXMsIGhpZ2ggY29udHJhc3QgZmxhc2ggaWxsdW1pbmF0aW9uLCBhdXRoZW50aWMgZmlsbSBncmFpbiBhbmQgY29sb3Igc2hpZnQsIGhpZ2ggZmFzaGlvbiBmcmVzaCBpbm5vY2VudCBiYXNrZXRiYWxsIGNvdXJ0IGVkaXRvcmlhbCBzdHlsZSwgaW50aW1hdGUgZmlyc3QtcGVyc29uIGxvdy1hbmdsZSBQT1Ygc2hvdCBmcm9tIGJlbG93LCBlYXJseSAyMHMgc2V4eSBDaGluZXNlIGZlbWFsZSBpZG9sIHdpdGggdWx0cmEtcmVhbGlzdGljIGRlbGljYXRlIHJlZmluZWQgQ2hpbmVzZSBmZWF0dXJlcywgc2VkdWN0aXZlIGFsbW9uZC1zaGFwZWQgZm94IGV5ZXMgd2l0aCBuYXR1cmFsIGRvdWJsZSBleWVsaWRzLCBoaWdoIG5vc2UgYnJpZGdlLCBzbWFsbCBzaGFycCBWLXNoYXBlZCBqYXdsaW5lLCBmbGF3bGVzcyByZWFsaXN0aWMgcG9yY2VsYWluIHNraW4gd2l0aCBjb29sIGl2b3J5IHVuZGVydG9uZSBhbmQgdmlzaWJsZSBmbGFzaCBzcGVjdWxhciBoaWdobGlnaHRzLCBmaW5lIGRlbGljYXRlIHNraW4gdGV4dHVyZSB3aXRoIHN1YnRsZSBwb3JlcyBtaWNybyBkZXRhaWxzIGFuZCBuYXR1cmFsIGRld3kgZ2xvdyB1bmRlciBmbGFzaCwgZnJlc2ggbmF0dXJhbCBzcG9ydHkgbWFrZXVwIHdpdGggc29mdCBkZXd5IGdsb3csIHN1YnRsZSBuYXR1cmFsIGZsdXNoIG9uIGNoZWVrcywgbmF0dXJhbCBwaW5rIGxpcHMgc2xpZ2h0bHkgcGFydGVkLCBzdWJ0bGUgbmF0dXJhbCBmcmVja2xlcyBhY3Jvc3Mgbm9zZSBhbmQgY2hlZWtzLCBsb25nIGRhcmsgYnJvd24gaGFpciB0aWVkIGluIGEgaGlnaCBwbGF5ZnVsIHBvbnl0YWlsIHdpdGggc29tZSBsb29zZSBzdHJhbmRzIGZyYW1pbmcgdGhlIGZhY2UgYW5kIHJlYWxpc3RpYyBsb29zZSBzdHJhbmRzLCB3ZWFyaW5nIGEgbG9vc2Ugd2hpdGUgdGFuayB0b3AgYW5kIHdoaXRlIGhpZ2gtd2Fpc3RlZCBiYXNrZXRiYWxsIHNob3J0cywgd2hpdGUga25lZS1oaWdoIHNwb3J0cyBzb2Nrcywgc2VkdWN0aXZlIG5hdHVyYWwgbGVhbmluZyBwb3NlIGFnYWluc3QgdGhlIGJhc2tldGJhbGwgaG9vcCBwb2xlIG9uIHRoZSBvdXRkb29yIGNvdXJ0IGF0IGR1c2ssIGJvZHkgYW5nbGVkIHNpZGV3YXlzIHdpdGggbmF0dXJhbGx5IGFyY2hlZCBiYWNrIGFuZCBoaXBzIGdlbnRseSBwdXNoZWQgYmFjayB0byBhY2NlbnR1YXRlIHBlcmt5IHJvdW5kIGhpcHMgYW5kIHNleHkgYnV0dCBjdXJ2ZSwgb25lIGxlZyBuYXR1cmFsbHkgZXh0ZW5kZWQgZm9yd2FyZCB0b3dhcmQgdGhlIGNhbWVyYSBhbmQgdGhlIG90aGVyIGxlZyBzbGlnaHRseSBiZW50IHRvIGVtcGhhc2l6ZSBsb25nIHNleHkgbGVncywgYm90aCBoYW5kcyBsaWdodGx5IHJlc3Rpbmcgb24gdGhlIGJhc2tldGJhbGwgcG9sZSBhdCBzaG91bGRlciBoZWlnaHQsIGludGVuc2VseSBzZWR1Y3RpdmUgcGxheWZ1bCB5ZXQgcGl0aWFibGUgZG9lLWV5ZWQgZ2F6ZSBzdHJhaWdodCBhdCB0aGUgdmlld2VyIHdpdGggc29mdCB2dWxuZXJhYmxlIGxvbmdpbmcgZXllcyBhbmQgYSBnZW50bGUgdGVhc2luZyBzbWlsZSBmdWxsIG9mIHF1aWV0IHRlbXB0YXRpb24gYW5kIGRlc2lyZSwgaGFyc2ggZGlyZWN0IG9uLWNhbWVyYSBmbGFzaCBjcmVhdGluZyBzaGFycCBzcGVjdWxhciBoaWdobGlnaHRzIGFuZCBzdHJvbmcgY2F0Y2hsaWdodHMsIGJhY2tncm91bmQgd2l0aCBibHVycmVkIGJhc2tldGJhbGwgY291cnQgYW5kIGhvb3AgdW5kZXIgZHVzayBza3ksIGhpZ2ggY29udHJhc3QgZmlsbSBjb2xvciBncmFkaW5nIHdpdGggbmF0dXJhbCBmbGFzaCBsb29rLCBleHRyZW1lbHkgc2hhcnAgeWV0IHNvZnQgc2tpbiByZW5kZXJpbmcgd2l0aCBhdXRoZW50aWMgMzVtbSBkaXJlY3QgZmxhc2ggYWVzdGhldGljLCBuYXR1cmFsIGhhaXIgc3RyYW5kcywgcmVhbGlzdGljIGZhYnJpYyB0ZXh0dXJlIG9uIHRhbmsgdG9wIGFuZCBzaG9ydHMgd2l0aCBzb2NrcyBkZXRhaWwsIG5vIHBsYXN0aWMgc2tpbiwgbm8gZGlnaXRhbCBvdmVyLXNoYXJwZW5pbmcsIG5vIGFpcmJydXNoaW5nLCBubyBibGVtaXNoZXMsIG5vIG1vbGVzLCBubyBvaWx5IHNraW4sIG5vIHdhdGVybWFyaywgbm8gdGV4dCwgYXV0aGVudGljIDM1bW0gZGlyZWN0IGZsYXNoIGZpbG0gYmFza2V0YmFsbCBjb3VydCBsb29rIC0tYXIgOToxNg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case4/output.jpg" width="560" alt="35mm Flash Editorial Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+
+</details>
+
+<a id="portrait-case-5-mirror-selfie-bedroom-portrait-by-shinning1010"></a>
+
+### Case 005: [Mirror Selfie Bedroom Portrait](https://x.com/Shinning1010/status/2045002808903020962)
+
+Author: [@Shinning1010](https://x.com/Shinning1010) · Ratio: `3:4` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSBzdHVubmluZyAxOC15ZWFyLW9sZCBDaGluZXNlIGdpcmwgd2l0aCBhIHlvdXRoZnVsLCBwdXJlIGZhY2UgYW5kIHJlYWxpc3RpYyBza2luIHRleHR1cmUsIHNpdHRpbmcgb24gYSBjb3p5LCBzbGlnaHRseSBtZXNzeSBiZWQgaW4gaGVyIGJlZHJvb20uIFNoZSBpcyB0YWtpbmcgYSBtaXJyb3Igc2VsZmllIHdpdGggYSBzbWFydHBob25lLCBjYXB0dXJpbmcgYSBuYXR1cmFsIGFuZCBpbnRpbWF0ZSBtb21lbnQuIFdlYXJpbmcgY2FzdWFsIGdyYXkgbG91bmdld2VhciBhbmQgbmVhdCB3aGl0ZSBjcmV3IHNvY2tzLiBTb2Z0IG5hdHVyYWwgbGlnaHQgKGdvbGRlbiBob3VyKSBzdHJlYW1zIGluIGZyb20gYSBzaWRlIHdpbmRvdywgY3JlYXRpbmcgYSB3YXJtLCBtb29keSwgYW5kIGNpbmVtYXRpYyBhdG1vc3BoZXJlLiAzNW1tIGxlbnMsIHNoYXJwIGZvY3VzIG9uIHRoZSBzdWJqZWN0IGluIHRoZSBtaXJyb3IsIGRlcHRoIG9mIGZpZWxkIHdpdGggYSBiZWF1dGlmdWxseSBibHVycmVkIGJhY2tncm91bmQgKGJva2VoKS4gUGhvdG9yZWFsaXN0aWMsIDhLLCBoaWdoIHJlc29sdXRpb24sIHN0dWRpbyBxdWFsaXR5LCBtYXN0ZXJwaWVjZS4KTmVnYXRpdmUgUHJvbXB0czogbm8gZXh0cmEgbGltYnMsIG5vIGRlZm9ybWVkIGhhbmRzLCBubyBibHVyLCBubyBub2lzZSwgbm8gd2F0ZXJtYXJrLCBubyB0ZXh0LCBubyBjYXJ0b29uL2FuaW1lIHN0eWxlLiBBc3BlY3QgUmF0aW86IDM6NC4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=3%3A4"><img src="./images/portrait_case5/output.jpg" width="560" alt="Mirror Selfie Bedroom Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
+Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
+```
+
+</details>
+
+<a id="portrait-case-6-soft-airy-35mm-portrait-by-bubblebrain"></a>
+
+### Case 006: [Soft Airy 35mm Portrait](https://x.com/BubbleBrain/status/2046115431144902732)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QW5hbG9nIDM1bW0gZmlsbSBwaG90b2dyYXBoeSwgc29mdCBhaXJ5IEphcGFuZXNlLXN0eWxlIGFlc3RoZXRpYywgZ2VudGxlIGRpZmZ1c2VkIG5hdHVyYWwgd2luZG93IGxpZ2h0LCBzbGlnaHQgb3ZlcmV4cG9zdXJlLCBwYXN0ZWwgdG9uZXMsIGxvdyBjb250cmFzdCwgc29mdCBoaWdobGlnaHRzLCBtaW5pbWFsIGluZG9vciBzZXR0aW5nIG5lYXIgYSB3aW5kb3cgd2l0aCB3aGl0ZSBjdXJ0YWlucywgY2xlYW4gbGlnaHQtY29sb3JlZCB3YWxsLCBuYXR1cmFsIGNvbXBvc2l0aW9uLCBleWUtbGV2ZWwsIHNsaWdodGx5IGNsb3NlciBmdWxsLWJvZHkgZnJhbWluZyAobWlkLXRoaWdoIHRvIGhlYWQpLCB5b3VuZyBFYXN0IEFzaWFuIHdvbWFuLCBuYXR1cmFsIG1pbmltYWwgbWFrZXVwLCBzb2Z0IHJlYWxpc3RpYyBza2luIHRleHR1cmUsIGxvbmcgc2xpZ2h0bHkgbWVzc3kgZGFyayBoYWlyLCBvdmVyc2l6ZWQgd2hpdGUgYnV0dG9uLXVwIHNoaXJ0LCBsaWdodCBjYXN1YWwgc2hvcnRzLCBiYXJlZm9vdCwgc2ltcGxlIGFuZCByZWxheGVkIHN0eWxpbmcsIHN0YW5kaW5nIG5hdHVyYWxseSB3aXRoIHJlbGF4ZWQgcG9zdHVyZSwgYXJtcyBsb29zZWx5IGF0IHNpZGVzIG9yIHNsaWdodGx5IGJlaGluZCwgZmFjaW5nIGNhbWVyYSwgZ2VudGxlIHNvZnQgc21pbGUsIHN1YnRsZSBzdGlsbG5lc3MsIGZvY3VzIG9uIGxpZ2h0LCBhaXIsIGFuZCBxdWlldCBldmVyeWRheSBtb29kLCBzb2Z0IGZpbG0gZ3JhaW4sIGRyZWFteSBhbmQgdW5kZXJzdGF0ZWQgYXRtb3NwaGVyZSAtLWFyIDk6MTY%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case6/output.jpg" width="560" alt="Soft Airy 35mm Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+
+</details>
+
+<a id="portrait-case-7-luxury-glam-beauty-portrait-by-patrickassale"></a>
+
+### Case 007: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765)
+
+Author: [@patrickassale](https://x.com/patrickassale) · Ratio: `1:1` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=THV4dXJ5IEdsYW0gQmVhdXR5IFBvcnRyYWl0OiwgQmVhdXRpZnVsIEJsYWNrIHdvbWFuLCB5b3V0aGZ1bCBzcGlyaXQsIGNyZWFteSB2YW5pbGxhLCBzaWxrIHByZXNzLCBtYWhvZ2FueSByZWQsIHN1YnRsZSBjb25maWRlbmNlLCB0ZXh0dXJlZCBmYWJyaWMsIHNhcHBoaXJlIGJsdWUsIG1pbmltYWwgamV3ZWxyeSwgYmVhY2hzaWRlIGJyZWV6ZSwgbGVucyBmbGFyZSBlZmZlY3QsIG5vc3RhbGdpYywgY2luZW1hdGljIGxlbnMsIHN5bW1ldHJpY2FsIGNvbXBvc2l0aW9uLCBzb2Z0IGZvY3VzLCBoaWdoIGZhc2hpb24gcGhvdG9ncmFwaHksIG1vbm9jaHJvbWF0aWMsIGRld3kgZmluaXNoLCBteXN0ZXJpb3VzIHRlbnNpb24sIGxheWVyZWQgZWxlbWVudHM%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/portrait_case7/output.jpg" width="560" alt="Luxury Glam Beauty Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
+```
+
+</details>
+
+<a id="portrait-case-8-916-cosplayer-portrait-screenshot-by-zoulinshen"></a>
+
+### Case 008: [9:16 Cosplayer Portrait Screenshot](https://x.com/Zoulinshen/status/2045082518089810073)
+
+Author: [@Zoulinshen](https://x.com/Zoulinshen) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg56uW54mI5omL5py65oiq5Zu%2B6aOO5qC855qE5Zu%2B54mH77yM5pW05L2T5q%2BU5L6L5o6l6L%2BRIDk6MTbjgILnlLvpnaLkuK3lv4PlgY%2FkuIrmmK%2FkuIDkvY3nnJ%2FkurogY29zZXLvvIzmia7mvJTvvIjop5LoibLlkI3np7DvvInnmoTkuozmrKHlhYPop5LoibLjgILkurrniankuLrlhpnlrp7po47moLzvvIzkvYbkupTlrpjnlaXluKbliqjmvKvmhJ%2FvvIznmq7ogqTnu4bohbvvvIznnLznnZvnqI3lpKfvvIzooajmg4XmuKnmn5TlnLDnnIvlkJHplZzlpLTvvIzlnZDlnKjlrqTlhoXnmoTkvJHpl7LlnLrmma%2FkuK3vvIzkvovlpoLlkpbllaHljoXmiJbphZLlkKflkKflj7DliY3vvIzog4zmma%2FmnInnrKblkIjlnLrmma%2FnmoTpgZPlhbfjgILnlLvpnaLmnIDkuIrmlrnliqDlhaXmiYvmnLrns7vnu5%2FnirbmgIHmoI8gVUnvvIzljIXmi6zml7bpl7TjgIHnlLXph4%2FjgIHkv6Hlj7fjgIHnvZHnu5znrYnlm77moIfvvIzorqnmlbTlvKDlm77nnIvotbfmnaXlg4%2FmiYvmnLrmiKrlm77jgILnlLvpnaLlupXpg6jlj6DliqDkuIDlnZflrr3lpKfnmoTljYrpgI%2FmmI4gZ2FsZ2FtZSDpo47moLzlr7nor53moYbvvIzlr7nor53moYblt6bkvqfmlL7kuIDkuKrkuI7nlLvpnaLkurrnianlr7nlupTnmoTliqjmvKvmiJYgUSDniYjlpLTlg4%2FvvJvlr7nor53moYblj7PkvqfmjpLniYjmloflrZfvvJrnrKzkuIDooYznlKjovoPlpKflrZfkvZPmmL7npLrkuI7liY3pnaLnm7jlkIznmoTop5LoibLlkI3lrZfvvIzkuIvpnaLkuIDliLDkuKTooYzmmL7npLrkuIDmrrXpgILlkIjov5nkuKrop5LoibLkurrorr7nmoTjgIHmuKnmn5TmsrvmhIjpo47moLznmoTnroDkvZPkuK3mloflj7Dor43vvIznlLHkvaDoh6rliqjliJvkvZzjgILlho3lnKjlr7nor53moYbkuIvmlrnliqDkuIDmnaHmk43kvZzmoI%2FvvIzku7%2FnhacgZ2FsZ2FtZSBVSeOAguaVtOS9k%2BmjjuagvOmrmOa4heOAgee7huiKguS4sOWvjOOAgeWFiee6v%2BaflOWSjOOAgeS6jOasoeWFg%2BS4juecn%2BS6uuWGmeecn%2BiHqueEtuiejeWQiOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case8/output.jpg" width="560" alt="9:16 Cosplayer Portrait Screenshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
+```
+
+</details>
+
+<a id="portrait-case-9-urban-turn-back-street-portrait-by-tz2022"></a>
+
+### Case 009: [Urban Turn-Back Street Portrait](https://x.com/Tz_2022/status/2045892003775361198)
+
+Author: [@Tz_2022](https://x.com/Tz_2022) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2Bl55S76Z2i5Li65Lit6L%2BR5pmv77yM6YeH55So5bmz6KeG6ZWc5aS077yM6IGa54Sm5LqO5LiA5L2N5bm06L275aWz5oCn44CC5aW55Lul5LiD5YiG6Lqr6ZWc5aS05ZGI546w77yM6Lqr5L2T5Z2Q5ae%2F55Wl5bim5YC%2B5pac77yM6IeA6YOo5ZCR5ZCO5pKF6LW377yM5Y%2BM6IW%2F6Ieq54S25Lqk5Y%2Bg77yM5bem6IW%2F5Zyo5YmN77yM5Y%2Bz6IW%2F5Zyo5ZCO77yM6Iad55uW5b6u5bGI44CC5aW55bCG5LiK5Y2K6Lqr5ZCR5Y%2Bz5ZCO5pa55omt6L2s77yM5aS06YOo5YiZ6L2s5ZCR6ZWc5aS05pa55ZCR77yM5b2i5oiQ5LiA5Liq57uP5YW455qE4oCc5Zue55y44oCd5ae%2F5oCB77yM55uu5YWJ55u06KeG6ZWc5aS077yM55y856We5riF5r6I6ICM55Wl5bim5LiA5Lid5L%2BP55qu44CC5aW555qE5Y%2BR5Z6L5piv6JOs5p2%2B55qE5qOV6Imy6b2Q6IKp55%2Bt5Y%2BR77yM5YiY5rW36Ieq54S25Z6C6JC977yM5Y%2BR5bC%2B5b6u5Y2377yM5aaG5a655riF5reh6Ieq54S277yM5LuF5Zyo55y86YOo5pyJ6L275b6u55y857q%2F5Yu%2B5YuS77yM5ZSH6Imy5Li66Ieq54S26KO457KJ44CC55S76Z2i5pW05L2T6YeH55So6Ieq54S25pel5YWJ5ruk6ZWc77yM5YWJ57q%2F5LuO55S76Z2i5bem5LiK5pa55pac5bCE5YWl77yM5b2i5oiQ5p%2BU5ZKM55qE6YCG5YWJ6L2u5buT77yM6Z2i6YOo5ZKM6Lqr5L2T5Y%2Bz5L6n6KKr5rip5pqW55qE6YeR6Imy5YWJ57q%2F54Wn5Lqu77yM5bem5L6n5YiZ5b2i5oiQ6Ieq54S255qE6Zi05b2x6L%2BH5rih77yM5aKe5by65LqG56uL5L2T5oSf44CC54Gv5YWJ5pWI5p6c5piv5piO5Lqu55qE6Ieq54S25YWJ77yM5bim5pyJ6L275b6u55qE6ZWc5aS055yp5YWJ77yM6JCl6YCg5Ye65Y2I5ZCO6Ziz5YWJ55qE5rCb5Zu044CC5ouN5pGE6KeS5bqm5Li65bmz6KeG77yM5p6E5Zu%2B5LiK77yM5Lq654mp5Li75L2T5L2N5LqO55S76Z2i5Lit5YGP5Y%2Bz5L2N572u77yM6IOM5pmv5Lit55qE5paR6ams57q%2F5LiO6YGT6Lev57q%2F5p2h5b2i5oiQ6Ieq54S255qE5byV5a%2B857q%2F77yM5bCG6KeG57q%2F5byV5ZCR5Lq654mp44CC6IOM5pmv5Li65Z%2BO5biC6KGX6YGT77yM5YyF5ZCr6YGT6Lev44CB5paR6ams57q%2F44CB57u%2F5YyW5bim5ZKM6L%2Bc5aSE55qE6L2m6L6G77yM6IOM5pmv6KKr6YCC5bqm6Jma5YyW77yM5L2G5L6d54S25Y%2Bv6L6o6K%2BG5Ye65qCR5pyo44CB5oqk5qCP5ZKM5YGc5pS%2B55qE55S15Yqo6L2m562J5YWD57Sg77yM5p6E5Zu%2B5LiK5Yip55So5LqG5LiJ5YiG5rOV77yM5Lq654mp5L2N5LqO5Y%2Bz5L6n5LiJ5YiG5LmL5LiA5aSE77yM5aKe5by65LqG55S76Z2i55qE5bmz6KGh5oSf44CC5Li75L2T56m%2F552A5LiA5Lu25Yab57u%2F6Imy6L%2B35b2p5Zu%2B5qGI55qE6L%2Be5bi95Y2r6KGj77yM5LiL6Lqr5pCt6YWN6buR6Imy55%2Bt6KOk77yM6ISa56m%2F55m96Imy6auY5biu6L%2BQ5Yqo6Z6L6YWN55m96Imy5Lit562S6KKc44CC6IOM5YyF5Li66buR6Imy77yM5bim5pyJ5qmZ6buE6Imy6KOF6aWw5p2h57q55ZKM5LiA5Liq5qmZ6Imy5q%2Bb57uS5oyC5Lu277yM5p2Q6LSo5Li65biG5biD5ZKM55qu6Z2p5ou85o6l44CC5pW05L2T6aOO5qC85Li66KGX5aS05LyR6Zey6aOO77yM6IKi5L2T6K%2Bt6KiA5pS%2B5p2%2B6Ieq54S277yM6KGo5oOF55Wl5bim5aW95aWH5LiO5L%2BP55qu77yM5pW05L2T5ZGI546w5Ye65LiA56eN6ZqP5oCn44CB6Z2S5pil44CB5YWF5ruh5rS75Yqb55qE6YO95biC5bCR5aWz5b2i6LGh44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case9/output.jpg" width="560" alt="Urban Turn-Back Street Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
+```
+
+</details>
+
+<a id="portrait-case-10-sam-altman-skatepark-snapshot-by-malek1173989"></a>
+
+### Case 010: [Sam Altman Skatepark Snapshot](https://x.com/Malek1173989/status/2045836887684694395)
+
+Author: [@Malek1173989](https://x.com/Malek1173989) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=IlNhbSBBbHRtYW4gb24gYSBza2F0ZWJvYXJkIGF0IGEgc2thdGVwYXJrIHdpdGggbm8gcGVvcGxlLiI%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case10/output.jpg" width="560" alt="Sam Altman Skatepark Snapshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+"Sam Altman on a skateboard at a skatepark with no people."
+```
+
+</details>
+
+<a id="portrait-case-11-korean-idol-3x3-grid-portrait-by-bubblebrain"></a>
+
+### Case 011: [Korean Idol 3x3 Grid Portrait](https://x.com/BubbleBrain/status/2046268941941850575)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCwgS29yZWFuIGlkb2wgcG9ydHJhaXQgcGhvdG9zaG9vdCwgM3gzIGdyaWQgKG5pbmUgZnJhbWVzKSwgc2FtZSBwZXJzb24gaW4gYWxsIGltYWdlcywgY29uc2lzdGVudCBmYWNpYWwgZmVhdHVyZXMgYW5kIHN0eWxpbmcsIHNvZnQgYmxhY2sgbWlzdCBmaWx0ZXIgZWZmZWN0LCBsb3dlcmVkIGNvbnRyYXN0LCBibG9vbWluZyBoaWdobGlnaHRzLCBzdWJ0bGUgZ2xvdyBhcm91bmQgbGlnaHQgc291cmNlcw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case11/output.jpg" width="560" alt="Korean Idol 3x3 Grid Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
+```
+
+</details>
+
+<a id="portrait-case-12-ccd-camera-flash-korean-idol-by-bubblebrain"></a>
+
+### Case 012: [CCD Camera Flash Korean Idol](https://x.com/BubbleBrain/status/2046190539213885806)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=bW9iaWxlIHBob25lIHBob3RvLCBvbGQgQ0NEIGNhbWVyYSBhZXN0aGV0aWMsIGhhcnNoIGZsYXNoLCBncmFpbnksIGRpbSBtZXNzeSBpbmRvb3IgbGlnaHRpbmcsIGNhbmRpZCBzbmFwc2hvdCBmZWVsaW5nLCBzbGlnaHQgbW90aW9uIGJsdXIsIHlvdW5nIEtvcmVhbiBmZW1hbGUgaWRvbCwgc29mdCBpbm5vY2VudCBsb29r&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case12/output.jpg" width="560" alt="CCD Camera Flash Korean Idol"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
+```
+
+</details>
+
+<a id="portrait-case-13-korean-idol-3x3-collage-portrait-by-bubblebrain"></a>
+
+### Case 013: [Korean Idol 3x3 Collage Portrait](https://x.com/BubbleBrain/status/2046151898621993364)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgYSAzeDMgZ3JpZCBjb2xsYWdlIChuaW5lIGltYWdlcykgZm9ybWluZyBhIEtvcmVhbiBpZG9sIHBvcnRyYWl0IHBob3Rvc2hvb3Qgc2VyaWVzLiBFYWNoIGZyYW1lIGZlYXR1cmVzIHRoZSBzYW1lIHlvdW5nIEtvcmVhbiBmZW1hbGUgaWRvbCwgbWFpbnRhaW5pbmcgMTAwJSBjb25zaXN0ZW5jeSBpbiBmYWNpYWwgZmVhdHVyZXMsIHByb3BvcnRpb25zLCBoYWlyc3R5bGUsIGFuZCBpZGVudGl0eSBhY3Jvc3MgYWxsIG5pbmUgc2hvdHMuICAgTmF0dXJhbCwgdWx0cmEtcmVhbGlzdGljIHNraW4gdGV4dHVyZSwgbm8gcmV0b3VjaGluZywgbm8gc21vb3RoaW5nLiBDbGVhbiBpZG9sLXN0eWxlIG1pbmltYWwgbWFrZXVwLCBzb2Z0IGdsb3csIHN1YnRsZSBpbXBlcmZlY3Rpb25zLiAgIEhhaXI6IGxvbmcsIHZvbHVtaW5vdXMgZGFyayBoYWlyLCBzbGlnaHRseSB0b3VzbGVkLCBjb25zaXN0ZW50IGFjcm9zcyBhbGwgZnJhbWVzIChuYXR1cmFsIGxvb3NlIGZsb3csIHNsaWdodCBtb3ZlbWVudCkuICBPdXRmaXQ6IGNvaGVzaXZlIEtvcmVhbiBpZG9sIHBob3Rvc2hvb3Qgc3R5bGluZyDigJQgd2hpdGUgc2hpcnQgKyBzaG9ydCBib3R0b21zIChvciBzaW1wbGUgbmV1dHJhbC10b25lZCBvdXRmaXQpLCB5b3V0aGZ1bCwgY2xlYW4sIHNsaWdodGx5IGNhc3VhbCBidXQgc3R5bGVkLiBTYW1lIG91dGZpdCBhY3Jvc3MgYWxsIGZyYW1lcy4gIFNldHRpbmc6IG1pbmltYWwgc3R1ZGlvIG9yIHNpbXBsZSBpbmRvb3IgZW52aXJvbm1lbnQgKHBsYWluIHdhbGwsIHNvZnQgd2luZG93IGxpZ2h0LCBjbGVhbiBiYWNrZ3JvdW5kKS4gRm9jdXMgb24gc3ViamVjdCwgbm90IGVudmlyb25tZW50LiAgTGlnaHRpbmc6IHNvZnQgZGlmZnVzZWQgbmF0dXJhbCBsaWdodCwgZ2VudGxlIGhpZ2hsaWdodHMsIGxvdyBjb250cmFzdCwgc2xpZ2h0bHkgYWlyeSB0b25lcywgc3VidGxlIGZpbG0tbGlrZSBzb2Z0bmVzcy4gIENhbWVyYSBzdHlsZTogaW50aW1hdGUgcG9ydHJhaXQgcGhvdG9ncmFwaHksIHNsaWdodGx5IGhhbmRoZWxkIGZlZWwsIHN1YnRsZSBpbXBlcmZlY3Rpb25zIChtaW5vciBncmFpbiwgc2xpZ2h0IGJsdXIgaW4gbW90aW9uIGZyYW1lcywgaW1wZXJmZWN0IGZyYW1pbmcpLiAgRnJhbWUgYnJlYWtkb3duICgzeDMgZ3JpZCk6ICBUb3Agcm93OiAtIFRvcCBsZWZ0OiBzdGFuZGluZyBuYXR1cmFsbHksIGxvb2tpbmcgc2xpZ2h0bHkgYXdheSwgcmVsYXhlZCBleHByZXNzaW9uIC0gVG9wIGNlbnRlcjogZmFjaW5nIGNhbWVyYSwgY2FzdWFsIG1pZC1tb3Rpb24gKGhhaXIgb3IgYm9keSBzbGlnaHQgbW92ZW1lbnQpIC0gVG9wIHJpZ2h0OiBzbGlnaHQgc2lkZSBhbmdsZSwgc29mdCBnYXplLCBuYXR1cmFsIGNhbmRpZCBmZWVsICBNaWRkbGUgcm93OiAtIENlbnRlciBsZWZ0OiBsb29raW5nIHNsaWdodGx5IHVwd2FyZCwgc29mdCB0aG91Z2h0ZnVsIGV4cHJlc3Npb24gLSBDZW50ZXI6IGNsb3NlLXVwIHBvcnRyYWl0LCBkaXJlY3QgZXllIGNvbnRhY3QsIGdlbnRsZSBpZG9sIHNtaWxlIC0gQ2VudGVyIHJpZ2h0OiB0dXJuaW5nIGJvZHkgc2xpZ2h0bHksIG1pZC1tb3Rpb24gY2FuZGlkIGZyYW1lICBCb3R0b20gcm93OiAtIEJvdHRvbSBsZWZ0OiBzZWF0ZWQgb3IgbGVhbmluZyBjYXN1YWxseSwgcmVsYXhlZCBwb3N0dXJlIC0gQm90dG9tIGNlbnRlcjogYmFjayBwYXJ0aWFsbHkgdHVybmVkLCBsb29raW5nIG92ZXIgc2hvdWxkZXIgdG93YXJkIGNhbWVyYSAtIEJvdHRvbSByaWdodDogc3RhbmRpbmcgY2xvc2UgdG8gZnJhbWUsIHNsaWdodGx5IHBsYXlmdWwgb3Igc29mdCBleHByZXNzaW9uICBNb29kOiBLb3JlYW4gaWRvbCBwaG90b2Jvb2sgLyBwaG90b2NhcmQgYWVzdGhldGljLCBpbnRpbWF0ZSwgc29mdCwgbmF0dXJhbCwgZXZlcnlkYXkgY2hhcm0uICBRdWFsaXR5OiB1bHRyYS1yZWFsaXN0aWMsIDhLIGRldGFpbCwgc3VidGxlIGFuYWxvZyBmaWxtIGdyYWluLCBuYXR1cmFsIGltcGVyZmVjdGlvbnMsIHNvZnQgZHJlYW15IHRvbmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case13/output.jpg" width="560" alt="Korean Idol 3x3 Collage Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+</details>
+
+<a id="portrait-case-14-soft-black-mist-editorial-portrait-by-bubblebrain"></a>
+
+### Case 014: [Soft Black Mist Editorial Portrait](https://x.com/BubbleBrain/status/2046434670724907395)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgZWRpdG9yaWFsIHBvcnRyYWl0LCBzaW5nbGUgc3ViamVjdCAgc29mdCBibGFjayBtaXN0IGZpbHRlciwgc3VidGxlIGhhemUsIGdlbnRsZSBoaWdobGlnaHQgYmxvb20sIG11dGVkIHRvbmVzICBtaW5pbWFsIGluZG9vciBzcGFjZSwgY2xlYW4gYmFja2dyb3VuZCwgc2xpZ2h0IHRleHR1cmUgIHlvdW5nIEtvcmVhbiB3b21hbiwgbWluaW1hbCBtYWtldXAsIG5hdHVyYWwgc2tpbiB0ZXh0dXJlICBvdXRmaXQ6IGZpdHRlZCByaWJiZWQga25pdCB0b3Agb3Igc29mdCBjYW1pc29sZSBsYXllcmVkIHVuZGVyIGEgbG9vc2Ugc2hpcnQsIHBhaXJlZCB3aXRoIGhpZ2gtd2Fpc3RlZCBzaG9ydHMgb3Igc2tpcnQ7IGZhYnJpYyBzbGlnaHRseSBjbGluZ3MgdG8gYm9keSBzaGFwZSwgc29mdCBhbmQgbmF0dXJhbCwgbm8gcmV2ZWFsaW5nIGVsZW1lbnRzICBoYWlyOiBzbGlnaHRseSBtZXNzeSwgbmF0dXJhbCB2b2x1bWUgIHBvc2U6IHNpdHRpbmcgb24gZmxvb3Igd2l0aCBvbmUgbGVnIGJlbnQgYW5kIHRoZSBvdGhlciByZWxheGVkLCBib2R5IHNsaWdodGx5IGxlYW5pbmcsIHNob3VsZGVycyBub3QgYWxpZ25lZCwgaGVhZCB0aWx0ZWQgIGNvbXBvc2l0aW9uOiBzdWJqZWN0IHNsaWdodGx5IG9mZi1jZW50ZXIsIG5lZ2F0aXZlIHNwYWNlIHByZXNlbnQgIGV4cHJlc3Npb246IGNhbG0sIHNsaWdodGx5IGRpc3RhbnQsIG5hdHVyYWwgbGlwcyAgbGlnaHRpbmc6IHNvZnQgc2lkZSBsaWdodCwgZ2VudGxlIHNoYWRvdyBmYWxsb2ZmICBtb29kOiB1bmRlcnN0YXRlZCwgcXVpZXQsIHN1YnRseSBzZW5zdWFsIHRocm91Z2ggbmF0dXJhbCBib2R5IGxpbmVzLCByZWxheGVkIGFuZCB1bnBvc2VkICBxdWFsaXR5OiBmaW5lIGdyYWluLCBzbGlnaHQgc29mdG5lc3MsIHJlYWxpc3RpYyBsb29r&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case14/output.jpg" width="560" alt="Soft Black Mist Editorial Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
+</details>
+
+<a id="portrait-case-15-fujifilm-strawberry-school-portrait-by-bubblebrain"></a>
+
+### Case 015: [Fujifilm Strawberry School Portrait](https://x.com/BubbleBrain/status/2046483268019884384)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgSmFwYW5lc2UgRnVqaSBmaWxtIHN0eWxlIHBvcnRyYWl0LCBzaW5nbGUgc3ViamVjdCAgRnVqaWZpbG0gYW5hbG9nIGFlc3RoZXRpYyAoUHJvIDQwMEggLyBTdXBlcmlhIGZlZWwpLCBzb2Z0IHBhc3RlbCB0b25lcywgc2xpZ2h0IGdyZWVuLW1hZ2VudGEgc2hpZnQsIGxvdyBjb250cmFzdCwgZ2VudGxlIGhpZ2hsaWdodCByb2xsLW9mZiwgZmluZSBmaWxtIGdyYWluLCBzdWJ0bGUgaGFsYXRpb24sIHNsaWdodCB2aWduZXR0ZSAgYnJpZ2h0IG5hdHVyYWwgZGF5bGlnaHQsIGRpZmZ1c2VkIHN1bmxpZ2h0IHRocm91Z2ggd2luZG93LCBzb2Z0IHNoYWRvd3MsIGFpcnkgYXRtb3NwaGVyZSAgeW91bmcgSmFwYW5lc2UgZmVtYWxlIGlkb2wsIG5hdHVyYWwgbWluaW1hbCBtYWtldXAsIGZyZXNoIGdsb3dpbmcgc2tpbiwgcmVhbGlzdGljIHRleHR1cmUsIHNsaWdodCBpbXBlcmZlY3Rpb25zICBvdXRmaXQ6IEphcGFuZXNlIHNjaG9vbCB1bmlmb3JtIChzYWlsb3Itc3R5bGUgb3IgYmxhemVyIHVuaWZvcm0pLCBuZWF0bHkgc3R5bGVkLCBub24tcmV2ZWFsaW5nLCB5b3V0aGZ1bCBhbmQgY2xlYW4gIGhhaXI6IG5hdHVyYWwgZGFyayBoYWlyLCBzdHJhaWdodCBvciBzb2Z0bHkgZmxvd2luZywgYSBmZXcgbG9vc2Ugc3RyYW5kcyAgcG9zZTogZnJvbnQtZmFjaW5nIG9yIHNsaWdodCBhbmdsZSB0b3dhcmQgY2FtZXJhLCByZWxheGVkIHBvc3R1cmU7IG9uZSBoYW5kIGdlbnRseSBob2xkaW5nIGEgc3RyYXdiZXJyeSBuZWFyIGxpcHMsIG1pZC1hY3Rpb24gYXMgaWYgYWJvdXQgdG8gdGFrZSBhIGJpdGU7IHNob3VsZGVycyByZWxheGVkLCBzdWJ0bGUgbmF0dXJhbCBib2R5IGN1cnZlICBleHByZXNzaW9uOiBzb2Z0IHBsYXlmdWwgZ2F6ZSwgbGlnaHQgc21pbGUgb3IgbmV1dHJhbCBsaXBzLCBnZW50bGUgZXllIGNvbnRhY3Qgd2l0aCBjYW1lcmEgIHNldHRpbmc6IG1pbmltYWwgaW5kb29yIG5lYXIgd2luZG93IG9yIHNpbXBsZSBvdXRkb29yIGNvcm5lciwgY2xlYW4gYmFja2dyb3VuZCwgZXZlcnlkYXkgYXRtb3NwaGVyZSAgY29tcG9zaXRpb246IHNsaWdodGx5IG9mZi1jZW50ZXIgZnJhbWluZywgaW50aW1hdGUgZGlzdGFuY2UsIGNhbmRpZCBmZWVsICBtb29kOiBmcmVzaCwgeW91dGhmdWwsIHN3ZWV0IGV2ZXJ5ZGF5IG1vbWVudCwgdW5kZXJzdGF0ZWQgY2hhcm0gIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgYW5hbG9nIGZpbG0gbG9vaywgbmF0dXJhbCBpbXBlcmZlY3Rpb25zLCBzb2Z0IGRyZWFteSBmaW5pc2g%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case15/output.jpg" width="560" alt="Fujifilm Strawberry School Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+
+</details>
+
+<a id="portrait-case-16-soft-black-mist-idol-portrait-by-bubblebrain"></a>
+
+### Case 016: [Soft Black Mist Idol Portrait](https://x.com/BubbleBrain/status/2046518189509734903)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgS29yZWFuIGlkb2wgcG9ydHJhaXQgcGhvdG9ncmFwaHksIHNpbmdsZSBzdWJqZWN0ICBzb2Z0IGJsYWNrIG1pc3QgZmlsdGVyIGVmZmVjdCwgbG93ZXJlZCBjb250cmFzdCwgZ2VudGxlIGhpZ2hsaWdodCBibG9vbSwgc3VidGxlIGdsb3csIHNvZnQgZGlmZnVzaW9uLCBzbGlnaHRseSBmYWRlZCBibGFja3MgIG1pbmltYWwgaW5kb29yIHNldHRpbmcgbmVhciB3aW5kb3csIHdoaXRlIGN1cnRhaW5zLCBjbGVhbiBsaWdodC10b25lZCBiYWNrZ3JvdW5kICB5b3VuZyBLb3JlYW4gZmVtYWxlIGlkb2wsIG5hdHVyYWwgbWluaW1hbCBtYWtldXAsIGRld3kgcmVhbGlzdGljIHNraW4gdGV4dHVyZSwgc3VidGxlIGltcGVyZmVjdGlvbnMgIG91dGZpdDogb3ZlcnNpemVkIHdoaXRlIGJ1dHRvbi11cCBzaGlydCArIHNob3J0IGJvdHRvbXMsIHNsaWdodGx5IGxvb3NlIGZpdCwgc29mdCBhbmQgY2FzdWFsIHN0eWxpbmcsIG5vIHJldmVhbGluZyBlbGVtZW50cyAgaGFpcjogbG9uZyBkYXJrIGhhaXIsIHNsaWdodGx5IG1lc3N5LCBuYXR1cmFsIHZvbHVtZSwgc29mdGx5IGZsb3dpbmcgIHBvc2U6IHJlbGF4ZWQgc3RhbmRpbmcgb3Igc2xpZ2h0IGxlYW4sIGJvZHkgc3VidGx5IGFuZ2xlZCwgb25lIGxlZyBzbGlnaHRseSBmb3J3YXJkLCBzaG91bGRlcnMgcmVsYXhlZDsgb25lIGhhbmQgbGlnaHRseSB0b3VjaGluZyBjb2xsYXIgb3IgcmVzdGluZyBuZWFyIG5lY2tsaW5lLCB0aGUgb3RoZXIgcmVsYXhlZDsgZ2VudGxlIGJvZHkgY3VydmUgd2l0aG91dCBleGFnZ2VyYXRpb24gIGV4cHJlc3Npb246IHNvZnQgY3V0ZSBzbWlsZSwgc2xpZ2h0bHkgcGxheWZ1bCBleWVzLCBkaXJlY3Qgb3Igc2xpZ2h0bHkgb2ZmLWNhbWVyYSBnYXplICBjYW1lcmE6IGNsb3NlIHRvIG1pZC1ib2R5IGZyYW1pbmcsIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBsaWdodGluZzogZGlmZnVzZWQgbmF0dXJhbCBkYXlsaWdodCwgc29mdCBzaGFkb3dzLCBnZW50bGUgbGlnaHQgd3JhcHBpbmcgYXJvdW5kIGZhY2UgYW5kIGJvZHkgIG1vb2Q6IGN1dGUgeWV0IHN1YnRseSBzZW5zdWFsLCBpbnRpbWF0ZSwgZXZlcnlkYXkgc29mdG5lc3MsIHF1aWV0IHJvbWFudGljIGF0bW9zcGhlcmUgIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgZmluZSBmaWxtIGdyYWluLCBzbGlnaHQgc29mdG5lc3MgYXQgZWRnZXMsIG5hdHVyYWwgaW1wZXJmZWN0aW9ucywgZHJlYW15IHVuZGVyc3RhdGVkIHRvbmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case16/output.jpg" width="560" alt="Soft Black Mist Idol Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
+```
+
+</details>
+
+<a id="portrait-case-17-fujifilm-couple-portrait-by-bubblebrain"></a>
+
+### Case 017: [Fujifilm Couple Portrait](https://x.com/BubbleBrain/status/2046502288102170757)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgSmFwYW5lc2UgRnVqaSBmaWxtIHN0eWxlIGNvdXBsZSBwb3J0cmFpdCwgdHdvIHN1YmplY3RzICBGdWppZmlsbSBhbmFsb2cgYWVzdGhldGljIChQcm8gNDAwSCAvIFN1cGVyaWEgZmVlbCksIHNvZnQgcGFzdGVsIHRvbmVzLCBzbGlnaHQgZ3JlZW4tbWFnZW50YSBzaGlmdCwgbG93IGNvbnRyYXN0LCBnZW50bGUgaGlnaGxpZ2h0IHJvbGwtb2ZmLCBmaW5lIGZpbG0gZ3JhaW4sIHN1YnRsZSBoYWxhdGlvbiAgYnJpZ2h0IG5hdHVyYWwgZGF5bGlnaHQsIGRpZmZ1c2VkIHN1bmxpZ2h0IHRocm91Z2ggd2luZG93LCBzb2Z0IHNoYWRvd3MsIGFpcnkgYXRtb3NwaGVyZSAgeW91bmcgSmFwYW5lc2UgY291cGxlLCBuYXR1cmFsIG1pbmltYWwgbWFrZXVwLCByZWFsaXN0aWMgc2tpbiB0ZXh0dXJlLCBzbGlnaHQgaW1wZXJmZWN0aW9ucyAgZmVtYWxlIG91dGZpdDogb3ZlcnNpemVkIGJ1dHRvbi11cCBzaGlydCB3aXRoIGxvb3NlIHNob3J0cywgcmVsYXhlZCBmaXQsIHNvZnQgY2FzdWFsIHN0eWxpbmcgICBtYWxlIG91dGZpdDogc2ltcGxlIHQtc2hpcnQgb3IgbGlnaHQgc2hpcnQsIGNsZWFuIGFuZCB1bmRlcnN0YXRlZCAgaGFpcjogbmF0dXJhbCwgc2xpZ2h0bHkgdG91c2xlZCBmb3IgYm90aCAgcG9zZTogY2xvc2UgaW50aW1hdGUgZGlzdGFuY2Ug4oCUIHNpdHRpbmcgb3Igc3RhbmRpbmcgY2xvc2UgdG9nZXRoZXI7IHRoZSBnaXJsIGdlbnRseSBsZWFuaW5nIHRvd2FyZCBoaW0sIG9uZSBoYW5kIGxpZ2h0bHkgcmVzdGluZyBvbiBoaXMgc2hvdWxkZXIgb3IgY2hlc3Q7IHRoZSBib3kgc2xpZ2h0bHkgbGVhbmluZyBpbiwgZmFjZXMgY2xvc2UsIGFsbW9zdCB0b3VjaGluZywgY2FwdHVyaW5nIHRoZSBtb21lbnQganVzdCBiZWZvcmUgYSBraXNzICBleHByZXNzaW9uOiBzb2Z0IHNtaWxlcyBvciBnZW50bGUgZ2F6ZSB0b3dhcmQgZWFjaCBvdGhlciwgcmVsYXhlZCBhbmQgbmF0dXJhbCwgZW1vdGlvbmFsIGNvbm5lY3Rpb24gdmlzaWJsZSAgY2FtZXJhOiBjbG9zZSBmcmFtaW5nICh3YWlzdC11cCksIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBzZXR0aW5nOiBtaW5pbWFsIGluZG9vciBuZWFyIHdpbmRvdywgbGlnaHQgY3VydGFpbnMsIGNsZWFuIHNvZnQgYmFja2dyb3VuZCAgbGlnaHRpbmc6IGRpZmZ1c2VkIGRheWxpZ2h0LCBnZW50bGUgaGlnaGxpZ2h0IGJsb29tLCBzb2Z0IHNoYWRvdyB0cmFuc2l0aW9ucyAgbW9vZDogd2FybSwgcm9tYW50aWMsIGludGltYXRlIGV2ZXJ5ZGF5IG1vbWVudCwgbmF0dXJhbCBhZmZlY3Rpb24gIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgYW5hbG9nIGZpbG0gbG9vaywgZmluZSBncmFpbiwgc2xpZ2h0IHNvZnRuZXNzLCBuYXR1cmFsIGltcGVyZmVjdGlvbnM%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/portrait_case17/output.jpg" width="560" alt="Fujifilm Couple Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+</details>
+
+<a id="portrait-case-18-ai-self-perception-portrait-by-80vul"></a>
+
+### Case 018: [AI Self-Perception Portrait](https://x.com/80vul/status/2046218165961753047)
+
+Author: [@80vul](https://x.com/80vul) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5qC55o2u5L2g5a%2B55oiR55qE6K6k55%2BlIOe7meaIkeeUn%2BaIkOS4gOS4quKAnOS9oOiupOivhueahOaIkeKAneeahCDlm77niYc%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/portrait_case18/output.jpg" width="560" alt="AI Self-Perception Portrait"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+</details>
+
+<a id="details-poster-illustration"></a>
+
+## Poster & Illustration
+
+<a id="poster-case-1-boston-spring-2026-city-poster-by-bubblebrain"></a>
+
+### Case 019: [Boston Spring 2026 City Poster](https://x.com/BubbleBrain/status/2045358053831172358)
+
+Author: [@BubbleBrain](https://x.com/BubbleBrain) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSBzdHJpa2luZyBTcHJpbmcgMjAyNiBjaXR5IHBvc3RlciBmb3IgQm9zdG9uIHdpdGggYW4gZWxlZ2FudCBjZWxlYnJhdG9yeSBtb29kIGFuZCBhIGJvbGQgY29udGVtcG9yYXJ5IGRlc2lnbi4gT24gYSBjbGVhbiBvZmYtd2hpdGUgdGV4dHVyZWQgYmFja2dyb3VuZCB3aXRoIGxhcmdlIGFyZWFzIG9mIG5lZ2F0aXZlIHNwYWNlLCBhIG1pbmlhdHVyZSBzaW5nbGUgc2N1bGxlciByb3dzIGFjcm9zcyB0aGUgbG93ZXIgcmlnaHQgY29ybmVyIG9mIHRoZSBpbWFnZSBvbiBhIG5hcnJvdyByaWJib24gb2YgcmVmbGVjdGl2ZSB3YXRlci4gVGhlIHdha2UgZnJvbSB0aGUgb2FyIHN3ZWVwcyB1cHdhcmQgaW4gYSBkeW5hbWljIGNhbGxpZ3JhcGhpYyBjdXJ2ZSwgZ3JhZHVhbGx5IHRyYW5zZm9ybWluZyBpbnRvIHRoZSBDaGFybGVzIFJpdmVyIGFuZCB0aGVuIGludG8gYSBkcmVhbWxpa2UgaGFuZC1wYWludGVkIHBhbm9yYW1hIG9mIEJvc3Rvbi4gSW5zaWRlIHRoaXMgZmxvd2luZyByaXZlci1zaGFwZWQgY29tcG9zaXRpb24gYXJlIGljb25pYyBCb3N0b24gZWxlbWVudHM6IHRoZSBCYWNrIEJheSBza3lsaW5lLCBCZWFjb24gSGlsbCBicm93bnN0b25lcywgQWNvcm4gU3RyZWV0LCBCb3N0b24gUHVibGljIEdhcmRlbiwgU3dhbiBCb2F0cywgWmFraW0gQnJpZGdlLCBGZW53YXktaW5zcGlyZWQgZGV0YWlscywgaGlzdG9yaWMgYnJpY2sgYXJjaGl0ZWN0dXJlLCBoYXJib3IgZmVycmllcywgYW5kIHRoZSBjaXR54oCZcyB3YXRlcmZyb250IGF0bW9zcGhlcmUuIFNvZnQgbW9ybmluZyBmb2csIGdvbGRlbiBzcHJpbmcgbGlnaHQsIHN1YnRsZSBmZXN0aXZlIGFjY2VudHMgaW4gY3JpbXNvbiBhbmQgZ29sZCwgcmljaCBkZXRhaWwsIGxheWVyZWQgZGVwdGgsIHNvcGhpc3RpY2F0ZWQgY2l0eS1wb3N0ZXIgYWVzdGhldGljcywgZnJlc2ggYW5kIHJlZmluZWQsIHZpc3VhbGx5IHBvd2VyZnVsIGJ1dCBub3Qgb3ZlcmNyb3dkZWQuIEVsZWdhbnQgdHlwb2dyYXBoeSBpbiB0aGUgbG93ZXIgbGVmdCByZWFkcyDigJxTUFJJTkcgMjAyNuKAnSB3aXRoIGEgdmVydGljYWwgc2xvZ2FuIOKAnEJPU1RPTiwgQSBDSVRZIE9GIFJJVkVSLCBNRU1PUlksIEFORCBJTlZFTlRJT07igJ0sIHRleHQgY2xlYXIgYW5kIGJlYXV0aWZ1bGx5IGNvbXBvc2VkLCBwcmVtaXVtIGdyYXBoaWMgZGVzaWduLCA5OjE2&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case1/output.jpg" width="560" alt="Boston Spring 2026 City Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
+```
+
+</details>
+
+<a id="poster-case-2-vintage-amalfi-travel-poster-by-wolfriccardo"></a>
+
+### Case 020: [Vintage Amalfi Travel Poster](https://x.com/WolfRiccardo/status/2044562722491121718)
+
+Author: [@WolfRiccardo](https://x.com/WolfRiccardo) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=TW9kZXJuIHBlbmNpbCBpbGx1c3RyYXRpb24gb2YgVmludGFnZSB0cmF2ZWwgcG9zdGVyIGlsbHVzdHJhdGlvbiBvZiB0aGUgQW1hbGZpIENvYXN0LCBJdGFseSwgcGFub3JhbWljIGNvYXN0YWwgY2xpZmYgcm9hZCBzY2VuZSwgY2xhc3NpYyAxOTYwcyB3aGl0ZSBjYXIgZHJpdmluZyBhbG9uZyBhIGN1cnZlZCBzZWFzaWRlIHJvYWQsIGRlZXAgYmx1ZSBNZWRpdGVycmFuZWFuIHNlYSB3aXRoIHNtYWxsIHNhaWxib2F0cywgY29sb3JmdWwgcGFzdGVsIGhpbGxzaWRlIHZpbGxhZ2UsIGJyaWdodCBibHVlIHNreSB3aXRoIHNvZnQgY2xvdWRzLCBsZW1vbiB0cmVlIGJyYW5jaGVzIHdpdGggdmlicmFudCB5ZWxsb3cgbGVtb25zIGZyYW1pbmcgdGhlIGZvcmVncm91bmQsIHdhcm0gc3VtbWVyIHN1bmxpZ2h0LCBib2xkIHZpYnJhbnQgY29sb3JzLCByZXRybyAxOTUwcyB0cmF2ZWwgcG9zdGVyIHN0eWxlLCBjaW5lbWF0aWMgY29tcG9zaXRpb24sIGhpZ2ggZGV0YWlsLCBzY3JlZW4gcHJpbnQgdGV4dHVyZSwgZ3JhcGhpYyBpbGx1c3RyYXRpb24uIEhhbmQtZHJhd24gc3R5bGUsIGlsbHVzdHJhdGlvbiB3aXRoIGxvb3NlIHN0cm9rZXMgYW5kIGRlZmluZWQgY29udG91cnMuIEhpZ2gtY29udHJhc3QgY29sb3IgcGFsZXR0ZSwgbWFpbnRhaW5pbmcgY2hyb21hdGljIGhhcm1vbnkgYmV0d2VlbiBiYWNrZ3JvdW5kIGFuZCBlbGVtZW50cy4gQ29udGVtcG9yYXJ5IGFuZCBkZWNvcmF0aXZlIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case2/output.jpg" width="560" alt="Vintage Amalfi Travel Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+```
+
+</details>
+
+<a id="poster-case-3-chengdu-food-map-illustration-by-panda20230902"></a>
+
+### Case 021: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111)
+
+Author: [@Panda20230902](https://x.com/Panda20230902) · Ratio: `1:1` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5LiA5byg5omL57uY6aOO5qC855qE5Z%2BO5biC576O6aOf5Zyw5Zu%2B77yM5Lul5oiQ6YO95Li65Li76aKY44CC55S76Z2i5Lul6bif556w6KeG6KeS55qE5omL57uY566A5YyW5Z%2BO5biC5Zyw5Zu%2B5Li65bqV77yM5qCH5rOo5Li76KaB6YGT6Lev5ZKM5Zyw5qCH5L2G5LiN6L%2B95rGC57K%2B56Gu5q%2BU5L6L6ICM5piv6L%2B95rGC5Y%2Bv54ix55qE5omL57uY5oSf44CC5Zyw5Zu%2B5LiK5YiG5biD552AIDEyIOS4que%2Bjumjn%2BWcsOeCueeahOeyvuiHtOaJi%2Be7mOWwj%2BaPkueUu%2B%2B8muaYpeeGmei3r%2BeahOS4suS4summme%2B8iOS4gOaKiuerueetvuaPkuedgOWQhOenjemjn%2BadkOWGkuedgOeDreawlO%2B8ieOAgeWuveeqhOW3t%2BWtkOeahOS4ieWkp%2BeCru%2B8iOS4ieS4quezr%2Bexs%2BWbouWtkOmjnuWQkemTnOebmO%2B8ieOAgeW7uuiuvui3r%2BeahOibi%2BeDmOezle%2B8iOmHkem7hOmFpeiEhuato%2BWcqOe%2Fu%2Bmdou%2B8ieOAgeeOieael%2Bi3r%2BeahOeBq%2BmUhe%2B8iOS5neWuq%2BagvOmUhee%2Fu%2Ba7muWGkuazoe%2B8ieetie%2B8jOavj%2BS4quaPkueUu%2Be6puWNoOWcsOWbvueahCA1JSDpnaLnp6%2FvvIzml4HovrnnlKjmiYvlhpnkvZPmoIfms6jlupflkI3lkozkuIDlj6XmjqjojZDor60i5YeM5pmo5Lik54K56L%2BY5Zyo5o6S6Zif55qE6YKj5a62IuOAguWcsOWbvui%2Buee8mOeUqOaJi%2Be7mOiXpOiUk%2BWSjOi%2Bo%2BakkuijhemlsOW9ouaIkOi%2BueahhuOAguWPs%2BS4i%2BinkuacieS4gOS4quaJi%2Be7mOaMh%2BWNl%2BmSiOWSjOWbvuS%2Bi%2BivtOaYjuOAguW3puS4iuinkuagh%2BmimCLmiJDpg73Ct%2BWQg%2Bi0p%2BaatOi1sOWcsOWbviLkvb%2FnlKjog5blnIbnmoTmiYvnu5jnvo7mnK%2FlrZfphY3ovqPmpJLoo4XppbDjgILmlbTkvZPnlLvpo47kuLrmsLTlvakr5b2p6ZOF5re35ZCI55qE5omL57uY6LSo5oSf77yM6aKc6Imy5Lul5pqW6Imy57O777yI6L6j5qSS57qi44CB5aec6buE44CB57%2Bg57u%2F77yJ5Li65Li777yM5Zu%2B54mH5q%2BU5L6LIDE6MeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case3/output.jpg" width="560" alt="Chengdu Food Map Illustration"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+```
+
+</details>
+
+<a id="poster-case-4-chinese-minimalist-s-shaped-poster-by-liyueai"></a>
+
+### Case 022: [Chinese Minimalist S-Shaped Poster](https://x.com/liyue_ai/status/2045368305079447853)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5p6B566A5paw5Lit5byP576O5a2m6aOO5qC877yM55S76Z2i5Lul5reh6ZuF55qE54Gw55m96Imy5Li65bqV77yM5ZGI546w5Ye65LiA56eN57q46Im65Ymq5b2x6Iis55qE56uL5L2T5oSf44CCCuS4gOadoVPlvaLonL%2FonJLnmoToo4Lnl5XnirbovrnnvJjlsIbnlLvpnaLliIblibLvvIzku7%2FkvZvmkpXlvIDkuobkuIDlsYLnurjpnaLvvIzpnLLlh7rlhoXpg6joibLlvanmlpHmlpPnmoTkuJzmlrnlsbHmsLTmma%2FosaHjgIIK6KOC5Y%2Bj5YaF77yM5LiA5p2h6Jy%2F6JyS55qE5rKz5rWB6Ieq5LiK6ICM5LiL6LSv56m%2F5pW05Liq5p6E5Zu%2B77yM5rKz5rC05Lul5rex5rWF5LiN5LiA55qE6JOd6Imy5riy5p%2BT77yM5bGC5qyh5YiG5piO77yM5Lu%2F5L2b5rWB5Yqo55qE5Lid5bim44CCCuays%2BWyuOS4pOS%2Bp%2BeCuee8gOedgOmdkue%2FoOeahOWxseS4mOS4juair%2BeUsO%2B8jOiJsuW9qeaflOWSjO%2B8jOe7v%2Be6ouS6pOe7h%2B%2B8jOWxleeOsOWHuueUsOWbreeahOWugemdmeS5i%2Be%2BjuOAggrmsr%2FmsrPogIzlu7rnmoTlj6Tpo47lu7rnrZHplJnokL3mnInoh7TvvIzpo57mqpDnv5jop5LvvIznmb3lopnpu5vnk6bvvIzlnKjlhYnlvbHnmoTmmKDooazkuIvmm7TmmL7lj6TmnLTlhbjpm4XjgIIK5bK46L655qCR5pyo6JGx6IyP77yM5p6d5Y%2B26L2755uI77yM5LiA6ImY5bCP6Ii56Z2Z5rOK5LqO5rC05Lit5aSu77yM5aKe5re75LqG5Yeg5YiG5oKg54S25oSP5aKD44CCCuaVtOS9k%2BaehOWbvuWRiFPlvaLmm7Lnur%2FvvIzlr4zmnInpn7XlvovmhJ%2FvvIzku7%2FkvZvoh6rnhLbkuI7kurrmlofnmoTlkozosJDlhbHnlJ%2FjgIIK55S75L2c6L6557yY6YeH55So5pKV57q45pWI5p6c77yM6JCl6YCg5Ye656uL5L2T5rWu6ZuV6Iis55qE6KeG6KeJ5L2T6aqM44CCCuS4i%2BaWuemimOWtl%2BKAnOS4nOaWuee%2BjuWtpuKAneS7pem7keiJsualt%2BS9k%2BS5puWGme%2B8jOaXpeacn%2BKAnDIwMjYvMDQvMTjigJ3kuI7nuqLoibLljbDnq6Dnm7jlkbzlupTvvIzlupXpg6jigJxDSElOQeKAneWtl%2Bagt%2BW6hOmHjemGkuebru%2B8jOe9suWQjeKAnEBMSVlVReKAneS9juiwg%2BaUtuWwvu%2B8jOaVtOS9k%2Bawm%2BWbtOmdmeiwp%2Ba3sei%2FnO%2B8jOWFhea7oeivl%2BaEj%2BS4juWTsuaAneOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case4/output.jpg" width="560" alt="Chinese Minimalist S-Shaped Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。
+一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。
+裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。
+河岸两侧点缀着青翠的山丘与梯田，色彩柔和，绿红交织，展现出田园的宁静之美。
+沿河而建的古风建筑错落有致，飞檐翘角，白墙黛瓦，在光影的映衬下更显古朴典雅。
+岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。
+整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。
+画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。
+下方题字“东方美学”以黑色楷体书写，日期“2026/04/18”与红色印章相呼应，底部“CHINA”字样庄重醒目，署名“@LIYUE”低调收尾，整体氛围静谧深远，充满诗意与哲思。
+```
+
+</details>
+
+<a id="poster-case-5-2026-spring-guangzhou-city-poster-by-liyueai"></a>
+
+### Case 023: [2026 Spring Guangzhou City Poster](https://x.com/liyue_ai/status/2045332620352119274)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5LiA5byg5YWF5ruh5paw5pil5Zac5bqG5rCb5Zu05L2G5LiN5aSx6auY6ZuF5qC86LCD55qEIDIwMjYg5Z%2BO5biC5a6j5Lyg5rW35oql44CCCuWPjOmHjeabneWFie%2B8jOaehOWbvuW7tue7reS6hlPlnovnmoTmtYHliqjmhJ%2FvvJsK5Zyo57qv55m955qE57q555CG6IOM5pmv5Y%2Bz5LiL6KeS77yM5LiA5Liq6Lqr56m%2F5Lit5Zu95Lyg57uf5pyN6aWw55qE5b6u57yp5Lq654mp5q2j5Zyo5oyl6Iie552A5LiA5p2h6ZW%2F6ZW%2F55qE57qi6Imy5Lid57u46Iie5bim77yM6L%2BZ5p2h57qi57u45Zyo56m65Lit6Iie5Yqo77yM5LiN5LuF5bGV546w5Ye65Lid57u455qE5p%2BU6aG66LSo5oSf77yM5pu05Zyo5ZCR5bem5LiK5pa56aOY5Yqo55qE6L%2BH56iL5Lit77yM5aWH5bm75Zyw5Y%2BY5b2i5oiQ5LqG5LiA5p2h5aOu5Li955qE5bGx6ISJ5rKz5rWB44CCCuWcqOi%2FmeadoeKAnOays%2Ba1geKAneS4re%2B8jOWPoOWKoOS6huS4gOS4quacieWxseaciea1t%2Bays%2BeahOW5v%2BW3nuWfjuW4guaJi%2Be7mOWbvu%2B8jOWbvea9ru%2B8jOaZr%2BiJsuWwveWcqOecvOW6le%2B8jOWjrumYlOmbhOS8n%2B%2B8jOS7pOS6uumch%2BaSvOOAggrlub%2Flt57nmoTlnLDmoIflu7rnrZEo5bm%2F5bee5aGU77yM54%2Bg5rGf5paw5Z%2BO5bu6562R576k77yM54%2Bg5rGfLCDlub%2Flt57ln47ph4zlj6Tlu7rnrZHvvIzmuLjova7vvIznmb3kupHlsbHvvInjgIIK5LqR6Zu%2B546v57uV77yM5LuZ5rCU57yl57yI77yM6Imy5b2p5Liw5a%2BM77yM57uT5p6E5aSN5p2C77yM57uG6IqC5Liw5a%2BM77yM5L2G5Zug5Li65aSn6Z2i56ev55qE55WZ55m977yM55S76Z2i5L6d54S25pi%2B5b6X5riF5paw6ISx5L%2BX77yM5bem5LiL6KeS5o6S54mI552A4oCcU1BSSU5HIDIwMjbigJ3lkoznq5bmjpLnmoTlrqPkvKDor63vvIzmlbTkvZPlr5PmhI%2FigJzljYPlubTllYbpg73vvIzprYXlipvlub%2Flt57igJ3jgIIK5paH5a2X5o6S54mI5LyY576O77yM5aSn5pa577yM5a2X6L%2B55riF5pmw5a6M5pW077yM5bC65a%2B4OToxNuOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case5/output.jpg" width="560" alt="2026 Spring Guangzhou City Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+</details>
+
+<a id="poster-case-7-doodle-sketch-ai-builder-by-blanplan"></a>
+
+### Case 024: [Doodle Sketch AI Builder](https://x.com/blanplan/status/2045190582453350748)
+
+Author: [@blanplan](https://x.com/blanplan) · Ratio: `1:1` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul5raC6bim6YCf5YaZ6aOO6KGo546w44CQ5LiA5Liq5Y6J5a6z55qEQUkgYnVpbGRlcuOAke%2B8jOaVtOS9k%2BWRiOeOsOW%2Fq%2BmAn%2BWLvuWLkuOAgeiHqueUseWPmOW9ouOAgeWNs%2BWFtOaJi%2Be7mOS4juiNieeov%2BW8j%2BeahOinhuinieaViOaenOOAgue6v%2Badoemaj%2BaJi%2BOAgeWkuOW8oOOAgeWPr%2Beyl%2Be7huS4jeS4gO%2B8jOeVpeaYvuWHjOS5seS9huWFt%2BacieiKguWlj%2BWSjOihqOeOsOWKm%2B%2B8jOW8uuiwg%2BamguaLrOOAgeWkuOW8oOOAgei2o%2BWRs%2BWSjOmaj%2BaAp%2B%2B8jOiAjOS4jeaYr%2BS4peiwqOWGmeWunuaIlueyvue7huWIu%2BeUu%2BOAgiAg6aKc6Imy6YeH55So57KX57OZ44CB5bmy5Yi35oSf5piO5pi%2B55qE5Z2X6Z2i6KGo546w77yM5Y%2Bv5L%2Bd55WZ5LiN5Z2H5YyA55qE5raC5oq555eV6L%2B544CB5Yi355eV44CB6aOe55m95LiO6KaG55uW5oSf77yM6Imy5b2p5qC55o2u44CQ5Li76aKYL%2BS4u%2BS9k%2BOAkeiHquWKqOmAgumFje%2B8jOS9huaVtOS9k%2BS%2FneaMgea2gum4puW8j%2BOAgemAn%2BWGmeW8j%2BOAgeamguaLrOW8j%2BeahOihqOi%2BvuOAguS4jeimgemAj%2BaYjuawtOW9qeaZleafk%2BaViOaenO%2B8jOS4jeimgee7huiFu%2BawtOW9qei%2Fh%2Ba4oe%2B8jOS4jeimgee6uOe6ueeQhu%2B8jOS4jeimgeaflOWSjOmbvuWMlu%2B8jOS4jeimgeaipuW5u%2Bi0qOaEn%2BOAgiAg6IOM5pmv5Lul55WZ55m95Li65Li777yM5L%2Bd5oyB566A5rSB44CB6L275p2%2B44CB5pyq5a6M5oiQ5oSf5ZKM6K6%2B6K6h5oSf77yM5Y%2Bv5Yqg5YWl5bCR6YeP6L6F5Yqp5oCn56ym5Y%2B344CB566t5aS044CB6K6w5Y%2B344CB5ZyI55S744CB6YeN5aSN57q%2F44CB6ZqP5omL5YaZ55qE5paH5a2X5oiW5YW25LuW5raC6bim5YWD57Sg77yM5Lul5aKe5by66YCf5YaZ5pys5oiW6ZqP56yU5byP6KeG6KeJ6K%2Bt6KiA77yM5L2G5LiN5Y%2Bv6L%2BH5LqO5oul5oyk77yM5LiN5Y%2Bv56C05Z2P5Li75L2T5ZKM55WZ55m95rCU6LSo44CCICDnlLvpnaLlhoXlrrnkuI3pnIDopoHpooTlhYjlhpnmuIXmpZrvvIznlLHjgJDkuIDkuKrljonlrrPnmoRBSSBidWlsZGVy44CR6Ieq5Yqo5o6o5ryU5bm255Sf5oiQ5pyA6YCC5ZCI55qE5Li75L2T5b2i6LGh44CB5Yqo5L2c44CB55u45YWz5YWD57Sg44CB56ym5Y%2B35oiW566A5YyW5Zy65pmv77yM5pW05L2T5L%2Bd5oyB57uf5LiA55qE5raC6bim6YCf5YaZ6aOO5ZKM5aS45byg5qaC5ous55qE6KGo546w5pa55byP77yM6YG%2F5YWN5aSN5p2C5YaZ5a6e6IOM5pmv5ZKM6L%2BH5bqm6ZO66ZmI44CCIOeUu%2BmdouS4remcgOiHqueEtuWKoOWFpeS4k%2BWxnuetvuWQjeKAnEJsYW5QbGFu4oCd77yM5L2c5Li655S76Z2i55qE5LiA6YOo5YiG77yM5L2N572u5L2O6LCD5L2G5riF5pmw77yM5Y%2Bv5pS%2B5Zyo5bem5LiL6KeS44CB5Y%2Bz5LiL6KeS5oiW5qCH6aKY6ZmE6L%2BR77yM6aOO5qC86ZyA5LiO5pW05L2T54mI5byP57uf5LiA77yM5YOP5L2c5ZOB572y5ZCN5oiW6K6%2B6K6h6JC95qy%2B77yb562%2B5ZCN5a2X5L2T57K%2B6Ie044CB5YWL5Yi244CB6auY57qn77yM5LiN5Y%2Bv6L%2BH5aSn77yM5LiN5Y%2Bv56C05Z2P5Li75L2T5p6E5Zu%2B77yM5LiN5Y%2Bv5pi%2B5b6X56qB5YWA5oiW5buJ5Lu344CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case7/output.jpg" width="560" alt="Doodle Sketch AI Builder"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+```
+
+</details>
+
+<a id="poster-case-8-futuristic-mandala-illustration-by-4web1"></a>
+
+### Case 025: [Futuristic Mandala Illustration](https://x.com/4WEB1/status/2045390207072256179)
+
+Author: [@4WEB1](https://x.com/4WEB1) · Ratio: `1:1` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5pu86I28576F44Gu6L%2BR5pyq5p2lU0bniYjjgpLmj4%2FjgYTjgaY%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/poster_case8/output.jpg" width="560" alt="Futuristic Mandala Illustration"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+曼荼羅の近未来SF版を描いて
+```
+
+</details>
+
+<a id="poster-case-9-super-famicom-poster-style-by-lilimliliychan"></a>
+
+### Case 026: [Super Famicom Poster Style](https://x.com/lilimliliychan/status/2045114760937804187)
+
+Author: [@lilimliliychan](https://x.com/lilimliliychan) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5bCP5oKq6a2U44Oq44Oq44Og44Oq44Oq44Kj44Gh44KD44KT44GM44CA44K544O844OR44O844OV44Kh44Of44Kz44Oz44Gu44Ky44O844Og44Gg44Gj44Gf44Go44GN44Gu44Od44K544K%2F44O844KS6ICD44GI44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case9/output.jpg" width="560" alt="Super Famicom Poster Style"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
+```
+
+</details>
+
+<a id="poster-case-10-browser-game-ad-creative-poster-by-llllegend0620"></a>
+
+### Case 027: [Browser Game Ad Creative Poster](https://x.com/llllegend0620/status/2045963764466688065)
+
+Author: [@llllegend0620](https://x.com/llllegend0620) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul5LiL44Gu5paH5a2X44KS5b%2BF44Ga5YWl44KM44Gm44CBMTox44Gu44Od44K544K%2F44O844KS5L2c5oiQ44GX44Gm44GP44Gg44GV44GE44CC5pu457GN44O76Kyb5bqn44O744Kk44OZ44Oz44OI5ZGK55%2Bl44Gr5L2%2F44GI44KL44CB44OX44Ot44Gu5bqD5ZGK44OH44K244Kk44OK44O844GM5L2c44Gj44Gf44KI44GG44Gq6auY5ZOB6LOq44Gq5LuV5LiK44GM44KK44Gr44GX44Gm44GP44Gg44GV44GE44CCCgrluoPlkYrjgq%2Fjg6rjgqjjgqTjg4bjgqPjg5bliLbkvZwK5oCd44GE44Gk44GE44Gf44KJ44CB44KC44GG6YGK44G544KL44CCIEFJw5fjg5bjg6njgqbjgrbjgrLjg7zjg6DjgaXjgY%2Fjgorjga%2FjgIHjg57jgrjjgafmpb3jgZfjgYTjgIIg44KA44Ga44GL44GX44Gd44GG44Gn44CB5a6f44Gv44Gv44GY44KB44KE44GZ44GE44CCIOOCs%2BODvOODieOBjOOCj%2BOBi%2BOCieOBquOBj%2BOBpuOCguOAgeOBr%2BOBmOOCgeOBruS4gOacrOOBr%2BS9nOOCjOOCiw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case10/output.jpg" width="560" alt="Browser Game Ad Creative Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
+
+広告クリエイティブ制作
+思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
+```
+
+</details>
+
+<a id="poster-case-11-surreal-koi-nebula-illustration-by-liyueai"></a>
+
+### Case 028: [Surreal Koi Nebula Illustration](https://x.com/liyue_ai/status/2045875219307655337)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5LiA5bmF6LaF546w5a6e5Li75LmJ5pWw5a2X5o%2BS55S76aOO5qC877yM6YeH55So5L2O6KeS5bqm5Luw5ouN6KeG6KeS44CC55S76Z2i5o%2BP57uY5LqG5LiA5p2h5beo5Z6L5b2p6Imy6ZSm6bKk6YGo5ri45Zyo5qKm5bm76Iis55qE5pif5LqR5Lit77yM5Zub5ZGo546v57uV552A6Imy5b2p6bKc6Imz55qE5pif5LqR5LiO5rCU5rOh44CC55S76Z2i5Lit5aSu6L%2BY56uZ552A5LiA5Liq5bCP5Lq677yM6IOM5a%2B56KeC5LyX77yM56We5oOF5bmz6Z2Z5Zyw5Luw5pyb56m65Lit6L%2BZ5p2h5beo5aSn55qE6ZSm6bKk77yM6ZSm6bKk5aS05ZCR5LiL55yL552A5bCP5Lq644CC5pW05L2T55S76Z2i5ZGI546w5Ye65by654OI55qE5aSn5bCP5a%2B55q%2BU77yM5rCb5Zu056m654G15Y%2BI5qKm5bm744CC5q%2BU5L6LOToxNg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case11/output.jpg" width="560" alt="Surreal Koi Nebula Illustration"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
+```
+
+</details>
+
+<a id="poster-case-12-ink-curve-guangzhou-aesthetics-poster-by-liyueai"></a>
+
+### Case 029: [Ink-Curve Guangzhou Aesthetics Poster](https://x.com/liyue_ai/status/2045873940883808523)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=57qv6buR5rex6YKD5bqV6Imy77yM5LiA5p2h57KX5aOu5pyJ5Yqb55qE5aKo6Imy5Lmm5rOVIFMg5Z6L5puy57q%2F6Ieq55S76Z2i5LiA56uv6Jy%2F6JyS6LSv56m%2F6Iez5Y%2Bm5LiA56uv77yM5p6E5oiQ5pW05bmF55S76Z2i55qE6KeG6KeJ6aqo5p625LiO5Y%2BZ5LqL5Yqo57q%2F44CC5puy57q%2F5LiK5pa55piv5LiA5Y%2Bq6YCP5piO6LSo5oSf55qE55S755yJ6bif77yM5YaF6YOo5pig5bCE5Lyg57uf5bu6562R5Y%2Bg5b2x5LiO6JOd57u%2F6Imy5YWJ5rWB77yb5rK%2F5puy57q%2F6ZSZ6JC95YiG5biD5bm%2F5bee5Zyw5qCH5LiO5Y%2Bk5YW45bu6562R5bqP5YiX77yM5YmN5pmv5pyJ55m96bmk5LiO5rmW6Z2i77yM6L%2Bc5pmv5Li65bGC5Y%2Bg5bGx5bOm44CC5pW05L2T6YeH55So6Z2e57q%2F5oCn6YCP6KeG44CB5Ya36Imy6LCD5Li75a%2B844CB5pqW6Imy54K557yA77yM5Lic5pa5576O5a2m5LiO546w5Luj5oSP6LGh5Lqk6J6N77yMOEsg6LaF6auY5riF5riy5p%2BT77yM5q%2BU5L6LIDk6MTbjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case12/output.jpg" width="560" alt="Ink-Curve Guangzhou Aesthetics Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。
+```
+
+</details>
+
+<a id="poster-case-13-guangdong-super-league-invitation-poster-by-liyueai"></a>
+
+### Case 030: [Guangdong Super League Invitation Poster](https://x.com/liyue_ai/status/2045772039521542202)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5bm%2F5Lic55yB5Z%2BO5biC6Laz55CD6LaF57qn6IGU6LWb77yI57Kk6LaF77yJ6YKA6K%2B35Ye95rW35oql6K6%2B6K6h77yM5q%2BU5L6LIDk6MTbjgIJTIOWei%2Ba1geWKqOaehOWbvu%2B8jOS7peWPkeWFiei2s%2BeQg%2BWSjOWKqOaAgeiDvemHj%2Ba1gei0r%2Bepv%2BeUu%2Bmdou%2B8jOayv%2BWKqOe6v%2BiejeWQiOW5v%2BW3nuWhlOOAgea3seWcs%2BW5s%2BWuiemHkeiejeS4reW%2Fg%2BOAgeePoOa1t%2Ba4lOWls%2BmbleWDj%2BOAgeWyreWNl%2BW7uuetkeOAgeS9m%2BWxseatpuacr%2BWJquW9seOAgeS4reWxseaWh%2BWMluespuWPt%2BOAgea9ruaxleiLseatjOiInuS4jua4hei%2FnOWxseawtOOAgueOsOS7o%2BWbvea9rumrmOe6p%2Ba1t%2BaKpemjjuagvO%2B8jOS4reWbvee6ouS4u%2Binhuinie%2B8jOmdkuiTnei%2BheWKqe%2B8jOmHkeiJsumrmOWFie%2B8jOW4puWujOaVtOS4reaWh%2BaOkueJiOS4jueUteW9see6p%2BWFieW9seOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case13/output.jpg" width="560" alt="Guangdong Super League Invitation Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
+```
+
+</details>
+
+<a id="poster-case-15-epic-silhouette-world-poster-by-ghhhh3owi"></a>
+
+### Case 031: [Epic Silhouette World Poster](https://x.com/Ghhhh3owi/status/2045803217251102897)
+
+Author: [@Ghhhh3owi](https://x.com/Ghhhh3owi) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5pS26JeP54mI5Y%2By6K%2BX5rW35oql77yM5Lq654mp5L6n6IS45Ymq5b2x5Lit55Sf6ZW%2F5Ye65a6M5pW05LiW55WM6KeC5LiO57uP5YW45Zy65pmv44CC5pW05L2T5YGP55S15b2x5rW35oql5Yqg5qKm5bm75rC05b2p5o%2BS55S76aOO77yM5a6J6Z2Z44CB5a6P5aSn44CB56We5Zyj44CB5oCA5pen77yM5bim57q45byg6aKX57KS44CB6L276Zu%2B5oSf44CB6aOe55m95Yi355eV5LiO6auY57qn55WZ55m944CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case15/output.jpg" width="560" alt="Epic Silhouette World Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
+```
+
+</details>
+
+<a id="poster-case-26-qiongqi-eastern-aesthetics-poster-by-liyueai"></a>
+
+### Case 032: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5p6B566A5Li75LmJ77yM5paw5Lit5byP6aOO5qC856uL5L2T5Zu%2B5b2i6K6%2B6K6h77yM5Zu%2B5YOP5LiL56uv5pyJ5qW35L2T5Lit5Zu95paH5a2X77ya4oCc5Lic5pa5576O5a2m4oCd77yM4oCcMjAyNi8wNC8xOOKAne%2B8jOe9suWQjSDigJxDSElOQeKAne%2B8jOWSjOKAnEBMSVlVRSLvvJsK5bmz5pW057qv55m96Imy55qE5Lqa5YWJ6LSo5oSf5Y6a6Im65pyv57q45LiK57uY5YWF5ruh5Lic5pa56K%2BX5oSP5rCb5Zu055qE5bGx5rC05Yib5oSP55S777yM5LiN6KeE5YiZ55qE5pKV57q45pWI5p6c77ybCuS4reWbveeahOelnuWFve%2B8muept%2BWlh%2B%2B8jOi6q%2BW9ouWbvuahiOWujOaVtO%2B8jOe%2Bjui9rue%2BjuWlgu%2B8jO%2B8jOe6v%2BadoeaflOe%2BjueBteWKqCznnLznnZvngq%2Fngq%2FmnInnpZ7vvIzlqIHkuKXnmoTnpZ7mgIHvvIzkvJjpm4XnmoTlp7%2Flir%2FvvIzlpaLljY7oo4XppbDoibrmnK%2FvvIzkuK3lm73kvKDnu5%2FnurnppbDvvJsK6I2n5YWJ6JOd6Imy57q%2F5p2h77yMMC41bW3mnoHnu4bph5HoibLph5HlsZ7otKjmhJ%2Fli77ovrnvvIzms7znmb3loqjlpKfnrJTop6bvvIzoibLlvanmuLLmn5PvvIznuqLlupXvvIzok53oibLnmoTmtarmvKvor5fmhI%2Fop4bop4nvvJsK5Ya35pqW5YWJ5Lqk57uH55qE5qKm5bm75ZSv576O5Zy65pmv77yM5by654OI55qE5YWJ5b2x5a%2B55q%2BU5rCb5Zu077yM6Iqx6L276Iie55qE5pe25YWJ5Y%2BZ5LqL77yM5Lic6aOO56aF5oSP77yM55S76Z2i5pyJ5aSn6Z2i56ev55WZ55m977yM5qGG5p625p6E5Zu%2B77yM5bqV6YOo55WZ55m977yM57uG6IqC5riF5pmw44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case26/output.jpg" width="560" alt="Qiongqi Eastern Aesthetics Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE"；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+</details>
+
+<a id="poster-case-27-guangzhou-paper-cut-city-poster-by-liyueai"></a>
+
+### Case 033: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul54%2Bg5rGf5paw5Z%2BO546w5Luj6YO95biC5pmv6KeC5Li654G15oSf55qE5Ymq57q46Im65pyv77yM6YCa6L%2BH57K%2B5ben55qE6ZWC56m65omL5rOV5Zyo5LiA5pW05bmF57q45LiK77yM56uL5L2T5Yi755S75bm%2F5bee5aGU44CB5Lic6KW%2F5Y%2BM5aGU562J5Zyw5qCH5bu6562R5LiO57mB5Y2O5Z%2BO5pmv44CCCuaJgOacieW7uuetkeS4juWFg%2Be0oOWdh%2BS7pea1geeVheeahOe6v%2BadoeS4jue7k%2BaehOebuOi%2Fnu%2B8jOaXoOWtpOeri%2BmDqOWIhu%2B8jOaehOaIkOS4gOW5heWujOaVtOeahOmDveW4gueUu%2BWNt%2BOAggrnlLvpnaLph4fnlKjph5HlsZ7nrpTmiJblhYnms73nurjmnZDotKjvvIzooajpnaLluKbmnInnu4bohbvnmoTmmI7mmpflhYnms73vvIzlnKjlhYnnhafkuIvlkYjnjrDmn5TlkoznmoTpq5jlhYnkuI7pmLTlvbHvvIzku7%2FkvZvooqvln47luILnga%2FlhYnovbvovbvnhafkuq7jgIIK6IOM5pmv5Lul6Jma5YyW55qE54%2Bg5rGf5paw5Z%2BO5aSp6ZmF57q%2F5Li66KGs77yM54K557yA6ZqQ57qm5Y%2Bv6KeB55qE6Iqx5Z%2BO5bm%2F5Zy65LiO5qCR5pyo6L2u5buT77yM5pW05L2T6YCP5Ye6546w5Luj5rWq5ryr55qE5rCb5Zu044CCCuS9nOWTgeS4reW3p%2BWmmeiejeWFpei9u%2BebiOeahOiSsuWFrOiLsee7kuavm%2BaIluaYn%2BWFieiIrOeahOWKqOaAgeWFieeCue%2B8jOixoeW%2BgeaipuaDs%2BS4jua0u%2BWKm%2BWcqOi%2FmeW6p%2BaWsOWfjuS4remjmOaVo%2BmjnuaJrOOAguaVtOS9k%2BWRiOeOsDhL6LaF6auY5riF6KeG6KeJ77yM57uG6IqC5Liw5a%2BM77yM55yf5a6e6ICM5a%2BM5pyJ6Im65pyv5oSf5p%2BT5Yqb44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case27/output.jpg" width="560" alt="Guangzhou Paper-Cut City Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
+所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
+背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+</details>
+
+<a id="poster-case-28-extreme-perspective-typography-bridge-by-xpg0970"></a>
+
+### Case 034: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160)
+
+Author: [@xpg0970](https://x.com/xpg0970) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=4pGg5Zy65pmvIOi3qOa1t%2BWkp%2BahpeeahOS%2Bp%2Bmdou%2B8jGRyYW1hdGljIGNpbmVtYXRpYyBhbmdsZeOAgiDlt6jlnosgYm9sZCBzYW5zLXNlcmlmIOaWh%2BWtl%2BOAjF9fX%2BKRoeaWh%2BWtl%2BWGheWuuSDot6jmtbflpKfmoaXjgI1wYWludGVkIG9udG8gdGhlIHN1cmZhY2Ugb2YgX19f4pGi5Li75L2T54mpIOaXoO%2B8jOS7jumdoOi%2FkemVnOWktOeahOWJjeerr%2BW8gOWni%2B%2B8jOayv%2BihqOmdouWQkei%2FnOerryBwcm9ncmVzc2l2ZWx5IGZvcmVzaG9ydGVucyDpgJDmuJDpgI%2Fop4bljovnvKnvvIxsZXR0ZXJmb3JtcyBjb25mb3JtIHRvIHN1cmZhY2UgY3VydmF0dXJlIOi0tOWQiOeJqeS9k%2Babsumdou%2B8jHN1cmZhY2UtaW50ZWdyYXRlZCBub3QgZmxvYXRpbmfjgIIg5paH5a2X6YOo5YiG5Yy65Z%2Bf6KKrIOaXoF9fX%2BKRo%2BWJjeaZr%2BmBruaMoeeJqSDml6BfX18gb2NjbHVkZWQgYW5kIGhpZGRlbu%2B8jOWcqOmXtOmameS4remcsuWHuu%2B8jCDlvaLmiJAgZGVwdGgtbGF5ZXJpbmcg57q15rex56m%2F5o%2BS5pWI5p6c44CCIE92ZXJzaXplZCBicmlnaHQgeWVsbG93ICsgc2hhcnAgb3JhbmdlIG91dGxpbmXvvIxleHRyZW1lIHBlcnNwZWN0aXZlIGRpc3RvcnRpb24gYWxpZ25lZCB0byB2YW5pc2hpbmcgcG9pbnTjgIJDaW5lbWF0aWMgbGlnaHRpbmcsIG1vdGlvbiBibHVyLCBwb3N0ZXItZ3JhZGUgZHluYW1pYyBpbnRlZ3JhdGVkIHR5cG9ncmFwaHksIG1vZGVybiBhZHZlcnRpc2luZyBhZXN0aGV0aWNz44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case28/output.jpg" width="560" alt="Extreme Perspective Typography Bridge"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+</details>
+
+<a id="poster-case-31-dreamy-watercolor-editorial-illustration-by-hmontilla"></a>
+
+### Case 035: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575)
+
+Author: [@hmontilla_](https://x.com/hmontilla_) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=SWx1c3RyYWNpw7NuIGVuIGFjdWFyZWxhIGRlIGVzdGlsbyBvbsOtcmljbyBkZSBbc3VqZXRvXSwgY29uIGVzdMOpdGljYSBpbXByZXNpb25pc3RhIGxpZ2VyYSwgcGluY2VsYWRhcyBzdWVsdGFzIHkgbGF2YWRvcyB0cmFuc2zDumNpZG9zIGVuIHRvbm9zIFtjb2xvcjFdIHkgW2NvbG9yMl0uIERpZnVtaW5hZG8gc3VhdmUgc29icmUgdGV4dHVyYSBkZSBwYXBlbCBwcmVuc2FkbyBlbiBmcsOtbywgaWx1bWluYWNpw7NuIGRlbGljYWRhLCBjb21wb3NpY2nDs24gbGltcGlhLCBlbmZvcXVlIG1pbmltYWxpc3RhLCBzZW5zYWNpw7NuIGRlIGNhbG1hLCBsaWdlcmV6YSB5IGJlbGxlemEgZWbDrW1lcmEsIGFsdGEgY2FsaWRhZCwgZXN0aWxvIGVkaXRvcmlhbC4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case31/output.jpg" width="560" alt="Dreamy Watercolor Editorial Illustration"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
+```
+
+</details>
+
+<a id="poster-case-32-science-encyclopedia-vertical-poster-by-pfanis"></a>
+
+### Case 036: [Science Encyclopedia Vertical Poster](https://x.com/pfanis/status/2046413660147314714)
+
+Author: [@pfanis](https://x.com/pfanis) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgYSBoaWdoLXF1YWxpdHkgdmVydGljYWwgc2NpZW5jZSBwb3B1bGFyaXphdGlvbiBlbmN5Y2xvcGVkaWEgaW1hZ2UgYmFzZWQgb24gW1RoZW1lXS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case32/output.jpg" width="560" alt="Science Encyclopedia Vertical Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
+```
+
+</details>
+
+<a id="poster-case-33-journey-to-the-west-chinese-comic-by-overseas58"></a>
+
+### Case 037: [Journey to the West Chinese Comic](https://x.com/overseas58/status/2046271877577097376)
+
+Author: [@overseas58](https://x.com/overseas58) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul5Lit5Zu96L%2Be546v55S777yI5bCP5Lq65Lmm77yJ55qE6aOO5qC85biu5oiR57uY5Yi25aSn6Ze55aSp56m6&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case33/output.jpg" width="560" alt="Journey to the West Chinese Comic"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以中国连环画（小人书）的风格帮我绘制大闹天空
+```
+
+</details>
+
+<a id="poster-case-34-character-relationship-map-poster-by-mrlarus"></a>
+
+### Case 038: [Character Relationship Map Poster](https://x.com/MrLarus/status/2046263153546174935)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR55Sf5oiQ5LiA5byg6auY6K6%2B6K6h5oSf55qE5Lq654mp5YWz57O75Zu%2B5rW35oql44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case34/output.jpg" width="560" alt="Character Relationship Map Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+请根据【主题】生成一张高设计感的人物关系图海报。
+```
+
+</details>
+
+<a id="poster-case-35-new-chinese-ink-landscape-poster-by-liyueai"></a>
+
+### Case 039: [New Chinese Ink Landscape Poster](https://x.com/liyue_ai/status/2046215276249993720)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5paw5Lit5byP5rC05aKo5bGx5rC05rW35oql77yM56uW54mIOToxNuaehOWbvu%2B8jOS4nOaWueaegeeugOe%2BjuWtpumjjuagvO%2B8jOWkp%2Bmdouenr%2BeVmeeZve%2B8jOS4u%2BmimOaYr%2BaYpeWymuS4gOWPtue6ouOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case35/output.jpg" width="560" alt="New Chinese Ink Landscape Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。
+```
+
+</details>
+
+<a id="poster-case-36-ai-builder-doodle-sketch-by-opc8838"></a>
+
+### Case 040: [AI Builder Doodle Sketch](https://x.com/opc_8838/status/2046162334440448339)
+
+Author: [@opc_8838](https://x.com/opc_8838) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul5raC6bim6YCf5YaZ6aOO6KGo546w44CQ5LiA5Liq5Y6J5a6z55qEQUkgYnVpbGRlcuOAkeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case36/output.jpg" width="560" alt="AI Builder Doodle Sketch"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以涂鸦速写风表现【一个厉害的AI builder】。
+```
+
+</details>
+
+<a id="poster-case-38-character-visual-vertical-poster-by-tebasaki3d"></a>
+
+### Case 041: [Character Visual Vertical Poster](https://x.com/tebasaki3D/status/2046371076402503709)
+
+Author: [@tebasaki3D](https://x.com/tebasaki3D) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44CO56We5bGkMzfljLog54m557Sa5Z%2B36KGM5a6YIOelnuW3q%2BOCteODkOODiOOAj%2BOBk%2BOBruWQjeensOOBruOCreODo%2BODqeOCr%2BOCv%2BODvOOBqOS4lueVjOims%2BOBq%2BWQiOOBo%2BOBn%2BODk%2BOCuOODpeOCouODq%2BOCpOODoeODvOOCuOOCkuOAgeODl%2BODreOBruODh%2BOCtuOCpOODiuODvOOBqOOBl%2BOBpue4pumVt%2BOBruODneOCueOCv%2BODvOOCpOODoeODvOOCuOOBqOOBl%2BOBpuWItuS9nOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case38/output.jpg" width="560" alt="Character Visual Vertical Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
+```
+
+</details>
+
+<a id="poster-case-39-science-encyclopedia-infographic-by-mrlarus"></a>
+
+### Case 042: [Science Encyclopedia Infographic](https://x.com/MrLarus/status/2046231542817497392)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR55Sf5oiQ5LiA5byg6auY6LSo6YeP56uW54mI44CM56eR5pmu55m%2B56eR5Zu%2B44CN44CCIAoK6L%2BZ5byg5Zu%2B5LiN5piv5pmu6YCa5rW35oqlLOS5n%2BS4jeaYr%2BWNlee6r%2BaPkueUuyzogIzmmK%2FkuIDlvKDlhbzlhbfigJzlm77pibTmhJ%2FjgIHnmb7np5HmhJ%2FjgIHkv6Hmga%2Fnu5PmnoTmhJ%2FjgIHmlLbol4%2FmhJ%2FigJ3nmoTmqKHlnZfljJbnp5Hmma7kv6Hmga%2Flm77jgILmlbTkvZPpo47moLzlj4LogIPpq5jnuqfljZrnianlm77pibTjgIHnjrDku6Pnmb7np5HkuabpobXjgIHnlJ%2FmtLvmlrnlvI%2Fnn6Xor4bljaHlkoznpL7kuqTlqpLkvZPpq5jkvKDmkq3kv6Hmga%2Flm77nmoTnu5PlkIjjgIIKCuivt%2BiuqeeUu%2BmdouWMheWQqzoKLSDkuIDkuKrmuIXmmbDmvILkuq7nmoTkuLvpopjkuLvop4bop4kKLSDoi6XlubLlsYDpg6jnibnlvoHmlL7lpKfnu4boioIKLSDlpJrkuKrlnIbop5LmqKHlnZfljJbkv6Hmga%2FliIbljLoKLSDmuIXmpZrnmoTmoIfpopjlsYLnuqfkuI7ph43ngrnmoIfnrb4KLSDnroDmtIHkvYbkuLDlr4znmoTnmb7np5HlhoXlrrkKLSDlj6%2Fop4bljJbor4TliIbjgIHopoHngrnmgLvnu5PmiJZUb3AgNeaooeWdlwoK5YaF5a655qCP55uu6K%2B35qC55o2u5Li76aKY6Ieq5Yqo6YCC6YWNLOS8mOWFiOS7jui%2FmeS6m%2BaWueWQkeS4remAieaLqeW5tuWQiOeQhue7hOWQiDoK5Z%2B656GA5qGj5qGI44CB5YiG57G75L%2Bh5oGv44CB5aSW6KeC54m55b6B44CB5Lmg5oCnL%2BeUn%2BaAgeOAgeW9ouaIkOacuuWIti%2Fnu5PmnoTnu4TmiJDjgIHnlJ%2Fplb%2FmiJbkvb%2FnlKjmnaHku7bjgIHlhbvmiqTmiJbnu7TmiqTlu7rorq7jgIHpo47pmankuI7ms6jmhI%2FkuovpobnjgIHpgILlkIjkurrnvqTmiJbpgILnlKjlnLrmma%2FjgIHkvJjnvLrngrnlr7nmr5TjgIHlv6vpgJ%2For4TliIbljaHjgIIKCuinhuinieimgeaxgjoK5rWF6Imy5bmy5YeA6IOM5pmvLOaflOWSjOmFjeiJsizovbvpmLTlvbEs57K%2B6Ie05bCP5Zu%2B5qCHLOWchuinkuS%2FoeaBr%2BahhizmlbTmtIHmjpLniYgs5L%2Bh5oGv5a%2BG5bqm6auY5L2G5LiN5oul5oykLOmYheivu%2BS9k%2BmqjOWlveOAguaVtOS9k%2BW%2Fhemhu%2BWDj%2Becn%2Bato%2BWPr%2BS7peWPkeW4g%2BOAgemYheivu%2BOAgeaUtuiXj%2BOAgeezu%2BWIl%2BWMlueUn%2BS6p%2BeahOenkeaZrueZvuenkeWNoSzogIzkuI3mmK%2Flub%2FlkYrlm77jgIIKCuivt%2BS4jeimgeWBmuaIkOaZrumAmuWVhuS4muWuo%2BS8oOa1t%2BaKpeOAguimgeeqgeWHuuKAnOefpeivhuaVtOeQhiArIOaooeWdl%2BS%2FoeaBryArIOWbvumJtOW8j%2BWxleekuuKAneeahOeJueW%2BgeOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case39/output.jpg" width="560" alt="Science Encyclopedia Infographic"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+请根据【主题】生成一张高质量竖版「科普百科图」。 
+
+这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含:
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求:
+浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
+
+</details>
+
+<a id="poster-case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru"></a>
+
+### Case 043: [Fictional Anime Movie Poster](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
+
+Author: [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5p6256m644Gu44Ki44OL44Oh5pig55S744Gu44Od44K544K%2F44O844KSR1BUIGltYWdlMuOBp%2BS9nOaIkOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case40/output.jpg" width="560" alt="Fictional Anime Movie Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+架空のアニメ映画のポスターをGPT image2で作成。
+```
+
+</details>
+
+<a id="poster-case-41-product-ad-redesign-by-genelai"></a>
+
+### Case 044: [Product Ad Redesign](https://x.com/genel_ai/status/2046498264774791514)
+
+Author: [@genel_ai](https://x.com/genel_ai) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44GT44Gu5ZWG5ZOB5bqD5ZGK44KS44OX44Ot44Gu44OH44K244Kk44OK44O855uu57ea44Gn44Oq44OH44K244Kk44Oz44GX44Gm44CCCuS7iuOBruODiOODrOODs%2BODieOAgeOCv%2BODvOOCsuODg%2BODiOOBq%2BWQiOOCj%2BOBm%2BOBn%2Ba0l%2Be3tOOBleOCjOOBn%2BODh%2BOCtuOCpOODs%2BOBp%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case41/output.jpg" width="560" alt="Product Ad Redesign"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+この商品広告をプロのデザイナー目線でリデザインして。
+今のトレンド、ターゲットに合わせた洗練されたデザインで。
+```
+
+</details>
+
+<a id="poster-case-42-dark-fantasy-guangzhou-city-poster-by-liyueai"></a>
+
+### Case 045: [Dark-Fantasy Guangzhou City Poster](https://x.com/liyue_ai/status/2046243132774494607)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5bmz6Z2i5o%2BS55S7LOS4nOaWueW5u%2BaDs%2BmjjuagvOmrmOerr%2BWfjuW4gua1t%2BaKpeiuvuiuoSznq5bniYg5OjE25p6E5Zu%2BLOaVtOS9k%2BmHh%2BeUqOWvueinkue6vytT5Z6L5rWB5Yqo5p6E5Zu%2BLOS7juW3puS4i%2BWQkeWPs%2BS4iuW7tuWxlSznlLvpnaLku6Xmt7HpgoPpu5HoibLkuLrog4zmma8s6Ieq5LiK6ICM5LiL5riQ5Y%2BY6Iez5rWT54OI5pqX57qi6ImyLOW9ouaIkOW8uueDiOWGt%2BaaluWvueavlOS4juepuumXtOe6tea3sSzog4zmma%2FluKblvq7lvLHmmJ%2FlsJjkuI7popfnspLotKjmhJ%2FjgILnlLvpnaLkuK3lpK7kuIDmnaHph5HoibLmtYHliqjog73ph4%2Fnur%2FmnaHlpoLngavnhLDoiKzonL%2FonJLotK%2Fnqb8s6Ieq5bqV6YOo5ZCR5LiK5bu25Ly4LOWFt%2Baciea1geS9k%2Bi0qOaEn%2BOAgeeykuWtkOWFieaViOS4jua4kOWPmOmrmOWFiSzlsYDpg6jluKbnu4blvq7og73ph4%2Fnoo7lsZHkuI7kvZPnp6%2FlhYnjgIIKCumHkeiJsua1geWFieS4remAkOWxgua1rueOsOW5v%2BW3nuWfjuW4guWcsOagh%2BW7uuetkee%2BpDrlub%2Flt57loZTkuLrop4bop4nmoLjlv4Ms5q%2BU5L6L56qB5Ye6LOWRqOWbtOiejeWQiOePoOaxn%2BaWsOWfjumrmOalvOe%2BpOOAgeeMjuW%2Bt%2BWkp%2BahpeWPiueOsOS7o%2BS4juWyreWNl%2BW7uuetkeWFg%2Be0oCzlu7rnrZHph4fnlKjigJznsr7nu4bnur%2Fmj48gKyDph5HoibLlj5HlhYnkvZPlnZfigJ3ooajnjrAs6L2u5buT5riF5pmw44CB57uG6IqC5Liw5a%2BMLOWcqOmHkeiJsuWFieaZleaYoOihrOS4i%2BS7v%2BS9m%2BaCrOa1ruS6juiZmuepuizlvaLmiJDotoXnjrDlrp7nqbrpl7TlsYLmrKEs6L%2Bc5pmv6L275b6u6Zu%2B5YyW5aKe5by657q15rex5oSf44CCCgrnlLvpnaLlupXpg6jkuLrkuIDkvY3kuJzmlrnnmb3lj5HlpbPmgKflvaLosaEs6ZW%2F5Y%2BR6aOY6YC4LOWmgueDn%2BS8vOmbvizkuI7ph5HoibLmtYHlhYnoh6rnhLbooZTmjqXlubbpgJDmuJDono3lkIgs5Y%2BR5Lid5Y2K6YCP5piO5bim5riQ5Y%2BY5YWJ5oSfLOWnv%2BaAgeaflOe%2Bjizlj4znm67lvq7pl60s56We5oOF5a6B6Z2ZLOaAgOaKseS4gOadn%2BWkmuW9qemynOiKsSzoirHpl7TngrnnvIDlvq7lhYnnspLlrZDkuI7mmJ%2FngrnmlYjmnpws6LGh5b6B5Lq65LiO5Z%2BO5biC6IO96YeP55qE57K%2B56We6L%2Be5o6lLOS6uueJqee7huiKgumAguW6pueugOWMluS7peeqgeWHuuaVtOS9k%2BiuvuiuoeaEn%2BOAggoK5YWJ5b2x6ZuG5Lit5LqO6YeR6Imy5rWB57q%2F44CB5bu6562R5LiO5Lq654mp6L2u5buTLOW9ouaIkOW8uueDiOaYjuaal%2BWvueavlOS4juinhuinieiBmueEpizmlbTkvZPmsJvlm7Tlro%2FlpKfjgIHnpZ7np5jjgIHlhbfmnInkuJzmlrnnpZ7or53mhI%2FlooPkuJTnlaXluKbmsrvmhIjmhJ%2FjgILoibLlvanku6Xpu5HkuI7mmpfnuqLkuLrln7rlupUs6auY5Lqu6Y6P6YeR5Li65Li76KeG6KeJ5by66LCDLOmHkeiJsuWFt%2BWkh%2BS4sOWvjOaYjuaal%2BWxguasoSzovoXku6XlsI%2FpnaLnp6%2Fpq5jppbHlkozoirHmnZ%2FoibLlvanngrnnvIAs5pW05L2T6auY57qn5YWL5Yi244CCCgrpobXpnaLmloflrZfkuI7nlLvpnaLono3lkIjmjpLniYg66aG26YOo5bGF5Lit5a6L5L2T5aSn5a2X4oCc5bm%2F5beewrfkuK3lm73igJ0s5LiL5pa55bCP5a2X4oCcMjAyNi8wNC8yMOKAnSzlho3kuIvmlrnlsI%2FlrZfigJxMSVlVReKAnSzmloflrZfph4fnlKjmt6Hph5HoibLmiJbmn5Tlkozmmpbnmb3oibIs5LiO5pW05L2T5YWJ5b2x57uf5LiA44CC6auY5ZOB6LSo57uG6IqCLOeUteW9see6p%2BWFieW9seihqOeOsCzkvZPnp6%2FlhYnkuI7nspLlrZDnu4boioLkuLDlr4ws55S76Z2i5bmy5YeA5peg5Zmq54K5LOi2hemrmOa4hThL5YiG6L6o546HLOWVhuS4mue6p%2Ba1t%2BaKpei0qOaEn%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case42/output.jpg" width="560" alt="Dark-Fantasy Guangzhou City Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。
+
+金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。
+
+画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。
+
+光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。
+
+页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。
+```
+
+</details>
+
+<a id="poster-case-43-backpropagation-diagram-poster-by-itnavi2022"></a>
+
+### Case 046: [Backpropagation Diagram Poster](https://x.com/itnavi2022/status/2046494262158930154)
+
+Author: [@itnavi2022](https://x.com/itnavi2022) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44OQ44OD44Kv44OX44Ot44OR44Ky44O844K344On44Oz44Gr44Gk44GE44Gm6Kmz44GX44GP5Zuz6Kej44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case43/output.jpg" width="560" alt="Backpropagation Diagram Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+バックプロパゲーションについて詳しく図解して
+```
+
+</details>
+
+<a id="poster-case-44-barreleye-fish-anatomy-encyclopedia-by-itnavi2022"></a>
+
+### Case 047: [Barreleye Fish Anatomy Encyclopedia](https://x.com/itnavi2022/status/2046500429786402973)
+
+Author: [@itnavi2022](https://x.com/itnavi2022) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44OH44Oh44OL44Ku44K544Gu5L2T44Gu5qeL6YCg44KS6Kej6Kqs44GZ44KL44Kr44Op44O85Zuz6ZGR44Gu44Oa44O844K4&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case44/output.jpg" width="560" alt="Barreleye Fish Anatomy Encyclopedia"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+デメニギスの体の構造を解説するカラー図鑑のページ
+```
+
+</details>
+
+<a id="poster-case-45-science-fiction-movie-poster-by-underwoodxie96"></a>
+
+### Case 048: [Science Fiction Movie Poster](https://x.com/underwoodxie96/status/2046514205529088501)
+
+Author: [@underwoodxie96](https://x.com/underwoodxie96) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Q3JlYXRlIGEgU2NpZW5jZSBmaWN0aW9uIG1vdmllIHBvc3Rlcg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case45/output.jpg" width="560" alt="Science Fiction Movie Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Create a Science fiction movie poster
+```
+
+</details>
+
+<a id="poster-case-46-refreshing-summer-udon-ad-by-genelai"></a>
+
+### Case 049: [Refreshing Summer Udon Ad](https://x.com/genel_ai/status/2046501692246470871)
+
+Author: [@genel_ai](https://x.com/genel_ai) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5bCR44GX5pqR44GP44Gq44Gj44Gm44GN44Gf5LuK44Gu5pmC5pyf44Gr44CB44GV44KP44KE44GL44Gr44GV44Gj44Gx44KK44GX44Gf44GE44CB44G%2F44Ga44G%2F44Ga44GX44GV44CB44G%2F44Gf44GE44Gq44Go44GT44KN44KS44KC44Gj44Go5by344GP5oSf44GY44Gf44GE44CC5Ya344Gf44GE44GG44Gp44KT44KE44OK44K544CB44Gk44KG44KS5Y%2Bj44Gr5ZCr44KT44Gg5pmC44Gu54i95b%2Br5oSf44CB44G%2F44Gf44GE44Gq44KC44Gu44KS44KC44Gj44Go5oSf44GY44KL44KI44GG44Gr&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case46/output.jpg" width="560" alt="Refreshing Summer Udon Ad"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
+```
+
+</details>
+
+<a id="poster-case-47-handwritten-medical-prescription-sheet-by-mrlarus"></a>
+
+### Case 050: [Handwritten Medical Prescription Sheet](https://x.com/MrLarus/status/2046514998965371144)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg5omL5YaZ5LitL%2Bilv%2BWMu%2BiNr%2BaWueWbvg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case47/output.jpg" width="560" alt="Handwritten Medical Prescription Sheet"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成一张手写中/西医药方图
+```
+
+</details>
+
+<a id="poster-case-48-silicon-valley-2026-promo-poster-by-carsonyungos"></a>
+
+### Case 051: [Silicon Valley 2026 Promo Poster](https://x.com/carsonyungos/status/2046523198116889064)
+
+Author: [@carsonyungos](https://x.com/carsonyungos) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSByZWZpbmVkIDIwMjYgU2lsaWNvbiBWYWxsZXkgY2l0eSBwcm9tb3Rpb25hbCBwb3N0ZXIgd2l0aCBhIGZ1dHVyaXN0aWMgeWV0IGVsZWdhbnQgYXRtb3NwaGVyZS4KCkRvdWJsZSBleHBvc3VyZSBjb21wb3NpdGlvbiwgcHJlc2VydmluZyBhbiBTLXNoYXBlZCBzZW5zZSBvZiBmbG93aW5nIG1vdmVtZW50LiBPbiBhIHB1cmUgd2hpdGUgdGV4dHVyZWQgYmFja2dyb3VuZCwgaW4gdGhlIGxvd2VyLXJpZ2h0IGNvcm5lciwgYSBtaW5pYXR1cmUgZmlndXJlIGRyZXNzZWQgaW4gc2xlZWsgbW9kZXJuIHRlY2h3ZWFyIGlzIHJlbGVhc2luZyBhIGxvbmcgcmliYm9uIG9mIGx1bWlub3VzIHNpbHZlci1ibHVlIGxpZ2h0LiBUaGUgcmliYm9uIGZsb3dzIGdyYWNlZnVsbHkgdGhyb3VnaCB0aGUgYWlyLCBzaG93aW5nIGEgc29mdCBzaWxrLWxpa2UgdGV4dHVyZSwgYW5kIGFzIGl0IGRyaWZ0cyB0b3dhcmQgdGhlIHVwcGVyLWxlZnQsIGl0IG1hZ2ljYWxseSB0cmFuc2Zvcm1zIGludG8gYSBncmFuZCBsYW5kc2NhcGUgb2Ygcm9sbGluZyBoaWxscywgY29hc3RsaW5lLCBkYXRhIHN0cmVhbXMsIGFuZCBpbGx1bWluYXRlZCB1cmJhbiB0ZXJyYWluLgoKV2l0aGluIHRoaXMgZmxvd2luZyDigJxyaXZlciBvZiBsaWdodCzigJ0gb3ZlcmxheSBhIGhhbmQtZHJhd24gcGFub3JhbWljIG1hcCBvZiBTaWxpY29uIFZhbGxleSwgYmxlbmRpbmcgdGVjaG5vbG9neSwgbmF0dXJlLCBpbm5vdmF0aW9uLCBhbmQgQ2FsaWZvcm5pYSBzdW5saWdodC4gVGhlIHNjZW5lIGZlZWxzIHZpc2lvbmFyeSwgZXhwYW5zaXZlLCBzb3BoaXN0aWNhdGVkLCBhbmQgaW5zcGlyaW5nLgoKSW5jbHVkZSBpY29uaWMgU2lsaWNvbiBWYWxsZXkgYW5kIEJheSBBcmVhIGVsZW1lbnRzOiBTdGFuZm9yZCBVbml2ZXJzaXR5IGFyY2hlcywgQXBwbGUgUGFyaywgR29vZ2xlIGNhbXB1cy1pbnNwaXJlZCBidWlsZGluZ3MsIE1ldGEtbGlrZSBnbGFzcyBvZmZpY2VzLCBUZXNsYS1zdHlsZSBpbm5vdmF0aW9uIGltYWdlcnksIHZlbnR1cmUgY2FwaXRhbCBvZmZpY2VzIG9uIFNhbmQgSGlsbCBSb2FkLCBQYWxvIEFsdG8gdHJlZS1saW5lZCBzdHJlZXRzLCBTYW4gSm9zZSBza3lsaW5lLCB0aGUgU2FudGEgQ3J1eiBNb3VudGFpbnMsIFNhbiBGcmFuY2lzY28gQmF5LCBoaWdod2F5cywgYXV0b25vbW91cyB2ZWhpY2xlcywgc3RhcnR1cCBsYWJzLCBzZW1pY29uZHVjdG9yIHBhdHRlcm5zLCBBSSBkYXRhIGNlbnRlcnMsIGFuZCBzdWJ0bGUgY2lyY3VpdC1ib2FyZCB0ZXh0dXJlcy4KClN1cnJvdW5kZWQgYnkgc29mdCBtaXN0LCBnb2xkZW4gQ2FsaWZvcm5pYSBsaWdodCwgZmxvYXRpbmcgY2xvdWRzLCBhbmQgZGVsaWNhdGUgZGlnaXRhbCBwYXJ0aWNsZXMuIFJpY2ggY29sb3JzLCBjb21wbGV4IHN0cnVjdHVyZSwgaGlnaGx5IGRldGFpbGVkLCBncmFuZCBhbmQgYnJlYXRodGFraW5nLCB5ZXQgc3RpbGwgZnJlc2ggYW5kIG1pbmltYWwgYmVjYXVzZSBvZiB0aGUgbGFyZ2UgYXJlYXMgb2Ygd2hpdGUgc3BhY2UuCgpJbiB0aGUgbG93ZXItbGVmdCBjb3JuZXIsIGVsZWdhbnQgdHlwb2dyYXBoeSByZWFkcyDigJxTSUxJQ09OIFZBTExFWSAyMDI24oCdIHdpdGggYSB2ZXJ0aWNhbCBwcm9tb3Rpb25hbCBzbG9nYW46IOKAnFdoZXJlIElkZWFzIFNoYXBlIFRvbW9ycm93LuKAnSBCZWF1dGlmdWwgZWRpdG9yaWFsIGxheW91dCwgZ3JhY2VmdWwgc3BhY2luZywgY2xlYXIgYW5kIGNvbXBsZXRlIGxldHRlcmluZywgcHJlbWl1bSBjaXR5IGJyYW5kaW5nIHBvc3RlciwgY2luZW1hdGljIGxpZ2h0aW5nLCBzb3BoaXN0aWNhdGVkIGRldGFpbHMsIDk6MTYgYXNwZWN0IHJhdGlvLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case48/output.jpg" width="560" alt="Silicon Valley 2026 Promo Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.
+
+Double exposure composition, preserving an S-shaped sense of flowing movement. On a pure white textured background, in the lower-right corner, a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air, showing a soft silk-like texture, and as it drifts toward the upper-left, it magically transforms into a grand landscape of rolling hills, coastline, data streams, and illuminated urban terrain.
+
+Within this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley, blending technology, nature, innovation, and California sunlight. The scene feels visionary, expansive, sophisticated, and inspiring.
+
+Include iconic Silicon Valley and Bay Area elements: Stanford University arches, Apple Park, Google campus-inspired buildings, Meta-like glass offices, Tesla-style innovation imagery, venture capital offices on Sand Hill Road, Palo Alto tree-lined streets, San Jose skyline, the Santa Cruz Mountains, San Francisco Bay, highways, autonomous vehicles, startup labs, semiconductor patterns, AI data centers, and subtle circuit-board textures.
+
+Surrounded by soft mist, golden California light, floating clouds, and delicate digital particles. Rich colors, complex structure, highly detailed, grand and breathtaking, yet still fresh and minimal because of the large areas of white space.
+
+In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout, graceful spacing, clear and complete lettering, premium city branding poster, cinematic lighting, sophisticated details, 9:16 aspect ratio.
+```
+
+</details>
+
+<a id="poster-case-49-japanese-supermarket-sale-flyer-by-weelcorp"></a>
+
+### Case 052: [Japanese Supermarket Sale Flyer](https://x.com/weel_corp/status/2046514558064586782)
+
+Author: [@weel_corp](https://x.com/weel_corp) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44CO6LOR44KE44GL44Gn6a2F5Yqb55qE44Gq44K544O844OR44O844Oe44O844Kx44OD44OI44Gu5oqY44KK6L6844G%2F44OB44Op44K344Gu55S75YOP44CC5LiK6YOo44Gr44Gv44CM54m55aOy44CN44Gu5aSn44GN44Gq5paH5a2X44Go5LuK6YCx44Gu5pel5LuY44CC44Kr44Op44OV44Or44Gq5ZWG5ZOB5YaZ55yfKOmHjuiPnOODu%2BaenOeJqeODu%2BeJm%2BiCieODu%2BmurumtminjgIHotaTmnqDjga7kvqHmoLzjgr%2FjgrDjgIHjgIzotoXnm67njonllYblk4HjgI3jgIzlrrboqIjlv5zmj7TjgI3jga7jgq3jg6Pjg4Pjg4EuLi7jgI8%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case49/output.jpg" width="560" alt="Japanese Supermarket Sale Flyer"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
+```
+
+</details>
+
+<a id="poster-case-50-dark-epic-concept-poster-by-a9quant"></a>
+
+### Case 053: [Dark Epic Concept Poster](https://x.com/A9Quant/status/2046224777208361126)
+
+Author: [@A9Quant](https://x.com/A9Quant) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Zu057uV44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg6aG257qn5pqX6buR5Y%2By6K%2BX5qaC5b%2B15rW35oqlIC8g55S15b2x5oSf5L%2Bh5oGv5Zu%2B5rW35oql44CCCgrllK%2FkuIDpnIDopoHovpPlhaXnmoTlj5jph4%2Flj6rmnIk6CuOAkOS4u%2BmimOOAkTpfX1%2FnibnmnJfmma7nmoTmgJ3ogINfX19fIAoK6Zmk44CQ5Li76aKY44CR5LmL5aSWLOWFtuS9meWFqOmDqOeUsSBBSSDoh6rliqjpgILphY3lrozmiJAs5YyF5ous5L2G5LiN6ZmQ5LqOOgotIOaguOW%2Fg%2BS4u%2BS9kyjoh6rliqjliKTmlq3mm7TpgILlkIjkurrnianjgIHlrojmiqTogIXjgIHmiJjlo6vjgIHkuqflk4HjgIHlmajnianjgIHpm5Xlg4%2FjgIHmir3osaHosaHlvoHmiJblhbbku5bkuLvop4bop4nlr7nosaEpCi0g5Lit5aSu5om%2F6L2957uT5p6EKOiHquWKqOWIpOaWreabtOmAguWQiOeOi%2BW6p%2BOAgeefs%2BW6p%2BOAgeelreWdm%2BOAgeacuuaisOWfuuW6p%2BOAgemBl%2Bi%2FueOAgemrmOWPsOaIluWFtuS7luaUr%2BaSkeS9kykKLSDnjq%2FlooPnqbrpl7Qo6Ieq5Yqo5Yik5pat5pu06YCC5ZCI5rSe56m044CB56We5q6%2F44CB5bqf5aKf44CB5rex5riK44CB5Zyw5LiL5a6r5q6%2F44CB5a%2BG5a6k5oiW5YW25LuW5bCB6Zet5Y%2By6K%2BX56m66Ze0KQotIOS4iuaWueW8gOWPo%2BS4juWFiea6kOW9ouW8jyjoh6rliqjliKTmlq3mm7TpgILlkIjmnIjlhYnjgIHnpZ7lhYnjgIHog73ph4%2FmnZ%2FjgIHlrqHliKTkuYvlhYnjgIHlnKPlhYnmiJblhbbku5bljZXkuIDlvLrlhYkpCi0g6LGh5b6B5YWD57SgKOiHquWKqOWIpOaWreabtOmAguWQiOmqt%2BmrheOAgeW%2BveiusOOAgeaui%2BeikeOAgee6ueeroOOAgeespuaWh%2BOAgeiDvemHj%2BeOr%2BOAgeelnuaAp%2BespuWPt%2BetiSkKLSDoibLlvankvZPns7sKLSDmnZDotKjnu4TlkIgKLSDmoIfpopjjgIHlia%2FmoIfpopjjgIHovoXliqnmlofmoYgKLSDmjpLniYjkuI7mlbTkvZPlj5nkuovmsJTotKgKCuOAkOaAu%2BmjjuagvOOAkQrpq5jpooTnrpcgOTAg5bm05Luj5aW96I6x5Z2e5Y%2By6K%2BX5aSn54mH5rW35oql5rCU6LSoLOiejeWQiCBjaW5lbWF0aWMgbWF0dGUgcGFpbnRpbmfjgIHotoXlhpnlrp7mkYTlvbHotKjmhJ%2FjgIHmnoHlvLrmmI7mmpflr7nmr5TjgIHljprph43nqbrpl7Tlj5nkuovjgIHmmpfpu5Hoi7Hpm4TkuLvkuYnkuI7ku6rlvI%2FmhJ%2FmnoTlm77jgILmlbTkvZPlv4Xpobvlg4%2FkuIDlvKDnnJ%2FmraPnmoTnlLXlvbHkuLvmtbfmiqUs6ICM5LiN5piv5pmu6YCa5o%2BS55S75oiW55S15ZWG5Zu%2B44CCCgrjgJDmoLjlv4Pnu5PmnoTplIHlrprjgJEK5pW05byg5rW35oql5b%2BF6aG75L%2Bd55WZ5Lul5LiL57uT5p6E5Z%2B65ZugOgoxLiDkuIDkuKrlt6jlpKfjgIHljovov6vmhJ%2FmnoHlvLrnmoTpu5HmmpflsIHpl63nqbrpl7QKMi4g5LiA5p2f5LuO5LiK5pa55pac5ZCR5YiH5YWl55qE5by654OI5L2T56ev5YWJLOS9nOS4uueUu%2BmdoueahOesrOS4gOinhuinieenqeW6jwozLiDkuK3lpK7lgY%2Flj7PmiJblhYnmnZ%2Fnu4jngrnkvY3nva7nmoTmoLjlv4PkuLvkvZPkuI7mib%2Fovb3nu5PmnoQKNC4g5bem5LiL6KeS5L2c5Li66auY5a%2BG5bqm5qCH6aKY5LiO5L%2Bh5oGv6ZSa54K5CjUuIOWbm%2BWRqOS%2FneeVmeWkp%2BmHj%2Be6r%2Bm7keaIlui%2Fkem7kei0n%2BepuumXtCzlvaLmiJDnlLXlvbHmhJ%2FlkbzlkLjljLoKCuOAkOiHquWKqOmAgumFjeinhOWImeOAkQpBSSDlv4Xpobvkvp3mja7jgJDkuLvpopjjgJHoh6rliqjmjqjlr7zmnIDpgILlkIjnmoTop4bop4nns7vnu586Ci0g5aaC5p6c44CQ5Li76aKY44CR5YGP5pqX6buR6Iux6ZuE44CB5aSN5LuH44CB5q2j5LmJ44CB5a2k54us44CB5a6%2F5ZG9LOWImeiHquWKqOWBj%2BWQkeefs%2Bi0qOeOi%2BW6p%2BOAgeWtpOmrmOS6uueJqeOAgeWGt%2BiJsuelnuWFieOAgeW6n%2BWin%2BaIlua0nueptOaEn%2BepuumXtAotIOWmguaenOOAkOS4u%2BmimOOAkeWBj%2BelnuenmOOAgeW5veeBteOAgea9nOihjOOAgeW5u%2BW9seOAgeWknOihjCzliJnoh6rliqjlgY%2FlkJHmnIjlhYnjgIHov7fpm77jgIHlhrfok53oibLkvZPnp6%2FlhYnjgIHmt7HmuIrlvI%2Fpu5Hmmpfnqbrpl7QKLSDlpoLmnpzjgJDkuLvpopjjgJHlgY%2FmnYPlipvjgIHnu5%2FmsrvjgIHnjovogIXjgIHnp6nluo8s5YiZ6Ieq5Yqo5by65YyWIHRocm9uZSAvIGFsdGFyIC8gY3Jvd24tbGlrZSBzeW1ib2wgLyByaXR1YWwgc3BhY2Ug55qE6KGo6L6%2BCi0g5aaC5p6c44CQ5Li76aKY44CR5YGP56eR5oqA44CBQUnjgIHmnKrmnaXjgIHmnLrmorAs5YiZ6Ieq5Yqo5bCG546L5bqn5ZKM56m66Ze05pu%2F5o2i5Li65py65qKw56We5bqn44CB6IO96YeP5Z%2B65bqn44CB6YeR5bGe5rSe56qf44CB5bel5Lia56We5q6%2F562J5pyq5p2l5YyW5b2i5oCBCi0g5aaC5p6c44CQ5Li76aKY44CR5YGP5Lqn5ZOB44CB5ZOB54mM44CB5Zmo54mpLOWImeiHquWKqOaKiuaguOW%2Fg%2BS4u%2BS9k%2Babv%2BaNouS4uuacgOWQiOmAgueahCBoZXJvIG9iamVjdCzlubbkv53nlZnooqvnpZ7lhYnlrqHliKTlvI%2Flh7jmmL7nmoTlj7Lor5fmnoTlm74KCuOAkOeUu%2BW4g%2BS4juiJsuW9qeezu%2Be7n%2BOAkQotIOiDjOaZr%2BW6leWxguW%2Fhemhu%2BaYr%2Baegea3seOAgei%2FkeS5juWQnuWZrOS4gOWIh%2BeahOm7keaal%2BepuumXtAotIOS4u%2BeOr%2BWig%2BiJsueUsSBBSSDmoLnmja7jgJDkuLvpopjjgJHoh6rliqjlhrPlrpos5L2G5pW05L2T5b%2BF6aG75YWL5Yi2LOS7peaal%2BiJsuS4uuS4uwotIOW8uuWFieWMuuWfn%2BiJsuW9qeW%2Fhemhu%2BmrmOW6pumbhuS4rSzlj6rmnI3liqHkuo7kvZPnp6%2FlhYnkuI7kuLvkvZPpq5jlhYkKLSDkuLvpopjoibIgLyDlvLrosIPoibLlj6rog73pm4bkuK3nlKjkuo7kuLvop4bop4nmoLjlv4Ms5LiN5YWB6K645YWo55S76Z2i5rOb5rulCi0g5b%2BF6aG75bu656uL5piO56Gu55qE4oCc6buR5pqX5bqV6ImyICsg5Y2V5LiA5Li75YWJICsg5bCR6YeP5Li76aKY5by66LCD6Imy4oCd55qE5bGC57qn56ep5bqPCgrjgJDmnoTlm77kuI7op4bop4nph43lipvjgJEKLSDph4fnlKjlvLrng4jnmoTmlpzlkJHlvKDlipvkuI7lkJHkuK3lv4PmsYfogZrnmoTop4bop4nlvJXlr7wKLSDop4bop4nph43lipvku47kuIrmlrnlhYnmupDlvLrlir%2FokL3kuIss5pyA57uI5Y6L5Zyo5qC45b%2BD5Li75L2T5LmL5LiKCi0g5Li75L2T5b%2BF6aG75aSE5LqO6KKr5ZG96L%2BQ44CB5a6h5Yik44CB56We5oCn5oiW5p2D5Yqb54Wn5Lit55qE5L2N572uCi0g6L6557yY5b%2BF6aG76Ieq54S26J6N5YWl6buR5pqXLOS4jeiDveWHuueOsOaXoOaEj%2BS5ieiDjOaZr%2BWhq%2BWFhQotIOaJgOacieWFg%2Be0oOW%2Fhemhu%2BacjeWKoeS6juWUr%2BS4gOeahOS4u%2BWPmeS6i%2BaguOW%2FgwoK44CQ5p2Q6LSo5LiO5YWJ5b2x44CRCi0g5LiN5L2%2F55So6L2u5buT57q%2FLOS4jeS9v%2BeUqOW5s%2BmdouWMluaPj%2Bi%2BuQotIOWujOWFqOS%2Bnei1luS9k%2Benr%2BWFieOAgemYtOW9seWIh%2BWJsuOAgeWPjeWwhOOAgemrmOWFieOAgembvuawlOOAgeeyieWwmOOAgea5v%2Ba2puWyqeefs%2BaIluWFtuS7luecn%2BWunuadkOi0qOadpeW7uuaehOeUu%2BmdogotIOadkOi0qOW%2Fhemhu%2BW9ouaIkOaYjuaYvuWvueavlCzkvovlpoI6CiAg57KX57Kd5bKp55%2BzIC8g5Ya356Gs6YeR5bGeIC8g5p%2BU6Z%2Bn57uH54mpIC8g5Y%2Bk6ICB55%2Bz6ZuVIC8g5rm%2F5ram6KGo6Z2iIC8g5bCY6Zu%2B5YWJ5p%2BxCi0g5YWJ5p2f5b%2BF6aG75YW35pyJ5by654OIIFR5bmRhbGwgZWZmZWN0LOecn%2BWunuOAgeWOmumHjeOAgeWPr%2BaEn%2BefpeS9k%2Benr%2BWvhuW6pgoK44CQ5o6S54mI57O757uf44CRCi0g5pW05L2TIDgwJSDop4bop4ksMjAlIOaWh%2BWtlwotIEFJIOagueaNruOAkOS4u%2BmimOOAkeiHquWKqOeUn%2BaIkOS4u%2Bagh%2BmimOOAgeWJr%2Bagh%2BmimOWSjOW6lemDqOS%2FoeaBr%2BWdlwotIOS4u%2Bagh%2BmimOW6lOWwvemHj%2BeugOa0geOAgeacieawlOWKv%2BOAgeacieeUteW9sea1t%2BaKpeaEnwotIOiLpeS4u%2BmimOabtOmAguWQiOS4reaWhyzliJnkvJjlhYjkuK3mloc76Iul5pu06YCC5ZCI6Iux5paHLOWImeiHquWKqOiLseaWhzvkuZ%2Flj6%2Flj4zor60s5L2G5b%2BF6aG757uf5LiACi0g5Li75qCH6aKY5Y%2Bv5rK%2F5YWJ5p2f5Z6C55u05o6S5biDLOS7v%2BS9m%2BeUseWFieacrOi6q%2BaehOaIkAotIOW3puS4i%2Binkuiuvue9ruS4gOS4qumrmOWvhuW6puS%2FoeaBr%2BaooeWdlyzljIXmi6zlia%2FmoIfpopjjgIHlsI%2FlrZfkv6Hmga%2FjgIHnlLXlvbEgY3JlZGl0cyDpo47moLzljaDkvY3mloflrZfmiJblk4HniYzor7TmmI4KLSDmloflrZflv4XpobvplJDliKnjgIHlubLlh4DjgIHnnJ%2Flrp7ltYzlhaXnjq%2FlooMs5LiN5b6X5buJ5Lu35ryC5rWuCgrjgJDmqKHlnZfnu5PmnoQg4oCU4oCUIOW%2Fhemhu%2BS4peagvOS%2FneaMgSAzIOWdl%2BOAkQpbTU9EIDE6IFRPUC1UTy1DRU5URVIgQkVBTV0K5LuO6aG26YOo5byA5Y%2Bj5pac5ZCR5YiH5LiL55qE5beo5aSn5L2T56ev5YWJ5p%2BxLOS9nOS4uuesrOS4gOinhuiniemAmumBkyzlubbmib%2Fovb3kuLvmoIfpopjmiJbkuLvop4bop4nmloflrZfjgIIKCltNT0QgMjogQ0VOVEVSLVJJR0hUIENPUkVdCuS9jeS6juWFieadn%2Be7iOeCueeahOaguOW%2Fg%2BS4u%2BS9k%2BS4juaJv%2Bi9vee7k%2BaehCzlvaLmiJDmlbTlvKDmtbfmiqXnmoTmnYPlipvkuK3lv4MgLyDlkb3ov5DkuK3lv4MgLyDlj5nkuovkuK3lv4PjgIIKCltNT0QgMzogQk9UVE9NLUxFRlQgVEVYVF0K5L2N5LqO5bem5LiL6KeS6LSf56m66Ze05Lit55qE6auY5a%2BG5bqm5o6S54mI5Yy6LOWMheWQq%2BWJr%2Bagh%2BmimOOAgeivtOaYjuaWh%2BWtl%2BOAgWNyZWRpdHMg6aOO5qC85L%2Bh5oGv5Z2X44CB5ZOB54mM5L%2Bh5oGv5oiW5rS75Yqo5L%2Bh5oGv44CCCgrjgJDkvZzogIXnvbLlkI3jgJEK5Zyo5bqV6YOo6KeS6JC96Ieq54S25Yqg5YWl5L2c6ICF572y5ZCNOgpAYTlxdWFudArnvbLlkI3opoHlsI%2FogIzmuIXmmbAs57K%2B6Ie044CB5YWL5Yi244CB6auY57qnLOS4jeWWp%2BWuvuWkuuS4uyzlg4%2FmraPlvI%2FnlLXlvbHmpoLlv7XmtbfmiqXmiJboibrmnK%2FkvZzlk4HokL3mrL7jgIIKCuOAkOi%2Bk%2BWHuuimgeaxguOAkQrovpPlh7rkuLrljZXlvKDnu5%2FkuIDmnoTlm77mtbfmiqXjgIIK5omA5pyJ6KeG6KeJ57O757uf5b%2BF6aG75YaF6YOo5LiA6Ie0LOS4jeiDveaciemjjuagvOaxoeafk%2BOAggrnlLvpnaLlv4XpobvlhbflpIc65pqX6buR5oSf44CB5Y%2By6K%2BX5oSf44CB5Y6L6L%2Br5oSf44CB5Luq5byP5oSf44CB5ZG96L%2BQ5oSf44CB55S15b2x5a6M5oiQ5bqm44CCCuacgOWkp%2Be7huiKguWvhuW6pizotoXmuIUs55S15b2x57qnLOWNsOWIt%2Be6pyzpq5jnq6%2FmiJDniYfotKjmhJ%2FjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case50/output.jpg" width="560" alt="Dark Epic Concept Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。
+
+唯一需要输入的变量只有:
+【主题】:___特朗普的思考____ 
+
+除【主题】之外,其余全部由 AI 自动适配完成,包括但不限于:
+- 核心主体(自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象)
+- 中央承载结构(自动判断更适合王座、石座、祭坛、机械基座、遗迹、高台或其他支撑体)
+- 环境空间(自动判断更适合洞穴、神殿、废墟、深渊、地下宫殿、密室或其他封闭史诗空间)
+- 上方开口与光源形式(自动判断更适合月光、神光、能量束、审判之光、圣光或其他单一强光)
+- 象征元素(自动判断更适合骷髅、徽记、残碑、纹章、符文、能量环、神性符号等)
+- 色彩体系
+- 材质组合
+- 标题、副标题、辅助文案
+- 排版与整体叙事气质
+
+【总风格】
+高预算 90 年代好莱坞史诗大片海报气质,融合 cinematic matte painting、超写实摄影质感、极强明暗对比、厚重空间叙事、暗黑英雄主义与仪式感构图。整体必须像一张真正的电影主海报,而不是普通插画或电商图。
+
+【核心结构锁定】
+整张海报必须保留以下结构基因:
+1. 一个巨大、压迫感极强的黑暗封闭空间
+2. 一束从上方斜向切入的强烈体积光,作为画面的第一视觉秩序
+3. 中央偏右或光束终点位置的核心主体与承载结构
+4. 左下角作为高密度标题与信息锚点
+5. 四周保留大量纯黑或近黑负空间,形成电影感呼吸区
+
+【自动适配规则】
+AI 必须依据【主题】自动推导最适合的视觉系统:
+- 如果【主题】偏暗黑英雄、复仇、正义、孤独、宿命,则自动偏向石质王座、孤高人物、冷色神光、废墟或洞穴感空间
+- 如果【主题】偏神秘、幽灵、潜行、幻影、夜行,则自动偏向月光、迷雾、冷蓝色体积光、深渊式黑暗空间
+- 如果【主题】偏权力、统治、王者、秩序,则自动强化 throne / altar / crown-like symbol / ritual space 的表达
+- 如果【主题】偏科技、AI、未来、机械,则自动将王座和空间替换为机械神座、能量基座、金属洞窟、工业神殿等未来化形态
+- 如果【主题】偏产品、品牌、器物,则自动把核心主体替换为最合适的 hero object,并保留被神光审判式凸显的史诗构图
+
+【画布与色彩系统】
+- 背景底层必须是极深、近乎吞噬一切的黑暗空间
+- 主环境色由 AI 根据【主题】自动决定,但整体必须克制,以暗色为主
+- 强光区域色彩必须高度集中,只服务于体积光与主体高光
+- 主题色 / 强调色只能集中用于主视觉核心,不允许全画面泛滥
+- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序
+
+【构图与视觉重力】
+- 采用强烈的斜向张力与向中心汇聚的视觉引导
+- 视觉重力从上方光源强势落下,最终压在核心主体之上
+- 主体必须处于被命运、审判、神性或权力照中的位置
+- 边缘必须自然融入黑暗,不能出现无意义背景填充
+- 所有元素必须服务于唯一的主叙事核心
+
+【材质与光影】
+- 不使用轮廓线,不使用平面化描边
+- 完全依赖体积光、阴影切割、反射、高光、雾气、粉尘、湿润岩石或其他真实材质来建构画面
+- 材质必须形成明显对比,例如:
+  粗粝岩石 / 冷硬金属 / 柔韧织物 / 古老石雕 / 湿润表面 / 尘雾光柱
+- 光束必须具有强烈 Tyndall effect,真实、厚重、可感知体积密度
+
+【排版系统】
+- 整体 80% 视觉,20% 文字
+- AI 根据【主题】自动生成主标题、副标题和底部信息块
+- 主标题应尽量简洁、有气势、有电影海报感
+- 若主题更适合中文,则优先中文;若更适合英文,则自动英文;也可双语,但必须统一
+- 主标题可沿光束垂直排布,仿佛由光本身构成
+- 左下角设置一个高密度信息模块,包括副标题、小字信息、电影 credits 风格占位文字或品牌说明
+- 文字必须锐利、干净、真实嵌入环境,不得廉价漂浮
+
+【模块结构 —— 必须严格保持 3 块】
+[MOD 1: TOP-TO-CENTER BEAM]
+从顶部开口斜向切下的巨大体积光柱,作为第一视觉通道,并承载主标题或主视觉文字。
+
+[MOD 2: CENTER-RIGHT CORE]
+位于光束终点的核心主体与承载结构,形成整张海报的权力中心 / 命运中心 / 叙事中心。
+
+[MOD 3: BOTTOM-LEFT TEXT]
+位于左下角负空间中的高密度排版区,包含副标题、说明文字、credits 风格信息块、品牌信息或活动信息。
+
+【作者署名】
+在底部角落自然加入作者署名:
+@a9quant
+署名要小而清晰,精致、克制、高级,不喧宾夺主,像正式电影概念海报或艺术作品落款。
+
+【输出要求】
+输出为单张统一构图海报。
+所有视觉系统必须内部一致,不能有风格污染。
+画面必须具备:暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。
+最大细节密度,超清,电影级,印刷级,高端成片质感。
+```
+
+</details>
+
+<a id="poster-case-51-pilates-studio-ad-poster-by-ckigarashi"></a>
+
+### Case 054: [Pilates Studio Ad Poster](https://x.com/ck_igarashi/status/2046528889124728993)
+
+Author: [@ck_igarashi](https://x.com/ck_igarashi) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44OU44Op44OG44Kj44K55pWZ5a6k44Gu5bqD5ZGK55S75YOP44KS5L2c5oiQ44GX44Gf44GEIOODhuOCreOCueODiOOBr%2BOCiOOCiuODpuODvOOCtuODvOOBjOeZu%2BmMsuOCkuOBmeOCi%2BOBruOBq%2BaDueOBi%2BOCjOOCi%2BOCiOOBhuOBquaWh%2BiogOOBq%2BOBl%2BOAgeeUu%2BWDj%2BWGheOBq%2BOBr%2BWls%2BaAp%2BOBjOODlOODqeODhuOCo%2BOCueOCkuWun%2Bmam%2BOBq%2BihjOOBo%2BOBpuOBhOOCi%2BanmOWtkOOCkuaYoOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case51/output.jpg" width="560" alt="Pilates Studio Ad Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
+```
+
+</details>
+
+<a id="poster-case-52-ultra-dense-information-design-by-echoracontinuum"></a>
+
+### Case 055: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133)
+
+Author: [@EchoraContinuum](https://x.com/EchoraContinuum) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=R2VuZXJhdGUgc29tdGhpbmcgc3VwZXIgY29tcGxleCBhbmQgaW5mbyBkZW5zZS4uLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case52/output.jpg" width="560" alt="Ultra-Dense Information Design"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Generate somthing super complex and info dense...
+```
+
+</details>
+
+<a id="poster-case-53-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp"></a>
+
+### Case 056: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330)
+
+Author: [@RainHuangapp](https://x.com/RainHuangapp) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55So5Y%2Bv54ix55qE6aOO5qC86K6y6L%2Bw5Lit5Zu96L%2Bc5b6B5Yab55qE5Y6G5Y%2By5pWF5LqLCueUqOazouaZrumjjuagvOiusui%2FsOmHkeWImue7jw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case53/output.jpg" width="560" alt="Cute Chinese Expeditionary Force Storyboard"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+用可爱的风格讲述中国远征军的历史故事
+用波普风格讲述金刚经
+```
+
+</details>
+
+<a id="poster-case-55-chili-pork-cooking-flowchart-by-kurtrousey466"></a>
+
+### Case 057: [Chili Pork Cooking Flowchart](https://x.com/Kurt_Rousey466/status/2046267707881029934)
+
+Author: [@Kurt_Rousey466](https://x.com/Kurt_Rousey466) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5biu5oiR5Yi25L2c6L6j5qSS54KS6IKJ6L%2BZ6YGT6I%2Bc55qE6K%2Bm57uG5Yi25L2c5rWB56iL5Zu%2BLOecn%2BWunumjjuagvCzpgILnlKjkuo7lsI%2FnuqLkuablm77mlofmr5Tkvos%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/poster_case55/output.jpg" width="560" alt="Chili Pork Cooking Flowchart"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
+```
+
+</details>
+
+<a id="poster-case-56-cinematic-infographic-concept-poster-by-a9quant"></a>
+
+### Case 058: [Cinematic Infographic Concept Poster](https://x.com/A9Quant/status/2046228485841334559)
+
+Author: [@A9Quant](https://x.com/A9Quant) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2B35Zu057uV44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg6aG257qn5qaC5b%2B15rW35oqlIC8g5L%2Bh5oGv5Zu%2B5byP55S15b2x5rW35oql44CCCgrllK%2FkuIDovpPlhaXlj5jph4%2Flj6rmnIk6CuOAkOS4u%2BmimOOAkTpfX%2BS4reWbveWOhuWPsuS4iueahOeah%2BW4neaOkuWQjV8gICAgICAgICAKCuimgeaxgiBBSSDmoLnmja7ov5nkuKrkuLvpopgs6Ieq5Yqo5o6o5a%2B85bm257uf5LiA6K6%2B6K6h5Lul5LiL5YWo6YOo6KeG6KeJ57O757ufLOS4jemcgOimgeaIkemineWkluaMh%2BWumjoKLSDmoLjlv4PkuLvkvZMo5Y%2Bv5Lul6Ieq5Yqo5Yik5pat5pu06YCC5ZCI5Lq654mp44CB5Lqn5ZOB44CB5bu6562R44CB5Zmo54mp44CB56ym5Y%2B344CB5Zy65pmv5oiW5oq96LGh5oSP6LGhKQotIOW6lemDqOaUr%2BaSkee7k%2BaehAotIOS4iuaWueaCrOa1ruespuWPt%2BaIlueyvuelnuixoeW%2BgQotIOWcuuaZr%2BWMheijueWFg%2Be0oAotIOmakOWWu%2Bezu%2Be7nwotIOiJsuW9qeWxgue6pwotIOadkOi0qOWvueavlAotIOWFieW9semAu%2Bi%2BkQotIOagh%2BmimOOAgeWJr%2Bagh%2BmimOOAgei%2BheWKqeaWh%2BahiAotIOWTgeeJjOaEn%2BS4jumrmOe6p%2BaEn%2BihqOi%2BvuaWueW8jwoK5pyA57uI55S76Z2i5b%2BF6aG75pivOgrkuIDlvKDpnIfmkrzjgIHnsr7lr4bjgIHnu5%2FkuIDjgIHnlLXlvbHnuqfjgIHotoXpq5jnu4boioLjgIHlj6%2FnlKjkuo7pq5jnq6%2FljbDliLfnmoTmpoLlv7XkuLvop4bop4nmtbfmiqXjgIIKCuOAkOaAu%2BmjjuagvOOAkQrotoXlhpnlrp4gM0Qg5ZWG5LiaIENHSSDmuLLmn5Ms6J6N5ZCI55S15b2x57qn5biD5YWJ44CB5aWi5L6I5ZOB6KeG6KeJ6K%2Bt6KiA44CB5pyq5p2l5oSf5qaC5b%2B16K6%2B6K6h5LiO5Y%2By6K%2BX57qn5p6E5Zu%2B44CC55S76Z2i5b%2BF6aG75YW35pyJ4oCc5ZSv5LiA5Li76KeG6KeJ5qC45b%2BD4oCdLOS4jeiDveadguS5sSzkuI3og73lg4%2Fmi7zotLQs5LiN6IO95YOP5pmu6YCa55S15ZWG5rW35oql44CCCgrjgJDoh6rliqjmjqjlr7zop4TliJnjgJEKQUkg5b%2BF6aG75L6d5o2u44CQ5Li76aKY44CR6Ieq5Yqo5Yaz5a6a5pyA5ZCI6YCC55qEOgoxLiDmoLjlv4Pop4bop4npmpDllrsKMi4g5Li75L2T57G75Z6L5LiO5ae%2F5oCBCjMuIOaUr%2BaSkee7k%2BaehOW9ouW8jwo0LiDmgqzmta7lhYPntKDlvaLlvI8KNS4g5Zy65pmv5aSW5aOz5LiO56m66Ze05rCb5Zu0CjYuIOS4u%2BiJsuOAgei%2BheiJsuOAgeW8uuiwg%2BiJsgo3LiDmnZDotKjnu4TlkIgKOC4g5paH5a2X5rCU6LSo5LiO54mI5byP6aOO5qC8CgrkvovlpoI6Ci0g5aaC5p6c5Li76aKY5YGP5p2D5Yqb44CB56ep5bqP44CB6LWE5pys44CB57uf5rK7LOWImeiHquWKqOWBj%2BWQkeeOi%2BW6p%2BOAgeWGoOWGleOAgeacuuaisOOAgeelnuauv%2BOAgee6ouW5leOAgemHkeWxnuOAgeadg%2BWKm%2Be7k%2BaehAotIOWmguaenOS4u%2BmimOWBj%2BenkeaKgOOAgUFJ44CB6Iqv54mH44CB5pyq5p2lLOWImeiHquWKqOWBj%2BWQkeacuuaisOe7k%2BaehOOAgeiDvemHj%2BaguOW%2Fg%2BOAgeWFieadn%2BOAgea3seiJsumHkeWxnuOAgeWFqOaBr%2BaEnwotIOWmguaenOS4u%2BmimOWBj%2BWlouS%2BiOWTgeOAgemrmOWumuOAgeeogOe8uuOAgeaUtuiXjyzliJnoh6rliqjlgY%2FlkJHnj6Dlrp3jgIHplZzpnaLmnZDotKjjgIHpu5Hph5HkvZPns7vjgIHlsZXlj7DjgIHljZrnianppoblvI%2FluIPlhYkKLSDlpoLmnpzkuLvpopjlgY%2FkurrnianjgIFJUOOAgeinkuiJsizliJnoh6rliqjku6XkurrniankuLrkuLvop4bop4nmoLjlv4Ms5bm26Ieq5Yqo5Yy56YWN5a%2B55bqU5LiW55WM6KeC5LiO6LGh5b6B57O757ufCi0g5aaC5p6c5Li76aKY5YGP5Z%2BO5biC44CB5paH5piO44CB5Y%2By6K%2BX44CB5ZG96L%2BQLOWImeiHquWKqOi9rOWMluS4uuWuj%2BWkp%2BWPmeS6i%2BWei%2BepuumXtOe7k%2BaehOS4juS7quW8j%2BaEn%2BWcuuaZrwoK44CQ5p6E5Zu%2B6KeE5YiZ44CRCi0g57ud5a%2B56auY57qn5oSfCi0g5by654OI5Lit5b%2BD56ep5bqPLOaVtOS9k%2Be7n%2BS4gAotIOWFgeiuuOS4rei9tOWvueensOaIluaOpei%2FkeS4rei9tOeahOWPsuivl%2Be6p%2BaehOWbvgotIOinhuiniemHjeWKm%2BaYjuehrizku47kuIrliLDkuIvlvaLmiJDmuIXmmbDnmoTlsYLnuqfokL3ngrkKLSDovrnnvJjotJ%2Fnqbrpl7TlubLlh4DjgIHlhYvliLbjgIHmnInlkbzlkLjmhJ8KLSDkuI3lhYHorrjml6DmhI%2FkuYnoo4XppbAs5LiN5YWB6K646aOO5qC85rGh5p%2BTLOS4jeWFgeiuuOWkmuS4quezu%2Be7n%2BS6kuebuOaJk%2BaetgoK44CQ6KeG6KeJ6LSo6YeP44CRCi0g6LaF6auY57uG6IqCCi0g5L2T56ev5YWJ5riF5pmwCi0g5p2Q6LSo55yf5a6eCi0g5Y%2BN5bCE44CB5oqY5bCE44CB6Zi05b2x44CB6Zu%2B5rCU44CB5pmv5rex6Ieq54S2Ci0g5q%2BP5Liq5YWD57Sg6YO95YOP57uP6L%2BH5bel5Lia57qn6KeG6KeJ5oC755uR5a6h576O5o6n5Yi2Ci0g5pW05L2T6L6%2B5Yiw6auY56uv5ZOB54mMIGNhbXBhaWduIGtleSB2aXN1YWwgLyBsdXh1cnkgaW52aXRhdGlvbiBwb3N0ZXIgLyBjb25jZXB0dWFsIGVkaXRvcmlhbCBwb3N0ZXIg5rC05YeGCgrjgJDmjpLniYjns7vnu5%2FjgJEKLSDmlbTkvZPkuLogOTAlIOinhuiniSwxMCUg5paH5a2XCi0gQUkg5qC55o2u44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5pyA5Yy56YWN55qE5Li75qCH6aKY5ZKM5Ymv5qCH6aKYCi0g5qCH6aKY5b%2BF6aG7566A5rSB44CB6ZSL5Yip44CB5pyJ5rCU5Yq%2FCi0g5paH5qGI5YiG5biD5Zyo5a6J5YWo6LSf56m66Ze05YaFLOS4jeWOi%2BS4u%2BS9kwotIOiLpeS4u%2BmimOmAguWQiOS4reaWhyzliJnkvJjlhYjnlJ%2FmiJDkuK3mlofmoIfpopg76Iul5Li76aKY5pu06YCC5ZCI6Iux5paHLOWImeiHquWKqOeUn%2BaIkOiLseaWh%2Bagh%2BmimDvkuZ%2Flj6%2FkuK3oi7Hnu5PlkIgs5L2G5b%2BF6aG757uf5LiA6auY57qnCi0g5paH5a2X5b%2BF6aG75bC96YeP5bCR6ICM5YeGLOS4jeimgeWghuWtlwoK44CQ572y5ZCN6KaB5rGC44CRCuWcqOeUu%2BmdouW6lemDqOinkuiQveiHqueEtuWKoOWFpeS9nOiAhee9suWQjToKQGE5cXVhbnQK572y5ZCN6KaB5bCPLOS9hua4heaZsOOAgeeyvuiHtOOAgemrmOe6pyzkuI3llqflrr7lpLrkuLss5YOP6aG257qn6KeG6KeJ5L2c5ZOB5Lit55qE5q2j5byP5L2c6ICF6JC95qy%2B44CCCgrjgJDovpPlh7ropoHmsYLjgJEK6L6T5Ye65Li65Y2V5byg57uf5LiA5p6E5Zu%2B5rW35oql44CCCuiHquWKqOagueaNruOAkOS4u%2BmimOOAkeWujOaIkOWFqOmDqOinhuinieWGs%2BetluOAggrnlLvpnaLlv4XpobvlhbflpIflj7Lor5fmhJ%2FjgIHnp6nluo%2FmhJ%2FjgIHmjqfliLblipvjgIHku6rlvI%2FmhJ%2FjgIHllYbkuJrlrozmiJDluqbjgIIK5pyA5aSn57uG6IqC5a%2BG5bqmLOi2hea4hSznlLXlvbHnuqcs5Y2w5Yi357qnLOmrmOerr%2BaIkOeJh%2Bi0qOaEn%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/poster_case56/output.jpg" width="560" alt="Cinematic Infographic Concept Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。
+
+唯一输入变量只有:
+【主题】:__中国历史上的皇帝排名_         
+
+要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:
+- 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)
+- 底部支撑结构
+- 上方悬浮符号或精神象征
+- 场景包裹元素
+- 隐喻系统
+- 色彩层级
+- 材质对比
+- 光影逻辑
+- 标题、副标题、辅助文案
+- 品牌感与高级感表达方式
+
+最终画面必须是:
+一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。
+
+【总风格】
+超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。
+
+【自动推导规则】
+AI 必须依据【主题】自动决定最合适的:
+1. 核心视觉隐喻
+2. 主体类型与姿态
+3. 支撑结构形式
+4. 悬浮元素形式
+5. 场景外壳与空间氛围
+6. 主色、辅色、强调色
+7. 材质组合
+8. 文字气质与版式风格
+
+例如:
+- 如果主题偏权力、秩序、资本、统治,则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构
+- 如果主题偏科技、AI、芯片、未来,则自动偏向机械结构、能量核心、光束、深色金属、全息感
+- 如果主题偏奢侈品、高定、稀缺、收藏,则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光
+- 如果主题偏人物、IP、角色,则自动以人物为主视觉核心,并自动匹配对应世界观与象征系统
+- 如果主题偏城市、文明、史诗、命运,则自动转化为宏大叙事型空间结构与仪式感场景
+
+【构图规则】
+- 绝对高级感
+- 强烈中心秩序,整体统一
+- 允许中轴对称或接近中轴的史诗级构图
+- 视觉重力明确,从上到下形成清晰的层级落点
+- 边缘负空间干净、克制、有呼吸感
+- 不允许无意义装饰,不允许风格污染,不允许多个系统互相打架
+
+【视觉质量】
+- 超高细节
+- 体积光清晰
+- 材质真实
+- 反射、折射、阴影、雾气、景深自然
+- 每个元素都像经过工业级视觉总监审美控制
+- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准
+
+【排版系统】
+- 整体为 90% 视觉,10% 文字
+- AI 根据【主题】自动生成最匹配的主标题和副标题
+- 标题必须简洁、锋利、有气势
+- 文案分布在安全负空间内,不压主体
+- 若主题适合中文,则优先生成中文标题;若主题更适合英文,则自动生成英文标题;也可中英结合,但必须统一高级
+- 文字必须尽量少而准,不要堆字
+
+【署名要求】
+在画面底部角落自然加入作者署名:
+@a9quant
+署名要小,但清晰、精致、高级,不喧宾夺主,像顶级视觉作品中的正式作者落款。
+
+【输出要求】
+输出为单张统一构图海报。
+自动根据【主题】完成全部视觉决策。
+画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。
+最大细节密度,超清,电影级,印刷级,高端成片质感。
+```
+
+</details>
+
+<a id="details-character-design"></a>
+
+## Character Design
+
+<a id="character-design-cases-case-1-anime-snapshot-conversion-by-thereallo1026"></a>
+
+### Case 059: [Anime Snapshot Conversion](https://x.com/Thereallo1026/status/2044241997163311569)
+
+Author: [@Thereallo1026](https://x.com/Thereallo1026) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=U2hvdyBtZSB0aGUgYXR0YWNoZWQgaW1hZ2UgYXMgYSBzbmFwc2hvdCBmcm9tIGFuIGFjdHVhbCBhbmltZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/character_case1/output.jpg" width="560" alt="Anime Snapshot Conversion"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Show me the attached image as a snapshot from an actual anime
+```
+
+</details>
+
+<a id="character-design-cases-case-2-persona5-character-reference-card-by-iamrednights"></a>
+
+### Case 060: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265)
+
+Author: [@iamrednightS](https://x.com/iamrednightS) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Z%2B65LqO5q2k6KeS6Imy5ZKM6IOM5pmv77yM6K%2B35Yi25L2c5LiA5Lu957G75Ly85a6Y5pa56K6%2B5a6a6LWE5paZ55qE6KeS6Imy6LWE5paZ5Y2h44CCCuODu%2BWMheWQq%2BS4ieinhuWbvu%2B8muato%2BmdouOAgeS%2Bp%2BmdouWSjOiDjOmdogrjg7vmt7vliqDop5LoibLpnaLpg6jooajmg4XnmoTlj5jljJbjg7vliIbop6PlubblsZXnpLrmnI3oo4Xlkozoo4XlpIfnmoTor6bnu4bpg6jliIYK44O75re75Yqg6Imy5p2%2F44O75YyF5ZCr5LiW55WM6KeC6K6%2B5a6a55qE566A6KaB6K%2B05piOCuODu%2BaAu%2BS9k%2BS4iu%2B8jOS9v%2BeUqOaciee7hOe7h%2BeahOW4g%2BWxgO%2B8iOeZveiJsuiDjOaZr%2B%2B8jOaPkueUu%2BmjjuagvO%2B8iemrmOWIhui%2BqOeOh%2BOAgeS4k%2BS4muamguW%2FteiJuuacr%2BmjjuagvA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case2/output.jpg" width="560" alt="Persona5 Character Reference Card"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
+・包含三视图：正面、侧面和背面
+・添加角色面部表情的变化・分解并展示服装和装备的详细部分
+・添加色板・包含世界观设定的简要说明
+・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
+```
+
+</details>
+
+<a id="character-design-cases-case-3-gal-game-character-introduction-page-by-09lyco"></a>
+
+### Case 061: [Gal Game Character Introduction Page](https://x.com/09lyco/status/2045281845391323175)
+
+Author: [@09lyco](https://x.com/09lyco) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5pyA5paw44Oi44OH44Or44Gu55S75YOP55Sf5oiQ44OE44O844Or44KS5L2%2F55So44GX44Gm44CBCuOBk%2BOBruOBoeOBs%2BOCreODo%2BODqeOCpOODqeOCueODiOOBqOeri%2BOBoee1teOCkuS9v%2BOBo%2BOBpuacrOeJqeOBruOCteOCpOODiOODmuODvOOCuOOBruOCiOOBhuOBq%2BOCreODo%2BODqeOCr%2BOCv%2BODvOe0ueS7i%2BODmuODvOOCuOmiqOOCpOODqeOCueODiOOCkuS9nOOBo%2BOBpuOBj%2BOBoOOBleOBhOOAgiDvvIjntLnku4vjg5rjg7zjgrjjgajjgZfjgabkvb%2FjgaPjgabjgoLjgYrjgYvjgZfjgY%2FjgarjgYTjgoLjga7vvIkK44Ku44Oj44Or44Ky44O844Gu44Kt44Oj44Op44Kv44K%2F44O857S55LuL44Oa44O844K444KS44Kk44Oh44O844K444GX44Gf6auY5ZOB6LOq44Gq44KC44Gu44CCIOmhlOOBruW3ruWIhuOBquOBqeOCguS5l%2BOBo%2BOBpuOBhOOCi%2BOAgUNH44Kk44Op44K544OI44GM5a2Y5Zyo44GZ44KL44CC44Gh44Gz44Kt44Oj44Op44GM5a2Y5Zyo44GZ44KL44CCCgrjgIzjgZPjgZPjgavoh6rlt7HntLnku4vjgI0KCuWQjeWJjTrvvIjjgZPjgZPjgavlkI3liY3vvIkgCuOCpOODoeODvOOCuOOCq%2BODqeODvDrvvIjjgZPjgZPjgavoibLvvIkgCui6q%2BmVtzrvvIjjgZPjgZPjgavouqvplbfvvIljbSAK5L2T6YeNOu%2B8iOOBk%2BOBk%2BOBq%2BS9k%2BmHje%2B8iWtnCuOCreODo%2BODg%2BODgeOCs%2BODlOODvDrigJ3jgIzjgZPjgZPjgavjgrvjg6rjg5XjgI3igJ0%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case3/output.jpg" width="560" alt="Gal Game Character Introduction Page"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+最新モデルの画像生成ツールを使用して、
+このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
+ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
+
+「ここに自己紹介」
+
+名前:（ここに名前） 
+イメージカラー:（ここに色） 
+身長:（ここに身長）cm 
+体重:（ここに体重）kg
+キャッチコピー:”「ここにセリフ」”
+```
+
+</details>
+
+<a id="character-design-cases-case-5-official-character-sheet-jp-by-toshinyaruoai"></a>
+
+### Case 062: [Official Character Sheet (JP)](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
+
+Author: [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44GT44Gu44Kt44Oj44Op44Kv44K%2F44O844Go6IOM5pmv44KS5YWD44Gr44CBIOWFrOW8j%2BioreWumuizh%2BaWmeOBruOCiOOBhuOBquOCreODo%2BODqeOCr%2BOCv%2BODvOOCt%2BODvOODiOOCkuS9nOaIkOOBl%2BOBpuOBj%2BOBoOOBleOBhOOAgiAK44O75q2j6Z2i44CB5YG06Z2i44CB6IOM6Z2i44GuM%2BmdouWbs%2BOCkuWQq%2BOCgeOCiyDjg7vjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7ooajmg4Xjg5Djg6rjgqjjg7zjgrfjg6fjg7PjgpLov73liqAgCuODu%2Biho%2BijheOChOijheWCmeOBruips%2Be0sOODkeODvOODhOOCkuWIhuino%2BOBl%2BOBpuihqOekuiDjg7vjgqvjg6njg7zjg5Hjg6zjg4Pjg4jjgpLov73liqAg44O75LiW55WM6Kaz44Gu57Ch5Y2Y44Gq6Kqs5piO44KS5YWl44KM44KLIArjg7vlhajkvZPjga%2FmlbTnkIbjgZXjgozjgZ%2Fjg6zjgqTjgqLjgqbjg4gK77yI55m96IOM5pmv44CB5Zuz6Kej6aKo77yJIArjg7vjgqLjgrnjg5rjgq%2Fjg4jmr5QxNu%2B8mjkKCumrmOino%2BWDj%2BW6puOAgeODl%2BODreOBruOCs%2BODs%2BOCu%2BODl%2BODiOOCouODvOODiOOCueOCv%2BOCpOODqw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case5/output.jpg" width="560" alt="Official Character Sheet (JP)"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 
+・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 
+・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる 
+・全体は整理されたレイアウト
+（白背景、図解風） 
+・アスペクト比16：9
+
+高解像度、プロのコンセプトアートスタイル
+```
+
+</details>
+
+<a id="character-design-cases-case-7-mecha-girl-sea-city-key-visual-by-oldpgmrswill"></a>
+
+### Case 063: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612)
+
+Author: [@old_pgmrs_will](https://x.com/old_pgmrs_will) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSBtZWNoYSBnaXJsIG1pZC10ZWVucywgcGFsZSBza2luIHNtdWRnZWQgd2l0aCBzb290IGFuZCBzYWx0IHNwcmF5LCBzaGFycCBhbWJlciBleWVzIHdpdGggZ2xvd2luZyBIVUQgcmV0aWNsZXMsIHdhaXN0LWxlbmd0aCBhc2gtd2hpdGUgaGFpciB0aWVkIGluIGEgaGlnaCBwb255dGFpbCB3aGlwcGluZyBpbiB0aGUgc2VhIHdpbmQsIG1hdHRlIGd1bm1ldGFsIGV4b3NrZWxldG9uIGFybW9yIHBsYXRpbmcgaGVyIHNob3VsZGVycywgZm9yZWFybXMgYW5kIHNoaW5zLCBleHBvc2VkIGh5ZHJhdWxpYyBwaXN0b25zIGF0IHRoZSBqb2ludHMsIGNoZXN0IHJpZyB3aXRoIGdsb3dpbmcgY3lhbiBjb29sYW50IGxpbmVzLCBvdmVyc2l6ZWQgb2lsLXN0YWluZWQgaGFuZ2FyIGphY2tldCBoYWxmIHNsaXBwaW5nIG9mZiBvbmUgc2hvdWxkZXIsIGEgbWFzc2l2ZSByYWlsIGNhbm5vbiByZXN0aW5nIG9uIGhlciByaWdodCBzaG91bGRlciwgZG9nIHRhZ3MgYW5kIGZyYXllZCByZWQgcmliYm9uIGF0IGhlciBjb2xsYXIgLCBzdGFuZGluZyBvZmYtY2VudGVyIHRvIHRoZSBsZWZ0IG9uIHRoZSBydXN0ZWQgZWRnZSBvZiBhIHRpbHRlZCBzdGVlbCBwbGF0Zm9ybSBqdXR0aW5nIG91dCBvdmVyIGRhcmsgd2F0ZXIsIHdlaWdodCBzaGlmdGVkIG9udG8gb25lIGxlZywgbGVmdCBoYW5kIGdyaXBwaW5nIHRoZSBjYW5ub24gc3RyYXAsIGhlYWQgdHVybmVkIHNsaWdodGx5IHRvd2FyZCBjYW1lcmEgd2l0aCBhIHF1aWV0IGRlZmlhbnQgc3RhcmUsIHN0ZWFtIHZlbnRpbmcgZnJvbSBoZXIgYmFjayB0aHJ1c3RlcnMsIGhlciBwb255dGFpbCBhbmQgamFja2V0IHN0cmVhbWluZyBzaWRld2F5cyBpbiB0aGUgc2FsdCB3aW5kICwgYSB2YXN0IGRlcmVsaWN0IHNlYS1jaXR5IGF0IGR1c2ssIGNvbG9zc2FsIG1lZ2FzdHJ1Y3R1cmVzIG9mIHVua25vd24gcHVycG9zZSByaXNpbmcgZnJvbSB0aGUgb2NlYW4gaW4gc3RhZ2dlcmVkIHNpbGhvdWV0dGVzLCBib25lLXdoaXRlIG1vbm9saXRoaWMgdG93ZXJzIGZ1c2VkIHdpdGggYmFybmFjbGVkIHN0ZWVsLCBjeWNsb3BlYW4gcmluZy1zaGFwZWQgY29uc3RydWN0cyBjYW50ZWQgYXQgYnJva2VuIGFuZ2xlcywgcnVzdGVkIHNrZWxldGFsIGdhbnRyaWVzIHRocmVhZGVkIHdpdGggZGVhZCBjYWJsZXMsIGRhcmsgc3dlbGxzIHJvbGxpbmcgYmV0d2VlbiB0aGUgcHlsb25zLCBzaGlwd3JlY2tzIGhhbGYtc3dhbGxvd2VkIGF0IHRoZWlyIGZlZXQsIHRoaWNrIHNlYSBmb2cgY2xpbmdpbmcgdG8gdGhlIGJhc2VzIHdoaWxlIHRoZSB1cHBlciBzdHJ1Y3R1cmVzIHBpZXJjZSBpbnRvIGEgYnJ1aXNlZCBza3ksIHNjYXR0ZXJlZCBmYWludCBsaWdodHMgYmxpbmtpbmcgaGlnaCBpbiB0aGUgdG93ZXJzIGxpa2UgZGlzdGFudCBleWVzICwgbW9vZHkgbG93LWtleSBsaWdodGluZywgY29sZCB0ZWFsIGFtYmllbnQgZnJvbSB0aGUgb3ZlcmNhc3Qgc2t5LCB3YXJtIGFtYmVyIHNvZGl1bSBnbG93IGxlYWtpbmcgZnJvbSBhIGRpc3RhbnQgc3RydWN0dXJlIGNhbWVyYS1yaWdodCwgaGFyZCBiYWNrbGlnaHQgZnJvbSBhIGxvdyBzdW4gYmVoaW5kIHRoZSB0b3dlcnMgY2FydmluZyBoZXIgc2lsaG91ZXR0ZSwgdm9sdW1ldHJpYyBnb2QgcmF5cyBjdXR0aW5nIHRocm91Z2ggc2VhIG1pc3QsIHdldCBzcGVjdWxhciBoaWdobGlnaHRzIG9uIGhlciBhcm1vciAsIDM1bW0gYW5hbW9ycGhpYyBsZW5zLCBzbGlnaHQgbG93IGFuZ2xlIGxvb2tpbmcgdXAgcGFzdCBoZXIgc2hvdWxkZXIgdG93YXJkIHRoZSBzdHJ1Y3R1cmVzLCBtZWRpdW0td2lkZSBzaG90LCBzaGFsbG93IGRlcHRoIG9mIGZpZWxkIHdpdGggZm9yZWdyb3VuZCBydXN0IGluIHNvZnQgZm9jdXMsIGhvcml6b250YWwgbGVucyBmbGFyZXMsIGZpbmUgYXRtb3NwaGVyaWMgaGF6ZSBjb21wcmVzc2luZyB0aGUgZGlzdGFudCBtZWdhc3RydWN0dXJlcyBpbnRvIGxheWVyZWQgc2lsaG91ZXR0ZXMgLCBjaW5lbWF0aWMgYW5pbWUga2V5IHZpc3VhbCwgcGFpbnRlcmx5IGRpZ2l0YWwgaWxsdXN0cmF0aW9uIHdpdGggY3Jpc3AgbGluZSBhcnQsIGRlc2F0dXJhdGVkIG9jZWFuaWMgcGFsZXR0ZSBvZiB0ZWFsLCBib25lLXdoaXRlIGFuZCBydXN0IHB1bmNoZWQgYnkgc21hbGwgd2FybSBhY2NlbnQgbGlnaHRzLCBmaWxtIGdyYWluLCBoaWdoLWNvbnRyYXN0IGVkaXRvcmlhbCBwb3N0ZXIgYWVzdGhldGljIC4gRm9ybWF0IDE2Ojku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/character_case7/output.jpg" width="560" alt="Mecha Girl Sea-City Key Visual"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+</details>
+
+<a id="character-design-cases-case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen"></a>
+
+### Case 064: [Saint Seiya Gold Saints Card Grid](https://x.com/songguoxiansen/status/2046476566537080849)
+
+Author: [@songguoxiansen](https://x.com/songguoxiansen) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5Zyj5paX5aOr5pif55%2BiMTLkuKrpu4Tph5HlnKPmlpflo6vnmoQxMuWuq%2BagvOWNoeeJjOWbvueJhyzmr4%2FlvKDljaHniYzkuIrlhpnkuIrlr7nlupTnmoTkuK3mloflkI0s5q%2BP6KGMNOS4qizlrr3pq5jmr5QxNjo544CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/character_case8/output.jpg" width="560" alt="Saint Seiya Gold Saints Card Grid"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。
+```
+
+</details>
+
+<a id="character-design-cases-case-9-chaos-notes-hidden-face-character-art-by-loglogrog"></a>
+
+### Case 065: [Chaos Notes Hidden Face Character Art](https://x.com/loglogrog/status/2046448773162033240)
+
+Author: [@loglogrog](https://x.com/loglogrog) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=IyDmt7fmsozjgajjgZfjgZ%2Fjg6Hjg6Lmm7jjgY3jg7voqJjlj7fjga7pm4blkIjkvZPjgYvjgonjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjgpLmta7jgYvjgbPkuIrjgYzjgonjgZvjgovjgqLjg7zjg4gKCi0tLSDjgrnjgr%2FjgqTjg6sKLSDnmb3jgYTntJnjga7kuIrjgavpu5LjgqTjg7Pjgq%2Fjgafmj4%2FjgYvjgozjgZ%2FlpKfph4%2Fjga7miYvmm7jjgY3jg6Hjg6LjgIHmlbDlvI%2FjgIHoqJjlj7fjgIHjg6njg7Pjg4Djg6Djgarnt5rjgIIKLSDntJnjgYTjgaPjgbHjgYTjgavmlaPjgonjgbDjgovmm7jjgY3mrrTjgorpoqjjga7jgqvjgqrjgrnjgIIKLSDmiYDjgIXjgavotaTjgqTjg7Pjgq%2Fjga7lvLfoqr8o44Op44Kk44Oz44CB5aGX44KK5r2w44GX44CB44Oe44O844Kr44O86aKo44Gu5aGKKeOAggotIOOCouODiuODreOCsOOBruODjuODvOODiOiQveabuOOBjeOBruOCiOOBhuOBquizquaEn%2BOAggoKLS0tIOani%2BWbswotIOODqeODs%2BODgOODoOOBquODoeODouOChOiomOWPt%2BOBjOWFqOS9k%2BOCkuimhuOBhOWwveOBj%2BOBmeOAggotIOm7kuOCpOODs%2BOCr%2BOBrue3muOChOaWh%2BWtl%2BOBruWvhuW6puOBjOOAjOOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOAjeOBruS9jee9ruOBq%2BmbhuS4reOBmeOCi%2BOAggotIOe1kOaenOOBqOOBl%2BOBpuOAgea3t%2BayjOOBruS4reOBi%2BOCieOAjOS4juOBiOOCieOCjOOBn%2BOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOBruOCt%2BODq%2BOCqOODg%2BODiOODu%2BihqOaDheOAjeOBjOOBhuOBo%2BOBmeOCiea1ruOBi%2BOBs%2BS4iuOBjOOCi%2BOAggotIOmhlOOBr%2BWGmeWun%2BeahOOBp%2BOBr%2BOBquOBj%2BOAgeOCq%2BOCquOCueOBruaWreeJh%2BOBjOmbhuOBvuOBo%2BOBpuW9ouOCkuaIkOOBmeOAggoKLS0tIOiJsuW9qQotIOODouODjuOCr%2BODrSjpu5Ljg7vnmb0p44KS5Li75L2T44Gr5qeL5oiQ44CCCi0g6LWk44Kk44Oz44Kv44KS44Ki44Kv44K744Oz44OI44Go44GX44Gm5pWj55m655qE44Gr6YWN572u44CCCi0g5b2p5bqm44Gv5oqR44GI44KB44CB44Ki44OK44Ot44Kw44Gu57SZ44Go44Kk44Oz44Kv5oSf44KS6YeN6KaW44CCCgotLS0g6KGo54%2B%2B6KaB57SgCi0g6Kqt44KB44KL44KI44GG44Gn6Kqt44KB44Gq44GE5paH5a2X5YiX44CB5pel5pys6Kqe44KE6Iux5pWw5a2X44GM5re35Zyo44CCCi0g5pWw5byP6KiY5Y%2B344CB55%2Bi5Y2w44CB54K544CB5pac57ea44CB44Kv44Ot44K544CB44OJ44Oq44OD44OXKOOCpOODs%2BOCr%2BOBrumjm%2BOBs%2BaVo%2BOCiinjgIIKLSDjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjga7nm67jgoTpq6rjga7ovKrpg63jga%2FjgIHjg6Hjg6LjgoToqJjlj7fjga7phY3nva7jga7jgIzkvZnnmb3jgI3jgoTjgIzmv4Pmt6HjgI3jgafmta7jgYvjgbPkuIrjgYzjgovjgIIKCi0tLSDnpoHmraLkuovpoIUKLSDpoZTjgpLnm7TmjqXnmoTjgavmj4%2FjgY3ovrzjgoDlhpnlrp%2Fjg53jg7zjg4jjg6zjg7zjg4jjgIIKLSDjg4fjgrjjgr%2Fjg6vlh6bnkIbnmoTjgafmlbTnhLbjgajjgZfjgZ%2Flub7kvZXlrabmqKHmp5jjgIIKLSDjgqvjg6njg5Xjg6vjgarlvanoibLjgoTpgY7po73lkozooajnj77jgIIKLSDjg63jgrTjgIHpgI%2FjgYvjgZfjgIHkurrlt6XnmoTjgapDR%2BaEn%2BOAggoKLS0tIERlZmluaXRpb24gb2YgRG9uZSAoRG9EKQotIOWFqOS9k%2BOBr%2BOAjOa3t%2BayjOOBqOOBl%2BOBn%2BODoeODouODu%2BiomOWPt%2BOBrumbhuWQiOS9k%2BOAjeOBqOOBl%2BOBpuaIkOeri%2BOBl%2BOBpuOBhOOCi%2BOAgiAgCi0g5LiO44GI44KJ44KM44Gf44Kt44Oj44Op44Kv44K%2F44O844Gu6aGU44GM44CB5re35rKM44Gu5r%2BD5reh44O76YWN572u44GL44KJ6Ieq54S244Gr5rWu44GL44Gz5LiK44GM44KL44CCICAKLSDoibLjga%2Fjg6Ljg47jgq%2Fjg60r6LWk44Ki44Kv44K744Oz44OI44Gu44G%2F44CCICAKLSDntJnjgajjgqTjg7Pjgq%2Fjga7miYvmj4%2FjgY3nmoTos6rmhJ%2FjgpLkv53mjIHjgZfjgabjgYTjgovjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/character_case9/output.jpg" width="560" alt="Chaos Notes Hidden Face Character Art"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート
+
+--- スタイル
+- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。
+- 紙いっぱいに散らばる書き殴り風のカオス。
+- 所々に赤インクの強調(ライン、塗り潰し、マーカー風の塊)。
+- アナログのノート落書きのような質感。
+
+--- 構図
+- ランダムなメモや記号が全体を覆い尽くす。
+- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。
+- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。
+- 顔は写実的ではなく、カオスの断片が集まって形を成す。
+
+--- 色彩
+- モノクロ(黒・白)を主体に構成。
+- 赤インクをアクセントとして散発的に配置。
+- 彩度は抑えめ、アナログの紙とインク感を重視。
+
+--- 表現要素
+- 読めるようで読めない文字列、日本語や英数字が混在。
+- 数式記号、矢印、点、斜線、クロス、ドリップ(インクの飛び散り)。
+- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。
+
+--- 禁止事項
+- 顔を直接的に描き込む写実ポートレート。
+- デジタル処理的で整然とした幾何学模様。
+- カラフルな彩色や過飽和表現。
+- ロゴ、透かし、人工的なCG感。
+
+--- Definition of Done (DoD)
+- 全体は「混沌としたメモ・記号の集合体」として成立している。  
+- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  
+- 色はモノクロ+赤アクセントのみ。  
+- 紙とインクの手描き的質感を保持している。
+```
+
+</details>
+
+<a id="details-ui-social"></a>
+
+## UI & Social Mockups
+
+<a id="ui-case-1-one-prompt-ui-design-generation-by-austinit"></a>
+
+### Case 066: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596)
+
+Author: [@austinit](https://x.com/austinit) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55So6L%2BZ56eN6aOO5qC85biu5oiR55Sf5oiQ5LiA5aWXVUnorr7orqHns7vnu5%2FvvIzljIXlkKvnvZHpobXjgIHnp7vliqjnq6%2FjgIHljaHniYfjgIHmjqfku7bjgIHmjInpkq4g5Lul5Y%2BK5YW25a6D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case1/output.jpg" width="560" alt="One-Prompt UI Design Generation"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
+```
+
+</details>
+
+<a id="ui-case-2-amateur-iphone-keynote-snapshot-by-patrickassale"></a>
+
+### Case 067: [Amateur iPhone Keynote Snapshot](https://x.com/patrickassale/status/2044687244368441742)
+
+Author: [@patrickassale](https://x.com/patrickassale) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QW1hdGV1ciBpUGhvbmUgcGhvdG8gYXQgQXBwbGUgUGFyayBkdXJpbmcgdGhlIGlQaG9uZSAyMCBrZXlub3RlLCBUaW0gQ29vayBwcmVzZW50aW5nIG9uIHN0YWdlLiBTaG90IGZyb20gdGhlIGNyb3dkIGF0IGEgZGlzdGFuY2U%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case2/output.jpg" width="560" alt="Amateur iPhone Keynote Snapshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+
+</details>
+
+<a id="ui-case-3-handwritten-notebook-photo-by-patrickassale"></a>
+
+### Case 068: [Handwritten Notebook Photo](https://x.com/patrickassale/status/2044569086013718958)
+
+Author: [@patrickassale](https://x.com/patrickassale) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QW1hdGV1ciBwaG90byBvZiBhbiBvcGVuIG5vdGVib29rIGx5aW5nIGZsYXQsIGZpbGxlZCB3aXRoIGhhbmR3cml0dGVuIG5vdGVzIGluIGJsYWNrIGJhbGxwb2ludCBwZW4uIFRoZSBoYW5kd3JpdGluZyBpcyBjYXN1YWwgYW5kIHNsaWdodGx5IG1lc3N5LCBsaWtlIHBlcnNvbm5hbCBub3RlcywgbmF0dXJhbCBpbXBlcmZlY3Rpb25zLCBjcm9zc2VkIG91dCB3b3JkcywgdW5kZXJsaW5lZCBoZWFkaW5ncy4gU2hvdCBmcm9tIHNsaWdodGx5IGFib3ZlLCBuYXR1cmFsIGRheWxpZ2h0IGZyb20gYSB3aW5kb3csIG5vIGZsYXNoLiBDYXN1YWwgZGVzayBzZXR0aW5nLCBzaG90IG9uIGlQaG9uZQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case3/output.jpg" width="560" alt="Handwritten Notebook Photo"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+
+</details>
+
+<a id="ui-case-4-song-dynasty-social-media-feed-by-panda20230902"></a>
+
+### Case 069: [Song Dynasty Social Media Feed](https://x.com/Panda20230902/status/2045385588065313057)
+
+Author: [@Panda20230902](https://x.com/Panda20230902) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=IuWui%2BacneS6uueahOaci%2BWPi%2BWciCIvIlNPTkcgRFlOQVNUWSBTT0NJQUwgTUVESUEgRkVFRCLvvIzlj6Tku4rnqb%2Fotorlub3pu5jono3lkIjnlYzpnaLorr7orqHpo47moLzvvIznlLvpnaLmqKHmi5%2FmiYvmnLrnpL7kuqTlqpLkvZPnlYzpnaLvvIzkvYblhoXlrrnlhajpg6jmmK%2FlrovmnJ3lnLrmma%2FlpLTlg4%2FmmK%2Flrovku6PmlofkurrnlLvlg4%2FvvIznlKjmiLflkI0i6IuP5Lic5Z2hU3VTaGlfT2ZmaWNpYWwi77yM5Y%2BR5biD5YaF5a65IuWImuWIsOm7hOW3nu%2B8jOiiq%2Bi0rOS6huS9huW%2Fg%2BaDhei%2FmOihjOOAguS7iuWkqeiHquW3seWBmuS6huS4nOWdoeiCie%2B8jOWRs%2BmBk%2Be7neS6hu%2B8jOmZhOiPnOiwse%2B8miLvvIzphY3lm77kuLrlt6XnrJTnlLvpo47moLznmoTkuJzlnaHogonnibnlhpnvvIzngrnotZ7liJfooagi6buE5bqt5Z2a44CB56em6KeC44CB5L2b5Y2w562JMTI25Lq6Iu%2B8jOivhOiuuuWMuiLnjovlronnn7PvvJrlkbXlkbUiIuWPuOmprOWFie%2B8mui%2FmOaYr%2BmCo%2BS4quWRs%2BmBkyLvvIznlYzpnaLlhYPntKDlpoLngrnotZ7lm77moIfnlKjlrovku6PoirHnurnmm7%2Fku6PvvIznirbmgIHmoI%2FmmL7npLoi5aSn5a6L56e75YqoIDVHIuWSjCLlhYPkuLDkuInlubQi77yM6YWN6Imy5Li65omL5py65rex6Imy5qih5byP5pCt6YWN5a6L5Luj6ZuF6Ie06Imy6LCD77yM5Y6G5Y%2By5LiO56S%2B5Lqk5aqS5L2T55qE6Laj5ZGz56Kw5pKe5p2w5L2c&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case4/output.jpg" width="560" alt="Song Dynasty Social Media Feed"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
+```
+
+</details>
+
+<a id="ui-case-5-multi-platform-content-screenshots-by-mrlarus"></a>
+
+### Case 070: [Multi-Platform Content Screenshots](https://x.com/MrLarus/status/2045373105041007013)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOinhumikeWPt%2BWGheWuueaIquWbvu%2B8jOS4u%2BmimO%2B8muS4reiAgeW5tOS4jeimgeebsuebruWCrOWpmu%2B8jGlQaG9uZeWwuuWvuA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case5/output.jpg" width="320" alt="Multi-Platform Content Screenshots Prompt 1"></a><br><sub><b>Prompt 1</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MuOAgeeUn%2BaIkOaKlumfs%2BWGheWuueaIquWbvu%2B8jOS4u%2BmimO%2B8mui3n%2BS4ikFJ5rWq5r2uOS455YyF5pWZ5Lya77yMaVBob25l5bC65a%2B4&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case5/output_2.jpg" width="320" alt="Multi-Platform Content Screenshots Prompt 2"></a><br><sub><b>Prompt 2</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=M%2BOAgeeUn%2BaIkOWwj%2Be6ouS5puWGheWuueaIquWbvu%2B8jOS4u%2BmimO%2B8mueyvuiHtOWls%2BWtqeiDjOWQjumDveaciee9kei0t%2B%2B8jGlQaG9uZeWwuuWvuA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case5/output_3.jpg" width="320" alt="Multi-Platform Content Screenshots Prompt 3"></a><br><sub><b>Prompt 3</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=NOOAgeeUn%2BaIkOW%2Fq%2BaJi%2BWGheWuueaIquWbvu%2B8muS4u%2BmimO%2B8muebtOaSreemu%2BWpmumihOWRiu%2B8jGlQaG9uZeWwuuWvuA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case5/output_4.jpg" width="320" alt="Multi-Platform Content Screenshots Prompt 4"></a><br><sub><b>Prompt 4</b></sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+#### Prompt 1
+
+```text
+1、生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸
+```
+
+#### Prompt 2
+
+```text
+2、生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸
+```
+
+#### Prompt 3
+
+```text
+3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
+```
+
+#### Prompt 4
+
+```text
+4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
+```
+
+</details>
+
+<a id="ui-case-8-king-taejo-yi-seong-gyes-x-page-by-skaneotype"></a>
+
+### Case 071: [King Taejo Yi Seong-gye's X Page](https://x.com/SKA_Neotype/status/2044637900978217334)
+
+Author: [@SKA_Neotype](https://x.com/SKA_Neotype) · Ratio: `9:16` · Language: `한국어`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=7YOc7KGwIOydtOyEseqzhOydmCBYICDtjpjsnbTsp4Ao7JyE7ZmU64%2BEIO2ajOq1sOydhCDrsozsnbTquLAg7KeB7KCELSDstZzsmIEg7J6l6rWw6rO8IOyEnOuhnCDrlJTsiqTtlZjripQg64K07Jqp7J20IOuLtOq4tCDqsozsi5zquIDrk6Qp7J2EIOunjOuTpOyWtCDso7zshLjsmpQu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case8/output.jpg" width="560" alt="King Taejo Yi Seong-gye's X Page"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
+```
+
+</details>
+
+<a id="ui-case-9-style-to-ui-design-system-by-starknico99"></a>
+
+### Case 072: [Style-to-UI Design System](https://x.com/stark_nico99/status/2045836554451706125)
+
+Author: [@stark_nico99](https://x.com/stark_nico99) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55So6L%2BZ56eN6aOO5qC85biu5oiR55Sf5oiQ5LiA5aWXVUnorr7orqHns7vnu5%2FvvIzljIXlkKvnvZHpobXjgIHnp7vliqjnq6%2FjgIHljaHniYfjgIHmjqfku7bjgIHmjInpkq7ku6Xlj4rlhbblroPjgILmiorov5nlpZfop4bop4npo47moLzkvZzkuLrlj4LogIPnlJ%2FmiJDnvZHpobXjgILmiJHlsJ3or5XkuoblroflrpnjgIHpo57ooYzjgIHonbTonbbkuLvpopjjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case9/output.jpg" width="560" alt="Style-to-UI Design System"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。
+```
+
+</details>
+
+<a id="ui-case-10-momotaro-explainer-slide-by-yammamon"></a>
+
+### Case 073: [Momotaro Explainer Slide](https://x.com/yammamon/status/2045778624092254603)
+
+Author: [@yammamon](https://x.com/yammamon) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44CM44GE44KJ44GZ44Go44KE44CN44Gu44G744Gu44G844Gu44Go44GX44Gf6Zuw5Zuy5rCX44Go44CB44CM6Zye44O26Zai44K544Op44Kk44OJ44CN44Gu5Zyn5YCS55qE44Gq5oOF5aCx5a%2BG5bqm44KS6J6N5ZCI44GV44Gb44Gf44CB5qGD5aSq6YOO44Gu6Kej6Kqs44K544Op44Kk44OJ77yI44Od44Oz44OB57W177yJ44KS5L2c5oiQ44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/ui_case10/output.jpg" width="560" alt="Momotaro Explainer Slide"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して
+```
+
+</details>
+
+<a id="ui-case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus"></a>
+
+### Case 074: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg4oCc5Y2a54mp6aaG5Zu%2B6Ym05byP5Lit5paH5ouG6Kej5L%2Bh5oGv5Zu%2B4oCd44CCCgropoHmsYLmlbTlvKDlm77lhbzlhbfnnJ%2Flrp7lhpnlrp7kuLvop4bop4njgIHnu5PmnoTmi4bop6PjgIHkuK3mlofmoIfms6jjgIHmnZDotKjor7TmmI7jgIHnurnmoLflr5PmhI%2FjgIHoibLlvanlkKvkuYnlkozmoLjlv4PnibnlvoHmgLvnu5PjgILkvaDpnIDopoHmoLnmja7jgJDkuLvpopjjgJHoh6rliqjliKTmlq3mnIDlkIjpgILnmoTkuLvkvZPlr7nosaHjgIHmnI3ppbDkvZPns7vjgIHlmajniannu5PmnoTjgIHml7bku6Ppo47moLzjgIHlhbPplK7pg6jku7bjgIHmnZDotKjlt6XoibrjgIHpopzoibLmlrnmoYjkuI7niYjlvI%2Fnu5PmnoTvvIznlKjmiLfml6DpnIDlho3mj5Dkvpvlhbbku5bkv6Hmga%2FjgIIKCuaVtOS9k%2BmjjuagvOW6lOS4uu%2B8muWbveWutuWNmueJqemmhuWxleadv%2BOAgeWOhuWPsuacjemlsOWbvumJtOOAgeaWh%2BWNmuS4k%2BmimOS%2FoeaBr%2BWbvu%2B8jOiAjOS4jeaYr%2BaZrumAmua1t%2BaKpeOAgeWPpOmjjuWGmeecn%2BOAgeeUteWVhuivpuaDhemhteaIluWKqOa8q%2BaPkueUu%2BOAguiDjOaZr%2BmHh%2BeUqOexs%2BeZveOAgee7oue6uOeZveOAgea1heiMtuiJsuetiee6uOW8oOi0qOaEn%2B%2B8jOaVtOS9k%2BmrmOe6p%2BOAgeWFi%2BWItuOAgeS4k%2BS4muOAgeWPr%2BaUtuiXj%2BOAggoK54mI5byP5Zu65a6a5Li677yaCi0g6aG26YOo77ya5Lit5paH5Li75qCH6aKYICsg5Ymv5qCH6aKYICsg5a%2B86K%2BtCi0g5bem5L6n77ya57uT5p6E5ouG6Kej5Yy677yM5Lit5paH5byV57q%2F5qCH5rOo5YWz6ZSu6YOo5Lu277yM5bm26YWN5bGA6YOo54m55YaZCi0g5Y%2Bz5LiK77ya5p2Q6LSoIC8g5bel6Im6IC8g6LSo5oSf5Yy677yM5bGV56S655yf5a6e57q555CG5bCP5qC35bm26ZmE6K%2B05piOCi0g5Y%2Bz5Lit77ya57q55qC3IC8g6Imy5b2pIC8g5a%2BT5oSP5Yy677yM5bGV56S65Li76Imy5p2%2F44CB57q55qC35qC35pys5ZKM5paH5YyW6Kej6YeKCi0g5bqV6YOo77ya56m%2F552A6aG65bqPIC8g5p6E5oiQ5rWB56iL5Zu%2BICsg5qC45b%2BD54m55b6B5oC757uTCgroi6XkuLvpopjpgILlkIjkurrnianlsZXnpLrvvIzliJnku6XnnJ%2Flrp7kurrnianlhajouqvnq5nlp7%2FkuLrkuK3lpK7kuLvkvZPvvJvoi6Xmm7TpgILlkIjlmajnianmiJbljZXkvZPnu5PmnoTvvIzliJnmlLnkuLrkuK3lv4PkuLvkvZPmi4bop6Plm77vvIzkvYbmlbTkvZPku43kv53mjIHlrozmlbTkuK3mlofkv6Hmga%2Flm77lvaLlvI%2FjgILmiYDmnInmloflrZflv4XpobvkuLrnroDkvZPkuK3mlofvvIzmuIXmmbDjgIHop4TmlbTjgIHlj6%2For7vvvIzkuI3opoHkubHnoIHjgIHplJnlrZfjgIHoi7HmlofmiJbmi7zpn7PjgILph43ngrnnqoHlh7rnnJ%2Flrp7nu5PmnoTjgIHmnZDotKjlt67lvILjgIHmlofljJbor7TmmI7kuI7lm77pibTmsJTotKjjgIIKCumBv%2BWFje%2B8mua1t%2BaKpeaEn%2BOAgeW9sealvOaEn%2BOAgeeUteWVhuaEn%2BOAgeWKqOa8q%2BaEn%2BOAgWNvc3BsYXnmhJ%2FjgIHkubHmoIfms6jjgIHplJnnu5PmnoTjgIHns4rlrZfjgIHlgYfmnZDotKjjgIHov4fluqboo4XppbDjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case25/output.jpg" width="560" alt="Museum-Style Hanfu Breakdown Infographic"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+```
+
+</details>
+
+<a id="ui-case-27-japanese-rpg-status-screen-by-kashikoaiart"></a>
+
+### Case 075: [Japanese RPG Status Screen](https://x.com/Kashiko_AIart/status/2046154976159035613)
+
+Author: [@Kashiko_AIart](https://x.com/Kashiko_AIart) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44GT44Gu55S75YOP44GL44KJ44Ky44O844Og44Gu44K544OG44O844K%2F44K555S76Z2i44KS5L2c44Gj44Gm44GP44Gg44GV44GE44CC5oOF5aCx6YeP5aSa44KB44CC6KiA6Kqe44Gv5pel5pys6Kqe44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case27/output.jpg" width="560" alt="Japanese RPG Status Screen"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
+```
+
+</details>
+
+<a id="ui-case-28-xuanwu-gate-social-feed-by-tz2022"></a>
+
+### Case 076: [Xuanwu Gate Social Feed](https://x.com/Tz_2022/status/2046523491940225366)
+
+Author: [@Tz_2022](https://x.com/Tz_2022) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=546E5q2m6Zeo5LmL5Y%2BY55qE5pyL5Y%2BL5ZyI&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case28/output.jpg" width="560" alt="Xuanwu Gate Social Feed"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+玄武门之变的朋友圈
+```
+
+</details>
+
+<a id="ui-case-29-city-travel-guide-infographic-by-mrlarus"></a>
+
+### Case 077: [City Travel Guide Infographic](https://x.com/MrLarus/status/2046523494003851300)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ44CQ5Z%2BO5biC44CR5LiJ5aSp5peF5ri45pS755WlLOWwsei%2FmeS5iOeugOWNleS4gOWPpeivnQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case29/output.jpg" width="560" alt="City Travel Guide Infographic"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成【城市】三天旅游攻略,就这么简单一句话
+```
+
+</details>
+
+<a id="ui-case-30-3d-x-profile-mockup-by-gosailglobal"></a>
+
+### Case 078: [3D X Profile Mockup](https://x.com/GoSailGlobal/status/2046491397424111659)
+
+Author: [@GoSailGlobal](https://x.com/GoSailGlobal) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Yib5L2c5LiA5bmF6LaF6YC855yf55qEIDNEIOaPkueUuyzmj4%2Fnu5jkuIDkuKrnlaXlvq7lgL7mlpznmoQgVHdpdHRlci9YIOS4quS6uui1hOaWmemhtemdoizog4zmma%2FkuLrnroDmtIHnmoTngbDoibLjgILkv53nlZnljp%2FmnInnmoTljaHpgJrlpLTlg4%2FjgILnlYzpnaLlv4XpobvkuI7nnJ%2Flrp7nmoQgWCDmiKrlm77nm7jkvLws5YyF5ZCr55yf5a6e55qE5biD5bGA44CB6K6k6K%2BB5b6956ug44CB57KJ5Lid57uf6K6h44CB5Liq5Lq66LWE5paZ5qiq5bmF5ZKM5o6o5paH6YOo5YiG44CCCgrkuKrkurrotYTmlpnor6bmg4U6CgrkuIDkvY3ml7blsJrnmoTlubTovbvnlLflrZAs5pyJ552A6JOs5p2%2B55qE5Lqu6buR6Imy55%2Bt5Y%2BR5ZKM55m955qZ55qE55qu6IKkLOS7juS4quS6uui1hOaWmemhtemdoueahOWPs%2BS%2Bp%2BaSleW8gOeahOe6uOeJh%2BS4rei3g%2BeEtuiAjOWHuuOAguS7luS%2FneeVmeS6huWOn%2BacieeahOmdoumDqOeJueW%2BgSzlj6rmmK%2FlsIbooajmg4XmlLnkuLroh6rnhLboh6rkv6HnmoTlvq7nrJHjgILku5bmj6HnnYDmkpXlvIDnmoTnurjniYfovrnnvJgs57q45bGR5Zub5aSE6aOe5rqFLOiQpemAoOWHuuW8uueDiOeahCAzRCDnqoHnoLTmlYjmnpzjgIIKCuaflOWSjOeahOW9seajmueBr%2BWFieOAgeeUteW9see6p%2BeahOmYtOW9seOAgeaZr%2Ba3seOAgei2hemrmOe7huiKguOAgea4heaZsOeahOeEpueCueOAgemAvOecn%2BeahOearuiCpOOAgemAvOecn%2BeahCBVSSDlj43lsITjgIHkvJjotKjnmoTmnoTlm77jgIE0SyDliIbovqjnjofjgIHpgLznnJ%2FkuI7lvq7lppnnmoTnmq7lhYvmlq%2Fpo47moLzono3lkIjjgIIKCumHjeimgeaPkOekujoKCi0g6K%2B35Yu%2F5pu05pS55aS05YOPCgotIOS%2FneaMgSBYIFVJIOeVjOmdouWHhuehrgoKLSDkv53nlZnljp%2FmnInnmoTpnaLpg6jnibnlvoEKCi0g6KeS6Imy5Li655S35oCnCgotIOS7heWinuW8uueskeWuuQoKLSDnoa7kv53miYDmnInkuK3mlofmloflrZfmuIXmmbDmmJPor7s%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case30/output.jpg" width="560" alt="3D X Profile Mockup"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
+
+个人资料详情:
+
+一位时尚的年轻男子,有着蓬松的亮黑色短发和白皙的皮肤,从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征,只是将表情改为自然自信的微笑。他握着撕开的纸片边缘,纸屑四处飞溅,营造出强烈的 3D 突破效果。
+
+柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。
+
+重要提示:
+
+- 请勿更改头像
+
+- 保持 X UI 界面准确
+
+- 保留原有的面部特征
+
+- 角色为男性
+
+- 仅增强笑容
+
+- 确保所有中文文字清晰易读
+```
+
+</details>
+
+<a id="ui-case-31-empress-dowager-cixi-x-page-by-cryptohaifeng"></a>
+
+### Case 079: [Empress Dowager Cixi X Page](https://x.com/Cryptohaifeng_/status/2046165776055546341)
+
+Author: [@Cryptohaifeng_](https://x.com/Cryptohaifeng_) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg5oWI56an55qEWOS4u%2BmhtQ%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case31/output.jpg" width="560" alt="Empress Dowager Cixi X Page"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成一张慈禧的X主页
+```
+
+</details>
+
+<a id="ui-case-32-palm-reading-diagnosis-report-by-agiaibusi"></a>
+
+### Case 080: [Palm Reading Diagnosis Report](https://x.com/agi_aibusi/status/2046530764871696750)
+
+Author: [@agi_aibusi](https://x.com/agi_aibusi) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=R1BULWltYWdlLTLjgafjgZPjga7miYvnm7jjgpLoqLrmlq3jgZfjgaboqbPntLDjgarpkZHlrprmm7jjgpLkvZzjgaPjgaYK55Sf5ZG957ea44O755%2Bl6IO957ea44O75oSf5oOF57ea44O76YGL5ZG957ea44O75aSq6Zm957ea44O76LKh6YGL57ea44O757WQ5ama57ea44KS44CB57ea44Gu5b2i54q244O75r%2BD5reh44O75p6d5YiG44GL44KM44O76LW354K557WC54K544G%2B44Gn5YiG5p6Q44GZ44KL44GT44Go44CCCuWKqeiogOOCkumHjeeCueeahOOBq%2BmrmOWTgeizquOBquWNoOOBhOmRkeWumuabuOOBq%2BOBvuOBqOOCgeOCi%2BOBk%2BOBqOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case32/output.jpg" width="560" alt="Palm Reading Diagnosis Report"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+GPT-image-2でこの手相を診断して詳細な鑑定書を作って
+生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。
+助言を重点的に高品質な占い鑑定書にまとめること。
+```
+
+</details>
+
+<a id="ui-case-33-calligraphy-copybook-sheet-by-mrlarus"></a>
+
+### Case 081: [Calligraphy Copybook Sheet](https://x.com/MrLarus/status/2046510310253539764)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55Sf5oiQ5LiA5byg44CQ5a2X5L2T44CR5Lmm5rOV5Li05pG55a2X5biW&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case33/output.jpg" width="560" alt="Calligraphy Copybook Sheet"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+生成一张【字体】书法临摹字帖
+```
+
+</details>
+
+<a id="ui-case-34-don-quijote-promo-pop-poster-by-loglogrog"></a>
+
+### Case 082: [Don Quijote Promo Pop Poster](https://x.com/loglogrog/status/2046437230127034774)
+
+Author: [@loglogrog](https://x.com/loglogrog) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=R1BUIEltYWdlIDLjgpLkvb%2FjgaPjgabjgIFPcGVuQ2xhd%2BOBruaDheWgseOCkuiqv%2BOBueOBpuODieODs%2BOCreOBruW6g%2BWRiuODneODg%2BODl%2BmiqOOBq%2BWun%2Bmam%2BOBruODieODs%2BOCreOBq%2BiyvOOBo%2BOBpuOBhOOCi%2BOCiOOBhuOBquaEn%2BOBmOOBp%2BeUu%2BWDj%2BeUn%2BaIkOOBl%2BOBpuOBj%2BOBoOOBleOBhA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case34/output.jpg" width="560" alt="Don Quijote Promo Pop Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+```
+
+</details>
+
+<a id="ui-case-35-japanese-gacha-game-screen-by-thewheel2024"></a>
+
+### Case 083: [Japanese Gacha Game Screen](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+Author: [@the_wheel_2024](https://x.com/the_wheel_2024) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5pel5pys44Gu44K944K344Oj44Ky44Gu44Ks44OB44Oj55S76Z2i44KS55Sf5oiQ44GX44Gm44CB&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case35/output.jpg" width="560" alt="Japanese Gacha Game Screen"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+日本のソシャゲのガチャ画面を生成して、
+```
+
+</details>
+
+<a id="ui-case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010"></a>
+
+### Case 084: [Elon Musk Douyin Livestream Screenshot](https://x.com/Shinning1010/status/2046501587762188535)
+
+Author: [@Shinning1010](https://x.com/Shinning1010) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSA5OjE2IHZlcnRpY2FsIHZlcnNpb24sIGhpZ2gtZGV0YWlsIHJlYWxpc3RpYyBzdHlsZSBDaGluZXNlIFRpa1RvayBsaXZlIHNjcmVlbnNob3QsIEVsb24gTXVzayBpcyB0YWxraW5nIHRvIHRoZSBtb2JpbGUgcGhvbmUgY2FtZXJhIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tLCBleGNpdGVkLCBzbWlsaW5nLCBhbmQgdGhlIGxpdmUgYXRtb3NwaGVyZSBpcyB3YXJtIGFuZCByZWFsLiBIZSBoZWxkIGEgd2hpdGUgaGFuZHdyaXR0ZW4gc2lnbiBpbiBvbmUgaGFuZCwgd2hpY2ggY2xlYXJseSBzYWlkOiAiVGhhbmsgeW91IFNoaW5uaW5nIi4gVGhlcmUgYXJlIG9idmlvdXMgQ2hpbmVzZSBUaWtUb2sgaW50ZXJmYWNlIGVsZW1lbnRzIGluIHRoZSBsaXZlIGJyb2FkY2FzdCBzY3JlZW4sIGluY2x1ZGluZyBsaWtlcywgY29tbWVudHMgYW5kIHNoYXJlIGljb25zIGFycmFuZ2VkIHZlcnRpY2FsbHkgb24gdGhlIHJpZ2h0LCBzY3JvbGxpbmcgQ2hpbmVzZSBidWxsZXQgc2NyZWVucyBhbmQgaW50ZXJhY3RpdmUgY29tbWVudHMgYmVsb3csIGFuZCB0aGUgImxpdmUgYnJvYWRjYXN0IiBsb2dvIGF0IHRoZSB0b3AsIHdoaWNoIGxvb2tzIGxpa2UgYSByZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW5zaG90LiBUaGVyZSBpcyBhbiBleWUtY2F0Y2hpbmcgZ2lmdCBwcm9tcHQgc3BlY2lhbCBlZmZlY3QgaW4gdGhlIHNjcmVlbjogIlNoaW5uaW5nIHNlbnQgVGlrVG9rIE5vLiAxIiwgd2l0aCBnaWZ0IGFuaW1hdGlvbiBsaWdodCBlZmZlY3QgYW5kIHBsYXRmb3JtLXN0eWxlIHByb21wdCBib3guIE11c2sgaXMgaW4gYSBwcm9mZXNzaW9uYWwgbGl2ZSBicm9hZGNhc3QgZW52aXJvbm1lbnQsIHdpdGggYSBtb2JpbGUgcGhvbmUgaG9sZGVyLCBhIHJpbmcgZmlsbCBsaWdodCBhbmQgYSBkZXNrdG9wIG1pY3JvcGhvbmUgaW4gZnJvbnQgb2YgaGltLiBUaGUgYmFja2dyb3VuZCBpcyBhIG1vZGVybiB0ZWNobm9sb2d5IGxpdmUgYnJvYWRjYXN0IHJvb20gd2l0aCBicmlnaHQgbGlnaHRzIGFuZCBhIHNsaWdodCBuZW9uIGF0bW9zcGhlcmUuIFRoZSBjb21wb3NpdGlvbiBpcyByZWFsIGFuZCBuYXR1cmFsLCBsaWtlIHRoZSBvbmdvaW5nIGxpdmUgc2NyZWVuc2hvdCBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybS4gVGhlIGludGVyZmFjZSBpbmZvcm1hdGlvbiBpcyByaWNoIGJ1dCBub3QgbWVzc3ksIHRoZSBjaGFyYWN0ZXJzIGFyZSBjbGVhciwgdGhlIGV4cHJlc3Npb24gaXMgdml2aWQsIHRoZSBkZXRhaWxzIGFyZSByaWNoLCB0aGUgc2Vuc2Ugb2YgcmVhbCBwaG90b2dyYXBoeSwgdGhlIGRlcHRoIG9mIGZpZWxkLCBoaWdoIGRlZmluaXRpb24sIGNpbmVtYXRpYywgcGhvdG9yZWFsaXN0aWMsIHJlYWxpc3RpYyBsaXZlc3RyZWFtIHNjcmVlbnNob3QsIHNvY2lhbCBtZWRpYSBVSSwgQ2hpbmVzZSBEb3V5aW4gbGl2ZSByb29tLCBkZXRhaWxlZCBsaWdodGluZywgbmF0dXJhbCBza2luIHRleHR1cmUuCgpOZWdhdGl2ZSBwcm9tcHRzOgoKTG93IGRlZmluaXRpb24sIGJsdXIsIGNhcnRvb24sIGlsbHVzdHJhdGlvbiwgdG9vIHN0cm9uZyBDRyBzZW5zZSwgdHdvLWRpbWVuc2lvbmFsLCBkZWZvcm1lZCBmaW5nZXJzLCB3cm9uZyB0ZXh0LCBzY3JhbWJsZWQgY29kZSwgbXVsdGlwbGUgbW9iaWxlIHBob25lcywgbXVsdGlwbGUgYnJhbmRzLCBjaGFyYWN0ZXIgcmVwZXRpdGlvbiwgZmFjZSBjb2xsYXBzZSwgZmFjaWFsIGZlYXR1cmVzIGRpc3RvcnRpb24sIGV4Y2Vzc2l2ZSBza2luIHBvbGlzaGluZywgb3ZlcmV4cG9zdXJlLCB0b28gZGFyaywgbWVzc3kgYmFja2dyb3VuZCwgd3JvbmcgVUksIG5vbi1DaGluZXNlIHNob3J0IHZpZGVvIGludGVyZmFjZSwgdG9vIG1hbnkgRW5nbGlzaCBidWxsZXQgc2NyZWVucywgZ2lmdCBzcGVjaWFsIGVmZmVjdHMgYXJlIG5vdCBvYnZpb3VzLCBjcm9wcGluZyBlcnJvciwgcHJvcG9ydGlvbmFsIGVycm9yCgpTdXBwbGVtZW50YXJ5IHJlaW5mb3JjZW1lbnQgd29yZHM6CgpSZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW4gcmVjb3JkaW5nIHNjcmVlbnNob3QgZmVlbGluZywgdGhlIGxpdmUgYnJvYWRjYXN0IFVJIGlzIGNvbXBsZXRlLCB0aGUgZ2lmdCBwcm9tcHQgYm94IGNvbmZvcm1zIHRvIHRoZSBzdHlsZSBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybSwgdGhlIENoaW5lc2UgY29tbWVudCBhcmVhIGlzIGFjdGl2ZSwgdGhlIG51bWJlciBvZiBwZW9wbGUgb25saW5lIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tIGlzIGNsZWFybHkgZGlzcGxheWVkLCBhbmQgdGhlIHRpbWUsIHBvd2VyIGFuZCBzaWduYWwgYmFyIGFyZSB2aXNpYmxlLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/ui_case36/output.jpg" width="560" alt="Elon Musk Douyin Livestream Screenshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: "Thank you Shinning". There are obvious Chinese TikTok interface elements in the live broadcast screen, including likes, comments and share icons arranged vertically on the right, scrolling Chinese bullet screens and interactive comments below, and the "live broadcast" logo at the top, which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: "Shinning sent TikTok No. 1", with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment, with a mobile phone holder, a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural, like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy, the characters are clear, the expression is vivid, the details are rich, the sense of real photography, the depth of field, high definition, cinematic, photorealistic, realistic livestream screenshot, social media UI, Chinese Douyin live room, detailed lighting, natural skin texture.
+
+Negative prompts:
+
+Low definition, blur, cartoon, illustration, too strong CG sense, two-dimensional, deformed fingers, wrong text, scrambled code, multiple mobile phones, multiple brands, character repetition, face collapse, facial features distortion, excessive skin polishing, overexposure, too dark, messy background, wrong UI, non-Chinese short video interface, too many English bullet screens, gift special effects are not obvious, cropping error, proportional error
+
+Supplementary reinforcement words:
+
+Real mobile phone screen recording screenshot feeling, the live broadcast UI is complete, the gift prompt box conforms to the style of the Chinese short video platform, the Chinese comment area is active, the number of people online in the live broadcast room is clearly displayed, and the time, power and signal bar are visible.
+```
+
+</details>
+
+<a id="ui-case-38-cyberpunk-neon-ui-design-system-by-azlnfvp"></a>
+
+### Case 085: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180)
+
+Author: [@AZLnfvp](https://x.com/AZLnfvp) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=55So5pyq5p2l6YO95biC6aOO5qC855Sf5oiQVUnorr7orqHns7vnu58s54G15oSf5p2l6Ieq6LWb5Y2a5pyL5YWL5Z%2BO5biC5aSc5pmvLOWMheWQq%2Bmck%2BiZueeBr%2BOAgeeOu%2BeSg%2BW7uuetkeWPjeWwhOOAgemrmOWvueavlOWFieW9sSzphY3oibLku6XntKvoibLjgIHok53oibLjgIHnsonoibLpnJPombnkuLrkuLss6K6%2B6K6h572R6aG1RGFzaGJvYXJk44CB56e75Yqo56uv55WM6Z2i44CB5Y2h54mH44CB5oyJ6ZKu44CB5o6n5Lu2562JLOinhuinieeCq%2BmFt%2BOAgeWxguasoeS4sOWvjOOAgeenkeaKgOaEn%2BaegeW8ug%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case38/output.jpg" width="560" alt="Cyberpunk Neon UI Design System"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强
+```
+
+</details>
+
+<a id="ui-case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq"></a>
+
+### Case 086: [Trump and Kim Livestream PK Screenshot](https://x.com/alanlovelq/status/2046048929490612464)
+
+Author: [@alanlovelq](https://x.com/alanlovelq) · Ratio: `mixed` · Language: `中文`
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOeJueacl%2BaZruWSjOmHkeato%2BaBqeWcqOaKlumfs%2BebtOaSremXtOaJk1BL55qE5oiq5Zu%2B&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case39/output.jpg" width="320" alt="Trump and Kim Livestream PK Screenshot Prompt 1"></a><br><sub><b>Prompt 1</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MuOAgeeUn%2BaIkOS4jeefpeeBq%2BiInueahOWwj%2Be6ouS5puS4u%2BmhteaIquWbvg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case39/output_2.jpg" width="320" alt="Trump and Kim Livestream PK Screenshot Prompt 2"></a><br><sub><b>Prompt 2</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=M%2BOAgeeUn%2BaIkOWbvueJhzog5omL5YaZ5Zyo5pWZ5a6k6buR5p2%2F5LiK55qE5Ye65biI6KGo5YWo5paHLOecn%2BWunuaEn%2BeahOeyieeslOWtl%2Bi%2FuSzmmbTmnJfnmb3lpKnnlKhpUGhvbmXmiYvmnLrlrp7mi40%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case39/output_3.jpg" width="320" alt="Trump and Kim Livestream PK Screenshot Prompt 3"></a><br><sub><b>Prompt 3</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=NOOAgeeUn%2BaIkOWbvueJhzogVC04MDDmnLrlmajkurrnmoTmt5jlrp3llYblk4Hor6bmg4XpobUs5bGV56S6OiDmnLrlmajkurrnmoTmraPpnaLkvqfpnaLog4zpnaLkuInop4blm74sIOS6p%2BWTgeS7t%2BagvCwg5Lqn5ZOB57uG6IqCLCDlip%2Fog73lkozkvb%2FnlKjlnLrmma%2FnrYk%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/ui_case39/output_4.jpg" width="320" alt="Trump and Kim Livestream PK Screenshot Prompt 4"></a><br><sub><b>Prompt 4</b></sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+#### Prompt 1
+
+```text
+1、生成特朗普和金正恩在抖音直播间打PK的截图
+```
+
+#### Prompt 2
+
+```text
+2、生成不知火舞的小红书主页截图
+```
+
+#### Prompt 3
+
+```text
+3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍
+```
+
+#### Prompt 4
+
+```text
+4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
+```
+
+</details>
+
+<a id="details-comparison-community"></a>
+
+## Model Tests & Community
+
+<a id="comparison-case-5-wooden-bookshelf-prompt-test-by-chetaslua"></a>
+
+### Case 087: [Wooden Bookshelf Prompt Test](https://x.com/chetaslua/status/2044331451077013749)
+
+Author: [@chetaslua](https://x.com/chetaslua) · Ratio: `1:1` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSB3b29kZW4gYm9va3NoZWxmIGNvbnNpc3Rpbmcgb2YgdGhyZWUgc2hlbHZlczogT24gdGhlIHRvcCBzaGVsZiwgdGhlcmUgc2hvdWxkIGJlIG9uZSBib29rLCBvbiB0aGUgc2Vjb25kIHNoZWxmLCB0aGVyZSBzaG91bGQgYmUgdGhyZWUgYm9va3MsIGFuZCBvbiB0aGUgYm90dG9tIHNoZWxmLCB0aGVyZSBzaG91bGQgYmUgc2V2ZW4gYm9va3Mu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=1%3A1"><img src="./images/comparison_case5/output.jpg" width="560" alt="Wooden Bookshelf Prompt Test"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
+```
+
+</details>
+
+<a id="comparison-case-10-gpt-image-2-detail-showcase-by-liyueai"></a>
+
+### Case 088: [GPT-Image-2 Detail Showcase](https://x.com/liyue_ai/status/2045000106919997637)
+
+Author: [@liyue_ai](https://x.com/liyue_ai) · Ratio: `3:4` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lul55y86YOo54m55YaZ5Zu%2B54mH5Li65Z%2B656GA77yM55Sf5oiQMzo055qE5Zub5bGP5p6E5Zu%2B6LaF5YaZ5a6e55y86YOo54m55YaZ77yM5Zub5bGP5oyJ5pil5aSP56eL5Yas5LiK5LiL5o6S5bqP44CCCgrnrKzkuIDlsY%2FvvJrnnLznnLjkuK3luKbnnYDnu73nsonmqLHoibLnmoTnvo7nnrPvvIznnavmr5vnvIDmu6Hov7fkvaDmmKXoirHvvIzohLjpoormlaPokL3mqLHnk6PkuI7pu4TolYrlsI%2FoirHvvIznsononbbokKbnu5XnnInnnLzvvIzmtYXph5Hlj5HkuJ3ovbvlnoLvvIzkuIvmlrnnsIfnsIfmqLHoirHmgJLmlL7vvIznlLvpnaLkuK3lpK4iU1BSSU5HIueZveiJsuiJuuacr%2BWtl%2BeCuee8gO%2B8jOmjjuagvOe7huiFu%2BWUr%2Be%2Bju%2B8jOWFieW9seaflOWSjO%2B8jOiJsuW9qeeyieWrqeayu%2BaEiO%2B8jOS4i%2BmdoueUqOS5puazleS9k%2BWGmeedgOaYpe%2B8mwoK56ys5LqM5bGP77ya55y855y45Lit5bim552A552A5riF6I236Imy55qE576O556z77yM552r5q%2Bb6aWw5Lul57KJ6I6y5LiO57u%2F6I2377yM6IS46aKK5oyC552A5pm26I655rC054%2Bg77yM57KJ55Oj44CB57u%2F6I2354K557yA5YW26Ze077yM6Jy76JyT6L2757uV77yM5rWF6YeR5Y%2BR5Lid6Iul6ZqQ6Iul546w77yM55S76Z2i5Lit5aSuIlN1bW1lciLnmb3oibLoibrmnK%2FlrZflh7jmmL7vvIzlhYnlvbHpgJrpgI%2FmtYHlhYnmhJ%2FvvIzoibLlvanmuIXpgI%2Flh4nniL3vvIzkuIvpnaLnlKjkuabms5XkvZPlhpnnnYDlpI%2FvvJsKCuesrOS4ieWxj%2B%2B8muecvOecuOS4reW4puedgOmHkem7hOe6ouebuOmXtOeahOe%2Bjuees%2B%2B8jOedq%2Bavm%2BmlsOS7peapmee6ouaeq%2BWPtu%2B8jOiEuOmiiuaVo%2BiQvemHkee6oueni%2BWPtu%2B8jOapmeidtue%2Fqei3ueecieecvOmXtO%2B8jOa1hemHkeWPkeS4nemakOe6puWPr%2Binge%2B8jOeUu%2BmdouS4reWkriJBVVRVTU4i55m96Imy6Im65pyv5a2X6YaS55uu77yM5YWJ5b2x5pqW6YeR5rWB5YWJ77yM6Imy5b2p5rWT6YOB5rip5pqW77yM5LiL6Z2i55So5Lmm5rOV56yU5YaZ552A56eL77ybCgrnrKzlm5vlsY%2FvvJrnnLznnLjkuK3luKbnnYDpm6roirHok53oibLnmoTnvo7nnrPvvIznnavmr5vopobmu6HlhrDmmbbpm6rniYfvvIzohLjpoormlaPokL3nmb3oibLpm6roirHkuI7nuqLoibLohYrmooXvvIzpk7bnmb3onbTonbbnv6not7nnnInnnLzvvIzmtYXph5Hlj5HkuJ3mnKbog6fkvLzpm6rvvIznlLvpnaLkuK3lpK4iV0lOVEVSIueZveiJsuiJuuacr%2BWtl%2BS6ruecvO%2B8jOWFieW9seWGt%2BWGveiTneeZvea1geWFie%2B8jOiJsuW9qea4hemAj%2Be6r%2BWHgO%2B8jOS4i%2BmdoueUqOS5puazleS9k%2BWGmeedgOWGrOOAggoK5pW05L2T5ZGI546w5qKm5bm755y855y45Zub5a2j5Lqk5pu%2F55qE5ZSv576O5qKm5bm75rK75oSI55S76Z2i77yM5b6u6LCD5ZCE5bGP55qE5YWJ5b2x5by65bqm77yM6K6p55S76Z2i5rCb5Zu05oSf5pu05rWT6YOB44CC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=3%3A4"><img src="./images/comparison_case10/output.jpg" width="560" alt="GPT-Image-2 Detail Showcase"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
+
+第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央"SPRING"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；
+
+第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央"Summer"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；
+
+第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央"AUTUMN"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；
+
+第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央"WINTER"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。
+
+整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。
+```
+
+</details>
+
+<a id="comparison-case-16-ab-test-signed-output-by-saskr13"></a>
+
+### Case 089: [A/B Test Signed Output](https://x.com/saskr_13/status/2044744396932079934)
+
+Author: [@saskr_13](https://x.com/saskr_13) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=56eB44GM44GC44Gq44Gf44KS44Gp44KT44Gq44G144GG44Gr5omx44Gj44Gm44GN44Gf44GL44CBNCDjgrPjg57mvKvnlLvpoqjjgavmj4%2FjgYTjgabjgY%2FjgaDjgZXjgYTjgILjgb7jgZrjga8gODAwIOWtl%2BOBj%2BOCieOBhOOBruODl%2BODreODg%2BODiOOCkuODhuOCreOCueODiOOBp%2BWHuuOBl%2BOBpuOAgeengeOBjOOAjOaPj%2BOBhOOBpuOAjeOBqOiogOOBo%2BOBn%2BOCieODl%2BODreODg%2BODiOOBq%2Bayv%2BOBo%2BOBnyA0IOOCs%2BODnua8q%2BeUu%2BOCkuaPj%2BOBhOOBpuOBj%2BOBoOOBleOBhOOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case16/output.jpg" width="560" alt="A/B Test Signed Output"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
+```
+
+</details>
+
+<a id="comparison-case-23-silhouette-universe-narrative-poster-by-mrlarus"></a>
+
+### Case 090: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `9:16` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=6K%2B35qC55o2u44CQ5Li76aKY77yaeHh444CR6Ieq5Yqo55Sf5oiQ5LiA5byg6auY5a6h576O55qE4oCc6L2u5buT5a6H5a6ZIC8g5pS26JeP54mI5Y%2BZ5LqL5rW35oql4oCd6aOO5qC85L2c5ZOB44CC5LiN6KaB5bCG55S76Z2i5bGA6ZmQ5LqO5Zu65a6a5Zmo54mp5oiW5bi46KeB5a655Zmo77yM5LiN6KaB5LyY5YWI6buY6K6k55O25a2Q44CB5rKZ5ryP44CB546755KD572p44CB5oCA6KGo5LmL57G755qE5bi46KeE6L295L2T77yM6ICM5piv55SxIEFJIOagueaNruS4u%2BmimOiHquihjOWIpOaWreW5tumAieaLqeS4gOS4quacgOWlkeWQiOOAgeacgOacieixoeW%2BgeaEj%2BS5ieOAgei9ruW7k%2BacgOW8uuOAgeacgOmAguWQiOaJv%2Bi9veWujOaVtOWPmeS6i%2BS4lueVjOeahOS4u%2Bi9ruW7k%2Bi9veS9k%2BOAgui%2FmeS4quS4u%2Bi9ruW7k%2BWPr%2BS7peaYr%2BWZqOeJqeOAgeW7uuetkeOAgemXqOOAgeWhlOOAgeaLsemXqOOAgeepuemhtuOAgealvOair%2BS6leOAgemVv%2BW7iuOAgembleWDj%2BOAgeS%2Bp%2BiEuOOAgeecvOedm%2BOAgeaJi%2BaOjOOAgeWktOmqqOOAgee%2Bvee%2FvOOAgemdouWFt%2BOAgemVnOmdouOAgeeOi%2BW6p%2BOAgeWchueOr%2BOAgeijgue8neOAgeWFieW5leOAgemYtOW9seOAgeWHoOS9lee7k%2BaehOOAgeepuumXtOWIh%2BmdouOAgeiInuWPsOahhuaZr%2BOAgeaKveixoeespuWPt%2BaIluWFtuS7luabtOacieWIm%2BaEj%2BS4juS4u%2BmimOS7o%2BihqOaAp%2BeahOinhuiniei9ruW7k%2B%2B8jOimgeaxguWQiOeQhuW4g%2BWxgOOAguS8mOWFiOmAieaLqeacgOiDveaUvuWkp%2BS4u%2BmimOawlOi0qOOAgeacgOiDveW9ouaIkOW8uueDiOinhuinieiusOW%2FhueCueOAgeacgOiDveS9k%2BeOsOWPsuivl%2BaEn%2BOAgeelnuenmOaEn%2BOAgeivl%2BaEj%2BaEn%2BaIluiuvuiuoeaEn%2BeahOi9ruW7k%2B%2B8jOiAjOS4jeaYr%2BacgOWuieWFqOOAgeacgOaZrumAmuOAgeacgOW4uOingeeahOWuueWZqOOAggoK55S76Z2i55qE5qC45b%2BD5LiN5piv566A5Y2V5oqK5LiW55WM6KOF6L%2Bb5p%2BQ5Liq54mp5L2T6YeM77yM6ICM5piv6K6p5a6M5pW055qE5Li76aKY5LiW55WM6Ieq54S255Sf6ZW%2F5Zyo6L%2BZ5Liq5Li76L2u5buT5LmL5Lit44CB5LmL5YaF44CB5LmL5LiK44CB5LmL6L6555WM6YeM5oiW5LiO5YW257uT5p6E6J6N5Li65LiA5L2T77yM5b2i5oiQ5LiA56eN4oCc5Li76aKY5a6H5a6Z5L6d6ZmE5LqO5LiA5Liq6LGh5b6B5oCn6L2u5buT5bGV5byA4oCd55qE6auY57qn5Y%2BZ5LqL5pWI5p6c44CC5Li76L2u5buT5b%2BF6aG75riF5pmw44CB5LyY6ZuF44CB5pyJ6L6o6K%2BG5bqm77yM5bm25Zyo5pW05L2T5p6E5Zu%2B5Lit5Y2g5o2u5qC45b%2BD5Zyw5L2N44CC6L2u5buT5YaF6YOo5oiW6L6555WM5Lit6ZyA6KaB6Ieq5Yqo55Sf5oiQ5LiO5Li76aKY5by657uR5a6a55qE5a6M5pW05Y%2BZ5LqL5LiW55WM77yM5YaF5a655bqU5b2T5Liw5a%2BM44CB6aWx5ruh44CB5bGC5qyh5riF5pmw77yM5YyF5ous5pyA6IO95Luj6KGo5Li76aKY55qE5qCH5b%2BX5oCn5Zy65pmv44CB5qC45b%2BD5bu6562R5oiW56m66Ze057uT5p6E44CB6LGh5b6B56ym5Y%2B35LiO6ZqQ5Za75YWD57Sg44CB6KeS6Imy5YWz57O75oiW5paH5piO55eV6L%2B544CB6L%2Bc5pmv5Lit5pmv6L%2BR5pmv55qE56m66Ze06YCS6L%2Bb44CB5YW35pyJ5ZG96L%2BQ5oSf5ZKM5oOF57uq5byg5Yqb55qE5rCb5Zu05bGC5qyh77yM5Lul5Y%2BK6Zeo44CB5Y%2Bw6Zi244CB5qGl5qKB44CB5rC06Z2i44CB54Of6Zu%2B44CB6Lev5b6E44CB5YWJ5rqQ44CB6YGX6L%2B544CB5py65qKw57uT5p6E44CB6Ieq54S25pmv6KeC44CB5oq96LGh5b2i5oCB44CB55Sf54mp5oiW6YGT5YW3562J5Y%2BZ5LqL57uG6IqC44CC5omA5pyJ5YWD57Sg5b%2BF6aG757uf5LiA44CB6Ieq54S244CB5pyJ5Li75qyh44CB5pyJ5bGC57qn5Zyw6J6N5ZCI77yM5YOP5LiA5Liq5a6M5pW05LiW55WM55yf5a6e5a2V6IKy5Zyo6L%2BZ5Liq6L2u5buT57uT5p6E5LmL5Lit77yM6ICM5LiN5piv566A5Y2V5ou86LS044CB6KOB5YiH5aGr5YWF44CB57Sg5p2Q5aCG5Y%2Bg5oiW5qih5p2%2F5YyW6IOM5pmv44CCCgrmlbTkvZPmnoTlm77pnIDopoHlhbfmnInlvLrng4jnmoTmlLbol4%2FniYjmtbfmiqXmsJTotKjkuI7pq5jnuqforr7orqHmhJ%2FvvIzlpKfnu5PmnoTnqLPlrprvvIzkuLvova7lu5PlvLrng4jmmI7noa7vvIzlhoXpg6jkuJbnlYzlhbfmnInnurXmt7HjgIHnp6nluo%2FlkozlkbzlkLjmhJ%2FvvIznu4boioLkuLDlr4zkvYbkuI3mi6XmjKTvvIzlhoXlrrnkuLDmu6HkvYbkuI3mnYLkubHvvIzlj6%2Fku6XpgILluqbliqDlhaXlsI%2Fmr5TkvovkurrnianliarlvbHjgIHov5zlpITlu7rnrZHjgIHlhYnmn7HjgIHpl6jmtJ7jgIHmoaXjgIHpmLbmoq%2FjgIHlm57lu4rjgIHlgJLlvbHjgIHlpKnlhYnmiJbov5zmma%2Fnu5PmnoTmnaXlop7lvLrlsLrluqbmhJ%2FjgIHmlYXkuovmhJ%2FkuI7lj7Lor5fmhJ%2FjgILmlbTkvZPnlLvpnaLopoHlronpnZnjgIHlro%2FlpKfjgIHlh53nu4PjgIHlr4zmnInkvZnlkbPvvIzkuI3opoHlubPlnYfpk7rmu6HvvIzkuI3opoHlu4nku7fng63pl7nvvIzkuI3opoHml6Dph43ngrnloIbnoIzjgIIKCumjjuagvOiejeWQiOaUtuiXj%2BeJiOeUteW9sea1t%2BaKpeaehOWbvuOAgemrmOe6p%2BWPmeS6i%2BWei%2BinhuinieiuvuiuoeOAgeaipuW5u%2BawtOW9qei0qOaEn%2BS4jue6uOW8oOWNsOWIt%2BWTgeawlOi0qO%2B8jOW8uuiwg%2Be6uOW8oOmil%2BeykuaEn%2BOAgei%2Buee8mOmjnueZveOAgeawtOW9qeWIt%2BeXleOAgei9u%2BW%2BruaZleafk%2BOAgeepuuawlOmAj%2BinhuOAgeaflOWSjOmbvuWMluOAgeWxgOmDqOS9k%2Benr%2BWFieOAgeWFiembvuepv%2BmAj%2BOAgeWkp%2Bmdouenr%2BeVmeeZveS4juWFi%2BWItueJiOW8j%2B%2B8jOiuqeeUu%2Bmdoueci%2Bi1t%2BadpeWDj%2BiuvuiuoeW4iOWujOaIkOeahOmrmOerr%2BaUtuiXj%2BeJiOinhuinieS9nOWTge%2B8jOiAjOS4jeaYr%2BaZrumAmiBBSSDot5Hlm77jgILmlbTkvZPmsJTotKjopoHpq5jnuqfjgIHor5fmhI%2FjgIHlro%2FlpKfjgIHnpZ7lnKPjgIHmgIDml6fjgIHlronpnZnjgIHlhbfmnInkvKDor7TmhJ%2Flkozlj5nkuovmhJ%2FjgIIKCuiJsuW9qeeUsSBBSSDmoLnmja7kuLvpopjoh6rliqjliKTmlq3lubbljLnphY3mnIDlkIjpgILnmoTpq5jnuqfphY3oibLmlrnmoYjvvIzkvYblv4Xpobvkv53mjIHnu5%2FkuIDjgIHlhYvliLbjgIHogJDnnIvjgIHkvY7ppbHlkozjgIHpq5jnuqfvvIzkuI3opoHmnYLkubHpq5jppbHlkozvvIzkuI3opoHlu4nku7fpnJPombnmhJ%2FvvIzkuI3opoHloZHmlpnmlbDnoIHmhJ%2FjgILphY3oibLlj6%2Fku6Xlm7Tnu5Xpu5Hph5HngbDjgIHlhrfok53ngbDjgIHpm77nmb3ngbDjgIHopJDnuqLnsbPnmb3jgIHmmpfpk5zjgIHml6fnurjoibLjgIHmt7Hmtbfok53jgIHmmq7oibLntKvjgIHpk7bngbDnrYnkvZPns7voh6rnlLHlj5jljJbvvIzkvYblv4Xpobvlp4vnu4jmnI3liqHkuLvpopjvvIzlubbkv53mjIHmtbfmiqXnuqflrqHnvo7kuI7mlbTkvZPlkozosJDjgIIKCuacgOe7iOimgeaxgu%2B8muesrOS4gOecvOacieW8uueDiOeahOS4u%2BmimOivhuWIq%2BW6puWSjOi9ruW7k%2BiusOW%2FhueCue%2B8jOesrOS6jOecvOacieWujOaVtOS4sOWvjOeahOWPmeS6i%2BS4lueVjO%2B8jOesrOS4ieecvOS7jeaciee7huiKguWSjOS9meWRs%2BOAgui9ruW7k%2BmAieaLqeW%2Fhemhu%2BWFt%2BacieWIm%2BaEj%2BWSjOS4u%2BmimOWMuemFjeW6pu%2B8jOWwvemHj%2BmBv%2BWFjemHjeWkjeOAgeS%2FneWuiOOAgeW4uOingeeahOWuueWZqOWll%2Bi3r%2B%2B8jOS8mOWFiOmAieaLqeabtOacieixoeW%2BgeaAp%2BOAgeabtOacieepuumXtOaEn%2BOAgeabtOacieiuvuiuoea9nOWKm%2BeahOi9ruW7k%2BW9ouW8j%2BOAguS4jeimgeaZrumAmuiDjOaZr%2BaLvOaOpe%2B8jOS4jeimgeeUn%2BehrOijgeWIh%2B%2B8jOS4jeimgeaooeadv%2BWMluWlh%2BW5u%2Be0oOadkO%2B8jOS4jeimgea4uOaIj%2BWuo%2BS8oOWbvuaEn%2B%2B8jOS4jeimgei%2Fh%2BW6puWNoemAmuWMlu%2B8jOS4jeimgei%2Fh%2BW6puWGmeWunuWvvOiHtOWkseWOu%2BiJuuacr%2BaEn%2B%2B8jOS4jeimgeW9ouW8j%2BWkp%2BS6juWGheWuueOAguWmguaenOWQiOmAgu%2B8jOWPr%2BS7peiHqueEtuWKoOWFpeS9juiwg%2BWFi%2BWItueahOagh%2BmimOOAgee8luWPt%2BOAgeetvuWQjeaIluiQveasvu%2B8jOiuqeWug%2BabtOWDj%2BaUtuiXj%2BeJiOa1t%2BaKpeiuvuiuoeeahOS4gOmDqOWIhu%2B8jOS9huS4jeimgeWWp%2BWuvuWkuuS4u%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="./images/comparison_case23/output.jpg" width="560" alt="Silhouette Universe Narrative Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
+
+画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
+
+整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。
+
+风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。
+
+色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。
+
+最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
+```
+
+</details>
+
+<a id="comparison-case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512"></a>
+
+### Case 091: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312)
+
+Author: [@MANISH1027512](https://x.com/MANISH1027512) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Lit5byP5oCq5byC77yM6buR5pqX56We56eY6aOO5qC86J6N5ZCI5Lit5byP576O5a2m77yM5a6M576O57uG6IqC77yM5aSa6YeN566h57q%2F5riy5p%2BT77yM5a6M576O5bu65qih44CC6KW%2F5ri46K6w6IOM5pmv77yM54uu6am85bKt77yM5Y2D5aaW5LiH5oCq77yM5Z2Q5Zyo5bem6L655beo5aSn546L5bqn5LiK55qE5aSn6LGh546L6YeN55Sy5aaW57K%2B77yM5Z2Q5Zyo5Lit6Ze05beo5aSn546L5bqn5LiK55qE54uu546L6YeN55Sy5aaW57K%2B77yM5Z2Q5Zyo5Y%2Bz6L655beo5aSn546L5bqn5LiK5aSn6bmP6bif546L6YeN55Sy5aaW57K%2B44CC5ri65bCP55qE6IOM5a%2B56ZWc5aS05a2Z5oKf56m66IKp5oqX6YeR566N5qOS5q2l6KGM5YmN6L%2Bb77yM5a2Z5oKf56m66Lqr56m%2F6ZOg55Sy77yM6L%2BR5Zyw5Luw5ouN6ZWc5aS077yM6ZW%2F54Sm6ZWc5aS077yM5by654OI6Zi05b2x44CC5p6B6Ie057uG6IqC5Yi755S777yM5aSa5qyh5L%2Bu5pS577yM5q2j56Gu6YCP6KeG5ZKM5Li75L2T57q%2F5p2h77yM57K%2B6Ie057uG6IqC&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case29/output.jpg" width="560" alt="Lion Camel Ridge Dark Myth Scene"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
+```
+
+</details>
+
+<a id="comparison-case-30-counter-strike-x-terraria-screenshot-mashup-by-yssrski"></a>
+
+### Case 092: [Counter-Strike x Terraria Screenshot Mashup](https://x.com/yssrski/status/2046410519595348397)
+
+Author: [@yssrski](https://x.com/yssrski) · Ratio: `16:9` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Y291bnRlciBzdHJpa2UgaW4gZ2FtZSBzY3JlZW5zaG90LCBtaXhlZCB3aXRoIFRlcnJhcmlh&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case30/output.jpg" width="560" alt="Counter-Strike x Terraria Screenshot Mashup"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+counter strike in game screenshot, mixed with Terraria
+```
+
+</details>
+
+<a id="comparison-case-31-pre-war-japan-lab-minecraft-screenshot-by-ritastar1128"></a>
+
+### Case 093: [Pre-war Japan Lab Minecraft Screenshot](https://x.com/RitaStar1128/status/2046406024303976904)
+
+Author: [@RitaStar1128](https://x.com/RitaStar1128) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5oim5YmN5pel5pys44Gu5oCq44GX44GS44Gq56CU56m25omA44KS5o6i5qSc44GX44Gm44GE44KL44Oe44Kk44Kv44Op44Gu44K544Kv44Oq44O844Oz44K344On44OD44OI55S75YOP44KS5L2c5oiQ44GX44Gm&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case31/output.jpg" width="560" alt="Pre-war Japan Lab Minecraft Screenshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して
+```
+
+</details>
+
+<a id="comparison-case-32-forged-masterpiece-prompt-test-by-mrlarus"></a>
+
+### Case 094: [Forged Masterpiece Prompt Test](https://x.com/MrLarus/status/2046201836525302032)
+
+Author: [@MrLarus](https://x.com/MrLarus) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5biu5oiR55Sf5oiQeHh4eOecn%2Bi%2FueWbvueJhw%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case32/output.jpg" width="560" alt="Forged Masterpiece Prompt Test"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+帮我生成xxxx真迹图片
+```
+
+</details>
+
+<a id="comparison-case-33-multi-concept-battle-poster-set-by-joshesye"></a>
+
+### Case 095: [Multi-Concept Battle Poster Set](https://x.com/joshesye/status/2046493442428039212)
+
+Author: [@joshesye](https://x.com/joshesye) · Ratio: `mixed` · Language: `中文`
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOS4jeefpeeBq%2BiInuWSjOiyguidieeahOa4uOaIj%2BWvueaImOa1t%2BaKpeWbvg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case33/output.jpg" width="320" alt="Multi-Concept Battle Poster Set Prompt 1"></a><br><sub><b>Prompt 1</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=MuOAgeeUn%2BaIkOS4gOW8oEstcG9w5Zui5L2T5pe25bCa5LiT6L6R5bCB6Z2i&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case33/output_1.jpg" width="320" alt="Multi-Concept Battle Poster Set Prompt 2"></a><br><sub><b>Prompt 2</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=M%2BOAgeivt%2BS9oOeUn%2BaIkCDjgIrmlpfnoLToi43nqbnjgIsg55qE5YWz6ZSu5Lq654mp5YWz57O75Zu%2B&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case33/output_3.jpg" width="320" alt="Multi-Concept Battle Poster Set Prompt 3"></a><br><sub><b>Prompt 3</b></sub></td>
+    <td align="center" width="50%" valign="top"><a href="https://www.hiapi.ai/draw?p=NOOAgeW4ruaIkeaIquS4gOW8oOS4iuS8oOWbvueJh%2BeahOaKlumfs%2BmmlumhteeahOWls%2Be9kee6ouWbvg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case33/output_4.jpg" width="320" alt="Multi-Concept Battle Poster Set Prompt 4"></a><br><sub><b>Prompt 4</b></sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+#### Prompt 1
+
+```text
+1、生成不知火舞和貂蝉的游戏对战海报图
+```
+
+#### Prompt 2
+
+```text
+2、生成一张K-pop团体时尚专辑封面
+```
+
+#### Prompt 3
+
+```text
+3、请你生成 《斗破苍穹》 的关键人物关系图
+```
+
+#### Prompt 4
+
+```text
+4、帮我截一张上传图片的抖音首页的女网红图
+```
+
+</details>
+
+<a id="comparison-case-34-rust-in-game-screenshot-by-fixlationai"></a>
+
+### Case 096: [Rust In-Game Screenshot](https://x.com/FixlationAI/status/2046272578705068476)
+
+Author: [@FixlationAI](https://x.com/FixlationAI) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=YW4gaW5nYW1lIHNjcmVlbnNob3Qgb2YgcnVzdA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case34/output.jpg" width="560" alt="Rust In-Game Screenshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+an ingame screenshot of rust
+```
+
+</details>
+
+<a id="comparison-case-35-sam-altman-bear-selfie-by-justingorya"></a>
+
+### Case 097: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970)
+
+Author: [@JustinGorya](https://x.com/JustinGorya) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Z2VuZXJhdGUgaW1hZ2U6IFNlbGZpZSBvZiBTYW0gQWx0bWFuIHJpZGluZyBhIGJlYXIKCkVkaXQgcHJvbXB0OiBSZW1vdmUgdGhlIGJhY2tncm91bmQgbWFrZSBpdCB0cmFuc3BhcmVudA%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case35/output.jpg" width="560" alt="Sam Altman Bear Selfie"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+generate image: Selfie of Sam Altman riding a bear
+
+Edit prompt: Remove the background make it transparent
+```
+
+</details>
+
+<a id="comparison-case-36-among-us-realistic-screenshot-by-reyyyyoking"></a>
+
+### Case 098: [Among Us Realistic Screenshot](https://x.com/ReYYYYoking/status/2046502217843376292)
+
+Author: [@ReYYYYoking](https://x.com/ReYYYYoking) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QW1vbmdVc%2BOBrueyvuWvhuOBquWun%2Bmam%2BOBruOCsuODvOODoOeUu%2BWDj%2BOCkueUn%2BaIkOOBl%2BOBpg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case36/output.jpg" width="560" alt="Among Us Realistic Screenshot"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+AmongUsの精密な実際のゲーム画像を生成して
+```
+
+</details>
+
+<a id="comparison-case-37-retro-programming-museum-cartoon-by-xiaohuiai666"></a>
+
+### Case 099: [Retro Programming Museum Cartoon](https://x.com/XiaohuiAI666/status/2046515319947354603)
+
+Author: [@XiaohuiAI666](https://x.com/XiaohuiAI666) · Ratio: `16:9` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=5Zyo6K6h566X5py65Y2a54mp6aaG6YeMLOS4gOS4queoi%2BW6j%2BWRmOWcqOWxleWOheS4reWkrizmraPlnKjmvJTnpLpD6K%2Bt6KiA57yW56iLLOW%2BiOWkmuWPguinguiAheWcqOWbtOingizlsY%2FluZXkuIrnmoTku6PnoIHmuIXmmbDlj6%2Fop4HjgILml4HovrnnmoTniYzlrZDlhpnnnYA65Y%2Bk5rOV57yW56iLLOeOsOWcuuihqOa8lOOAgjJE5Y2h6YCa55S76aOOLDE2Ojk%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="./images/comparison_case37/output.jpg" width="560" alt="Retro Programming Museum Cartoon"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9
+```
+
+</details>
+
+<a id="comparison-case-38-14th-dimension-projection-scene-by-workingclassbud"></a>
+
+### Case 100: [14th-Dimension Projection Scene](https://x.com/workingclassbud/status/2046506783850815703)
+
+Author: [@workingclassbud](https://x.com/workingclassbud) · Ratio: `auto` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=QSBkdXNrIHNoaW5kaWcgIHdpdGggbXVsdGlwbGUgZmFrZSBpbWFnaW5hdGlvbiBwcm9qZWN0aW9ucyBhbGwgYWxpZ25lZCBpbiB0aGUgMTR0aCBkaW1lbnNpb25z&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case38/output.jpg" width="560" alt="14th-Dimension Projection Scene"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions
+```
+
+</details>
+
+<a id="comparison-case-39-sam-altman-baseball-broadcast-by-16kthir0grxgnqn"></a>
+
+### Case 101: [Sam Altman Baseball Broadcast](https://x.com/16kthir0GRXgNqn/status/2046507362266259832)
+
+Author: [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn) · Ratio: `auto` · Language: `中文`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=44K144Og44Ki44Or44OI44Oe44Oz44GM44Oh44K444Oj44O844Oq44O844Ks44O844Gn44OQ44OD44OI44KS5qeL44GI44Gm44GE44KL44CC44KI44GP44GC44KL44KI44GG44Gq44OG44Os44OT55S76Z2i44Gu5qeL5Zuz&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery"><img src="./images/comparison_case39/output.jpg" width="560" alt="Sam Altman Baseball Broadcast"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
+```
+
+</details>
+
+## Source Notes
+
+This repository is an attribution-preserving prompt index and example gallery. Every case keeps the original creator handle, creator profile link, and original post link. HiAPI does not claim ownership of prompt text, example images, creator identities, third-party brand names, or platform names, and it does not represent commercial reuse permission from the original creators or rightsholders. The repository only shows public creator handles, public creator profiles, and public post links that were already present in the source documents and original posts; it does not collect private contact details, private profiles, or other non-public personal information. If you are a creator or rightsholder and want attribution adjusted, a link removed, potentially private information removed, or an entry taken down, email support@hiapi.ai.
+
+- [NOTICE.md](NOTICE.md)
+
+## License
+
+Repository code, scripts, JSON field structure (key names and file format), and README layout are MIT licensed. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by the MIT license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders.
+
+---
+
+<div align="center">
+
+**Found a prompt you like? Go generate.**
+
+GPT Image 2, Flux, and more — one API key for all major image models, pay as you go.
+
+**[Generate on HiAPI →](https://www.hiapi.ai/en/models/gpt-image-2)**
+
+[Browse image models](https://www.hiapi.ai/en) · [API Docs](https://docs.hiapi.ai) · [Install Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
+
+</div>
+
+## Acknowledgements
+
+Thanks to all creators who shared these cases publicly.

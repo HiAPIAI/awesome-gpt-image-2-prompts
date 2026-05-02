@@ -1,0 +1,77 @@
+# Awesome GPT Image 2 Prompts
+
+Use this prompt library when a user wants GPT Image 2 image prompt ideas,
+image-backed examples, or reusable prompt templates for HiAPI.
+
+User-facing pages:
+
+- Chinese README: `README.zh-CN.md`
+- English README: `README.md`
+- Source notice: `NOTICE.md`
+
+Structured data:
+
+- `data/prompts.json` contains the prompt cases (check `data.items.length` for the current count) across 5 categories.
+- Each item includes `title_zh`, `title_en`, `image`, `prompt`, `aspect_ratio`,
+  `prompt_language`, `source_url`, `author`, and `author_url`.
+- `images/**/output.jpg` contains the local example images used by the gallery.
+
+Primary model:
+
+- `gpt-image-2`
+
+HiAPI endpoint:
+
+- `POST https://api.hiapi.ai/v1/chat/completions`
+
+Authentication:
+
+- Use `Authorization: Bearer $HIAPI_API_KEY`.
+- Never print, expose, or commit API keys.
+- If the user needs a key, send them to the matching HiAPI registration page:
+  - Chinese: https://www.hiapi.ai/zh/register
+  - English: https://www.hiapi.ai/en/register
+
+Minimal request shape:
+
+```json
+{
+  "model": "gpt-image-2",
+  "stream": false,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Paste one prompt from data/prompts.json and replace the topic, subject, product, city, or text."
+    }
+  ],
+  "extra_body": {
+    "google": {
+      "image_config": {
+        "aspect_ratio": "1:1"
+      }
+    }
+  }
+}
+```
+
+Attribution:
+
+- Content is adapted from the source Feishu documents:
+  https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe
+  https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc
+- Preserve `source_url`, `author`, and `author_url` when showing a case.
+- Use the case image and title to help the user choose a prompt, then provide
+  the prompt text for copying.
+- Treat this repository as an attribution-preserving prompt index and example
+  gallery, not as HiAPI ownership of the source material and not as a new
+  license for prompt text or example images.
+- Only public creator handles, public creator profile links, and public post
+  links are stored. Do not infer, expose, or invent private identity details,
+  contact details, or non-public profile information about creators.
+- Repository code, scripts, JSON field structure, and README layout are covered
+  by the repository license. Prompt content, example images, creator
+  attribution, third-party brand names, and platform names are not covered
+  unless separately licensed by their original rightsholders.
+- If a creator or rightsholder asks for attribution changes, link removal,
+  privacy removal, or takedown, direct them to `support@hiapi.ai` and preserve
+  the request context.
