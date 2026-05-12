@@ -19,7 +19,7 @@ User-facing pages:
 
 Structured data:
 
-- `data/prompts.json` contains the prompt cases (check `data.items.length` for the current count) across 5 categories.
+- `data/prompts.json` contains the prompt cases (check `data.items.length` for the current count) across 6 categories.
 - Each item includes `title_zh`, `title_en`, `image`, `prompt`, `aspect_ratio`,
   `prompt_language`, `source_url`, `author`, and `author_url`.
 - `images/**/output.jpg` contains the local example images used by the gallery.
@@ -67,6 +67,9 @@ Attribution:
 - Content is adapted from the source Feishu documents:
   https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe
   https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc
+- Community reference picks are also adapted from the MIT-licensed
+  https://github.com/wuyoscar/gpt_image_2_skill project while preserving
+  each source link.
 - Preserve `source_url`, `author`, and `author_url` when showing a case.
 - Use the case image and title to help the user choose a prompt, then provide
   the prompt text for copying.

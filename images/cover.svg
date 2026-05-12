@@ -14,13 +14,13 @@
   <text x="1207" y="102" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">中文</text>
 
   <text x="96" y="196" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">GPT Image 2 Prompts</text>
-  <text x="96" y="244" fill="#52525b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">101 real examples · Copy prompts · Generate on HiAPI</text>
+  <text x="96" y="244" fill="#52525b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">118 real examples · Copy prompts · Generate on HiAPI</text>
   <text x="96" y="300" fill="#f97316" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Browse the result first, then copy</text>
 
   <rect x="96"  y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="160" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">101 cases</text>
+  <text x="160" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">118 cases</text>
   <rect x="240" y="348" width="152" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="316" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">5 categories</text>
+  <text x="316" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">6 categories</text>
   <rect x="408" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="477" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">real images</text>
   <rect x="562" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>

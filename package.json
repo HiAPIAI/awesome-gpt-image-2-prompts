@@ -2,7 +2,7 @@
   "name": "awesome-gpt-image-2-prompts",
   "version": "1.0.0",
   "private": false,
-  "description": "Awesome bilingual GPT Image 2 prompt gallery with 101 real image examples, powered by HiAPI.",
+  "description": "Awesome bilingual GPT Image 2 prompt gallery with 118 real image examples, powered by HiAPI.",
   "type": "module",
   "scripts": {
     "build": "node scripts/build-readme.mjs",

@@ -42,13 +42,14 @@ const secretLikePatterns = [
 
 const allowedDuplicateImagePairs = new Set();
 
-const expectedTotalItems = 101;
+const expectedTotalItems = 118;
 const expectedCategoryCounts = new Map([
   ["portrait-photography", 18],
   ["poster-illustration", 40],
   ["character-design", 7],
   ["ui-social", 21],
   ["comparison-community", 15],
+  ["community-reference", 17],
 ]);
 
 const expectedVariantCounts = new Map([
@@ -135,11 +136,11 @@ for (const item of data.items) {
     fail(`Invalid author handle for ${item.id}: ${item.author}`);
   }
 
-  if (!/^https:\/\/x\.com\/[^/]+\/status\/\d+/.test(item.source_url)) {
+  if (!/^(https:\/\/x\.com\/[^/]+\/status\/\d+|https:\/\/www\.reddit\.com\/r\/[^/]+\/comments\/[^/]+\/[^/]+\/|https:\/\/www\.xiaohongshu\.com\/explore\/[A-Za-z0-9]+)$/.test(item.source_url)) {
     fail(`Invalid source_url for ${item.id}: ${item.source_url}`);
   }
 
-  if (!/^https:\/\/x\.com\/[^/]+/.test(item.author_url)) {
+  if (!/^(https:\/\/x\.com\/[^/]+|https:\/\/www\.reddit\.com\/r\/[^/]+|https:\/\/www\.xiaohongshu\.com\/)$/.test(item.author_url)) {
     fail(`Invalid author_url for ${item.id}: ${item.author_url}`);
   }
 
