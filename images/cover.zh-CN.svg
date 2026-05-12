@@ -14,13 +14,13 @@
   <text x="1207" y="102" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="15" font-weight="700">中文</text>
 
   <text x="96" y="196" fill="#111827" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Inter, Arial, sans-serif" font-size="50" font-weight="800">GPT Image 2 提示词画廊</text>
-  <text x="96" y="244" fill="#52525b" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Inter, Arial, sans-serif" font-size="20" font-weight="500">101 个社区真实案例 · 复制 Prompt，立即生成</text>
+  <text x="96" y="244" fill="#52525b" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Inter, Arial, sans-serif" font-size="20" font-weight="500">118 个社区真实案例 · 复制 Prompt，立即生成</text>
   <text x="96" y="300" fill="#f97316" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Inter, Arial, sans-serif" font-size="26" font-weight="700">先看效果图，再复制提示词</text>
 
   <rect x="96"  y="348" width="136" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="164" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">101 个案例</text>
+  <text x="164" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">118 个案例</text>
   <rect x="248" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">5 大分类</text>
+  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">6 大分类</text>
   <rect x="392" y="348" width="148" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="466" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">真实效果图</text>
   <rect x="556" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>

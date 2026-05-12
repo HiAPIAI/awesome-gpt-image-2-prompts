@@ -22,6 +22,7 @@ const hiapi = {
 
 const sourceUrl = "https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe";
 const sourceUrl2 = "https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc";
+const communitySourceUrl = "https://github.com/wuyoscar/gpt_image_2_skill";
 
 const copy = {
   zh: {
@@ -48,7 +49,7 @@ const copy = {
 
 这不是单纯的提示词清单，而是一组可直接接入 API 的创意配方：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接，以及可改写成 API 请求的生成参数都放在一起。你可以先看效果，再复制可运行 API 请求的核心字段，把人物、产品、城市、品牌或文案换成自己的内容。
 
-探索 ${data.items.length} 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计和模型测试等场景。每个案例都附带真实效果图、完整 Prompt、原作者署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
+探索 ${data.items.length} 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计、模型测试和社区参考案例等场景。每个案例都附带真实效果图、完整 Prompt、原作者或来源署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
 
 ## 为什么使用这个案例库？
 
@@ -68,7 +69,7 @@ const copy = {
     tipText:
       `<br><a href="${hiapi.zh.model}">立即免费试用 GPT-Image-2 →</a>`,
     sourceNote:
-      `内容改编自<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>保留原作者署名与原帖链接；Prompt 文本和案例图片版权归原权利人所有。`,
+      `内容改编自<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>并吸收 MIT 许可社区参考项目 <a href="${communitySourceUrl}">wuyoscar/gpt_image_2_skill</a> 的精选案例。保留原作者、来源与原帖链接；Prompt 文本和案例图片版权归原权利人所有。`,
     categoriesTitle: "按类型浏览",
     promptLink: "提示词",
     fullTitle: "完整 Prompt",
@@ -80,7 +81,7 @@ const copy = {
     language: "语言",
     sourceTitle: "来源说明",
     sourceText:
-      "本仓库是带署名的提示词索引与案例画廊，所有案例均保留原作者署名、作者主页链接和原帖链接。HiAPI 不主张拥有 Prompt 文本、案例图片、作者身份、第三方品牌名称或平台名称的权利，也不代表原作者或相关权利方授权商用复用。本仓库仅展示来源文档和原帖中已经公开的作者昵称、作者主页和公开帖子链接，不收集私人联系方式、私密主页或其他非公开个人信息。如果你是原作者或权利方，希望调整署名、移除链接、删除可能涉及隐私的信息，或下架某个案例，请发邮件至 support@hiapi.ai。",
+      "本仓库是带署名的提示词索引与案例画廊，所有案例均保留原作者署名、作者主页链接和原帖链接。部分社区参考案例改编自 MIT 许可项目 wuyoscar/gpt_image_2_skill，并继续保留其来源信息。HiAPI 不主张拥有 Prompt 文本、案例图片、作者身份、第三方品牌名称或平台名称的权利，也不代表原作者或相关权利方授权商用复用。本仓库仅展示来源文档、原帖和社区参考项目中已经公开的作者昵称、作者主页和公开帖子链接，不收集私人联系方式、私密主页或其他非公开个人信息。如果你是原作者或权利方，希望调整署名、移除链接、删除可能涉及隐私的信息，或下架某个案例，请发邮件至 support@hiapi.ai。",
     licenseTitle: "授权说明",
     licenseText:
       "仓库代码、脚本、JSON 字段结构（key 名称和文件格式）、README 排版适用 MIT License。JSON 中的 Prompt 内容、案例图片、作者署名、第三方品牌名称及平台名称不属于 MIT 授权范围，版权归原权利人所有，除非其另行授权。请不要把本仓库理解为对 Prompt 文本、案例图片或第三方素材的再授权；公开展示、复制、改编或商业使用时，请遵守原作者、发布平台和相关权利方的要求。",
@@ -122,7 +123,7 @@ const copy = {
 
 This is not just a prompt list. It is a set of API-ready creative recipes: real output images, full prompts, aspect ratios, HiAPI Draw prefill links, and generation parameters you can turn into a runnable API payload. Inspect the output first. Copy a runnable API payload from the template below, then replace the subject, product, city, brand, or text.
 
-Explore ${data.items.length} curated visual generation cases across portraits, commercial posters, character design, interface design, and model tests. Each case includes a real output image, full prompt, creator attribution, and original post link so you can study, adapt, and reuse practical AI visual creation patterns.
+Explore ${data.items.length} curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and community reference picks. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
 
 ## Why Use This Gallery?
 
@@ -142,7 +143,7 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     tipText:
       `<br><a href="${hiapi.en.model}">Try GPT-Image-2 for free →</a>`,
     sourceNote:
-      `Adapted from<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>Creator attribution and original post links are preserved; prompt text and example images remain with their original rightsholders.`,
+      `Adapted from<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>and selected examples from the MIT-licensed community reference project <a href="${communitySourceUrl}">wuyoscar/gpt_image_2_skill</a>. Creator/source attribution and original links are preserved; prompt text and example images remain with their original rightsholders.`,
     categoriesTitle: "Browse By Type",
     promptLink: "Prompt",
     fullTitle: "Full Prompts",
@@ -154,7 +155,7 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     language: "Language",
     sourceTitle: "Source Notes",
     sourceText:
-      "This repository is an attribution-preserving prompt index and example gallery. Every case keeps the original creator handle, creator profile link, and original post link. HiAPI does not claim ownership of prompt text, example images, creator identities, third-party brand names, or platform names, and it does not represent commercial reuse permission from the original creators or rightsholders. The repository only shows public creator handles, public creator profiles, and public post links that were already present in the source documents and original posts; it does not collect private contact details, private profiles, or other non-public personal information. If you are a creator or rightsholder and want attribution adjusted, a link removed, potentially private information removed, or an entry taken down, email support@hiapi.ai.",
+      "This repository is an attribution-preserving prompt index and example gallery. Every case keeps the original creator handle, creator profile link, and original post link. Some community reference cases are adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project while preserving source information. HiAPI does not claim ownership of prompt text, example images, creator identities, third-party brand names, or platform names, and it does not represent commercial reuse permission from the original creators or rightsholders. The repository only shows public creator handles, public creator profiles, and public post links that were already present in the source documents, original posts, and community reference project; it does not collect private contact details, private profiles, or other non-public personal information. If you are a creator or rightsholder and want attribution adjusted, a link removed, potentially private information removed, or an entry taken down, email support@hiapi.ai.",
     licenseTitle: "License",
     licenseText:
       "Repository code, scripts, JSON field structure (key names and file format), and README layout are MIT licensed. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by the MIT license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders.",
@@ -269,7 +270,7 @@ function writeCover() {
   <rect x="96"  y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="160" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">${count} cases</text>
   <rect x="240" y="348" width="152" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="316" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">5 categories</text>
+  <text x="316" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">${data.categories.length} categories</text>
   <rect x="408" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="477" y="374" text-anchor="middle" fill="#9a3412" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">real images</text>
   <rect x="562" y="348" width="138" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
@@ -317,7 +318,7 @@ function writeCover() {
   <rect x="96"  y="348" width="136" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="164" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">${count} 个案例</text>
   <rect x="248" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">5 大分类</text>
+  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">${data.categories.length} 大分类</text>
   <rect x="392" y="348" width="148" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="466" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">真实效果图</text>
   <rect x="556" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>

@@ -7,6 +7,8 @@
 - https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe
 - https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc
 
+本仓库也吸收了 MIT 许可项目 https://github.com/wuyoscar/gpt_image_2_skill 中 `docs/community-prompt-picks.json` 的精选社区参考案例，并保留其社区来源链接。该项目的代码与整理结构依据 MIT License 授权；被引用案例的 Prompt、图片、作者、平台和第三方素材仍按各自原始来源处理。
+
 本仓库的定位是带署名的提示词索引与案例画廊，不是内容所有权声明，也不是对原始内容的再授权。所有案例均保留原作者署名、作者主页链接和原帖链接，便于用户核对来源。
 
 HiAPI 不主张拥有来源案例、Prompt 文本、作者身份、案例图片、第三方品牌或平台名称的权利，版权归原权利人所有。本仓库不代表原作者、发布平台或相关权利方授予商业复用、二次发布、模型训练或品牌/IP 使用许可；如需公开展示、复制、改编或商业使用，请自行遵守原作者、发布平台和相关权利方的要求。
@@ -23,6 +25,8 @@ This repository compiles cases that creators shared publicly in the following Fe
 
 - https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe
 - https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc
+
+This repository also incorporates selected community reference cases from `docs/community-prompt-picks.json` in the MIT-licensed https://github.com/wuyoscar/gpt_image_2_skill project while preserving their community source links. That project's code and curation structure are MIT licensed; referenced prompts, images, authors, platforms, and third-party material remain governed by their original sources.
 
 This repository is an attribution-preserving prompt index and example gallery. It is not an ownership claim and it is not a relicensing of the original content. Every case keeps the original creator handle, creator profile link, and original post link.
 
