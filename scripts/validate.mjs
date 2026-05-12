@@ -72,6 +72,12 @@ const requiredRightsLanguage = new Map([
   ["llms.txt", ["not as HiAPI ownership", "non-public profile information", "support@hiapi.ai"]],
 ]);
 
+const requiredPublicPositioning = new Map([
+  ["README.md", ["API-ready creative recipes", "Copy a runnable API payload", "Prompt Galleries", "Agent Skills", "Remote MCP"]],
+  ["README.zh-CN.md", ["可直接接入 API 的创意配方", "复制可运行 API 请求", "Prompt Galleries", "Agent Skills", "Remote MCP"]],
+  ["llms.txt", ["API-ready creative recipes", "runnable API payload", "https://github.com/HiAPIAI/hiapi-skills"]],
+]);
+
 function fail(message) {
   console.error(message);
   process.exitCode = 1;
@@ -258,6 +264,15 @@ for (const [relativePath, phrases] of requiredRightsLanguage) {
   for (const phrase of phrases) {
     if (!content.includes(phrase)) {
       fail(`Missing rights/privacy language in ${relativePath}: ${phrase}`);
+    }
+  }
+}
+
+for (const [relativePath, phrases] of requiredPublicPositioning) {
+  const content = fs.readFileSync(path.join(root, relativePath), "utf8");
+  for (const phrase of phrases) {
+    if (!content.includes(phrase)) {
+      fail(`Missing public positioning in ${relativePath}: ${phrase}`);
     }
   }
 }

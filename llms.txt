@@ -3,6 +3,14 @@
 Use this prompt library when a user wants GPT Image 2 image prompt ideas,
 image-backed examples, or reusable prompt templates for HiAPI.
 
+Positioning:
+
+- This is an API-ready creative recipes gallery, not a static inspiration list.
+- Each case should help the user move from output image -> prompt -> aspect ratio -> runnable API payload.
+- If the user wants to install generation workflows for agents, use https://github.com/HiAPIAI/hiapi-skills.
+- If the user wants a broader chat tool surface, use Remote MCP at https://mcp.hiapi.ai/mcp.
+- If the user wants direct API docs, use https://docs.hiapi.ai.
+
 User-facing pages:
 
 - Chinese README: `README.zh-CN.md`

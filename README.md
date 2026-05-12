@@ -22,15 +22,18 @@
 
 ---
 
-## Creative Workshop | GPT Image 2 Visual Prompt Gallery
+## Creative Workshop | GPT Image 2 API-ready Creative Recipes
+
+This is not just a prompt list. It is a set of API-ready creative recipes: real output images, full prompts, aspect ratios, HiAPI Draw prefill links, and generation parameters you can turn into a runnable API payload. Inspect the output first. Copy a runnable API payload from the template below, then replace the subject, product, city, brand, or text.
 
 Explore 101 curated visual generation cases across portraits, commercial posters, character design, interface design, and model tests. Each case includes a real output image, full prompt, creator attribution, and original post link so you can study, adapt, and reuse practical AI visual creation patterns.
 
 ## Why Use This Gallery?
 
 - Real generated results: inspect the output before copying the prompt.
-- Full prompts are available in expandable sections for learning, editing, and reuse.
+- Full prompts are available in expandable sections for learning, editing, and copying into a runnable API payload.
 - Popular visual styles and common creative scenarios are organized for quick browsing.
+- Each image link opens HiAPI Draw with the model, prompt, and aspect ratio prefilled.
 
 ## How To Use
 
@@ -38,6 +41,7 @@ Explore 101 curated visual generation cases across portraits, commercial posters
 2. Click a thumbnail to open the matching prompt on HiAPI automatically.
 3. Click “Prompt” to read the full prompt inside this repository.
 4. Replace the character, product, city, brand, or copy to create your own result.
+5. Use the API Payload template below when you want to wire the same recipe into an app.
 
 <div align="center">
 
@@ -47,6 +51,41 @@ Explore 101 curated visual generation cases across portraits, commercial posters
 </div>
 
 > <sub>Adapted from<br><a href="https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe">https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe</a><br><a href="https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc">https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc</a><br>Creator attribution and original post links are preserved; prompt text and example images remain with their original rightsholders.</sub>
+
+## HiAPI Public Entries
+
+Prompt Galleries provide verified creative recipes. Agent Skills install focused model workflows into AI Agents. Remote MCP lets compatible clients discover more HiAPI tools. API Cookbook gives developers direct request shapes and parameters.
+
+| Entry | Link | Use it for |
+| --- | --- | --- |
+| Prompt Galleries | [awesome-gpt-image-2-prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) | Real output images + prompts + HiAPI Draw links |
+| Agent Skills | [hiapi-skills](https://github.com/HiAPIAI/hiapi-skills) | Install focused single-model agent workflows |
+| Remote MCP | `https://mcp.hiapi.ai/mcp` | Let MCP-compatible clients discover HiAPI tools |
+| API Cookbook | [docs.hiapi.ai](https://docs.hiapi.ai) | Copy API parameters, model docs, and integration guides |
+
+## API Payload Template
+
+Replace `content` and `aspect_ratio` with any case prompt and ratio from this gallery.
+
+```json
+{
+  "model": "gpt-image-2",
+  "stream": false,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Paste or adapt a prompt from this gallery."
+    }
+  ],
+  "extra_body": {
+    "google": {
+      "image_config": {
+        "aspect_ratio": "1:1"
+      }
+    }
+  }
+}
+```
 
 ## Browse By Type
 

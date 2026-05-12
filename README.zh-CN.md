@@ -22,15 +22,18 @@
 
 ---
 
-## 创意工坊 | GPT Image 2 视觉生成案例库
+## 创意工坊 | GPT Image 2 API-ready Creative Recipes
+
+这不是单纯的提示词清单，而是一组可直接接入 API 的创意配方：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接，以及可改写成 API 请求的生成参数都放在一起。你可以先看效果，再复制可运行 API 请求的核心字段，把人物、产品、城市、品牌或文案换成自己的内容。
 
 探索 101 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计和模型测试等场景。每个案例都附带真实效果图、完整 Prompt、原作者署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
 
 ## 为什么使用这个案例库？
 
 - 真实案例展示，先看效果再复制 Prompt。
-- 完整提示词可直接展开查看，适合学习、改写和复用。
+- 完整提示词可直接展开查看，适合学习、改写、复制可运行 API 请求。
 - 覆盖热门视觉风格与常见创作场景，便于快速找到参考方向。
+- 每个图片链接都会打开 HiAPI Draw，并预填模型、Prompt 和画面比例。
 
 ## 使用指南
 
@@ -38,6 +41,7 @@
 2. 点击缩略图，将自动跳转至 HiAPI 打开对应提示词。
 3. 点击“提示词”查看本仓库里的完整内容。
 4. 替换人物、产品、城市、品牌和文案，打造自己的作品。
+5. 用下方 API Payload 模板把同一个配方接入你的应用。
 
 <div align="center">
 
@@ -47,6 +51,41 @@
 </div>
 
 > <sub>内容改编自<br><a href="https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe">https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe</a><br><a href="https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc">https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc</a><br>保留原作者署名与原帖链接；Prompt 文本和案例图片版权归原权利人所有。</sub>
+
+## HiAPI 公开入口
+
+Prompt Galleries 负责提供可验证的创意配方；Agent Skills 负责把模型装进 AI Agent；Remote MCP 负责让支持 MCP 的客户端发现更多工具；API Cookbook 负责给开发者直接复制请求参数。
+
+| Entry | Link | Use it for |
+| --- | --- | --- |
+| Prompt Galleries | [awesome-gpt-image-2-prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) | 真实效果图 + Prompt + HiAPI Draw 链接 |
+| Agent Skills | [hiapi-skills](https://github.com/HiAPIAI/hiapi-skills) | 安装单模型 Agent 工作流 |
+| Remote MCP | `https://mcp.hiapi.ai/mcp` | 让支持 MCP 的客户端发现 HiAPI 工具 |
+| API Cookbook | [docs.hiapi.ai](https://docs.hiapi.ai) | 复制 API 参数、模型说明和接入指南 |
+
+## API Payload 模板
+
+把下面的 `content` 和 `aspect_ratio` 替换成任意案例里的 Prompt 与比例即可运行。
+
+```json
+{
+  "model": "gpt-image-2",
+  "stream": false,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Paste or adapt a prompt from this gallery."
+    }
+  ],
+  "extra_body": {
+    "google": {
+      "image_config": {
+        "aspect_ratio": "1:1"
+      }
+    }
+  }
+}
+```
 
 ## 按类型浏览
 
