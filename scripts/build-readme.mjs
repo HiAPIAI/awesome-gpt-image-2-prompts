@@ -20,10 +20,6 @@ const hiapi = {
   skill: "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill",
 };
 
-const sourceUrl = "https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe";
-const sourceUrl2 = "https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc";
-const communitySourceUrl = "https://github.com/wuyoscar/gpt_image_2_skill";
-
 const copy = {
   zh: {
     file: "README.zh-CN.md",
@@ -45,16 +41,16 @@ const copy = {
       copy: "复制 Prompt",
     },
     intro:
-      `## 创意工坊 | GPT Image 2 API-ready Creative Recipes
+      `## 创意工坊 | GPT Image 2 实例画廊
 
-这不是单纯的提示词清单，而是一组可直接接入 API 的创意配方：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接，以及可改写成 API 请求的生成参数都放在一起。你可以先看效果，再复制可运行 API 请求的核心字段，把人物、产品、城市、品牌或文案换成自己的内容。
+这不是单纯的提示词清单，而是一组可以直接复用的视觉创作案例：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接都放在一起。你可以先看效果，再把人物、产品、城市、品牌或文案换成自己的内容。
 
-探索 ${data.items.length} 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计、模型测试和社区参考案例等场景。每个案例都附带真实效果图、完整 Prompt、原作者或来源署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
+探索 ${data.items.length} 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计、模型测试和高复用参考等场景。每个案例都附带真实效果图、完整 Prompt、原作者或来源署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
 
 ## 为什么使用这个案例库？
 
 - 真实案例展示，先看效果再复制 Prompt。
-- 完整提示词可直接展开查看，适合学习、改写、复制可运行 API 请求。
+- 完整提示词可直接展开查看，适合学习、改写和复制复用。
 - 覆盖热门视觉风格与常见创作场景，便于快速找到参考方向。
 - 每个图片链接都会打开 HiAPI Draw，并预填模型、Prompt 和画面比例。
 
@@ -64,12 +60,12 @@ const copy = {
 2. 点击缩略图，将自动跳转至 HiAPI 打开对应提示词。
 3. 点击“提示词”查看本仓库里的完整内容。
 4. 替换人物、产品、城市、品牌和文案，打造自己的作品。
-5. 用下方 API Payload 模板把同一个配方接入你的应用。`,
+5. 点击 HiAPI Draw 链接，或把 Prompt 复制到自己的工作流里。`,
     tipTitle: `由 <a href="${hiapi.zh.home}">HiAPI</a> 驱动 — 一个 API，所有 AI 模型`,
     tipText:
       `<br><a href="${hiapi.zh.model}">立即免费试用 GPT-Image-2 →</a>`,
     sourceNote:
-      `内容改编自<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>并吸收 MIT 许可社区参考项目 <a href="${communitySourceUrl}">wuyoscar/gpt_image_2_skill</a> 的精选案例。保留原作者、来源与原帖链接；Prompt 文本和案例图片版权归原权利人所有。`,
+      `整理自公开案例与社区参考，已保留原作者和来源链接。详细来源见 <a href="./NOTICE.md">NOTICE</a>。`,
     categoriesTitle: "按类型浏览",
     promptLink: "提示词",
     fullTitle: "完整 Prompt",
@@ -79,9 +75,6 @@ const copy = {
     author: "作者",
     ratio: "比例",
     language: "语言",
-    sourceTitle: "来源说明",
-    sourceText:
-      "本仓库是带署名的提示词索引与案例画廊，所有案例均保留原作者署名、作者主页链接和原帖链接。部分社区参考案例改编自 MIT 许可项目 wuyoscar/gpt_image_2_skill，并继续保留其来源信息。HiAPI 不主张拥有 Prompt 文本、案例图片、作者身份、第三方品牌名称或平台名称的权利，也不代表原作者或相关权利方授权商用复用。本仓库仅展示来源文档、原帖和社区参考项目中已经公开的作者昵称、作者主页和公开帖子链接，不收集私人联系方式、私密主页或其他非公开个人信息。如果你是原作者或权利方，希望调整署名、移除链接、删除可能涉及隐私的信息，或下架某个案例，请发邮件至 support@hiapi.ai。",
     licenseTitle: "授权说明",
     licenseText:
       "仓库代码、脚本、JSON 字段结构（key 名称和文件格式）、README 排版适用 MIT License。JSON 中的 Prompt 内容、案例图片、作者署名、第三方品牌名称及平台名称不属于 MIT 授权范围，版权归原权利人所有，除非其另行授权。请不要把本仓库理解为对 Prompt 文本、案例图片或第三方素材的再授权；公开展示、复制、改编或商业使用时，请遵守原作者、发布平台和相关权利方的要求。",
@@ -91,10 +84,6 @@ const copy = {
     ctaBrowse: "浏览图像模型",
     ctaDocs: "API 文档",
     ctaSkill: "安装 Skill",
-    matrixTitle: "HiAPI 公开入口",
-    matrixText: "Prompt Galleries 负责提供可验证的创意配方；Agent Skills 负责把模型装进 AI Agent；Remote MCP 负责让支持 MCP 的客户端发现更多工具；API Cookbook 负责给开发者直接复制请求参数。",
-    apiPayloadTitle: "API Payload 模板",
-    apiPayloadText: "把下面的 `content` 和 `aspect_ratio` 替换成任意案例里的 Prompt 与比例即可运行。",
     thanksTitle: "致谢",
     thanksText: "感谢所有公开分享案例的创作者。",
     countSuffix: "个案例",
@@ -119,16 +108,16 @@ const copy = {
       copy: "Copy Prompts",
     },
     intro:
-      `## Creative Workshop | GPT Image 2 API-ready Creative Recipes
+      `## Creative Workshop | GPT Image 2 Example Gallery
 
-This is not just a prompt list. It is a set of API-ready creative recipes: real output images, full prompts, aspect ratios, HiAPI Draw prefill links, and generation parameters you can turn into a runnable API payload. Inspect the output first. Copy a runnable API payload from the template below, then replace the subject, product, city, brand, or text.
+This is not just a prompt list. It is a set of reusable visual examples: real output images, full prompts, aspect ratios, and HiAPI Draw prefill links in one place. Inspect the output first, then replace the subject, product, city, brand, or text with your own.
 
-Explore ${data.items.length} curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and community reference picks. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
+Explore ${data.items.length} curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and reusable references. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
 
 ## Why Use This Gallery?
 
 - Real generated results: inspect the output before copying the prompt.
-- Full prompts are available in expandable sections for learning, editing, and copying into a runnable API payload.
+- Full prompts are available in expandable sections for learning, editing, and reuse.
 - Popular visual styles and common creative scenarios are organized for quick browsing.
 - Each image link opens HiAPI Draw with the model, prompt, and aspect ratio prefilled.
 
@@ -138,12 +127,12 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
 2. Click a thumbnail to open the matching prompt on HiAPI automatically.
 3. Click “Prompt” to read the full prompt inside this repository.
 4. Replace the character, product, city, brand, or copy to create your own result.
-5. Use the API Payload template below when you want to wire the same recipe into an app.`,
+5. Open the HiAPI Draw link, or copy the prompt into your own workflow.`,
     tipTitle: `Powered by <a href="${hiapi.en.home}">HiAPI</a> — One API, All AI Models`,
     tipText:
       `<br><a href="${hiapi.en.model}">Try GPT-Image-2 for free →</a>`,
     sourceNote:
-      `Adapted from<br><a href="${sourceUrl}">${sourceUrl}</a><br><a href="${sourceUrl2}">${sourceUrl2}</a><br>and selected examples from the MIT-licensed community reference project <a href="${communitySourceUrl}">wuyoscar/gpt_image_2_skill</a>. Creator/source attribution and original links are preserved; prompt text and example images remain with their original rightsholders.`,
+      `Curated from public examples and community references. Creator and source links are preserved. See <a href="./NOTICE.md">NOTICE</a> for source details.`,
     categoriesTitle: "Browse By Type",
     promptLink: "Prompt",
     fullTitle: "Full Prompts",
@@ -153,9 +142,6 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     author: "Author",
     ratio: "Ratio",
     language: "Language",
-    sourceTitle: "Source Notes",
-    sourceText:
-      "This repository is an attribution-preserving prompt index and example gallery. Every case keeps the original creator handle, creator profile link, and original post link. Some community reference cases are adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project while preserving source information. HiAPI does not claim ownership of prompt text, example images, creator identities, third-party brand names, or platform names, and it does not represent commercial reuse permission from the original creators or rightsholders. The repository only shows public creator handles, public creator profiles, and public post links that were already present in the source documents, original posts, and community reference project; it does not collect private contact details, private profiles, or other non-public personal information. If you are a creator or rightsholder and want attribution adjusted, a link removed, potentially private information removed, or an entry taken down, email support@hiapi.ai.",
     licenseTitle: "License",
     licenseText:
       "Repository code, scripts, JSON field structure (key names and file format), and README layout are MIT licensed. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by the MIT license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders.",
@@ -165,10 +151,6 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     ctaBrowse: "Browse image models",
     ctaDocs: "API Docs",
     ctaSkill: "Install Skill",
-    matrixTitle: "HiAPI Public Entries",
-    matrixText: "Prompt Galleries provide verified creative recipes. Agent Skills install focused model workflows into AI Agents. Remote MCP lets compatible clients discover more HiAPI tools. API Cookbook gives developers direct request shapes and parameters.",
-    apiPayloadTitle: "API Payload Template",
-    apiPayloadText: "Replace `content` and `aspect_ratio` with any case prompt and ratio from this gallery.",
     thanksTitle: "Acknowledgements",
     thanksText: "Thanks to all creators who shared these cases publicly.",
     countSuffix: "cases",
@@ -363,50 +345,6 @@ function statsTable(locale, t) {
   return `${headers}\n${rows}`;
 }
 
-function publicEntrySection(t, locale) {
-  const promptLabel = locale === "zh" ? "真实效果图 + Prompt + HiAPI Draw 链接" : "Real output images + prompts + HiAPI Draw links";
-  const skillLabel = locale === "zh" ? "安装单模型 Agent 工作流" : "Install focused single-model agent workflows";
-  const mcpLabel = locale === "zh" ? "让支持 MCP 的客户端发现 HiAPI 工具" : "Let MCP-compatible clients discover HiAPI tools";
-  const docsLabel = locale === "zh" ? "复制 API 参数、模型说明和接入指南" : "Copy API parameters, model docs, and integration guides";
-
-  return `## ${t.matrixTitle}
-
-${t.matrixText}
-
-| Entry | Link | Use it for |
-| --- | --- | --- |
-| Prompt Galleries | [awesome-gpt-image-2-prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) | ${promptLabel} |
-| Agent Skills | [hiapi-skills](https://github.com/HiAPIAI/hiapi-skills) | ${skillLabel} |
-| Remote MCP | \`https://mcp.hiapi.ai/mcp\` | ${mcpLabel} |
-| API Cookbook | [docs.hiapi.ai](https://docs.hiapi.ai) | ${docsLabel} |`;
-}
-
-function apiPayloadSection(t) {
-  return `## ${t.apiPayloadTitle}
-
-${t.apiPayloadText}
-
-\`\`\`json
-{
-  "model": "gpt-image-2",
-  "stream": false,
-  "messages": [
-    {
-      "role": "user",
-      "content": "Paste or adapt a prompt from this gallery."
-    }
-  ],
-  "extra_body": {
-    "google": {
-      "image_config": {
-        "aspect_ratio": "1:1"
-      }
-    }
-  }
-}
-\`\`\``;
-}
-
 function galleryTable(items, locale, t) {
   const rows = [];
   for (let i = 0; i < items.length; i += 3) {
@@ -551,10 +489,6 @@ ${t.tipText}
 
 > <sub>${t.sourceNote}</sub>
 
-${publicEntrySection(t, locale)}
-
-${apiPayloadSection(t)}
-
 ## ${t.categoriesTitle}
 
 ${categoryLinks}
@@ -568,12 +502,6 @@ ${galleryBlocks(locale, t)}
 ${t.detailsHint}
 
 ${promptDetails(locale, t)}
-
-## ${t.sourceTitle}
-
-${t.sourceText}
-
-- [NOTICE.md](NOTICE.md)
 
 ## ${t.licenseTitle}
 

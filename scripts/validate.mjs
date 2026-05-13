@@ -66,16 +66,16 @@ const expectedAspectRatios = new Map([
 ]);
 
 const requiredRightsLanguage = new Map([
-  ["README.md", ["original rightsholders", "private", "support@hiapi.ai"]],
-  ["README.zh-CN.md", ["原权利人", "非公开个人信息", "support@hiapi.ai"]],
+  ["README.md", ["original rightsholders", "NOTICE.md"]],
+  ["README.zh-CN.md", ["原权利人", "NOTICE.md"]],
   ["NOTICE.md", ["not a relicensing", "非公开个人信息", "support@hiapi.ai"]],
   ["LICENSE", ["Prompt text", "example images", "original rightsholders"]],
   ["llms.txt", ["not as HiAPI ownership", "non-public profile information", "support@hiapi.ai"]],
 ]);
 
 const requiredPublicPositioning = new Map([
-  ["README.md", ["API-ready creative recipes", "Copy a runnable API payload", "Prompt Galleries", "Agent Skills", "Remote MCP"]],
-  ["README.zh-CN.md", ["可直接接入 API 的创意配方", "复制可运行 API 请求", "Prompt Galleries", "Agent Skills", "Remote MCP"]],
+  ["README.md", ["GPT Image 2 Example Gallery", "HiAPI Draw", "Curated References", "Open the HiAPI Draw link"]],
+  ["README.zh-CN.md", ["GPT Image 2 实例画廊", "HiAPI Draw", "精选参考案例", "点击 HiAPI Draw 链接"]],
   ["llms.txt", ["API-ready creative recipes", "runnable API payload", "https://github.com/HiAPIAI/hiapi-skills"]],
 ]);
 

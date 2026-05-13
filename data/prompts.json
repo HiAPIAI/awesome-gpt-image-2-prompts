@@ -3,11 +3,11 @@
   "model": "gpt-image-2",
   "updated_at": "2026-05-12",
   "source": {
-    "name": "Feishu source collection plus MIT community reference picks",
+    "name": "Curated public prompt sources",
     "url": "https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe",
     "secondary_url": "https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc",
     "community_url": "https://github.com/wuyoscar/gpt_image_2_skill",
-    "note": "Adapted from source Feishu collections and selected MIT-licensed community reference picks. Keep original creator/source attribution when reusing."
+    "note": "Curated from public prompt sources. Keep original creator/source attribution when reusing."
   },
   "categories": [
     {
@@ -47,10 +47,10 @@
     },
     {
       "id": "community-reference",
-      "zh": "社区精选参考",
-      "en": "Community Reference Picks",
-      "description_zh": "来自 MIT 许可仓库 wuyoscar/gpt_image_2_skill 的社区与策展案例，覆盖游戏、科研配图、海报、信息图、产品和角色设计。",
-      "description_en": "Community and curated examples adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project, spanning games, research figures, posters, infographics, products, and character design."
+      "zh": "精选参考案例",
+      "en": "Curated References",
+      "description_zh": "游戏画面、科研配图、信息图、产品视觉和角色设定等高复用参考。",
+      "description_en": "Reusable references for game scenes, research figures, infographics, product visuals, and character concepts."
     }
   ],
   "items": [

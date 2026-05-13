@@ -22,16 +22,16 @@
 
 ---
 
-## Creative Workshop | GPT Image 2 API-ready Creative Recipes
+## Creative Workshop | GPT Image 2 Example Gallery
 
-This is not just a prompt list. It is a set of API-ready creative recipes: real output images, full prompts, aspect ratios, HiAPI Draw prefill links, and generation parameters you can turn into a runnable API payload. Inspect the output first. Copy a runnable API payload from the template below, then replace the subject, product, city, brand, or text.
+This is not just a prompt list. It is a set of reusable visual examples: real output images, full prompts, aspect ratios, and HiAPI Draw prefill links in one place. Inspect the output first, then replace the subject, product, city, brand, or text with your own.
 
-Explore 118 curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and community reference picks. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
+Explore 118 curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and reusable references. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
 
 ## Why Use This Gallery?
 
 - Real generated results: inspect the output before copying the prompt.
-- Full prompts are available in expandable sections for learning, editing, and copying into a runnable API payload.
+- Full prompts are available in expandable sections for learning, editing, and reuse.
 - Popular visual styles and common creative scenarios are organized for quick browsing.
 - Each image link opens HiAPI Draw with the model, prompt, and aspect ratio prefilled.
 
@@ -41,7 +41,7 @@ Explore 118 curated visual generation cases across portraits, commercial posters
 2. Click a thumbnail to open the matching prompt on HiAPI automatically.
 3. Click “Prompt” to read the full prompt inside this repository.
 4. Replace the character, product, city, brand, or copy to create your own result.
-5. Use the API Payload template below when you want to wire the same recipe into an app.
+5. Open the HiAPI Draw link, or copy the prompt into your own workflow.
 
 <div align="center">
 
@@ -50,46 +50,11 @@ Explore 118 curated visual generation cases across portraits, commercial posters
 
 </div>
 
-> <sub>Adapted from<br><a href="https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe">https://waytoagi.feishu.cn/wiki/PjxpwWFXriCdQnkVXBecyGqZnIe</a><br><a href="https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc">https://waytoagi.feishu.cn/wiki/CjY1wfzWdiIyAIkpp5ScPSuQnMc</a><br>and selected examples from the MIT-licensed community reference project <a href="https://github.com/wuyoscar/gpt_image_2_skill">wuyoscar/gpt_image_2_skill</a>. Creator/source attribution and original links are preserved; prompt text and example images remain with their original rightsholders.</sub>
-
-## HiAPI Public Entries
-
-Prompt Galleries provide verified creative recipes. Agent Skills install focused model workflows into AI Agents. Remote MCP lets compatible clients discover more HiAPI tools. API Cookbook gives developers direct request shapes and parameters.
-
-| Entry | Link | Use it for |
-| --- | --- | --- |
-| Prompt Galleries | [awesome-gpt-image-2-prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) | Real output images + prompts + HiAPI Draw links |
-| Agent Skills | [hiapi-skills](https://github.com/HiAPIAI/hiapi-skills) | Install focused single-model agent workflows |
-| Remote MCP | `https://mcp.hiapi.ai/mcp` | Let MCP-compatible clients discover HiAPI tools |
-| API Cookbook | [docs.hiapi.ai](https://docs.hiapi.ai) | Copy API parameters, model docs, and integration guides |
-
-## API Payload Template
-
-Replace `content` and `aspect_ratio` with any case prompt and ratio from this gallery.
-
-```json
-{
-  "model": "gpt-image-2",
-  "stream": false,
-  "messages": [
-    {
-      "role": "user",
-      "content": "Paste or adapt a prompt from this gallery."
-    }
-  ],
-  "extra_body": {
-    "google": {
-      "image_config": {
-        "aspect_ratio": "1:1"
-      }
-    }
-  }
-}
-```
+> <sub>Curated from public examples and community references. Creator and source links are preserved. See <a href="./NOTICE.md">NOTICE</a> for source details.</sub>
 
 ## Browse By Type
 
-[Portrait & Photography](#gallery-portrait-photography) · [Poster & Illustration](#gallery-poster-illustration) · [Character Design](#gallery-character-design) · [UI & Social Mockups](#gallery-ui-social) · [Model Tests & Community](#gallery-comparison-community) · [Community Reference Picks](#gallery-community-reference)
+[Portrait & Photography](#gallery-portrait-photography) · [Poster & Illustration](#gallery-poster-illustration) · [Character Design](#gallery-character-design) · [UI & Social Mockups](#gallery-ui-social) · [Model Tests & Community](#gallery-comparison-community) · [Curated References](#gallery-community-reference)
 
 | Category | Count | Best For |
 | --- | ---: | --- |
@@ -98,7 +63,7 @@ Replace `content` and `aspect_ratio` with any case prompt and ratio from this ga
 | [Character Design](#gallery-character-design) | 7 | Character sheets, anime frames, key visuals, and character worldbuilding. |
 | [UI & Social Mockups](#gallery-ui-social) | 21 | App screens, social pages, livestream screenshots, info cards, and mobile UI. |
 | [Model Tests & Community](#gallery-comparison-community) | 15 | Counting, text rendering, game screenshots, complex scenes, and model tests. |
-| [Community Reference Picks](#gallery-community-reference) | 17 | Community and curated examples adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project, spanning games, research figures, posters, infographics, products, and character design. |
+| [Curated References](#gallery-community-reference) | 17 | Reusable references for game scenes, research figures, infographics, product visuals, and character concepts. |
 
 <a id="gallery-portrait-photography"></a>
 
@@ -318,9 +283,9 @@ Counting, text rendering, game screenshots, complex scenes, and model tests.
 
 <a id="gallery-community-reference"></a>
 
-### Community Reference Picks · 17 cases
+### Curated References · 17 cases
 
-Community and curated examples adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project, spanning games, research figures, posters, infographics, products, and character design.
+Reusable references for game scenes, research figures, infographics, product visuals, and character concepts.
 
 <table>
   <tr>
@@ -2528,7 +2493,7 @@ Author: [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn) · Ratio: `auto` · La
 
 <a id="details-community-reference"></a>
 
-## Community Reference Picks
+## Curated References
 
 <a id="community-reddit-10"></a>
 
@@ -2818,12 +2783,6 @@ Create a chaotic security-camera still from a 1990s grocery store. A man in full
 ```
 
 </details>
-
-## Source Notes
-
-This repository is an attribution-preserving prompt index and example gallery. Every case keeps the original creator handle, creator profile link, and original post link. Some community reference cases are adapted from the MIT-licensed wuyoscar/gpt_image_2_skill project while preserving source information. HiAPI does not claim ownership of prompt text, example images, creator identities, third-party brand names, or platform names, and it does not represent commercial reuse permission from the original creators or rightsholders. The repository only shows public creator handles, public creator profiles, and public post links that were already present in the source documents, original posts, and community reference project; it does not collect private contact details, private profiles, or other non-public personal information. If you are a creator or rightsholder and want attribution adjusted, a link removed, potentially private information removed, or an entry taken down, email support@hiapi.ai.
-
-- [NOTICE.md](NOTICE.md)
 
 ## License
 
