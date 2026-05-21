@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://www.hiapi.ai/en"><img src="./images/cover.svg" alt="Awesome GPT Image 2 Prompts" width="100%"></a>
+<a href="https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/cover.svg" alt="Awesome GPT Image 2 Prompts" width="100%"></a>
 
-[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en)
-[![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register)
-[![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/gpt-image-2)
-[![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
+[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ![118 Prompts](https://img.shields.io/badge/118%20Prompts-f97316)
 ![6 Categories](https://img.shields.io/badge/6%20Categories-111827)
@@ -16,7 +16,7 @@
 
 **A curated GPT Image 2 prompt gallery.**
 
-[HiAPI](https://www.hiapi.ai/en) · [GPT Image 2](https://www.hiapi.ai/en/models/gpt-image-2) · [API Key](https://www.hiapi.ai/en/register) · [Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill) · [简体中文](README.zh-CN.md)
+[HiAPI](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [GPT Image 2](https://www.hiapi.ai/en/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [API Key](https://www.hiapi.ai/en/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill) · [简体中文](README.zh-CN.md)
 
 </div>
 
@@ -45,12 +45,36 @@ Explore 118 curated visual generation cases across portraits, commercial posters
 
 <div align="center">
 
-<b>Powered by <a href="https://www.hiapi.ai/en">HiAPI</a> — One API, All AI Models</b><br>
-<br><a href="https://www.hiapi.ai/en/models/gpt-image-2">Try GPT-Image-2 for free →</a>
+<b>Powered by <a href="https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts">HiAPI</a> — One API, All AI Models</b><br>
+<br><a href="https://www.hiapi.ai/en/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts">Try GPT-Image-2 for free →</a>
 
 </div>
 
 > <sub>Curated from public examples and community references. Creator and source links are preserved. See <a href="./NOTICE.md">NOTICE</a> for source details.</sub>
+
+## Use as API
+
+HiAPI is OpenAI-compatible — point any OpenAI SDK at `https://api.hiapi.ai` and use the same shape. Minimal `curl` example:
+
+```bash
+curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
+  -H "Authorization: Bearer $HIAPI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-image-2",
+    "stream": false,
+    "messages": [
+      { "role": "user", "content": "Paste a prompt copied from any case here" }
+    ],
+    "extra_body": {
+      "google": {
+        "image_config": { "aspect_ratio": "16:9" }
+      }
+    }
+  }'
+```
+
+The generated image is returned as a Markdown data URI in `choices[0].message.content`. If you want an AI Agent to call this for you, install [hiapi-gpt-image-2-skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill).
 
 ## Browse By Type
 
@@ -2796,9 +2820,9 @@ Repository code, scripts, JSON field structure (key names and file format), and 
 
 GPT Image 2, Flux, and more — one API key for all major image models, pay as you go.
 
-**[Generate on HiAPI →](https://www.hiapi.ai/en/models/gpt-image-2)**
+**[Generate on HiAPI →](https://www.hiapi.ai/en/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)**
 
-[Browse image models](https://www.hiapi.ai/en) · [API Docs](https://docs.hiapi.ai) · [Install Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
+[Browse image models](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Install Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
 
 </div>
 

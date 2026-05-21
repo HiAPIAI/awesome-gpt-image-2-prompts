@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://www.hiapi.ai/zh"><img src="./images/cover.zh-CN.svg" alt="Awesome GPT Image 2 Prompts" width="100%"></a>
+<a href="https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/cover.zh-CN.svg" alt="Awesome GPT Image 2 Prompts" width="100%"></a>
 
-[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/zh)
-[![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/zh/register)
-[![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/zh/models/gpt-image-2)
-[![文档](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
+[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/zh/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/zh/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![文档](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ![118 个提示词](https://img.shields.io/badge/118%20%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D-f97316)
 ![6 个分类](https://img.shields.io/badge/6%20%E4%B8%AA%E5%88%86%E7%B1%BB-111827)
@@ -16,7 +16,7 @@
 
 **一份精选的 GPT Image 2 提示词画廊。**
 
-[HiAPI](https://www.hiapi.ai/zh) · [GPT Image 2](https://www.hiapi.ai/zh/models/gpt-image-2) · [API Key](https://www.hiapi.ai/zh/register) · [Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill) · [English](README.md)
+[HiAPI](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [GPT Image 2](https://www.hiapi.ai/zh/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [API Key](https://www.hiapi.ai/zh/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill) · [English](README.md)
 
 </div>
 
@@ -45,12 +45,36 @@
 
 <div align="center">
 
-<b>由 <a href="https://www.hiapi.ai/zh">HiAPI</a> 驱动 — 一个 API，所有 AI 模型</b><br>
-<br><a href="https://www.hiapi.ai/zh/models/gpt-image-2">立即免费试用 GPT-Image-2 →</a>
+<b>由 <a href="https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts">HiAPI</a> 驱动 — 一个 API，所有 AI 模型</b><br>
+<br><a href="https://www.hiapi.ai/zh/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts">立即免费试用 GPT-Image-2 →</a>
 
 </div>
 
 > <sub>整理自公开案例与社区参考，已保留原作者和来源链接。详细来源见 <a href="./NOTICE.md">NOTICE</a>。</sub>
+
+## 作为 API 调用
+
+HiAPI 提供 OpenAI 兼容接口，可在任意 OpenAI SDK 中把 base URL 切到 `https://api.hiapi.ai` 直接使用。下面是最简 `curl` 示例：
+
+```bash
+curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
+  -H "Authorization: Bearer $HIAPI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-image-2",
+    "stream": false,
+    "messages": [
+      { "role": "user", "content": "把这里换成你从案例里复制的提示词" }
+    ],
+    "extra_body": {
+      "google": {
+        "image_config": { "aspect_ratio": "16:9" }
+      }
+    }
+  }'
+```
+
+返回的图片以 Markdown data URI 形式出现在 `choices[0].message.content`。若希望让 AI Agent 直接调用，请安装 [hiapi-gpt-image-2-skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)。
 
 ## 按类型浏览
 
@@ -2796,9 +2820,9 @@ Create a chaotic security-camera still from a 1990s grocery store. A man in full
 
 GPT Image 2、Flux 等主流图像模型，一个 API Key 统一接入，按量计费无需订阅。
 
-**[在 HiAPI 生成图像 →](https://www.hiapi.ai/zh/models/gpt-image-2)**
+**[在 HiAPI 生成图像 →](https://www.hiapi.ai/zh/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)**
 
-[浏览图像模型](https://www.hiapi.ai/zh) · [API 文档](https://docs.hiapi.ai) · [安装 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
+[浏览图像模型](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [API 文档](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [安装 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
 
 </div>
 
