@@ -5,18 +5,28 @@ import path from "node:path";
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const data = JSON.parse(fs.readFileSync(path.join(root, "data", "prompts.json"), "utf8"));
 
+const REPO_SLUG = "awesome-gpt-image-2-prompts";
+
+function withUtm(url, medium = "readme") {
+  const u = new URL(url);
+  u.searchParams.set("utm_source", "github");
+  u.searchParams.set("utm_medium", medium);
+  u.searchParams.set("utm_campaign", REPO_SLUG);
+  return u.toString();
+}
+
 const hiapi = {
   zh: {
-    home: "https://www.hiapi.ai/zh",
-    key: "https://www.hiapi.ai/zh/register",
-    model: "https://www.hiapi.ai/zh/models/gpt-image-2",
+    home: withUtm("https://www.hiapi.ai/zh"),
+    key: withUtm("https://www.hiapi.ai/zh/register"),
+    model: withUtm("https://www.hiapi.ai/zh/models/gpt-image-2"),
   },
   en: {
-    home: "https://www.hiapi.ai/en",
-    key: "https://www.hiapi.ai/en/register",
-    model: "https://www.hiapi.ai/en/models/gpt-image-2",
+    home: withUtm("https://www.hiapi.ai/en"),
+    key: withUtm("https://www.hiapi.ai/en/register"),
+    model: withUtm("https://www.hiapi.ai/en/models/gpt-image-2"),
   },
-  docs: "https://docs.hiapi.ai",
+  docs: withUtm("https://docs.hiapi.ai"),
   skill: "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill",
 };
 
@@ -84,6 +94,28 @@ const copy = {
     ctaBrowse: "浏览图像模型",
     ctaDocs: "API 文档",
     ctaSkill: "安装 Skill",
+    apiTitle: "作为 API 调用",
+    apiBody: `HiAPI 提供 OpenAI 兼容接口，可在任意 OpenAI SDK 中把 base URL 切到 \`https://api.hiapi.ai\` 直接使用。下面是最简 \`curl\` 示例：
+
+\`\`\`bash
+curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
+  -H "Authorization: Bearer $HIAPI_API_KEY" \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "model": "gpt-image-2",
+    "stream": false,
+    "messages": [
+      { "role": "user", "content": "把这里换成你从案例里复制的提示词" }
+    ],
+    "extra_body": {
+      "google": {
+        "image_config": { "aspect_ratio": "16:9" }
+      }
+    }
+  }'
+\`\`\`
+
+返回的图片以 Markdown data URI 形式出现在 \`choices[0].message.content\`。若希望让 AI Agent 直接调用，请安装 [hiapi-gpt-image-2-skill](${hiapi.skill})。`,
     thanksTitle: "致谢",
     thanksText: "感谢所有公开分享案例的创作者。",
     countSuffix: "个案例",
@@ -151,6 +183,28 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     ctaBrowse: "Browse image models",
     ctaDocs: "API Docs",
     ctaSkill: "Install Skill",
+    apiTitle: "Use as API",
+    apiBody: `HiAPI is OpenAI-compatible — point any OpenAI SDK at \`https://api.hiapi.ai\` and use the same shape. Minimal \`curl\` example:
+
+\`\`\`bash
+curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
+  -H "Authorization: Bearer $HIAPI_API_KEY" \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "model": "gpt-image-2",
+    "stream": false,
+    "messages": [
+      { "role": "user", "content": "Paste a prompt copied from any case here" }
+    ],
+    "extra_body": {
+      "google": {
+        "image_config": { "aspect_ratio": "16:9" }
+      }
+    }
+  }'
+\`\`\`
+
+The generated image is returned as a Markdown data URI in \`choices[0].message.content\`. If you want an AI Agent to call this for you, install [hiapi-gpt-image-2-skill](${hiapi.skill}).`,
     thanksTitle: "Acknowledgements",
     thanksText: "Thanks to all creators who shared these cases publicly.",
     countSuffix: "cases",
@@ -488,6 +542,10 @@ ${t.tipText}
 </div>
 
 > <sub>${t.sourceNote}</sub>
+
+## ${t.apiTitle}
+
+${t.apiBody}
 
 ## ${t.categoriesTitle}
 
