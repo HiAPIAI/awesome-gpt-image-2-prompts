@@ -5,6 +5,15 @@ import path from "node:path";
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const data = JSON.parse(fs.readFileSync(path.join(root, "data", "prompts.json"), "utf8"));
 
+const newsPath = path.join(root, "data", "news.json");
+const news = fs.existsSync(newsPath)
+  ? JSON.parse(fs.readFileSync(newsPath, "utf8"))
+  : { items: [] };
+
+const TEASER_PER_CATEGORY = 6;
+const NEWS_VISIBLE = 5;
+const CASES_DIR = "cases";
+
 const REPO_SLUG = "awesome-gpt-image-2-prompts";
 
 function withUtm(url, medium = "readme") {
@@ -94,31 +103,35 @@ const copy = {
     ctaBrowse: "浏览图像模型",
     ctaDocs: "API 文档",
     ctaSkill: "安装 Skill",
-    apiTitle: "作为 API 调用",
-    apiBody: `HiAPI 提供 OpenAI 兼容接口，可在任意 OpenAI SDK 中把 base URL 切到 \`https://api.hiapi.ai\` 直接使用。下面是最简 \`curl\` 示例：
-
-\`\`\`bash
-curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
-  -H "Authorization: Bearer $HIAPI_API_KEY" \\
-  -H "Content-Type: application/json" \\
-  -d '{
-    "model": "gpt-image-2",
-    "stream": false,
-    "messages": [
-      { "role": "user", "content": "把这里换成你从案例里复制的提示词" }
-    ],
-    "extra_body": {
-      "google": {
-        "image_config": { "aspect_ratio": "16:9" }
-      }
-    }
-  }'
-\`\`\`
-
-返回的图片以 Markdown data URI 形式出现在 \`choices[0].message.content\`。若希望让 AI Agent 直接调用，请安装 [hiapi-gpt-image-2-skill](${hiapi.skill})。`,
     thanksTitle: "致谢",
     thanksText: "感谢所有公开分享案例的创作者。",
     countSuffix: "个案例",
+    news: {
+      title: "新动态",
+      empty: "暂无更新。",
+    },
+    api: {
+      title: "作为 API 调用",
+      intro: "找到喜欢的效果后，下面四种方式都能把同一段 Prompt 跑成你的素材。所有方式都用同一个 HIAPI_API_KEY。",
+      curlTitle: "1. 直接调用 API（OpenAI 兼容）",
+      curlHint: "返回的图片以 Markdown data URI 形式出现在 `choices[0].message.content`。",
+      mcpTitle: "2. 远程 MCP（聊天 Agent 即接即用）",
+      mcpHint: "把这段加到支持远程 MCP 的客户端里。",
+      skillTitle: "3. Agent Skill（一行命令安装）",
+      skillHint: "脚本会自动检测常见本地 Agent skill 目录，支持 `--codex` / `--target=/path` / `AGENT_SKILLS_DIR`。",
+      drawTitle: "4. HiAPI Draw 网页（不写代码）",
+      drawHint: "本仓库每张图都已经预填好对应的 Prompt、模型、比例，点击即可生成。",
+    },
+    teaser: {
+      browseAll: (n) => `浏览全部 ${n} 个案例 →`,
+      highlightsHint: "下面是精选缩略图，更多案例请点击「浏览全部」。",
+    },
+    casePage: {
+      backToReadme: "← 返回主目录",
+      subtitlePrefix: "案例库 ·",
+      hiapiCta: "在 HiAPI 生成",
+      relatedTitle: "继续浏览其他分类",
+    },
   },
   en: {
     file: "README.md",
@@ -183,31 +196,35 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     ctaBrowse: "Browse image models",
     ctaDocs: "API Docs",
     ctaSkill: "Install Skill",
-    apiTitle: "Use as API",
-    apiBody: `HiAPI is OpenAI-compatible — point any OpenAI SDK at \`https://api.hiapi.ai\` and use the same shape. Minimal \`curl\` example:
-
-\`\`\`bash
-curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
-  -H "Authorization: Bearer $HIAPI_API_KEY" \\
-  -H "Content-Type: application/json" \\
-  -d '{
-    "model": "gpt-image-2",
-    "stream": false,
-    "messages": [
-      { "role": "user", "content": "Paste a prompt copied from any case here" }
-    ],
-    "extra_body": {
-      "google": {
-        "image_config": { "aspect_ratio": "16:9" }
-      }
-    }
-  }'
-\`\`\`
-
-The generated image is returned as a Markdown data URI in \`choices[0].message.content\`. If you want an AI Agent to call this for you, install [hiapi-gpt-image-2-skill](${hiapi.skill}).`,
     thanksTitle: "Acknowledgements",
     thanksText: "Thanks to all creators who shared these cases publicly.",
     countSuffix: "cases",
+    news: {
+      title: "What's New",
+      empty: "No news yet.",
+    },
+    api: {
+      title: "Use as API",
+      intro: "Once you find an output you like, any of the four paths below will run the same prompt for you. All use the same HIAPI_API_KEY.",
+      curlTitle: "1. Direct API call (OpenAI-compatible)",
+      curlHint: "The generated image is returned as a Markdown data URI in `choices[0].message.content`.",
+      mcpTitle: "2. Remote MCP (drop into any chat agent)",
+      mcpHint: "Paste this into any client that supports remote MCP URLs.",
+      skillTitle: "3. Agent Skill (one-command install)",
+      skillHint: "Installer auto-detects common local agent skill directories; flags: `--codex`, `--target=/path`, or `AGENT_SKILLS_DIR`.",
+      drawTitle: "4. HiAPI Draw web (no code)",
+      drawHint: "Every image in this repo links to HiAPI Draw with the model, prompt, and aspect ratio prefilled — just click and generate.",
+    },
+    teaser: {
+      browseAll: (n) => `Browse all ${n} cases →`,
+      highlightsHint: "These are the featured thumbnails. Open the category page for the full set.",
+    },
+    casePage: {
+      backToReadme: "← Back to main gallery",
+      subtitlePrefix: "Cases ·",
+      hiapiCta: "Generate on HiAPI",
+      relatedTitle: "Browse other categories",
+    },
   },
 };
 
@@ -280,6 +297,14 @@ function categoryCounts() {
       data.items.filter((item) => item.category === category.id).length,
     ])
   );
+}
+
+function caseFileName(category, locale) {
+  return locale === "zh" ? `${category.id}.zh-CN.md` : `${category.id}.md`;
+}
+
+function caseRelativePathFromReadme(category, locale) {
+  return `./${CASES_DIR}/${caseFileName(category, locale)}`;
 }
 
 function writeCover() {
@@ -390,7 +415,8 @@ function statsTable(locale, t) {
     .map((category) => {
       const name = categoryName(category, locale);
       const count = counts.get(category.id);
-      return `| [${name}](#gallery-${category.id}) | ${count} | ${categoryDescription(category, locale)} |`;
+      const href = caseRelativePathFromReadme(category, locale);
+      return `| [${name}](${href}) | ${count} | ${categoryDescription(category, locale)} |`;
     })
     .join("\n");
   const headers = locale === "zh"
@@ -399,7 +425,9 @@ function statsTable(locale, t) {
   return `${headers}\n${rows}`;
 }
 
-function galleryTable(items, locale, t) {
+function galleryTable(items, locale, t, opts = {}) {
+  const promptHrefFor = opts.promptHrefFor ?? ((item) => `#${item.id}`);
+  const imageHrefFor = opts.imageHrefFor ?? ((item) => imagePath(item));
   const rows = [];
   for (let i = 0; i < items.length; i += 3) {
     const chunk = items.slice(i, i + 3);
@@ -408,7 +436,7 @@ function galleryTable(items, locale, t) {
         chunk
           .map((item) => {
             const title = titleFor(item, locale);
-            return `    <td align="center" width="33%" valign="top"><a href="${escapeHtml(generationHref(item, locale))}"><img src="${imagePath(item)}" width="250" alt="${escapeHtml(title)}"></a><br><sub><b>Case ${String(item.case_number).padStart(3, "0")}</b> · <a href="#${item.id}">${t.promptLink}</a></sub><br><sub><a href="${escapeHtml(sourceHref(item))}">${escapeHtml(title)}</a> · <a href="${escapeHtml(item.author_url)}">${escapeHtml(item.author)}</a></sub></td>`;
+            return `    <td align="center" width="33%" valign="top"><a href="${escapeHtml(generationHref(item, locale))}"><img src="${imageHrefFor(item)}" width="250" alt="${escapeHtml(title)}"></a><br><sub><b>Case ${String(item.case_number).padStart(3, "0")}</b> · <a href="${promptHrefFor(item)}">${t.promptLink}</a></sub><br><sub><a href="${escapeHtml(sourceHref(item))}">${escapeHtml(title)}</a> · <a href="${escapeHtml(item.author_url)}">${escapeHtml(item.author)}</a></sub></td>`;
           })
           .join("\n") +
         "\n  </tr>"
@@ -417,24 +445,31 @@ function galleryTable(items, locale, t) {
   return `<table>\n${rows.join("\n")}\n</table>`;
 }
 
-function galleryBlocks(locale, t) {
+function galleryTeasers(locale, t) {
   return data.categories
     .map((category) => {
       const items = data.items.filter((item) => item.category === category.id);
+      const visible = items.slice(0, TEASER_PER_CATEGORY);
+      const casePage = caseRelativePathFromReadme(category, locale);
+      const browseAll = t.teaser.browseAll(items.length);
       return `<a id="gallery-${category.id}"></a>
 
-### ${categoryName(category, locale)} · ${items.length} ${t.countSuffix}
+### [${categoryName(category, locale)}](${casePage}) · ${items.length} ${t.countSuffix}
 
 ${categoryDescription(category, locale)}
 
-${galleryTable(items, locale, t)}`;
+${galleryTable(visible, locale, t, { promptHrefFor: (item) => `${casePage}#${item.id}` })}
+
+**[${browseAll}](${casePage})**`;
     })
     .join("\n\n");
 }
 
-function variantTable(item, title, t, locale) {
+function variantTable(item, title, t, locale, opts = {}) {
+  const imagePrefix = opts.imagePrefix ?? "";
+  const mainSrc = `${imagePrefix}${imagePath(item).replace(/^\.\//, "")}`;
   if (!item.prompt_variants) {
-    return `<p align="center"><a href="${escapeHtml(generationHref(item, locale))}"><img src="${imagePath(item)}" width="560" alt="${escapeHtml(title)}"></a></p>`;
+    return `<p align="center"><a href="${escapeHtml(generationHref(item, locale))}"><img src="${mainSrc}" width="560" alt="${escapeHtml(title)}"></a></p>`;
   }
 
   const rows = [];
@@ -443,7 +478,10 @@ function variantTable(item, title, t, locale) {
     rows.push(
       "  <tr>\n" +
         chunk
-          .map((variant) => `    <td align="center" width="50%" valign="top"><a href="${escapeHtml(generationHref(item, locale, variant.prompt))}"><img src="./${variant.image}" width="320" alt="${escapeHtml(`${title} ${t.promptLink} ${variant.label}`)}"></a><br><sub><b>${t.promptLink} ${variant.label}</b></sub></td>`)
+          .map((variant) => {
+            const variantSrc = `${imagePrefix}${variant.image.replace(/^\.\//, "")}`;
+            return `    <td align="center" width="50%" valign="top"><a href="${escapeHtml(generationHref(item, locale, variant.prompt))}"><img src="${variantSrc}" width="320" alt="${escapeHtml(`${title} ${t.promptLink} ${variant.label}`)}"></a><br><sub><b>${t.promptLink} ${variant.label}</b></sub></td>`;
+          })
           .join("\n") +
         "\n  </tr>"
     );
@@ -468,20 +506,17 @@ ${variant.prompt}
     .join("\n\n");
 }
 
-function promptDetails(locale, t) {
-  return data.categories
-    .map((category) => {
-      const items = data.items.filter((item) => item.category === category.id);
-      const itemBlocks = items
-        .map((item) => {
-          const title = titleFor(item, locale);
-          return `<a id="${item.id}"></a>
+function promptDetailsForItems(items, locale, t, opts = {}) {
+  return items
+    .map((item) => {
+      const title = titleFor(item, locale);
+      return `<a id="${item.id}"></a>
 
 ### Case ${String(item.case_number).padStart(3, "0")}: [${title}](${sourceHref(item)})
 
 ${t.author}: [${item.author}](${item.author_url}) · ${t.ratio}: \`${item.aspect_ratio}\` · ${t.language}: \`${languageLabel(item.prompt_language)}\`
 
-${variantTable(item, title, t, locale)}
+${variantTable(item, title, t, locale, opts)}
 
 <details>
 <summary><b>${escapeSummary(t.promptSummary)}</b></summary>
@@ -489,15 +524,142 @@ ${variantTable(item, title, t, locale)}
 ${promptCodeBlock(item, t)}
 
 </details>`;
-        })
-        .join("\n\n");
-      return `<a id="details-${category.id}"></a>
-
-## ${categoryName(category, locale)}
-
-${itemBlocks}`;
     })
     .join("\n\n");
+}
+
+function newsBlock(locale, t) {
+  if (!news.items?.length) {
+    return `## ${t.news.title}\n\n${t.news.empty}`;
+  }
+  const lines = news.items.slice(0, NEWS_VISIBLE).map((entry) => {
+    const text = locale === "zh" ? entry.zh : entry.en;
+    const dated = `**${entry.date}** — ${text}`;
+    return entry.link ? `- ${dated} · [→](${entry.link})` : `- ${dated}`;
+  });
+  return `## ${t.news.title}\n\n${lines.join("\n")}`;
+}
+
+function hiapiApiBlock(locale, t) {
+  const links = hiapi[locale];
+  const example = locale === "zh"
+    ? "把这里换成你从案例里复制的提示词"
+    : "Paste a prompt copied from any case here";
+  return `## ${t.api.title}
+
+${t.api.intro}
+
+### ${t.api.curlTitle}
+
+\`\`\`bash
+curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
+  -H "Authorization: Bearer $HIAPI_API_KEY" \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "model": "gpt-image-2",
+    "stream": false,
+    "messages": [
+      { "role": "user", "content": "${example}" }
+    ],
+    "extra_body": { "google": { "image_config": { "aspect_ratio": "16:9" } } }
+  }'
+\`\`\`
+
+${t.api.curlHint}
+
+### ${t.api.mcpTitle}
+
+${t.api.mcpHint}
+
+\`\`\`json
+{
+  "mcpServers": {
+    "hiapi": {
+      "url": "https://mcp.hiapi.ai/mcp",
+      "headers": { "Authorization": "Bearer YOUR_HIAPI_API_KEY" }
+    }
+  }
+}
+\`\`\`
+
+### ${t.api.skillTitle}
+
+\`\`\`bash
+npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y
+\`\`\`
+
+${t.api.skillHint}
+
+### ${t.api.drawTitle}
+
+${t.api.drawHint} → **[${t.ctaButton}](${links.model})**`;
+}
+
+function relatedCategoriesBlock(currentCategoryId, locale, t) {
+  const others = data.categories.filter((c) => c.id !== currentCategoryId);
+  const counts = categoryCounts();
+  const links = others
+    .map((category) => {
+      const href = `./${caseFileName(category, locale)}`;
+      const name = categoryName(category, locale);
+      const count = counts.get(category.id);
+      return `- [${name}](${href}) · ${count} ${t.countSuffix}`;
+    })
+    .join("\n");
+  return `## ${t.casePage.relatedTitle}\n\n${links}`;
+}
+
+function categoryPage(category, locale, t) {
+  const links = hiapi[locale];
+  const items = data.items.filter((item) => item.category === category.id);
+  const readmeBackPath = locale === "zh" ? "../README.zh-CN.md" : "../README.md";
+  const langSwitchFile = locale === "zh" ? `${category.id}.md` : `${category.id}.zh-CN.md`;
+  const langSwitchLabel = locale === "zh" ? "English" : "简体中文";
+
+  const galleryWithLocalAnchors = galleryTable(items, locale, t, {
+    imageHrefFor: (item) => `../${imagePath(item).replace(/^\.\//, "")}`,
+  });
+
+  const details = promptDetailsForItems(items, locale, t, { imagePrefix: "../" });
+
+  return `# ${categoryName(category, locale)}
+
+[${t.casePage.backToReadme}](${readmeBackPath}) · [${langSwitchLabel}](${langSwitchFile}) · [${t.casePage.hiapiCta}](${links.model}) · [${t.nav.key}](${links.key})
+
+${categoryDescription(category, locale)}
+
+> ${t.casePage.subtitlePrefix} ${items.length} ${t.countSuffix}
+
+---
+
+${galleryWithLocalAnchors}
+
+---
+
+# ${t.fullTitle}
+
+${t.detailsHint}
+
+${details}
+
+---
+
+${relatedCategoriesBlock(category.id, locale, t)}
+
+---
+
+<div align="center">
+
+**${t.ctaTitle}**
+
+${t.ctaText}
+
+**[${t.ctaButton}](${links.model})**
+
+[${t.ctaBrowse}](${links.home}) · [${t.ctaDocs}](${hiapi.docs}) · [${t.ctaSkill}](${hiapi.skill})
+
+</div>
+`;
 }
 
 function readme(locale) {
@@ -505,7 +667,7 @@ function readme(locale) {
   const links = hiapi[locale];
   const coverFile = locale === "zh" ? "cover.zh-CN.svg" : "cover.svg";
   const categoryLinks = data.categories
-    .map((category) => `[${categoryName(category, locale)}](#gallery-${category.id})`)
+    .map((category) => `[${categoryName(category, locale)}](${caseRelativePathFromReadme(category, locale)})`)
     .join(" · ");
 
   return `<div align="center">
@@ -543,9 +705,7 @@ ${t.tipText}
 
 > <sub>${t.sourceNote}</sub>
 
-## ${t.apiTitle}
-
-${t.apiBody}
+${newsBlock(locale, t)}
 
 ## ${t.categoriesTitle}
 
@@ -553,13 +713,9 @@ ${categoryLinks}
 
 ${statsTable(locale, t)}
 
-${galleryBlocks(locale, t)}
+${galleryTeasers(locale, t)}
 
-# ${t.fullTitle}
-
-${t.detailsHint}
-
-${promptDetails(locale, t)}
+${hiapiApiBlock(locale, t)}
 
 ## ${t.licenseTitle}
 
@@ -585,8 +741,24 @@ ${t.thanksText}
 `;
 }
 
+function writeCasePages() {
+  const casesDir = path.join(root, CASES_DIR);
+  fs.mkdirSync(casesDir, { recursive: true });
+  for (const category of data.categories) {
+    for (const locale of ["en", "zh"]) {
+      const t = copy[locale];
+      const filename = caseFileName(category, locale);
+      fs.writeFileSync(path.join(casesDir, filename), categoryPage(category, locale, t));
+    }
+  }
+}
+
 writeCover();
 fs.writeFileSync(path.join(root, copy.zh.file), readme("zh"));
 fs.writeFileSync(path.join(root, copy.en.file), readme("en"));
+writeCasePages();
 
-console.log(`Built bilingual README files for ${data.items.length} prompt examples.`);
+const casePages = data.categories.length * 2;
+console.log(
+  `Built bilingual READMEs + ${casePages} case pages for ${data.items.length} prompt examples.`,
+);
