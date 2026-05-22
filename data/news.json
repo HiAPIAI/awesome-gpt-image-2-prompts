@@ -1,0 +1,35 @@
+{
+  "$schema_note": "Items are sorted newest first. The top 5 render in README. Keep `en` and `zh` strings under 140 chars each.",
+  "items": [
+    {
+      "date": "2026-05-22",
+      "en": "One-command installer shipped for HiAPI skills: `npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`. Supports local agent skill directories.",
+      "zh": "HiAPI skill 一行命令安装上线：`npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`，支持本地 Agent skill 目录。",
+      "link": "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill"
+    },
+    {
+      "date": "2026-05-21",
+      "en": "New repo `awesome-seedance-2-0-prompts` launched with 160+ Seedance 2.0 video recipes across 8 categories.",
+      "zh": "新仓 `awesome-seedance-2-0-prompts` 上线，160+ Seedance 2.0 视频配方，覆盖 8 大类目。",
+      "link": "https://github.com/HiAPIAI/awesome-seedance-2-0-prompts"
+    },
+    {
+      "date": "2026-05-13",
+      "en": "Added community reference prompt picks — fresh examples across portrait, poster, character, and UI categories.",
+      "zh": "新增社区参考精选案例，覆盖人像、海报、角色、界面四大方向。",
+      "link": null
+    },
+    {
+      "date": "2026-05-12",
+      "en": "Sources, NOTICE, and per-locale README copy cleaned up; case attribution discipline tightened.",
+      "zh": "整理来源、NOTICE 与双语 README 文案；案例署名规范进一步收紧。",
+      "link": "./NOTICE.md"
+    },
+    {
+      "date": "2026-05-07",
+      "en": "Repo positioned as API-ready creative recipes — every case links to HiAPI Draw with model and ratio prefilled.",
+      "zh": "整体定位调整为 API 可用的创作配方——每个案例都带 HiAPI Draw 预填链接，模型和比例都已配好。",
+      "link": null
+    }
+  ]
+}
