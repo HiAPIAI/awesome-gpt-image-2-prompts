@@ -1,9 +1,9 @@
 # Step 4 — Prompt Expansion Plan (118 → ~189)
 
-> Status: batch 1 complete — 35 images generated and imported locally on 2026-05-26
+> Status: batch 1 complete (35 images imported), batch 2 prompts staged (36 slots queued in `inbox/slots.json`)
 > Target: +71 high-intent prompts across 8 categories
 > Source: cross-repo SEO/GEO plan, codex second-opinion modification (see `hiapi-content-lab/docs/github-repos-seo-geo-2026-05-26.md`)
-> Progress: `e-commerce` 20 / 20 complete; `ad-creative` 15 / 15 complete; remaining planned follow-up slots: 36
+> Progress: `e-commerce` 20 / 20 ✅ · `ad-creative` 15 / 15 ✅ · `character-design` 0 / 10 🕒 · `portrait-photography` 0 / 8 🕒 · `poster-illustration` 0 / 8 🕒 · `ui-social` 0 / 10 🕒
 
 ## Why this shape
 

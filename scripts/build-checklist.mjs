@@ -7,6 +7,7 @@ import path from "node:path";
 
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const slotsPath = path.join(root, "inbox", "slots.json");
+const promptsPath = path.join(root, "data", "prompts.json");
 const outPath = path.join(root, "inbox", "SUBMIT-CHECKLIST.md");
 
 if (!fs.existsSync(slotsPath)) {
@@ -15,6 +16,22 @@ if (!fs.existsSync(slotsPath)) {
 }
 
 const data = JSON.parse(fs.readFileSync(slotsPath, "utf8"));
+
+// Build a set of "category||title_en" keys for prompts already imported,
+// so the checklist can show ✅ next to slots that landed in batch 1.
+const importedKeys = new Set();
+if (fs.existsSync(promptsPath)) {
+  const prompts = JSON.parse(fs.readFileSync(promptsPath, "utf8"));
+  for (const item of prompts.items || []) {
+    if (item.category && item.title_en) {
+      importedKeys.add(`${item.category}||${item.title_en}`);
+    }
+  }
+}
+
+function isImported(slot) {
+  return importedKeys.has(`${slot.category}||${slot.title_en}`);
+}
 
 // Group slots by category, preserving the order they appear in slots.json.
 const groups = [];
@@ -36,27 +53,37 @@ const CATEGORY_LABELS = {
   "ui-social": "📱 UI & Social Mockups",
 };
 
+const doneCount = data.slots.filter(isImported).length;
+const todoCount = data.slots.length - doneCount;
+
 const lines = [];
 lines.push("# Submit checklist");
 lines.push("");
-lines.push("> **Generated** from `inbox/slots.json`. Do not edit by hand — run `node scripts/build-checklist.mjs` after changing a prompt.");
+lines.push("> **Generated** from `inbox/slots.json` and `data/prompts.json`. Do not edit by hand — run `node scripts/build-checklist.mjs` after changing a prompt or after importing a batch.");
 lines.push("");
-lines.push(`Total slots: **${data.slots.length}**.`);
+lines.push(`Total slots: **${data.slots.length}** · Done: **${doneCount}** · Todo: **${todoCount}**.`);
 lines.push("");
-lines.push("Workflow: pick a slot → copy the prompt → generate at the aspect ratio shown → save as `inbox/images/<slot-id>.jpg|png|webp` → run `node scripts/import-inbox.mjs`.");
+lines.push("Workflow: pick an open slot → copy the prompt → generate at the aspect ratio shown → save as `inbox/images/<slot-id>.jpg|png|webp` → run `node scripts/import-inbox.mjs`. Slots that are already imported into `data/prompts.json` show ✅.");
 lines.push("");
 lines.push("---");
 lines.push("");
 
 for (const group of groups) {
   const label = CATEGORY_LABELS[group.category] || group.category;
-  lines.push(`## ${label} (${group.slots.length})`);
+  const groupDone = group.slots.filter(isImported).length;
+  lines.push(`## ${label} (${groupDone} / ${group.slots.length} done)`);
   lines.push("");
   for (const slot of group.slots) {
-    lines.push(`### \`${slot.id}\` — ${slot.title_en}`);
+    const done = isImported(slot);
+    const marker = done ? "✅" : "🕒";
+    lines.push(`### ${marker} \`${slot.id}\` — ${slot.title_en}`);
     if (slot.title_zh) lines.push(`*${slot.title_zh}*`);
     lines.push("");
-    lines.push(`- [ ] Generated and saved as \`inbox/images/${slot.id}.jpg\` (or .png / .webp)`);
+    if (done) {
+      lines.push(`- [x] Already imported into \`data/prompts.json\`.`);
+    } else {
+      lines.push(`- [ ] Generated and saved as \`inbox/images/${slot.id}.jpg\` (or .png / .webp)`);
+    }
     lines.push(`- Aspect ratio: \`${slot.aspect_ratio}\``);
     lines.push("");
     lines.push("**Prompt:**");
@@ -71,4 +98,4 @@ for (const group of groups) {
 }
 
 fs.writeFileSync(outPath, lines.join("\n") + "\n");
-console.log(`Wrote ${path.relative(root, outPath)} with ${data.slots.length} slots across ${groups.length} categories.`);
+console.log(`Wrote ${path.relative(root, outPath)} with ${data.slots.length} slots across ${groups.length} categories (${doneCount} done, ${todoCount} todo).`);
