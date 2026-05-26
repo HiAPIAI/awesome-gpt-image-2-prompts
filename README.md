@@ -8,7 +8,7 @@
 [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ![118 Prompts](https://img.shields.io/badge/118%20Prompts-f97316)
-![6 Categories](https://img.shields.io/badge/6%20Categories-111827)
+![8 Categories](https://img.shields.io/badge/8%20Categories-111827)
 ![Real Images](https://img.shields.io/badge/Real%20Images-16a34a)
 ![Copy Prompts](https://img.shields.io/badge/Copy%20Prompts-f59e0b)
 
@@ -32,14 +32,14 @@
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./portrait-photography.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="Portrait &amp; Photography"></a><br><sub><b>Portrait &amp; Photography</b> · 18 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./poster-illustration.md"><img src="./images/poster_case1/output.jpg" width="240" alt="Poster &amp; Illustration"></a><br><sub><b>Poster &amp; Illustration</b> · 40 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./character-design.md"><img src="./images/character_case1/output.jpg" width="240" alt="Character Design"></a><br><sub><b>Character Design</b> · 7 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="Portrait &amp; Photography"></a><br><sub><b>Portrait &amp; Photography</b> · 18 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.md"><img src="./images/poster_case1/output.jpg" width="240" alt="Poster &amp; Illustration"></a><br><sub><b>Poster &amp; Illustration</b> · 40 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/character-design.md"><img src="./images/character_case1/output.jpg" width="240" alt="Character Design"></a><br><sub><b>Character Design</b> · 7 cases</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./ui-social.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI &amp; Social Mockups"></a><br><sub><b>UI &amp; Social Mockups</b> · 21 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./comparison-community.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="Model Tests &amp; Community"></a><br><sub><b>Model Tests &amp; Community</b> · 15 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./community-reference.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="Curated References"></a><br><sub><b>Curated References</b> · 17 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI &amp; Social Mockups"></a><br><sub><b>UI &amp; Social Mockups</b> · 21 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/comparison-community.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="Model Tests &amp; Community"></a><br><sub><b>Model Tests &amp; Community</b> · 15 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/community-reference.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="Curated References"></a><br><sub><b>Curated References</b> · 17 cases</sub></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@ Explore 118 curated visual generation cases across portraits, commercial posters
 
 ## Browse By Type
 
-[Portrait & Photography](./cases/portrait-photography.md) · [Poster & Illustration](./cases/poster-illustration.md) · [Character Design](./cases/character-design.md) · [UI & Social Mockups](./cases/ui-social.md) · [Model Tests & Community](./cases/comparison-community.md) · [Curated References](./cases/community-reference.md)
+[Portrait & Photography](./cases/portrait-photography.md) · [Poster & Illustration](./cases/poster-illustration.md) · [Character Design](./cases/character-design.md) · [UI & Social Mockups](./cases/ui-social.md) · [Model Tests & Community](./cases/comparison-community.md) · [Curated References](./cases/community-reference.md) · [E-commerce & Product](./cases/e-commerce.md) · [Ad Creative](./cases/ad-creative.md)
 
 | Category | Count | Best For |
 | --- | ---: | --- |
@@ -95,6 +95,8 @@ Explore 118 curated visual generation cases across portraits, commercial posters
 | [UI & Social Mockups](./cases/ui-social.md) | 21 | App screens, social pages, livestream screenshots, info cards, and mobile UI. |
 | [Model Tests & Community](./cases/comparison-community.md) | 15 | Counting, text rendering, game screenshots, complex scenes, and model tests. |
 | [Curated References](./cases/community-reference.md) | 17 | Reusable references for game scenes, research figures, infographics, product visuals, and character concepts. |
+| [E-commerce & Product](./cases/e-commerce.md) | 0 | Product photography, model try-on, listing hero shots, holiday gift boxes, and brand sets — visuals built to convert on a storefront. |
+| [Ad Creative](./cases/ad-creative.md) | 0 | Ad key visuals, social banners, campaign posters, brand KV, and CTA assets — built to ship on paid channels. |
 
 <a id="gallery-portrait-photography"></a>
 
@@ -221,6 +223,30 @@ Reusable references for game scenes, research figures, infographics, product vis
 </table>
 
 **[Browse all 17 cases →](./cases/community-reference.md)**
+
+<a id="gallery-e-commerce"></a>
+
+### [E-commerce & Product](./cases/e-commerce.md) · 0 cases
+
+Product photography, model try-on, listing hero shots, holiday gift boxes, and brand sets — visuals built to convert on a storefront.
+
+<table>
+
+</table>
+
+**[Browse all 0 cases →](./cases/e-commerce.md)**
+
+<a id="gallery-ad-creative"></a>
+
+### [Ad Creative](./cases/ad-creative.md) · 0 cases
+
+Ad key visuals, social banners, campaign posters, brand KV, and CTA assets — built to ship on paid channels.
+
+<table>
+
+</table>
+
+**[Browse all 0 cases →](./cases/ad-creative.md)**
 
 ## Use as API
 

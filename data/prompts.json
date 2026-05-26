@@ -51,6 +51,20 @@
       "en": "Curated References",
       "description_zh": "游戏画面、科研配图、信息图、产品视觉和角色设定等高复用参考。",
       "description_en": "Reusable references for game scenes, research figures, infographics, product visuals, and character concepts."
+    },
+    {
+      "id": "e-commerce",
+      "zh": "电商与产品",
+      "en": "E-commerce & Product",
+      "description_zh": "产品摄影、模特试穿、详情页主图、节日礼盒、品牌套图——直接服务于商品转化的视觉。",
+      "description_en": "Product photography, model try-on, listing hero shots, holiday gift boxes, and brand sets — visuals built to convert on a storefront."
+    },
+    {
+      "id": "ad-creative",
+      "zh": "广告与营销素材",
+      "en": "Ad Creative",
+      "description_zh": "广告主视觉、社交平台 banner、活动海报、品牌 KV、CTA 物料——为投放渠道服务的画面。",
+      "description_en": "Ad key visuals, social banners, campaign posters, brand KV, and CTA assets — built to ship on paid channels."
     }
   ],
   "items": [

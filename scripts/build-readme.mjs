@@ -309,7 +309,7 @@ function heroPreviewGrid(locale, t) {
     .map((category) => {
       const firstItem = data.items.find((it) => it.category === category.id);
       if (!firstItem) return null;
-      const caseLink = `./${caseFileName(category, locale)}`;
+      const caseLink = caseRelativePathFromReadme(category, locale);
       const imgPath = `./${firstItem.image}`;
       const name = categoryName(category, locale);
       const count = counts.get(category.id);
