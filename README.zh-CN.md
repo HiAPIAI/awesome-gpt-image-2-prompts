@@ -26,6 +26,25 @@
 
 ---
 
+<div align="center">
+
+<h3>精选案例预览</h3>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="./portrait-photography.zh-CN.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="人像与摄影"></a><br><sub><b>人像与摄影</b> · 18 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./poster-illustration.zh-CN.md"><img src="./images/poster_case1/output.jpg" width="240" alt="海报与插画"></a><br><sub><b>海报与插画</b> · 40 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./character-design.zh-CN.md"><img src="./images/character_case1/output.jpg" width="240" alt="角色设计"></a><br><sub><b>角色设计</b> · 7 个案例</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="./ui-social.zh-CN.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI 与社交截图"></a><br><sub><b>UI 与社交截图</b> · 21 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./comparison-community.zh-CN.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="模型测试与社区案例"></a><br><sub><b>模型测试与社区案例</b> · 15 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./community-reference.zh-CN.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="精选参考案例"></a><br><sub><b>精选参考案例</b> · 17 个案例</sub></td>
+  </tr>
+</table>
+
+</div>
+
 ## 创意工坊 | GPT Image 2 实例画廊
 
 这不是单纯的提示词清单，而是一组可以直接复用的视觉创作案例：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接都放在一起。你可以先看效果，再把人物、产品、城市、品牌或文案换成自己的内容。

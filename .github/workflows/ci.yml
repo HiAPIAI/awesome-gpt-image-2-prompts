@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate prompts.json shape
+        run: node scripts/validate.mjs
+
+      - name: Rebuild README and verify it is in sync with data/prompts.json
+        run: |
+          node scripts/build-readme.mjs
+          if ! git diff --exit-code README.md README.zh-CN.md cases/; then
+            echo ""
+            echo "::error::README.md / README.zh-CN.md / cases/ are out of sync with data/prompts.json."
+            echo "Run 'node scripts/build-readme.mjs' locally and commit the regenerated files."
+            exit 1
+          fi
