@@ -8,7 +8,7 @@
 [![文档](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ![118 个提示词](https://img.shields.io/badge/118%20%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D-f97316)
-![6 个分类](https://img.shields.io/badge/6%20%E4%B8%AA%E5%88%86%E7%B1%BB-111827)
+![8 个分类](https://img.shields.io/badge/8%20%E4%B8%AA%E5%88%86%E7%B1%BB-111827)
 ![真实案例图](https://img.shields.io/badge/%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B%E5%9B%BE-16a34a)
 ![复制 Prompt](https://img.shields.io/badge/%E5%A4%8D%E5%88%B6%20Prompt-f59e0b)
 
@@ -32,14 +32,14 @@
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./portrait-photography.zh-CN.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="人像与摄影"></a><br><sub><b>人像与摄影</b> · 18 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./poster-illustration.zh-CN.md"><img src="./images/poster_case1/output.jpg" width="240" alt="海报与插画"></a><br><sub><b>海报与插画</b> · 40 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./character-design.zh-CN.md"><img src="./images/character_case1/output.jpg" width="240" alt="角色设计"></a><br><sub><b>角色设计</b> · 7 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.zh-CN.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="人像与摄影"></a><br><sub><b>人像与摄影</b> · 18 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.zh-CN.md"><img src="./images/poster_case1/output.jpg" width="240" alt="海报与插画"></a><br><sub><b>海报与插画</b> · 40 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/character-design.zh-CN.md"><img src="./images/character_case1/output.jpg" width="240" alt="角色设计"></a><br><sub><b>角色设计</b> · 7 个案例</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./ui-social.zh-CN.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI 与社交截图"></a><br><sub><b>UI 与社交截图</b> · 21 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./comparison-community.zh-CN.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="模型测试与社区案例"></a><br><sub><b>模型测试与社区案例</b> · 15 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./community-reference.zh-CN.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="精选参考案例"></a><br><sub><b>精选参考案例</b> · 17 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.zh-CN.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI 与社交截图"></a><br><sub><b>UI 与社交截图</b> · 21 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/comparison-community.zh-CN.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="模型测试与社区案例"></a><br><sub><b>模型测试与社区案例</b> · 15 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/community-reference.zh-CN.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="精选参考案例"></a><br><sub><b>精选参考案例</b> · 17 个案例</sub></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@
 
 ## 按类型浏览
 
-[人像与摄影](./cases/portrait-photography.zh-CN.md) · [海报与插画](./cases/poster-illustration.zh-CN.md) · [角色设计](./cases/character-design.zh-CN.md) · [UI 与社交截图](./cases/ui-social.zh-CN.md) · [模型测试与社区案例](./cases/comparison-community.zh-CN.md) · [精选参考案例](./cases/community-reference.zh-CN.md)
+[人像与摄影](./cases/portrait-photography.zh-CN.md) · [海报与插画](./cases/poster-illustration.zh-CN.md) · [角色设计](./cases/character-design.zh-CN.md) · [UI 与社交截图](./cases/ui-social.zh-CN.md) · [模型测试与社区案例](./cases/comparison-community.zh-CN.md) · [精选参考案例](./cases/community-reference.zh-CN.md) · [电商与产品](./cases/e-commerce.zh-CN.md) · [广告与营销素材](./cases/ad-creative.zh-CN.md)
 
 | 分类 | 数量 | 适合做什么 |
 | --- | ---: | --- |
@@ -95,6 +95,8 @@
 | [UI 与社交截图](./cases/ui-social.zh-CN.md) | 21 | App 首页、社交页面、直播截图、信息卡和移动端界面。 |
 | [模型测试与社区案例](./cases/comparison-community.zh-CN.md) | 15 | 计数、文字、游戏截图、复杂场景和模型能力测试。 |
 | [精选参考案例](./cases/community-reference.zh-CN.md) | 17 | 游戏画面、科研配图、信息图、产品视觉和角色设定等高复用参考。 |
+| [电商与产品](./cases/e-commerce.zh-CN.md) | 0 | 产品摄影、模特试穿、详情页主图、节日礼盒、品牌套图——直接服务于商品转化的视觉。 |
+| [广告与营销素材](./cases/ad-creative.zh-CN.md) | 0 | 广告主视觉、社交平台 banner、活动海报、品牌 KV、CTA 物料——为投放渠道服务的画面。 |
 
 <a id="gallery-portrait-photography"></a>
 
@@ -221,6 +223,30 @@ App 首页、社交页面、直播截图、信息卡和移动端界面。
 </table>
 
 **[浏览全部 17 个案例 →](./cases/community-reference.zh-CN.md)**
+
+<a id="gallery-e-commerce"></a>
+
+### [电商与产品](./cases/e-commerce.zh-CN.md) · 0 个案例
+
+产品摄影、模特试穿、详情页主图、节日礼盒、品牌套图——直接服务于商品转化的视觉。
+
+<table>
+
+</table>
+
+**[浏览全部 0 个案例 →](./cases/e-commerce.zh-CN.md)**
+
+<a id="gallery-ad-creative"></a>
+
+### [广告与营销素材](./cases/ad-creative.zh-CN.md) · 0 个案例
+
+广告主视觉、社交平台 banner、活动海报、品牌 KV、CTA 物料——为投放渠道服务的画面。
+
+<table>
+
+</table>
+
+**[浏览全部 0 个案例 →](./cases/ad-creative.zh-CN.md)**
 
 ## 作为 API 调用
 
