@@ -1,0 +1,6 @@
+# Generated images sit here only briefly while `import-inbox.mjs` is run.
+# They are moved into `images/<category>_caseN/output.*` and the originals
+# under `inbox/images/` are removed in the same step. Anything that ends up
+# committed under `inbox/images/` is almost certainly a forgotten file.
+images/*
+!images/.gitkeep
