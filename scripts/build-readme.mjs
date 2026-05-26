@@ -692,6 +692,8 @@ function readme(locale) {
 
 </div>
 
+> **HiAPI Matrix:** 🎨 **Image Prompts (you are here)** · 🎬 [Video Prompts](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts) · 🛠️ [Agent Skills](https://github.com/HiAPIAI/hiapi-skills) · 🤖 [Remote MCP](https://docs.hiapi.ai/for-ai/) · 📖 [API Docs](https://docs.hiapi.ai)
+
 ---
 
 ${t.intro}
