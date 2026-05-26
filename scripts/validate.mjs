@@ -42,7 +42,9 @@ const secretLikePatterns = [
 
 const allowedDuplicateImagePairs = new Set();
 
-const expectedTotalItems = 118;
+const selfGeneratedSourceUrl = "https://github.com/HiAPIAI/awesome-gpt-image-2-prompts";
+
+const expectedTotalItems = 153;
 const expectedCategoryCounts = new Map([
   ["portrait-photography", 18],
   ["poster-illustration", 40],
@@ -50,6 +52,8 @@ const expectedCategoryCounts = new Map([
   ["ui-social", 21],
   ["comparison-community", 15],
   ["community-reference", 17],
+  ["e-commerce", 20],
+  ["ad-creative", 15],
 ]);
 
 const expectedVariantCounts = new Map([
@@ -136,7 +140,11 @@ for (const item of data.items) {
     fail(`Invalid author handle for ${item.id}: ${item.author}`);
   }
 
-  if (!/^(https:\/\/x\.com\/[^/]+\/status\/\d+|https:\/\/www\.reddit\.com\/r\/[^/]+\/comments\/[^/]+\/[^/]+\/|https:\/\/www\.xiaohongshu\.com\/explore\/[A-Za-z0-9]+)$/.test(item.source_url)) {
+  const isSelfGenerated = item.author === "@hiapi_ai" && item.source_url === selfGeneratedSourceUrl;
+  if (
+    !isSelfGenerated &&
+    !/^(https:\/\/x\.com\/[^/]+\/status\/\d+|https:\/\/www\.reddit\.com\/r\/[^/]+\/comments\/[^/]+\/[^/]+\/|https:\/\/www\.xiaohongshu\.com\/explore\/[A-Za-z0-9]+)$/.test(item.source_url)
+  ) {
     fail(`Invalid source_url for ${item.id}: ${item.source_url}`);
   }
 

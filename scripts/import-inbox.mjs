@@ -61,6 +61,8 @@ function nextCaseNumberFor(category) {
   return used.length === 0 ? 1 : Math.max(...used) + 1;
 }
 
+const candidatesBySlotId = new Map(candidates.map((cand) => [cand.slotId, cand]));
+
 const existingSlotIds = new Set(
   prompts.items
     .map((it) => it.id)
@@ -71,13 +73,15 @@ let imported = 0;
 let skipped = 0;
 let errors = 0;
 
-for (const cand of candidates) {
-  const slot = slotById.get(cand.slotId);
-  if (!slot) {
-    console.warn(`⚠️  Skipping ${cand.file}: no matching slot \`${cand.slotId}\` in inbox/slots.json.`);
-    skipped++;
-    continue;
-  }
+let nextGlobalCaseNumber = Math.max(
+  0,
+  ...prompts.items.map((it) => it.case_number || 0),
+) + 1;
+
+for (const slot of slots.slots) {
+  const cand = candidatesBySlotId.get(slot.id);
+  if (!cand) continue;
+
   if (!validCategories.has(slot.category)) {
     console.error(`❌ Slot ${slot.id} declares category \`${slot.category}\` which is not in prompts.json categories. Add it first.`);
     errors++;
@@ -106,6 +110,8 @@ for (const cand of candidates) {
     id: entryId,
     category: slot.category,
     category_case_number: caseNumber,
+    source_case_number: caseNumber,
+    source_title: slot.source_title || slot.title_en,
     title_en: slot.title_en,
     title_zh: slot.title_zh || slot.title_en,
     source_url: slot.source_url || slots.default_source_url,
@@ -115,6 +121,7 @@ for (const cand of candidates) {
     aspect_ratio: slot.aspect_ratio,
     prompt_language: detectLanguage(slot.prompt),
     prompt: slot.prompt,
+    case_number: nextGlobalCaseNumber++,
   };
 
   // Move image into place.
@@ -125,6 +132,12 @@ for (const cand of candidates) {
   existingSlotIds.add(entryId);
   imported++;
   console.log(`✅ ${cand.file} → ${relativeImagePath} (slot \`${slot.id}\`, case #${caseNumber})`);
+}
+
+for (const cand of candidates) {
+  if (slotById.has(cand.slotId)) continue;
+  console.warn(`⚠️  Skipping ${cand.file}: no matching slot \`${cand.slotId}\` in inbox/slots.json.`);
+  skipped++;
 }
 
 if (imported === 0) {

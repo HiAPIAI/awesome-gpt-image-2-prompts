@@ -344,8 +344,8 @@ Create a chaotic security-camera still from a 1990s grocery store. A man in full
 - [角色设计](./character-design.zh-CN.md) · 7 个案例
 - [UI 与社交截图](./ui-social.zh-CN.md) · 21 个案例
 - [模型测试与社区案例](./comparison-community.zh-CN.md) · 15 个案例
-- [电商与产品](./e-commerce.zh-CN.md) · 0 个案例
-- [广告与营销素材](./ad-creative.zh-CN.md) · 0 个案例
+- [电商与产品](./e-commerce.zh-CN.md) · 20 个案例
+- [广告与营销素材](./ad-creative.zh-CN.md) · 15 个案例
 
 ---
 
