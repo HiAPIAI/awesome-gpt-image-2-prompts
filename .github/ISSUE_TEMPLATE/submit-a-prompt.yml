@@ -1,0 +1,109 @@
+name: "🎨 Submit a prompt"
+description: "Share a GPT Image 2 prompt with a real output image so others can copy and adapt it."
+title: "[prompt] <short title here>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing a prompt! Every entry in this gallery is a recipe a reader can copy and rerun. Before submitting:
+        - You must have **a real output image** generated from this prompt.
+        - Attribution is **mandatory** if the prompt or image originated from someone else.
+        - See [CONTRIBUTING.md](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts/blob/main/CONTRIBUTING.md) for the quality bar.
+
+  - type: input
+    id: title_en
+    attributes:
+      label: Title (English)
+      description: A short title, e.g. "Convenience Store Neon Portrait"
+      placeholder: "Example: 35mm Flash Editorial Portrait"
+    validations:
+      required: true
+
+  - type: input
+    id: title_zh
+    attributes:
+      label: 标题（中文，可选）
+      description: 如果你想加中文版标题
+      placeholder: "示例：便利店霓虹人像"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which existing category fits best?
+      options:
+        - portrait-photography
+        - poster-illustration
+        - character-design
+        - ui-social
+        - comparison-community
+        - community-reference
+        - other (explain in notes)
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full prompt
+      description: Paste the complete prompt that produced your image. Don't summarize.
+      placeholder: "A cinematic photorealistic portrait of..."
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: ratio
+    attributes:
+      label: Aspect ratio
+      description: e.g. 1:1, 16:9, 9:16, 3:4
+      placeholder: "16:9"
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: Output image
+      description: Drag and drop the real generated image here (GitHub will host it). PNG/JPG/WebP, ≤ 5 MB.
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (if not yours)
+      description: Original post URL (X / Twitter / blog / etc). Leave empty if this is your own work.
+      placeholder: "https://x.com/yourhandle/status/..."
+    validations:
+      required: false
+
+  - type: input
+    id: author_handle
+    attributes:
+      label: Author handle
+      description: Your handle or the original creator's. We always credit.
+      placeholder: "@yourhandle"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: Anything else a maintainer should know — variations, negative prompts, parameter tuning tips.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: "The output image attached above was actually generated from this prompt (no fakes, no AI-rewrites of someone else's results)."
+          required: true
+        - label: "If this is not my own work, the source URL and author handle above are correct."
+          required: true
