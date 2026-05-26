@@ -29,11 +29,15 @@ const hiapi = {
     home: withUtm("https://www.hiapi.ai/zh"),
     key: withUtm("https://www.hiapi.ai/zh/register"),
     model: withUtm("https://www.hiapi.ai/zh/models/gpt-image-2"),
+    pricing: withUtm("https://www.hiapi.ai/zh/pricing"),
+    dashboard: withUtm("https://www.hiapi.ai/zh/dashboard"),
   },
   en: {
     home: withUtm("https://www.hiapi.ai/en"),
     key: withUtm("https://www.hiapi.ai/en/register"),
     model: withUtm("https://www.hiapi.ai/en/models/gpt-image-2"),
+    pricing: withUtm("https://www.hiapi.ai/en/pricing"),
+    dashboard: withUtm("https://www.hiapi.ai/en/dashboard"),
   },
   docs: withUtm("https://docs.hiapi.ai"),
   skill: "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill",
@@ -551,6 +555,8 @@ ${t.api.intro}
 
 ### ${t.api.curlTitle}
 
+**curl**
+
 \`\`\`bash
 curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
   -H "Authorization: Bearer $HIAPI_API_KEY" \\
@@ -565,7 +571,53 @@ curl -X POST "https://api.hiapi.ai/v1/chat/completions" \\
   }'
 \`\`\`
 
+**Python (openai SDK)**
+
+\`\`\`python
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ["HIAPI_API_KEY"],
+    base_url="https://api.hiapi.ai/v1",
+)
+
+response = client.chat.completions.create(
+    model="gpt-image-2",
+    messages=[
+        {"role": "user", "content": "${example}"}
+    ],
+    extra_body={"google": {"image_config": {"aspect_ratio": "16:9"}}},
+)
+
+print(response.choices[0].message.content)
+\`\`\`
+
+**Node (openai SDK)**
+
+\`\`\`js
+import OpenAI from "openai";
+
+const client = new OpenAI({
+  apiKey: process.env.HIAPI_API_KEY,
+  baseURL: "https://api.hiapi.ai/v1",
+});
+
+const response = await client.chat.completions.create({
+  model: "gpt-image-2",
+  messages: [
+    { role: "user", content: "${example}" },
+  ],
+  // @ts-expect-error — extra_body passes provider-specific options through
+  extra_body: { google: { image_config: { aspect_ratio: "16:9" } } },
+});
+
+console.log(response.choices[0].message.content);
+\`\`\`
+
 ${t.api.curlHint}
+
+Reference: [API Docs](${hiapi.docs}) · [Pricing](${links.pricing}) · [Dashboard](${links.dashboard})
 
 ### ${t.api.mcpTitle}
 
