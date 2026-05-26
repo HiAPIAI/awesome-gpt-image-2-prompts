@@ -20,7 +20,7 @@
   <rect x="96"  y="348" width="136" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="164" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">118 个案例</text>
   <rect x="248" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
-  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">6 大分类</text>
+  <text x="312" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">8 大分类</text>
   <rect x="392" y="348" width="148" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
   <text x="466" y="374" text-anchor="middle" fill="#9a3412" font-family="'Noto Sans SC', 'PingFang SC', Arial, sans-serif" font-size="16" font-weight="700">真实效果图</text>
   <rect x="556" y="348" width="128" height="42" rx="21" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
