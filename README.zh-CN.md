@@ -207,6 +207,8 @@ App 首页、社交页面、直播截图、信息卡和移动端界面。
 
 ### 1. 直接调用 API（OpenAI 兼容）
 
+**curl**
+
 ```bash
 curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
   -H "Authorization: Bearer $HIAPI_API_KEY" \
@@ -221,7 +223,53 @@ curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
   }'
 ```
 
+**Python (openai SDK)**
+
+```python
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ["HIAPI_API_KEY"],
+    base_url="https://api.hiapi.ai/v1",
+)
+
+response = client.chat.completions.create(
+    model="gpt-image-2",
+    messages=[
+        {"role": "user", "content": "把这里换成你从案例里复制的提示词"}
+    ],
+    extra_body={"google": {"image_config": {"aspect_ratio": "16:9"}}},
+)
+
+print(response.choices[0].message.content)
+```
+
+**Node (openai SDK)**
+
+```js
+import OpenAI from "openai";
+
+const client = new OpenAI({
+  apiKey: process.env.HIAPI_API_KEY,
+  baseURL: "https://api.hiapi.ai/v1",
+});
+
+const response = await client.chat.completions.create({
+  model: "gpt-image-2",
+  messages: [
+    { role: "user", content: "把这里换成你从案例里复制的提示词" },
+  ],
+  // @ts-expect-error — extra_body passes provider-specific options through
+  extra_body: { google: { image_config: { aspect_ratio: "16:9" } } },
+});
+
+console.log(response.choices[0].message.content);
+```
+
 返回的图片以 Markdown data URI 形式出现在 `choices[0].message.content`。
+
+Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Pricing](https://www.hiapi.ai/zh/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Dashboard](https://www.hiapi.ai/zh/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ### 2. 远程 MCP（聊天 Agent 即接即用）
 

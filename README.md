@@ -207,6 +207,8 @@ Once you find an output you like, any of the four paths below will run the same 
 
 ### 1. Direct API call (OpenAI-compatible)
 
+**curl**
+
 ```bash
 curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
   -H "Authorization: Bearer $HIAPI_API_KEY" \
@@ -221,7 +223,53 @@ curl -X POST "https://api.hiapi.ai/v1/chat/completions" \
   }'
 ```
 
+**Python (openai SDK)**
+
+```python
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ["HIAPI_API_KEY"],
+    base_url="https://api.hiapi.ai/v1",
+)
+
+response = client.chat.completions.create(
+    model="gpt-image-2",
+    messages=[
+        {"role": "user", "content": "Paste a prompt copied from any case here"}
+    ],
+    extra_body={"google": {"image_config": {"aspect_ratio": "16:9"}}},
+)
+
+print(response.choices[0].message.content)
+```
+
+**Node (openai SDK)**
+
+```js
+import OpenAI from "openai";
+
+const client = new OpenAI({
+  apiKey: process.env.HIAPI_API_KEY,
+  baseURL: "https://api.hiapi.ai/v1",
+});
+
+const response = await client.chat.completions.create({
+  model: "gpt-image-2",
+  messages: [
+    { role: "user", content: "Paste a prompt copied from any case here" },
+  ],
+  // @ts-expect-error — extra_body passes provider-specific options through
+  extra_body: { google: { image_config: { aspect_ratio: "16:9" } } },
+});
+
+console.log(response.choices[0].message.content);
+```
+
 The generated image is returned as a Markdown data URI in `choices[0].message.content`.
+
+Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Pricing](https://www.hiapi.ai/en/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) · [Dashboard](https://www.hiapi.ai/en/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ### 2. Remote MCP (drop into any chat agent)
 
