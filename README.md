@@ -26,6 +26,25 @@
 
 ---
 
+<div align="center">
+
+<h3>Featured Cases</h3>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="./portrait-photography.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="Portrait &amp; Photography"></a><br><sub><b>Portrait &amp; Photography</b> · 18 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./poster-illustration.md"><img src="./images/poster_case1/output.jpg" width="240" alt="Poster &amp; Illustration"></a><br><sub><b>Poster &amp; Illustration</b> · 40 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./character-design.md"><img src="./images/character_case1/output.jpg" width="240" alt="Character Design"></a><br><sub><b>Character Design</b> · 7 cases</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="./ui-social.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI &amp; Social Mockups"></a><br><sub><b>UI &amp; Social Mockups</b> · 21 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./comparison-community.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="Model Tests &amp; Community"></a><br><sub><b>Model Tests &amp; Community</b> · 15 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./community-reference.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="Curated References"></a><br><sub><b>Curated References</b> · 17 cases</sub></td>
+  </tr>
+</table>
+
+</div>
+
 ## Creative Workshop | GPT Image 2 Example Gallery
 
 This is not just a prompt list. It is a set of reusable visual examples: real output images, full prompts, aspect ratios, and HiAPI Draw prefill links in one place. Inspect the output first, then replace the subject, product, city, brand, or text with your own.

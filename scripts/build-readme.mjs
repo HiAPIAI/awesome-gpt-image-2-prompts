@@ -303,6 +303,39 @@ function categoryCounts() {
   );
 }
 
+function heroPreviewGrid(locale, t) {
+  const counts = categoryCounts();
+  const cells = data.categories
+    .map((category) => {
+      const firstItem = data.items.find((it) => it.category === category.id);
+      if (!firstItem) return null;
+      const caseLink = `./${caseFileName(category, locale)}`;
+      const imgPath = `./${firstItem.image}`;
+      const name = categoryName(category, locale);
+      const count = counts.get(category.id);
+      const subText = locale === "zh" ? `${count} 个案例` : `${count} cases`;
+      return `    <td align="center" width="33%" valign="top"><a href="${caseLink}"><img src="${imgPath}" width="240" alt="${escapeHtml(name)}"></a><br><sub><b>${escapeHtml(name)}</b> · ${subText}</sub></td>`;
+    })
+    .filter(Boolean);
+
+  const rows = [];
+  for (let i = 0; i < cells.length; i += 3) {
+    rows.push(`  <tr>\n${cells.slice(i, i + 3).join("\n")}\n  </tr>`);
+  }
+
+  const heading = locale === "zh" ? "精选案例预览" : "Featured Cases";
+
+  return `<div align="center">
+
+<h3>${heading}</h3>
+
+<table>
+${rows.join("\n")}
+</table>
+
+</div>`;
+}
+
 function caseFileName(category, locale) {
   return locale === "zh" ? `${category.id}.zh-CN.md` : `${category.id}.md`;
 }
@@ -749,6 +782,8 @@ function readme(locale) {
 > Have a prompt with a real output image? **[Submit it via issue template →](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts/issues/new?template=submit-a-prompt.yml)** · [Contributing guide](./CONTRIBUTING.md)
 
 ---
+
+${heroPreviewGrid(locale, t)}
 
 ${t.intro}
 
