@@ -1,19 +1,19 @@
 # Submit checklist
 
-> **Generated** from `inbox/slots.json`. Do not edit by hand — run `node scripts/build-checklist.mjs` after changing a prompt.
+> **Generated** from `inbox/slots.json` and `data/prompts.json`. Do not edit by hand — run `node scripts/build-checklist.mjs` after changing a prompt or after importing a batch.
 
-Total slots: **35**.
+Total slots: **71** · Done: **35** · Todo: **36**.
 
-Workflow: pick a slot → copy the prompt → generate at the aspect ratio shown → save as `inbox/images/<slot-id>.jpg|png|webp` → run `node scripts/import-inbox.mjs`.
+Workflow: pick an open slot → copy the prompt → generate at the aspect ratio shown → save as `inbox/images/<slot-id>.jpg|png|webp` → run `node scripts/import-inbox.mjs`. Slots that are already imported into `data/prompts.json` show ✅.
 
 ---
 
-## 🛒 E-commerce & Product (20)
+## 🛒 E-commerce & Product (20 / 20 done)
 
-### `ecom-01` — Cream Skincare Bottle on Travertine
+### ✅ `ecom-01` — Cream Skincare Bottle on Travertine
 *护肤瓶米色石材静物*
 
-- [ ] Generated and saved as `inbox/images/ecom-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -22,10 +22,10 @@ Workflow: pick a slot → copy the prompt → generate at the aspect ratio shown
 Minimalist commercial still life of a single cream-colored skincare pump bottle standing on a polished travertine stone surface. Soft warm window light from the upper left casts a clean elongated shadow to the right. Beige, ivory and putty palette with subtle vein texture in the stone. Sharp focus on the bottle label area, shallow depth of field, no text on the label, no logo, no watermark. Editorial e-commerce hero shot, square 1:1 composition, professional product photography, ultra detailed glass and ceramic textures.
 ```
 
-### `ecom-02` — Floating Sneaker on Pastel Gradient
+### ✅ `ecom-02` — Floating Sneaker on Pastel Gradient
 *粉彩渐变悬浮运动鞋*
 
-- [ ] Generated and saved as `inbox/images/ecom-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -34,10 +34,10 @@ Minimalist commercial still life of a single cream-colored skincare pump bottle 
 A single clean white-and-mint athletic sneaker floating slightly above a soft pink-to-lavender pastel gradient background, casting a small soft shadow directly beneath it. Studio split lighting with a subtle rim highlight on the upper edge of the shoe. Square 1:1 e-commerce hero composition, no laces flying, no logos, no text overlays, no watermark. Crisp product photography, photorealistic fabric and rubber textures, magazine cover quality.
 ```
 
-### `ecom-03` — Sushi Platter Top-Down with Chopsticks
+### ✅ `ecom-03` — Sushi Platter Top-Down with Chopsticks
 *寿司拼盘俯拍*
 
-- [ ] Generated and saved as `inbox/images/ecom-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -46,10 +46,10 @@ A single clean white-and-mint athletic sneaker floating slightly above a soft pi
 Overhead top-down photograph of a black slate platter holding eight neatly arranged pieces of nigiri sushi and a small mound of pink ginger and wasabi, with two dark wooden chopsticks resting at a slight diagonal beside the platter. Surface is dark stained oak with subtle grain. Warm tungsten studio light from a single soft box above-left. Square 1:1 framing with generous negative space around the platter. No text, no watermark, no chef hand visible. Premium food photography, sharp focus, glossy rice grains, soy condensation droplets.
 ```
 
-### `ecom-04` — Espresso Cup on Marble with Beans
+### ✅ `ecom-04` — Espresso Cup on Marble with Beans
 *大理石面浓缩咖啡*
 
-- [ ] Generated and saved as `inbox/images/ecom-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -58,10 +58,10 @@ Overhead top-down photograph of a black slate platter holding eight neatly arran
 Close-up of a single small white porcelain espresso cup filled with crema-topped espresso, resting on a polished white Carrara marble countertop. A small cluster of roasted dark coffee beans is scattered to the left of the cup. Soft golden hour window light enters from the right, producing a single specular highlight on the cup rim and gentle warm tones across the marble. Square 1:1 composition, no text, no logo, no watermark. Editorial cafe brand photography, ultra detailed crema bubbles and bean textures.
 ```
 
-### `ecom-05` — Perfume Bottle in Cubic Light Shafts
+### ✅ `ecom-05` — Perfume Bottle in Cubic Light Shafts
 *几何光束香水瓶*
 
-- [ ] Generated and saved as `inbox/images/ecom-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -70,10 +70,10 @@ Close-up of a single small white porcelain espresso cup filled with crema-topped
 A faceted rectangular glass perfume bottle filled with pale amber liquid, standing on a dark matte surface against a pure black background. Three crisp cubic shafts of warm white light cut diagonally across the bottle, producing hard-edge reflections on the glass facets and sharp highlights on the gold metal cap. No label, no brand text, no watermark. Square 1:1 hero composition, luxury product photography, photorealistic glass refractions, ultra detailed.
 ```
 
-### `ecom-06` — Wireless Earbuds on Folded Towel
+### ✅ `ecom-06` — Wireless Earbuds on Folded Towel
 *无线耳机折叠毛巾*
 
-- [ ] Generated and saved as `inbox/images/ecom-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -82,10 +82,10 @@ A faceted rectangular glass perfume bottle filled with pale amber liquid, standi
 A pair of small white wireless earbuds resting on a neatly folded soft beige terry towel, with their charging case open behind them showing a single LED dot. Background is a clean off-white textured wall. Soft diffuse studio light from above and slightly front. Apple-style minimal product photography. Square 1:1 composition, no text, no logo on the earbuds, no watermark, no hands. Ultra sharp focus, photorealistic fabric and plastic textures.
 ```
 
-### `ecom-07` — Holiday Gift Box Stack
+### ✅ `ecom-07` — Holiday Gift Box Stack
 *节日礼盒堆叠*
 
-- [ ] Generated and saved as `inbox/images/ecom-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `4:3`
 
 **Prompt:**
@@ -94,10 +94,10 @@ A pair of small white wireless earbuds resting on a neatly folded soft beige ter
 A stack of three premium holiday gift boxes wrapped in deep forest green and burgundy red papers, each tied with a thin gold satin ribbon and a small fresh pine sprig tucked into the bow. Background is a softly blurred warm interior with bokeh fairy lights. Top-front three-quarter angle, 4:3 horizontal composition. Soft window light from the left, gentle warm highlights. No text, no name tags, no brand logos, no watermark. Premium seasonal retail photography, ultra detailed paper texture, sharp ribbon weave.
 ```
 
-### `ecom-08` — Lipstick Lineup on Velvet Tray
+### ✅ `ecom-08` — Lipstick Lineup on Velvet Tray
 *丝绒托盘口红阵列*
 
-- [ ] Generated and saved as `inbox/images/ecom-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -106,10 +106,10 @@ A stack of three premium holiday gift boxes wrapped in deep forest green and bur
 Top-down product shot of five open lipstick bullets in a clean horizontal row on a deep burgundy velvet tray. The lipstick shades range from soft nude pink through coral, classic red, plum, to deep wine, each tube glossy black metal with a thin gold band. Soft directional studio light from the upper left, gentle even shadows under each tube. Square 1:1 composition, no brand text, no watermark, magazine beauty editorial styling. Ultra detailed fabric pile, sharp lipstick edges.
 ```
 
-### `ecom-09` — Linen Shirt Folded on Wood Surface
+### ✅ `ecom-09` — Linen Shirt Folded on Wood Surface
 *亚麻衬衫木面折叠*
 
-- [ ] Generated and saved as `inbox/images/ecom-09.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `4:3`
 
 **Prompt:**
@@ -118,10 +118,10 @@ Top-down product shot of five open lipstick bullets in a clean horizontal row on
 A pale oatmeal linen shirt neatly folded into a clean rectangle, photographed from directly above on a rustic light oak wooden tabletop. Beside it a small sprig of dried lavender and one tortoiseshell button. Soft diffuse natural window light from the upper left. Muji-style minimalist flat-lay, 4:3 horizontal composition, no text, no brand label visible, no watermark. Sharp linen weave texture, subtle wood grain, calm editorial mood.
 ```
 
-### `ecom-10` — Ceramic Mug with Steam
+### ✅ `ecom-10` — Ceramic Mug with Steam
 *陶瓷马克杯热气*
 
-- [ ] Generated and saved as `inbox/images/ecom-10.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -130,10 +130,10 @@ A pale oatmeal linen shirt neatly folded into a clean rectangle, photographed fr
 A single matte cream ceramic mug filled with hot black coffee, with delicate visible steam curling upward against a softly blurred warm-grey desk scene with a closed notebook and a small green plant. Side three-quarter angle, soft window light from the right. Notion-style minimalist SaaS lifestyle photography, square 1:1 composition. No text on the mug, no brand logo, no watermark. Photorealistic, sharp focus on the rim and steam, gentle bokeh background.
 ```
 
-### `ecom-11` — Linen Blazer Try-On Half-Body
+### ✅ `ecom-11` — Linen Blazer Try-On Half-Body
 *亚麻西装外套试穿*
 
-- [ ] Generated and saved as `inbox/images/ecom-11.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -142,10 +142,10 @@ A single matte cream ceramic mug filled with hot black coffee, with delicate vis
 Half-body editorial fashion photograph of a young East Asian woman in her late twenties, wearing an oversized natural-color linen blazer over a plain white tee, hands relaxed at her sides. Standing against a sun-warmed pale beige wall, golden hour side light from the left casts a soft long shadow. Natural minimal makeup, hair loosely tucked behind one ear. Vertical 9:16 composition, head crop slightly above the eyes, no text, no brand label visible on the blazer, no watermark. Photorealistic, subtle film grain, magazine try-on photography quality.
 ```
 
-### `ecom-12` — Vintage Denim Jacket Try-On
+### ✅ `ecom-12` — Vintage Denim Jacket Try-On
 *复古牛仔外套试穿*
 
-- [ ] Generated and saved as `inbox/images/ecom-12.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -154,10 +154,10 @@ Half-body editorial fashion photograph of a young East Asian woman in her late t
 Full-body editorial photograph of a young person standing against a neutral cool-grey concrete wall, wearing a slightly oversized washed indigo vintage denim jacket over a plain cream cotton t-shirt and straight-leg light wash jeans, simple white leather sneakers. Hands tucked loosely in the front jacket pockets, relaxed natural posture, mild candid expression. Diffuse overcast daylight, vertical 9:16 composition, head fully visible, feet visible at the bottom. No text, no brand patches visible, no watermark. Subtle film grain, photorealistic denim texture, editorial fashion catalogue quality.
 ```
 
-### `ecom-13` — Vegan Snack Bar Hero on Wood Slat
+### ✅ `ecom-13` — Vegan Snack Bar Hero on Wood Slat
 *纯素能量棒木板特写*
 
-- [ ] Generated and saved as `inbox/images/ecom-13.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -166,10 +166,10 @@ Full-body editorial photograph of a young person standing against a neutral cool
 A single matte kraft-paper-wrapped vegan snack bar resting on a rustic wooden slat surface, with a small scatter of raw almonds, dark chocolate chunks, dried cranberries and oat flakes around it. Soft warm natural light from the upper right, gentle long shadow on the wood grain. Square 1:1 hero composition, top-three-quarter angle. No brand text on the wrapper, no logos, no watermark. Premium healthy food product photography, ultra detailed paper texture, crisp ingredient detail, magazine cover quality.
 ```
 
-### `ecom-14` — Whisky Bottle on Dark Bar with Bokeh
+### ✅ `ecom-14` — Whisky Bottle on Dark Bar with Bokeh
 *暗调酒吧威士忌特写*
 
-- [ ] Generated and saved as `inbox/images/ecom-14.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -178,10 +178,10 @@ A single matte kraft-paper-wrapped vegan snack bar resting on a rustic wooden sl
 A tall square-shouldered amber whisky bottle with a black wax-sealed top, standing on a polished dark walnut bar counter. Single warm tungsten back-light produces a soft halo behind the bottle and a subtle reflection on the counter. Background is a deeply blurred dark wood and brass bar interior with golden bokeh. No text on the label, no brand mark, no watermark. Square 1:1 luxury spirits product photography, moody low-key lighting, photorealistic glass and liquid refraction.
 ```
 
-### `ecom-15` — Cold Brew Bottle in Ice Bath
+### ✅ `ecom-15` — Cold Brew Bottle in Ice Bath
 *冰镇冷萃咖啡瓶*
 
-- [ ] Generated and saved as `inbox/images/ecom-15.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -190,10 +190,10 @@ A tall square-shouldered amber whisky bottle with a black wax-sealed top, standi
 A frosted glass bottle of dark cold brew coffee half-submerged in a shallow stainless steel bowl filled with crushed ice and a few visible water droplets running down the bottle. Cool blue daylight from above, refreshing summer mood, square 1:1 composition. Background is a soft blurred cool grey concrete surface. No brand text on the bottle, no logo, no watermark. Photorealistic condensation droplets, sharp ice texture, premium beverage product photography.
 ```
 
-### `ecom-16` — Hand Cream Tube with Botanical Sprig
+### ✅ `ecom-16` — Hand Cream Tube with Botanical Sprig
 *护手霜植物枝*
 
-- [ ] Generated and saved as `inbox/images/ecom-16.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -202,10 +202,10 @@ A frosted glass bottle of dark cold brew coffee half-submerged in a shallow stai
 A small matte sage-green aluminium hand cream tube lying on a clean off-white linen surface, with one fresh eucalyptus sprig laid diagonally beside it. Soft diffuse daylight from above, gentle shadows. Square 1:1 minimal natural cosmetics product photography. No brand text on the tube, no logo, no watermark. Photorealistic metal and fabric textures, magazine beauty editorial styling.
 ```
 
-### `ecom-17` — Smartwatch on Wrist with Forest Bokeh
+### ✅ `ecom-17` — Smartwatch on Wrist with Forest Bokeh
 *森林背景智能手表*
 
-- [ ] Generated and saved as `inbox/images/ecom-17.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -214,10 +214,10 @@ A small matte sage-green aluminium hand cream tube lying on a clean off-white li
 Close-up product photograph of a sleek black smartwatch with a clean digital watchface showing a generic step count interface, worn on a forearm with a casual outdoor olive-green jacket sleeve pushed up. Background is a softly blurred forest in golden autumn light with warm bokeh. Square 1:1 lifestyle hero composition, sharp focus on the watch face. No brand logo, no specific app name, no watermark. Photorealistic skin and metal textures, outdoor lifestyle photography quality.
 ```
 
-### `ecom-18` — Mooncake Gift Box Open Reveal
+### ✅ `ecom-18` — Mooncake Gift Box Open Reveal
 *月饼礼盒开启展示*
 
-- [ ] Generated and saved as `inbox/images/ecom-18.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -226,10 +226,10 @@ Close-up product photograph of a sleek black smartwatch with a clean digital wat
 Top-down view of an open premium Mid-Autumn Festival mooncake gift box, deep crimson lacquered exterior with subtle gold cloud patterns embossed on the lid, interior tray showing four neatly arranged round mooncakes with intricate flower patterns on top. A single sprig of fresh osmanthus blossom rests beside the box. Soft warm overhead light, square 1:1 composition. No brand text, no calligraphy logo, no watermark. Premium traditional Chinese seasonal product photography, photorealistic lacquer sheen and pastry texture.
 ```
 
-### `ecom-19` — Premium Tea Tin Lifestyle
+### ✅ `ecom-19` — Premium Tea Tin Lifestyle
 *高端茶罐生活方式*
 
-- [ ] Generated and saved as `inbox/images/ecom-19.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -238,10 +238,10 @@ Top-down view of an open premium Mid-Autumn Festival mooncake gift box, deep cri
 A round matte black premium tea tin resting on a smooth grey concrete tabletop, with a small Eastern minimalist ceramic teapot in raw stoneware glaze and one small celadon cup beside it. A thin curl of steam rises from the cup. Soft directional daylight from the upper left, generous negative space, square 1:1 composition. No brand text on the tin, no logo, no watermark. Photorealistic ceramic and metal textures, calm zen brand photography quality.
 ```
 
-### `ecom-20` — Stationery Bundle Flat-Lay
+### ✅ `ecom-20` — Stationery Bundle Flat-Lay
 *文具组合俯拍*
 
-- [ ] Generated and saved as `inbox/images/ecom-20.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -252,12 +252,12 @@ Top-down flat-lay of a neatly organised back-to-school stationery bundle on a cl
 
 ---
 
-## 📢 Ad Creative (15)
+## 📢 Ad Creative (15 / 15 done)
 
-### `ad-01` — Vertical Billboard — AI Coding Assistant Launch
+### ✅ `ad-01` — Vertical Billboard — AI Coding Assistant Launch
 *AI 编程助手发布竖版广告*
 
-- [ ] Generated and saved as `inbox/images/ad-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -266,10 +266,10 @@ Top-down flat-lay of a neatly organised back-to-school stationery bundle on a cl
 A modern vertical billboard advertisement layout. Upper two-thirds is a deep navy gradient background with a single clean serif headline in large pure white sans-serif type that reads "Code Ten Times Faster". Lower third shows a centered floating laptop with a generic abstract code editor interface glowing softly. A small minimalist CTA button at the very bottom reads "Get Started". Subtle film grain texture, sophisticated tech brand aesthetic, vertical 9:16 composition. No logos, no specific product name, no watermark. Crisp typography rendering, photorealistic device, premium ad design quality.
 ```
 
-### `ad-02` — Banner — Black Friday 70% Off Headphones
+### ✅ `ad-02` — Banner — Black Friday 70% Off Headphones
 *黑五 70% 折扣耳机横幅*
 
-- [ ] Generated and saved as `inbox/images/ad-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -278,10 +278,10 @@ A modern vertical billboard advertisement layout. Upper two-thirds is a deep nav
 Horizontal banner advertisement design, 16:9. Left half shows a giant percentage figure "70%" in heavy bold black typography on a vibrant orange background, with the smaller word "OFF" stacked underneath. Right half is a deep matte black background featuring a single floating over-ear headphone product silhouette with subtle rim lighting. A thin yellow horizontal divider runs across the middle. Bottom right shows a small clean white CTA button reading "Shop Now". No brand logo, no real brand name, no watermark. Crisp e-commerce promotional ad design, photorealistic product, sharp typography.
 ```
 
-### `ad-03` — Pre-Roll Frame — Eco Detergent Hero
+### ✅ `ad-03` — Pre-Roll Frame — Eco Detergent Hero
 *环保洗衣液预滚动画面*
 
-- [ ] Generated and saved as `inbox/images/ad-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -290,10 +290,10 @@ Horizontal banner advertisement design, 16:9. Left half shows a giant percentage
 Vertical 9:16 video pre-roll frame design. A tall transparent eco-friendly detergent bottle stands centered on a soft fresh green gradient background. A clean splash of clear water arcs around the upper half of the bottle, frozen mid-motion, with a few small droplets suspended in air. A small fresh green leaf is tucked at the base. Soft eucalyptus and sage palette. Upper area shows a small clean centered headline in white serif type reading "Cleaner. Greener. Stronger.". No brand mark on the bottle, no logo, no watermark. Premium eco brand advertising design, photorealistic water dynamics, magazine cover quality.
 ```
 
-### `ad-04` — Social Square — App Update Announcement
+### ✅ `ad-04` — Social Square — App Update Announcement
 *App 更新公告方形*
 
-- [ ] Generated and saved as `inbox/images/ad-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -302,10 +302,10 @@ Vertical 9:16 video pre-roll frame design. A tall transparent eco-friendly deter
 Square 1:1 social media announcement card. Soft mint-to-lavender pastel gradient background. Centered upper area shows a clean flat illustration of an abstract floating mobile app icon (rounded square with a generic dashboard symbol inside, soft drop shadow). Below the icon a two-line bold sans-serif headline reads "Brand new home screen — Now live". Bottom shows a thin pill-shaped CTA button reading "See What's New". Generous whitespace, modern flat illustration aesthetic. No real brand name, no logo, no watermark. Crisp typography rendering, premium social ad design quality.
 ```
 
-### `ad-05` — Story Ad — Fitness App Onboarding
+### ✅ `ad-05` — Story Ad — Fitness App Onboarding
 *健身 App 引导故事广告*
 
-- [ ] Generated and saved as `inbox/images/ad-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -314,10 +314,10 @@ Square 1:1 social media announcement card. Soft mint-to-lavender pastel gradient
 Vertical 9:16 mobile story ad design. Soft coral and warm peach gradient background. A floating smartphone in the lower-center area displays a generic fitness app onboarding screen with a stylized running figure illustration, a progress ring, and a single call-to-action button on the phone screen reading "Start Today". Above the phone, a bold three-line sans-serif headline reads "Move for 20 minutes. Feel different by Friday.". Small soft drop shadow behind the phone. No real brand name, no logo, no watermark. Modern fitness app ad design, crisp typography, photorealistic phone.
 ```
 
-### `ad-06` — Square — SaaS Free Trial Offer
+### ✅ `ad-06` — Square — SaaS Free Trial Offer
 *SaaS 免费试用方形*
 
-- [ ] Generated and saved as `inbox/images/ad-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -326,10 +326,10 @@ Vertical 9:16 mobile story ad design. Soft coral and warm peach gradient backgro
 Square 1:1 SaaS marketing card design. Background is a soft gradient mesh of pale lavender, blush pink and warm cream. Generous negative space. Centered headline in heavy modern sans-serif black typography reads "Try it free for 14 days. No card needed.". Below the headline a single small rounded CTA button in deep indigo with white text reads "Start Free Trial". Minimal, premium, magazine-grade typography rendering. No real brand name, no logo, no watermark. Modern SaaS ad design quality.
 ```
 
-### `ad-07` — Hero — Electric Car Launch Cinematic
+### ✅ `ad-07` — Hero — Electric Car Launch Cinematic
 *电动汽车上市电影感*
 
-- [ ] Generated and saved as `inbox/images/ad-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -338,10 +338,10 @@ Square 1:1 SaaS marketing card design. Background is a soft gradient mesh of pal
 Cinematic 16:9 horizontal hero ad frame. A single sleek dark matte silver electric sedan parked at a slight three-quarter angle on a wet reflective asphalt surface at blue hour twilight. Dramatic low-angle camera, soft lens flare from a single hidden streetlight on the upper right. Distant out-of-focus city skyline silhouette with warm window lights in the background. A small centered serif headline in white at the lower-middle reads "The next quiet revolution.". Subtle film grain. No brand logo on the car, no badge, no watermark. Premium automotive launch ad photography, photorealistic paintwork, ultra detailed reflections.
 ```
 
-### `ad-08` — Vertical — Coffee Chain Holiday Drink
+### ✅ `ad-08` — Vertical — Coffee Chain Holiday Drink
 *咖啡连锁假日饮品竖版*
 
-- [ ] Generated and saved as `inbox/images/ad-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -350,10 +350,10 @@ Cinematic 16:9 horizontal hero ad frame. A single sleek dark matte silver electr
 Vertical 9:16 holiday seasonal ad. A single tall takeaway coffee cup in matte burgundy red with a sleeve, topped with a generous swirl of cream and a dusting of cinnamon, held in a hand wearing a soft cream wool sleeve. Background is a softly blurred snowy evening street scene with warm bokeh fairy lights. A bold sans-serif headline in white at the upper third reads "Winter is back. So is the spiced one.". Subtle visible falling snow particles. No brand logo on the cup, no chain name, no watermark. Premium seasonal beverage ad photography, cinematic depth of field.
 ```
 
-### `ad-09` — Square — Online Course Pre-Sale
+### ✅ `ad-09` — Square — Online Course Pre-Sale
 *在线课程预售方形*
 
-- [ ] Generated and saved as `inbox/images/ad-09.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -362,10 +362,10 @@ Vertical 9:16 holiday seasonal ad. A single tall takeaway coffee cup in matte bu
 Square 1:1 online course marketing card. Background is a clean warm cream color. The right two-thirds shows a friendly half-body portrait of a smiling young East Asian woman in her early thirties wearing a cream knit sweater, soft natural side window light. The left third shows a stacked bold black sans-serif headline reading "Ship your first AI app in 30 days", and below it in smaller text "Early-bird pre-sale, 40% off". A small dark CTA button at the lower-left reads "Save my seat". No real brand name, no logo, no watermark. Premium course launch ad design, photorealistic portrait.
 ```
 
-### `ad-10` — Story — Sneaker Drop Countdown
+### ✅ `ad-10` — Story — Sneaker Drop Countdown
 *球鞋发售倒计时故事*
 
-- [ ] Generated and saved as `inbox/images/ad-10.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -374,10 +374,10 @@ Square 1:1 online course marketing card. Background is a clean warm cream color.
 Vertical 9:16 hype-drop sneaker ad frame. A single floating low-top sneaker in vibrant electric blue mesh upper with a chunky white midsole, lit from a single hard top-right key light against a pure matte black background. A thin neon orange digital countdown timer overlay at the top reads "03 : 12 : 47" and the smaller word "DROPS FRIDAY" sits beneath. Subtle motion blur particles around the shoe. No brand logo on the shoe, no swoosh, no watermark. Premium streetwear product ad design, photorealistic shoe materials, ultra sharp focus.
 ```
 
-### `ad-11` — Banner — Investment App Get Started CTA
+### ✅ `ad-11` — Banner — Investment App Get Started CTA
 *投资 App 开始投资横幅*
 
-- [ ] Generated and saved as `inbox/images/ad-11.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -386,10 +386,10 @@ Vertical 9:16 hype-drop sneaker ad frame. A single floating low-top sneaker in v
 Horizontal 16:9 fintech banner ad. Left two-thirds: clean deep navy background with a subtle abstract green-to-cyan line chart trailing upward in the lower-left as a faint background motif. Bold white sans-serif headline reads "Start investing with $1. Skip the jargon.". Right one-third: a clean white rounded card containing a single CTA button in vivid mint green with dark text reading "Get Started", plus three tiny placeholder icons stacked below it (lightning, lock, chart). No real brand name, no logo, no watermark. Modern fintech ad design, crisp typography rendering, magazine quality.
 ```
 
-### `ad-12` — Square — Streaming Series Promo Frame
+### ✅ `ad-12` — Square — Streaming Series Promo Frame
 *流媒体剧集宣传方形*
 
-- [ ] Generated and saved as `inbox/images/ad-12.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -398,10 +398,10 @@ Horizontal 16:9 fintech banner ad. Left two-thirds: clean deep navy background w
 Square 1:1 streaming series promotional frame. Cinematic moody scene of a single silhouetted figure backlit by a warm orange glow at the end of a long shadowed corridor. Heavy atmospheric haze and god rays. Subtle italic serif tagline in white at the bottom-center reads "Some doors only open once.". Subtle film grain texture. No brand logo, no streaming platform name, no watermark. Premium cinematic series key art design, photorealistic lighting, magazine poster quality.
 ```
 
-### `ad-13` — Vertical — Bubble Tea Summer Menu
+### ✅ `ad-13` — Vertical — Bubble Tea Summer Menu
 *夏日奶茶菜单竖版*
 
-- [ ] Generated and saved as `inbox/images/ad-13.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -410,10 +410,10 @@ Square 1:1 streaming series promotional frame. Cinematic moody scene of a single
 Vertical 9:16 vibrant summer bubble tea ad. Three takeaway cups of bubble tea floating in a soft mid-air arc against a saturated mango-orange-to-watermelon-pink gradient background: one peach iced tea with visible fruit slices, one strawberry milk tea with pink boba, one mango green tea with yellow chunks. A burst of fresh fruit slices (mango, strawberry, peach, mint leaf) suspended around the cups mid-air. Subtle motion energy lines. A small bold centered headline at the top reads "Summer flavours are back". No brand logos on the cups, no watermark. Crisp commercial F&B ad photography, photorealistic liquid and fruit textures.
 ```
 
-### `ad-14` — Square — Donation Campaign Visual
+### ✅ `ad-14` — Square — Donation Campaign Visual
 *公益捐助活动视觉*
 
-- [ ] Generated and saved as `inbox/images/ad-14.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -422,16 +422,464 @@ Vertical 9:16 vibrant summer bubble tea ad. Three takeaway cups of bubble tea fl
 Square 1:1 non-profit donation campaign visual. Clean off-white background with a single centered hand-drawn ink illustration of two cupped hands holding a small sapling. Below the illustration, a bold heartfelt serif headline in deep forest green reads "A small gift can plant a quiet future.". A small rounded CTA pill button at the bottom in deep green with white text reads "Donate $5". Generous negative space. No specific charity name, no logo, no watermark. Warm minimalist non-profit ad design, crisp typography, premium editorial quality.
 ```
 
-### `ad-15` — Web Banner — AI Image API Try Free
+### ✅ `ad-15` — Web Banner — AI Image API Try Free
 *AI 图像 API 免费试用横幅*
 
-- [ ] Generated and saved as `inbox/images/ad-15.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
 
 ```
 Horizontal 16:9 web banner ad for an AI image generation API. Background is a soft gradient mesh of warm peach, soft lavender and pale mint. Left two-thirds: a clean modern bold serif headline in deep charcoal black reads "Generate images from one API key." stacked over a smaller subhead reading "OpenAI-compatible. Pay as you go.". A small rounded dark CTA button at the lower-left reads "Try free". Right one-third: a clean white floating mock terminal window showing two short generic placeholder lines of code in monospaced text and a single example output thumbnail. No real brand name, no logo, no watermark. Modern developer-focused SaaS ad design, crisp typography, premium quality.
+```
+
+---
+
+## 🧝 Character Design (0 / 10 done)
+
+### 🕒 `char-01` — Cyberpunk Bounty Hunter — Three-Quarter View
+*赛博朋克赏金猎人三分之四视角*
+
+- [ ] Generated and saved as `inbox/images/char-01.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Three-quarter character key visual of a young cyberpunk bounty hunter standing in a rain-slicked neon alley at night. Black tactical longcoat over a dark armored vest, fingerless gloves, holstered futuristic sidearm at the hip, glowing visor mask pushed up onto the forehead. Cinematic low-angle shot with strong magenta and cyan rim lighting from offscreen neon signs reflecting on wet pavement. Steam rising from a manhole behind. Faint faction sigil patch on the shoulder. 16:9 horizontal composition, sharp focus on the character, atmospheric haze. No text overlay, no real brand logos, no watermark. Cinematic character key visual quality, photorealistic fabric and metal textures.
+```
+
+### 🕒 `char-02` — Fantasy Druid Half-Body Portrait
+*奇幻德鲁伊半身肖像*
+
+- [ ] Generated and saved as `inbox/images/char-02.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Half-body vertical character portrait of a young druid in a misty old-growth forest at golden hour. Layered leather and woven leaf armor with subtle moss embroidery, a small antler crown nestled in long braided dark hair, one hand holding a faintly glowing wooden staff entwined with ivy. Warm sun rays filtering through ferns behind, soft green and amber palette. Calm focused expression looking off-frame. Vertical 9:16 composition, head and chest framing. No text, no clan symbols, no watermark. Painterly fantasy illustration with photorealistic details, magazine cover quality.
+```
+
+### 🕒 `char-03` — Sci-Fi Mech Pilot Full-Body Sheet
+*科幻机甲驾驶员三视图*
+
+- [ ] Generated and saved as `inbox/images/char-03.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Full-body character reference sheet showing the same sci-fi mech pilot in three views — front, side, and back — lined up horizontally on a clean cool grey technical-grid background. White and orange flight suit with reinforced chest plate, helmet held under one arm, utility belt with two canisters. Subtle drop shadow on the grid, thin orange annotation lines connecting key gear pieces. 16:9 horizontal composition, sharp neutral studio lighting from above. No real brand text, no watermark. Technical character design sheet aesthetic, photorealistic suit materials.
+```
+
+### 🕒 `char-04` — Anime School Idol Concept Frame
+*动漫校园偶像设定画面*
+
+- [ ] Generated and saved as `inbox/images/char-04.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical anime-style concept frame of a cheerful Japanese high school idol in a soft pastel uniform, standing under cherry blossom petals drifting in the breeze. Mid shot, warm afternoon sunlight, slight lens bokeh. On the right side of the frame a small expression strip showing four mini portraits of the same character: smile, surprised, thoughtful, laughing. Sakura tree branch arches over the top of the frame. Vertical 9:16 composition. No text on the uniform, no school crest, no watermark. Premium anime production-grade illustration quality, clean line art with painterly background.
+```
+
+### 🕒 `char-05` — Cozy Bakery Owner Character Sticker
+*面包店主理人贴纸*
+
+- [ ] Generated and saved as `inbox/images/char-05.jpg` (or .png / .webp)
+- Aspect ratio: `1:1`
+
+**Prompt:**
+
+```
+Chibi-style square character sticker design of a cheerful young bakery owner: round friendly face, small flour smudge on one cheek, oversized white apron over a striped shirt, holding a freshly baked loaf with both hands. Two pose variations of the same character stacked vertically inside the 1:1 frame: top pose smiling and offering bread, bottom pose hands on hips winking. Clean white background with subtle drop shadow under each pose. No text, no shop name, no watermark. Clean line art, warm pastel palette, sticker-pack ready design.
+```
+
+### 🕒 `char-06` — Post-Apocalyptic Scavenger — Environment Hero
+*废土拾荒者环境主视觉*
+
+- [ ] Generated and saved as `inbox/images/char-06.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Cinematic environment hero shot of a lone post-apocalyptic scavenger standing in the foreground silhouette against a vast ruined cityscape at dust storm hour. Heavy layered clothing with goggles around the neck, a wrapped scarf covering the lower face, a worn canvas backpack with attached scrap metal canisters. Crumbled skyscraper debris and a tilted broken streetlight in the foreground, hazy orange sun struggling through suspended dust. 16:9 horizontal composition, deep desaturated palette with a single warm light source. No text, no faction logo, no watermark. Hollywood concept art quality, photorealistic dust and fabric.
+```
+
+### 🕒 `char-07` — Detective Noir Half-Body Cinematic
+*黑色电影侦探半身*
+
+- [ ] Generated and saved as `inbox/images/char-07.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical half-body cinematic noir portrait of a hard-boiled detective inside a dark 1940s office at night. Single venetian blind shadow pattern cast across the face and the dark trenchcoat, low-key key light from the left, deep shadows on the right. Fedora tilted slightly forward, lit cigarette held casually with a thin smoke curl rising. Composed mid expression, eyes catching the light. Vertical 9:16 composition, head and chest framing. No text on the wall, no badge visible, no watermark. Classic film noir cinematography quality, photorealistic skin and fabric textures, subtle 35mm grain.
+```
+
+### 🕒 `char-08` — High-Fantasy Elf Archer — Action Pose
+*高奇幻精灵弓手动作姿态*
+
+- [ ] Generated and saved as `inbox/images/char-08.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Horizontal dynamic action key visual of a high-fantasy elf archer mid-shot, body twisted in a powerful drawing pose with the bowstring fully pulled back. Long silver hair flowing with motion, ornate light leather armor with engraved silver filigree, ears pointed, focused green eyes locked on an unseen target. Subtle motion blur in the background of a sun-dappled ancient forest, drifting leaves around the figure. 16:9 horizontal composition. No text, no clan sigil, no watermark. High-fantasy concept art quality, painterly with photorealistic textures.
+```
+
+### 🕒 `char-09` — Friendly Robot Coffee Barista Mascot
+*友好机器人咖啡师吉祥物*
+
+- [ ] Generated and saved as `inbox/images/char-09.jpg` (or .png / .webp)
+- Aspect ratio: `1:1`
+
+**Prompt:**
+
+```
+Square 1:1 isometric mascot design of a friendly humanoid coffee barista robot. Clean rounded white panels with mint green accent stripes, single large round screen face displaying a simple smile made of two dots and an upturned arc, three-fingered articulated hands holding a small ceramic cup of espresso. Subtle steam from the cup. Stands on a small soft grey isometric base tile. Bright soft studio lighting from above-front, square 1:1 brand-ready composition. No real brand name on the robot, no logo, no watermark. Premium mascot illustration quality, photorealistic plastic and metal materials.
+```
+
+### 🕒 `char-10` — Cottagecore Witch Apothecary Scene
+*田园风女巫药房场景*
+
+- [ ] Generated and saved as `inbox/images/char-10.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical scene illustration of a young cottagecore witch standing inside her warm wooden apothecary interior at sunset. Long flowing earth-tone dress with a knitted shawl, hair loosely braided with a small dried flower tucked behind one ear. Around her: softly glowing glass jars filled with dried herbs and shimmering potions on shelves, an open spell book on a wooden table to her right, a sleeping black cat curled on a stack of books. Warm amber light from a window casts long beams across the room. Vertical 9:16 composition. No legible text on the book, no shop signage, no watermark. Painterly fantasy illustration quality with photorealistic textures.
+```
+
+---
+
+## 📸 Portrait & Photography (0 / 8 done)
+
+### 🕒 `port-01` — Editorial Female Portrait — Bauhaus Studio
+*包豪斯风格女性时装肖像*
+
+- [ ] Generated and saved as `inbox/images/port-01.jpg` (or .png / .webp)
+- Aspect ratio: `3:4`
+
+**Prompt:**
+
+```
+Editorial 3:4 studio portrait of a young East Asian woman with short bobbed black hair, wearing a sharply tailored primary-red blazer over a clean white shirt. Standing in front of a Bauhaus-style geometric studio backdrop: large flat blocks of primary yellow, primary blue, and warm cream painted in clean rectangles. Strong directional studio key light from the right casting hard geometric shadows across the backdrop. Confident neutral expression looking just past the camera. 3:4 vertical composition, head and shoulders framing. No brand logo, no jewelry text, no watermark. Magazine fashion editorial quality, photorealistic skin and fabric textures, ultra sharp focus.
+```
+
+### 🕒 `port-02` — Street Portrait — Tokyo Shibuya Rain Night
+*东京涩谷雨夜街头肖像*
+
+- [ ] Generated and saved as `inbox/images/port-02.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 candid street portrait of a young woman in a clear plastic raincoat over a hooded sweatshirt, walking through a rain-soaked Shibuya intersection at night. Massive neon billboards in pink, cyan and red reflected on the wet pavement around her feet. Slight motion blur on the umbrella she carries. Wet hair strands sticking to her cheeks, soft makeup, calm expression. Phone-shot framing aesthetic, vertical composition. No real brand names on the billboards, no readable text, no watermark. Cinematic street photography quality with subtle 35mm grain, photorealistic rain droplets.
+```
+
+### 🕒 `port-03` — Documentary Chef Mid-Action
+*纪实风格厨师工作中*
+
+- [ ] Generated and saved as `inbox/images/port-03.jpg` (or .png / .webp)
+- Aspect ratio: `3:4`
+
+**Prompt:**
+
+```
+3:4 vertical documentary photograph of a mid-career chef inside a busy professional kitchen, captured mid-action while plating a dish. Heat shimmer rising from a pan in the foreground, faint steam blurring around him, focused intense expression. White double-breasted chef jacket smudged with sauce on the chest, sleeves rolled up showing forearms. Warm overhead service light, slight motion blur on the plating hand. Vertical 3:4 framing, slightly low angle. No restaurant name on the apron, no logo, no watermark. Premium food documentary photography quality, photorealistic skin sweat detail and fabric textures.
+```
+
+### 🕒 `port-04` — Skater Portrait — Half Pipe Backlight
+*U 池逆光滑板少年*
+
+- [ ] Generated and saved as `inbox/images/port-04.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 kinetic portrait of a teenage skateboarder mid-frame at the top of a wooden half pipe at sunset, board angled just past the lip, body in a slight crouch ready to drop. Strong golden backlight rim-lighting the silhouette, dust particles caught in the air around him. Faded loose t-shirt and denim shorts, scuffed sneakers. Vertical composition, dynamic but sharp focus on the skater. No brand sticker on the deck, no logo on the clothing, no watermark. Premium youth sport documentary photography quality with subtle motion blur, photorealistic textures.
+```
+
+### 🕒 `port-05` — CEO Headshot — Modern Corporate
+*现代企业 CEO 商务肖像*
+
+- [ ] Generated and saved as `inbox/images/port-05.jpg` (or .png / .webp)
+- Aspect ratio: `3:4`
+
+**Prompt:**
+
+```
+3:4 vertical clean modern corporate headshot of an East Asian woman in her early forties, wearing a charcoal grey wool blazer over a simple white silk top. Confident composed expression, slight smile, arms relaxed. Soft natural window light from the upper left, simple seamless cool grey backdrop. Tight head-and-shoulders framing, vertical 3:4 composition. Sharp catchlight in both eyes, subtle highlight on cheekbones. No company logo visible, no brand pin, no watermark. Premium executive portrait photography quality, photorealistic skin texture, magazine business profile aesthetic.
+```
+
+### 🕒 `port-06` — Festival Portrait — Holi Color Powder
+*胡里彩粉节肖像*
+
+- [ ] Generated and saved as `inbox/images/port-06.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi festival, her face and white kurta partially coated in bright pink, yellow and turquoise color powder. A burst of color powder suspended mid-air around her head from someone offscreen. Brilliant late-morning sunlight, dust particles glowing in the light. Tight vertical framing from chest up, head slightly thrown back in delight. No festival branding, no text, no watermark. Premium documentary photography quality, sharp focus on her face with subtle motion blur on the powder cloud, photorealistic skin and pigment textures.
+```
+
+### 🕒 `port-07` — Athlete Portrait — Boxing Gym Sweat Detail
+*拳击馆运动员细节肖像*
+
+- [ ] Generated and saved as `inbox/images/port-07.jpg` (or .png / .webp)
+- Aspect ratio: `3:4`
+
+**Prompt:**
+
+```
+3:4 vertical dramatic athlete portrait of a young boxer leaning against a chain-link fence inside an old industrial boxing gym, illuminated by a single high-contrast Rembrandt-style window light from the upper left. Sweat beading on the brow and bare shoulders, hand wraps still on, intense focused gaze just past the camera. Dark moody background with a faded out-of-focus heavy bag in the corner. Vertical 3:4 framing, head and chest. No brand logo on the wraps, no gym signage, no watermark. Cinematic sports portraiture quality, photorealistic skin sweat detail and dust-lit air.
+```
+
+### 🕒 `port-08` — Couple Portrait — Autumn Forest Path
+*秋季森林情侣背影*
+
+- [ ] Generated and saved as `inbox/images/port-08.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+16:9 horizontal cinematic couple portrait shot from behind as a young couple walks hand-in-hand down a leaf-strewn forest path in deep autumn. Both wearing knitted neutral sweaters and dark jeans, no faces visible. Warm late-afternoon golden hour light filtering through orange and amber leaves, soft lens flare. The path curves gently away to the right. Edge-to-edge composition with generous canopy above and a thick carpet of fallen leaves below. No text overlays, no watermark. Cinematic relationship portrait photography quality, photorealistic foliage and fabric textures with subtle 35mm grain.
+```
+
+---
+
+## 🏙️ Poster & Illustration (0 / 8 done)
+
+### 🕒 `post-01` — Lisbon Tram Spring Travel Poster
+*里斯本电车春季旅行海报*
+
+- [ ] Generated and saved as `inbox/images/post-01.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 illustrated travel poster of a bright yellow vintage Lisbon tram cresting a steep cobblestone hill, with pastel-colored buildings in soft pink, peach and mint stacked on either side of the street. A small flower box on a windowsill, laundry strung between two upper balconies. Soft warm spring afternoon light. Title text "LISBOA" rendered in clean elegant serif typography across the top of the poster, with the smaller subhead "ALFAMA · SPRING" beneath. Vertical poster composition. No real brand names on the tram, no watermark. Premium curated travel illustration aesthetic, painterly with crisp typography.
+```
+
+### 🕒 `post-02` — Kyoto Bamboo Forest Minimalist Poster
+*京都嵐山竹林极简海报*
+
+- [ ] Generated and saved as `inbox/images/post-02.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 minimalist Japanese travel poster of the Arashiyama bamboo grove. Single muted sage-green tonal palette, towering vertical bamboo stalks rendered with simplified painterly brush strokes filling the lower two-thirds. Large negative space sky in soft pale cream above. A small bold serif title "KYOTO" centered in the upper third with a thinner subhead "ARASHIYAMA · BAMBOO GROVE" beneath. Subtle paper grain texture across the whole poster. Vertical composition. No watermark, no logo. Premium minimalist Japanese travel poster aesthetic, magazine cover quality.
+```
+
+### 🕒 `post-03` — Tech Conference Keynote Poster
+*科技大会主题演讲海报*
+
+- [ ] Generated and saved as `inbox/images/post-03.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Horizontal 16:9 modern tech conference keynote poster. Background is a vibrant abstract gradient mesh of deep indigo, electric purple and magenta. Centered silhouette of a single speaker mid-gesture against the gradient, lit from below by a small bright square stage light. Bold all-caps sans-serif headline at the top reads "BUILD 2026". Smaller subhead beneath reads "ARTIFICIAL · APPLIED · AGENTIC". Bottom of the poster shows a thin neon line and the date "OCT 14 — SF" in monospaced text. Horizontal poster composition. No real company name, no logo, no watermark. Premium conference design quality, crisp typography rendering.
+```
+
+### 🕒 `post-04` — Indie Coffee Roastery Poster
+*独立咖啡烘焙坊海报*
+
+- [ ] Generated and saved as `inbox/images/post-04.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 indie coffee roastery poster with a strong risograph print aesthetic. Two-color print of warm burnt orange and deep navy blue on a slightly off-white textured paper background. Centered illustration of a vintage coffee roaster drum drawn in simplified retro line art. Hand-drawn serif headline at the top reads "DAILY ROAST". Below the illustration a smaller hand-lettered line reads "single-origin · since 2018". Slight grain texture and subtle ink misregistration. Vertical poster composition. No real brand name, no watermark. Premium indie cafe poster aesthetic.
+```
+
+### 🕒 `post-05` — City Marathon Event Poster
+*城市马拉松赛事海报*
+
+- [ ] Generated and saved as `inbox/images/post-05.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 modern city marathon event poster. Bold silhouette of a single runner mid-stride rendered as a dynamic three-color overlay print in deep red, fluorescent orange and warm cream. Behind the runner a stylized urban skyline simplified into thin abstract lines forming a continuous route across the lower half of the poster. Strong all-caps sans-serif title "CITY 42" stacked at the top, with the smaller subhead "ANNUAL MARATHON · NOV 9". Vertical poster composition with subtle paper texture. No real city brand, no sponsor logos, no watermark. Premium sports event poster design quality.
+```
+
+### 🕒 `post-06` — Music Festival Headliner Poster
+*音乐节主咖海报*
+
+- [ ] Generated and saved as `inbox/images/post-06.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 indie music festival lineup poster. Duotone treatment of a dramatic photographic background of a desert dune at sunset, processed in deep violet and bright tangerine. Massive headliner name "LUNAR HAZE" rendered in a custom display serif at the upper third of the poster. Below it a stacked lineup of smaller fictional band names in clean condensed sans-serif type, separated by small dot bullets. At the bottom a thin line of festival date "AUG 22-24" and a generic "DESERT STAGE" venue line. Vertical poster composition with subtle film grain texture. No real artist names, no real festival branding, no watermark. Premium indie festival poster design quality.
+```
+
+### 🕒 `post-07` — Wine Tasting Event Poster
+*品酒会活动海报*
+
+- [ ] Generated and saved as `inbox/images/post-07.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 elegant wine tasting event poster. Background is a deep wine-burgundy color. Centered hand-drawn botanical illustration in gold linework of grape vines, leaves and a small cluster of grapes. Above the illustration an elegant italic serif title reads "Reserve Tasting". Below the illustration a smaller line in light cream type reads "Six wines, four courses, one evening". At the very bottom a small line of date and location "Friday · The Garden Hall". Vertical poster composition with subtle paper grain. No real winery name, no watermark. Premium boutique event poster aesthetic, magazine quality typography.
+```
+
+### 🕒 `post-08` — Bookstore Anniversary Poster
+*书店周年纪念海报*
+
+- [ ] Generated and saved as `inbox/images/post-08.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 warm indie bookstore anniversary poster. Stylized illustrated foreground showing a stacked tower of mismatched books in muted earth tones (terracotta, sage, olive, mustard, cream), each spine slightly different. A small reading lamp warmly illuminates the stack from the upper right, casting a soft glow across the books. Above the stack a serif title "TEN YEARS OF READING" in deep ink black with a thin gold underline. Smaller line beneath reads "thank you for stopping by". Background is a warm beige paper texture. Vertical poster composition. No real bookstore name, no real book titles, no watermark. Premium indie shop poster illustration aesthetic.
+```
+
+---
+
+## 📱 UI & Social Mockups (0 / 10 done)
+
+### 🕒 `uisoc-01` — App Onboarding — Wellness Tracker
+*健康追踪 App 引导页*
+
+- [ ] Generated and saved as `inbox/images/uisoc-01.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 mobile app onboarding screen mockup for a wellness tracker. Soft warm gradient background from pale peach to dusty lavender. Centered flat illustration of a small abstract figure meditating cross-legged with soft floating leaves around them. Above the illustration a friendly two-line headline reads "Tiny check-ins. Real results.". Below it three small step indicator dots, first one filled green. At the bottom of the screen a single prominent rounded CTA button in deep mint green with white text reading "Get Started". Phone-shaped vertical 9:16 composition with subtle inner padding. No real brand name, no logo, no watermark. Premium mobile UI design quality, crisp typography rendering.
+```
+
+### 🕒 `uisoc-02` — Notion Template Cover — Project Tracker
+*Notion 模板封面 · 项目追踪*
+
+- [ ] Generated and saved as `inbox/images/uisoc-02.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 Notion-style template cover mockup. Soft pastel cream background with subtle paper grain texture. Centered minimal flat illustration of a stack of three layered project cards in pale sage, peach, and lavender, each with a tiny placeholder progress bar and a small icon. Above the illustration a bold modern serif title reads "Project Tracker". Below it in smaller clean sans-serif type reads "A simple template for shipping things". Vertical composition with generous margins. No real brand name, no Notion logo, no watermark. Premium productivity template cover aesthetic, magazine layout quality.
+```
+
+### 🕒 `uisoc-03` — Twitter Thread Cover Card — AI Weekly Recap
+*AI 周报推文封面卡*
+
+- [ ] Generated and saved as `inbox/images/uisoc-03.jpg` (or .png / .webp)
+- Aspect ratio: `16:9`
+
+**Prompt:**
+
+```
+Horizontal 16:9 social-share cover card for a weekly AI newsletter thread. Background is a clean cool charcoal gradient. Left side shows a bold large serif headline stacked over three lines reading "This Week / in AI / Issue 47". Right side shows a small floating mockup of a phone screen displaying an abstract feed with three blurred-out tweet cards. Below the headline on the left a smaller monospaced line reads "10 stories · 4 min read". Horizontal 16:9 composition with sharp typography rendering. No real brand name, no real tweet content, no watermark. Premium social-share cover design quality.
+```
+
+### 🕒 `uisoc-04` — iOS Lock Screen Concept — Stoic Quote
+*iOS 锁屏概念 · 斯多葛箴言*
+
+- [ ] Generated and saved as `inbox/images/uisoc-04.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 iOS lock screen design concept. Phone-frame vertical composition. Background is a soft early-morning gradient from pale blush to warm cream. Top center shows the time "07:23" in a clean light sans-serif. Below the time a small subtle date line "Monday, May 26". Centered lower-third of the screen shows a single italic serif quote: "You have power over your mind — not outside events.". A tiny attribution line "— Marcus Aurelius" beneath it. No app icons cluttering the screen, no notification toasts, no watermark. Premium lock screen typography design quality.
+```
+
+### 🕒 `uisoc-05` — Podcast Episode Cover Frame
+*播客单集封面*
+
+- [ ] Generated and saved as `inbox/images/uisoc-05.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 podcast episode cover. Background is a deep saturated terracotta orange color. Upper-left shows a small show logo placeholder, an abstract sound wave symbol in cream. Centered lower half features a stylized half-body illustration of a generic host figure with headphones on, drawn in flat cream and dark accents. Above the host illustration a bold sans-serif headline reads "EP. 124 / Building Quietly". Below it a smaller serif subhead "with an anonymous founder". Vertical 9:16 composition. No real show name, no real host name, no watermark. Premium podcast cover design quality, crisp typography rendering.
+```
+
+### 🕒 `uisoc-06` — Open Source Project README Hero
+*开源项目 README 主视觉*
+
+- [ ] Generated and saved as `inbox/images/uisoc-06.jpg` (or .png / .webp)
+- Aspect ratio: `1:1`
+
+**Prompt:**
+
+```
+Square 1:1 README hero banner for an open source project. Background is a clean deep midnight indigo color with a subtle low-opacity geometric pattern of intersecting thin lines suggesting code or graphs. Centered upper area shows the project name "Lighthouse" in a bold modern monospaced font in pure white. Beneath it a smaller line in soft mint green reads "// A tiny scheduler for tired developers". At the lower right corner three small abstract badge placeholders, rectangles labeled "MIT", "v1.0", "CI". Square 1:1 composition. No real GitHub URL text, no watermark. Premium developer README cover design quality.
+```
+
+### 🕒 `uisoc-07` — Mobile Banking App Dashboard Mock
+*手机银行 App 主面板*
+
+- [ ] Generated and saved as `inbox/images/uisoc-07.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 fintech banking app dashboard screen mockup. Phone-shaped frame. Background is a clean deep navy blue gradient. At the top a friendly greeting "Hi, Alex" in white sans-serif. Below it a large rounded card in slightly lighter navy showing a placeholder balance "$ 4,820.32" with a smaller line "Available". Below the card a horizontal segmented bar chart showing spending categories in mint, peach, and lavender bars. At the bottom three small icon buttons "Send / Receive / Top up" with simple flat icons. Vertical 9:16 composition, crisp pixel-aligned UI. No real bank brand, no watermark. Premium fintech UI design quality.
+```
+
+### 🕒 `uisoc-08` — Newsletter Header — Tech Bulletin
+*Newsletter 顶部插图 · 科技简报*
+
+- [ ] Generated and saved as `inbox/images/uisoc-08.jpg` (or .png / .webp)
+- Aspect ratio: `1:1`
+
+**Prompt:**
+
+```
+Square 1:1 newsletter header illustration in a flat editorial vector style. Soft warm cream background. Centered illustration of a single hand holding up a folded paper newspaper with the word "TECH" subtly readable on the front, surrounded by floating small abstract icons: envelope, lightbulb, terminal cursor, graph line, in muted teal and warm orange. Above the illustration a bold serif title reads "The Weekly Bulletin". Below it a small line "Sent every Friday, 7 AM". Square 1:1 composition. No real publication name, no logos, no watermark. Premium editorial newsletter design quality.
+```
+
+### 🕒 `uisoc-09` — AI Chat App First-Run Screen
+*AI 聊天 App 首次启动页*
+
+- [ ] Generated and saved as `inbox/images/uisoc-09.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 AI chat application first-run screen mockup. Phone-shaped frame. Background is a clean off-white. Top center shows a small friendly mascot illustration of an abstract floating geometric character waving. Below the mascot a bold sans-serif greeting reads "Hi! How can I help today?". Below the greeting three rounded suggestion chips stacked vertically with example questions: "Summarize a webpage", "Draft a quick email", "Plan a weekend trip". At the very bottom a simple text input field with a placeholder "Type a message…" and a small send arrow icon. Vertical 9:16 composition, crisp pixel-aligned UI. No real brand name, no logo, no watermark. Premium AI app onboarding UI design quality.
+```
+
+### 🕒 `uisoc-10` — Music Player Now-Playing Screen
+*音乐播放器播放中页*
+
+- [ ] Generated and saved as `inbox/images/uisoc-10.jpg` (or .png / .webp)
+- Aspect ratio: `9:16`
+
+**Prompt:**
+
+```
+Vertical 9:16 music player now-playing screen mockup. Background is a soft blurred gradient extracted from an album cover, dominant in deep teal and warm gold. Centered upper area shows a clean rounded square album artwork placeholder, a stylized abstract circle with concentric rings, no text. Below the artwork a bold sans-serif track title "Slow Light" and a smaller subhead "by Long Evening". Beneath that a thin progress bar at about one-third, with small timestamps "1:18 / 3:45". At the very bottom three large playback control icons: previous, play, next, plus two smaller side icons for shuffle and repeat. Vertical 9:16 composition, crisp pixel-aligned UI. No real artist name, no real app name, no watermark. Premium music player UI design quality.
 ```
 
 ---
