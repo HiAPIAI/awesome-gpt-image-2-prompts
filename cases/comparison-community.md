@@ -357,8 +357,8 @@ Author: [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn) · Ratio: `auto` · La
 - [Character Design](./character-design.md) · 7 cases
 - [UI & Social Mockups](./ui-social.md) · 21 cases
 - [Curated References](./community-reference.md) · 17 cases
-- [E-commerce & Product](./e-commerce.md) · 0 cases
-- [Ad Creative](./ad-creative.md) · 0 cases
+- [E-commerce & Product](./e-commerce.md) · 20 cases
+- [Ad Creative](./ad-creative.md) · 15 cases
 
 ---
 

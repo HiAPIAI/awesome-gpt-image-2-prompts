@@ -213,8 +213,8 @@ Author: [@loglogrog](https://x.com/loglogrog) · Ratio: `auto` · Language: `中
 - [UI & Social Mockups](./ui-social.md) · 21 cases
 - [Model Tests & Community](./comparison-community.md) · 15 cases
 - [Curated References](./community-reference.md) · 17 cases
-- [E-commerce & Product](./e-commerce.md) · 0 cases
-- [Ad Creative](./ad-creative.md) · 0 cases
+- [E-commerce & Product](./e-commerce.md) · 20 cases
+- [Ad Creative](./ad-creative.md) · 15 cases
 
 ---
 

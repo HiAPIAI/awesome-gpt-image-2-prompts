@@ -344,8 +344,8 @@ Create a chaotic security-camera still from a 1990s grocery store. A man in full
 - [Character Design](./character-design.md) · 7 cases
 - [UI & Social Mockups](./ui-social.md) · 21 cases
 - [Model Tests & Community](./comparison-community.md) · 15 cases
-- [E-commerce & Product](./e-commerce.md) · 0 cases
-- [Ad Creative](./ad-creative.md) · 0 cases
+- [E-commerce & Product](./e-commerce.md) · 20 cases
+- [Ad Creative](./ad-creative.md) · 15 cases
 
 ---
 

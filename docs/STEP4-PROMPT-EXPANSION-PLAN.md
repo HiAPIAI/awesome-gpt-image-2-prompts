@@ -1,8 +1,9 @@
 # Step 4 — Prompt Expansion Plan (118 → ~189)
 
-> Status: planning only — no images generated yet
+> Status: batch 1 complete — 35 images generated and imported locally on 2026-05-26
 > Target: +71 high-intent prompts across 8 categories
 > Source: cross-repo SEO/GEO plan, codex second-opinion modification (see `hiapi-content-lab/docs/github-repos-seo-geo-2026-05-26.md`)
+> Progress: `e-commerce` 20 / 20 complete; `ad-creative` 15 / 15 complete; remaining planned follow-up slots: 36
 
 ## Why this shape
 
@@ -164,8 +165,9 @@ Default recommendation: **option 1**, gated on the maintainer's approval of this
 
 This document is "done" once:
 
-- [ ] Two new categories (`e-commerce`, `ad-creative`) added to `data/prompts.json` `categories` array
-- [ ] Maintainer (you) approves the topic list or hands back a revised list
-- [ ] An execution path is chosen (option 1 / 2 / 3 above)
+- [x] Two new categories (`e-commerce`, `ad-creative`) added to `data/prompts.json` `categories` array
+- [x] Maintainer (you) approves the topic list or hands back a revised list
+- [x] An execution path is chosen (option 1 / 2 / 3 above)
+- [x] Batch 1 generated with Codex built-in `image_gen`, imported through `node scripts/import-inbox.mjs`, and rebuilt into README + case pages
 
-Once approved, this file moves to `docs/archive/` and a new `data/prompts.json` PR starts landing entries in batches of 10-20.
+Batch 1 is now in the local git history target set. The remaining Step 4 follow-up is the planned +36 batch across `character-design`, `portrait-photography`, `poster-illustration`, and `ui-social`.
