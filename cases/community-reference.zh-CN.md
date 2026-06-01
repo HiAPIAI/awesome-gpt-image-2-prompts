@@ -339,10 +339,10 @@ Create a chaotic security-camera still from a 1990s grocery store. A man in full
 
 ## 继续浏览其他分类
 
-- [人像与摄影](./portrait-photography.zh-CN.md) · 18 个案例
-- [海报与插画](./poster-illustration.zh-CN.md) · 40 个案例
-- [角色设计](./character-design.zh-CN.md) · 7 个案例
-- [UI 与社交截图](./ui-social.zh-CN.md) · 21 个案例
+- [人像与摄影](./portrait-photography.zh-CN.md) · 26 个案例
+- [海报与插画](./poster-illustration.zh-CN.md) · 48 个案例
+- [角色设计](./character-design.zh-CN.md) · 17 个案例
+- [UI 与社交截图](./ui-social.zh-CN.md) · 31 个案例
 - [模型测试与社区案例](./comparison-community.zh-CN.md) · 15 个案例
 - [电商与产品](./e-commerce.zh-CN.md) · 20 个案例
 - [广告与营销素材](./ad-creative.zh-CN.md) · 15 个案例

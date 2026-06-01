@@ -7,7 +7,7 @@
 [![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
-![153 Prompts](https://img.shields.io/badge/153%20Prompts-f97316)
+![189 Prompts](https://img.shields.io/badge/189%20Prompts-f97316)
 ![8 Categories](https://img.shields.io/badge/8%20Categories-111827)
 ![Real Images](https://img.shields.io/badge/Real%20Images-16a34a)
 ![Copy Prompts](https://img.shields.io/badge/Copy%20Prompts-f59e0b)
@@ -32,12 +32,12 @@
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="Portrait &amp; Photography"></a><br><sub><b>Portrait &amp; Photography</b> · 18 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.md"><img src="./images/poster_case1/output.jpg" width="240" alt="Poster &amp; Illustration"></a><br><sub><b>Poster &amp; Illustration</b> · 40 cases</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./cases/character-design.md"><img src="./images/character_case1/output.jpg" width="240" alt="Character Design"></a><br><sub><b>Character Design</b> · 7 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="Portrait &amp; Photography"></a><br><sub><b>Portrait &amp; Photography</b> · 26 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.md"><img src="./images/poster_case1/output.jpg" width="240" alt="Poster &amp; Illustration"></a><br><sub><b>Poster &amp; Illustration</b> · 48 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/character-design.md"><img src="./images/character_case1/output.jpg" width="240" alt="Character Design"></a><br><sub><b>Character Design</b> · 17 cases</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI &amp; Social Mockups"></a><br><sub><b>UI &amp; Social Mockups</b> · 21 cases</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI &amp; Social Mockups"></a><br><sub><b>UI &amp; Social Mockups</b> · 31 cases</sub></td>
     <td align="center" width="33%" valign="top"><a href="./cases/comparison-community.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="Model Tests &amp; Community"></a><br><sub><b>Model Tests &amp; Community</b> · 15 cases</sub></td>
     <td align="center" width="33%" valign="top"><a href="./cases/community-reference.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="Curated References"></a><br><sub><b>Curated References</b> · 17 cases</sub></td>
   </tr>
@@ -53,7 +53,7 @@
 
 This is not just a prompt list. It is a set of reusable visual examples: real output images, full prompts, aspect ratios, and HiAPI Draw prefill links in one place. Inspect the output first, then replace the subject, product, city, brand, or text with your own.
 
-Explore 153 curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and reusable references. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
+Explore 189 curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and reusable references. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.
 
 ## Why Use This Gallery?
 
@@ -93,10 +93,10 @@ Explore 153 curated visual generation cases across portraits, commercial posters
 
 | Category | Count | Best For |
 | --- | ---: | --- |
-| [Portrait & Photography](./cases/portrait-photography.md) | 18 | Portraits, street shots, film looks, and mobile screenshot styles. |
-| [Poster & Illustration](./cases/poster-illustration.md) | 40 | City posters, travel illustrations, typography, infographics, and commercial visuals. |
-| [Character Design](./cases/character-design.md) | 7 | Character sheets, anime frames, key visuals, and character worldbuilding. |
-| [UI & Social Mockups](./cases/ui-social.md) | 21 | App screens, social pages, livestream screenshots, info cards, and mobile UI. |
+| [Portrait & Photography](./cases/portrait-photography.md) | 26 | Portraits, street shots, film looks, and mobile screenshot styles. |
+| [Poster & Illustration](./cases/poster-illustration.md) | 48 | City posters, travel illustrations, typography, infographics, and commercial visuals. |
+| [Character Design](./cases/character-design.md) | 17 | Character sheets, anime frames, key visuals, and character worldbuilding. |
+| [UI & Social Mockups](./cases/ui-social.md) | 31 | App screens, social pages, livestream screenshots, info cards, and mobile UI. |
 | [Model Tests & Community](./cases/comparison-community.md) | 15 | Counting, text rendering, game screenshots, complex scenes, and model tests. |
 | [Curated References](./cases/community-reference.md) | 17 | Reusable references for game scenes, research figures, infographics, product visuals, and character concepts. |
 | [E-commerce & Product](./cases/e-commerce.md) | 20 | Product photography, model try-on, listing hero shots, holiday gift boxes, and brand sets — visuals built to convert on a storefront. |
@@ -104,7 +104,7 @@ Explore 153 curated visual generation cases across portraits, commercial posters
 
 <a id="gallery-portrait-photography"></a>
 
-### [Portrait & Photography](./cases/portrait-photography.md) · 18 cases
+### [Portrait & Photography](./cases/portrait-photography.md) · 26 cases
 
 Portraits, street shots, film looks, and mobile screenshot styles.
 
@@ -121,11 +121,11 @@ Portraits, street shots, film looks, and mobile screenshot styles.
   </tr>
 </table>
 
-**[Browse all 18 cases →](./cases/portrait-photography.md)**
+**[Browse all 26 cases →](./cases/portrait-photography.md)**
 
 <a id="gallery-poster-illustration"></a>
 
-### [Poster & Illustration](./cases/poster-illustration.md) · 40 cases
+### [Poster & Illustration](./cases/poster-illustration.md) · 48 cases
 
 City posters, travel illustrations, typography, infographics, and commercial visuals.
 
@@ -142,11 +142,11 @@ City posters, travel illustrations, typography, infographics, and commercial vis
   </tr>
 </table>
 
-**[Browse all 40 cases →](./cases/poster-illustration.md)**
+**[Browse all 48 cases →](./cases/poster-illustration.md)**
 
 <a id="gallery-character-design"></a>
 
-### [Character Design](./cases/character-design.md) · 7 cases
+### [Character Design](./cases/character-design.md) · 17 cases
 
 Character sheets, anime frames, key visuals, and character worldbuilding.
 
@@ -163,11 +163,11 @@ Character sheets, anime frames, key visuals, and character worldbuilding.
   </tr>
 </table>
 
-**[Browse all 7 cases →](./cases/character-design.md)**
+**[Browse all 17 cases →](./cases/character-design.md)**
 
 <a id="gallery-ui-social"></a>
 
-### [UI & Social Mockups](./cases/ui-social.md) · 21 cases
+### [UI & Social Mockups](./cases/ui-social.md) · 31 cases
 
 App screens, social pages, livestream screenshots, info cards, and mobile UI.
 
@@ -184,7 +184,7 @@ App screens, social pages, livestream screenshots, info cards, and mobile UI.
   </tr>
 </table>
 
-**[Browse all 21 cases →](./cases/ui-social.md)**
+**[Browse all 31 cases →](./cases/ui-social.md)**
 
 <a id="gallery-comparison-community"></a>
 

@@ -4,7 +4,7 @@
 
 角色设定卡、动画截图、主视觉和角色世界观。
 
-> 案例库 · 7 个案例
+> 案例库 · 17 个案例
 
 ---
 
@@ -21,6 +21,22 @@
   </tr>
   <tr>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=IyDmt7fmsozjgajjgZfjgZ%2Fjg6Hjg6Lmm7jjgY3jg7voqJjlj7fjga7pm4blkIjkvZPjgYvjgonjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjgpLmta7jgYvjgbPkuIrjgYzjgonjgZvjgovjgqLjg7zjg4gKCi0tLSDjgrnjgr%2FjgqTjg6sKLSDnmb3jgYTntJnjga7kuIrjgavpu5LjgqTjg7Pjgq%2Fjgafmj4%2FjgYvjgozjgZ%2FlpKfph4%2Fjga7miYvmm7jjgY3jg6Hjg6LjgIHmlbDlvI%2FjgIHoqJjlj7fjgIHjg6njg7Pjg4Djg6Djgarnt5rjgIIKLSDntJnjgYTjgaPjgbHjgYTjgavmlaPjgonjgbDjgovmm7jjgY3mrrTjgorpoqjjga7jgqvjgqrjgrnjgIIKLSDmiYDjgIXjgavotaTjgqTjg7Pjgq%2Fjga7lvLfoqr8o44Op44Kk44Oz44CB5aGX44KK5r2w44GX44CB44Oe44O844Kr44O86aKo44Gu5aGKKeOAggotIOOCouODiuODreOCsOOBruODjuODvOODiOiQveabuOOBjeOBruOCiOOBhuOBquizquaEn%2BOAggoKLS0tIOani%2BWbswotIOODqeODs%2BODgOODoOOBquODoeODouOChOiomOWPt%2BOBjOWFqOS9k%2BOCkuimhuOBhOWwveOBj%2BOBmeOAggotIOm7kuOCpOODs%2BOCr%2BOBrue3muOChOaWh%2BWtl%2BOBruWvhuW6puOBjOOAjOOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOAjeOBruS9jee9ruOBq%2BmbhuS4reOBmeOCi%2BOAggotIOe1kOaenOOBqOOBl%2BOBpuOAgea3t%2BayjOOBruS4reOBi%2BOCieOAjOS4juOBiOOCieOCjOOBn%2BOCreODo%2BODqeOCr%2BOCv%2BODvOOBrumhlOOBruOCt%2BODq%2BOCqOODg%2BODiOODu%2BihqOaDheOAjeOBjOOBhuOBo%2BOBmeOCiea1ruOBi%2BOBs%2BS4iuOBjOOCi%2BOAggotIOmhlOOBr%2BWGmeWun%2BeahOOBp%2BOBr%2BOBquOBj%2BOAgeOCq%2BOCquOCueOBruaWreeJh%2BOBjOmbhuOBvuOBo%2BOBpuW9ouOCkuaIkOOBmeOAggoKLS0tIOiJsuW9qQotIOODouODjuOCr%2BODrSjpu5Ljg7vnmb0p44KS5Li75L2T44Gr5qeL5oiQ44CCCi0g6LWk44Kk44Oz44Kv44KS44Ki44Kv44K744Oz44OI44Go44GX44Gm5pWj55m655qE44Gr6YWN572u44CCCi0g5b2p5bqm44Gv5oqR44GI44KB44CB44Ki44OK44Ot44Kw44Gu57SZ44Go44Kk44Oz44Kv5oSf44KS6YeN6KaW44CCCgotLS0g6KGo54%2B%2B6KaB57SgCi0g6Kqt44KB44KL44KI44GG44Gn6Kqt44KB44Gq44GE5paH5a2X5YiX44CB5pel5pys6Kqe44KE6Iux5pWw5a2X44GM5re35Zyo44CCCi0g5pWw5byP6KiY5Y%2B344CB55%2Bi5Y2w44CB54K544CB5pac57ea44CB44Kv44Ot44K544CB44OJ44Oq44OD44OXKOOCpOODs%2BOCr%2BOBrumjm%2BOBs%2BaVo%2BOCiinjgIIKLSDjgq3jg6Pjg6njgq%2Fjgr%2Fjg7zjga7poZTjga7nm67jgoTpq6rjga7ovKrpg63jga%2FjgIHjg6Hjg6LjgoToqJjlj7fjga7phY3nva7jga7jgIzkvZnnmb3jgI3jgoTjgIzmv4Pmt6HjgI3jgafmta7jgYvjgbPkuIrjgYzjgovjgIIKCi0tLSDnpoHmraLkuovpoIUKLSDpoZTjgpLnm7TmjqXnmoTjgavmj4%2FjgY3ovrzjgoDlhpnlrp%2Fjg53jg7zjg4jjg6zjg7zjg4jjgIIKLSDjg4fjgrjjgr%2Fjg6vlh6bnkIbnmoTjgafmlbTnhLbjgajjgZfjgZ%2Flub7kvZXlrabmqKHmp5jjgIIKLSDjgqvjg6njg5Xjg6vjgarlvanoibLjgoTpgY7po73lkozooajnj77jgIIKLSDjg63jgrTjgIHpgI%2FjgYvjgZfjgIHkurrlt6XnmoTjgapDR%2BaEn%2BOAggoKLS0tIERlZmluaXRpb24gb2YgRG9uZSAoRG9EKQotIOWFqOS9k%2BOBr%2BOAjOa3t%2BayjOOBqOOBl%2BOBn%2BODoeODouODu%2BiomOWPt%2BOBrumbhuWQiOS9k%2BOAjeOBqOOBl%2BOBpuaIkOeri%2BOBl%2BOBpuOBhOOCi%2BOAgiAgCi0g5LiO44GI44KJ44KM44Gf44Kt44Oj44Op44Kv44K%2F44O844Gu6aGU44GM44CB5re35rKM44Gu5r%2BD5reh44O76YWN572u44GL44KJ6Ieq54S244Gr5rWu44GL44Gz5LiK44GM44KL44CCICAKLSDoibLjga%2Fjg6Ljg47jgq%2Fjg60r6LWk44Ki44Kv44K744Oz44OI44Gu44G%2F44CCICAKLSDntJnjgajjgqTjg7Pjgq%2Fjga7miYvmj4%2FjgY3nmoTos6rmhJ%2FjgpLkv53mjIHjgZfjgabjgYTjgovjgII%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery"><img src="../images/character_case9/output.jpg" width="250" alt="混沌笔记隐藏人脸角色图"></a><br><sub><b>Case 065</b> · <a href="#character-design-cases-case-9-chaos-notes-hidden-face-character-art-by-loglogrog">提示词</a></sub><br><sub><a href="https://x.com/loglogrog/status/2046448773162033240">混沌笔记隐藏人脸角色图</a> · <a href="https://x.com/loglogrog">@loglogrog</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VGhyZWUtcXVhcnRlciBjaGFyYWN0ZXIga2V5IHZpc3VhbCBvZiBhIHlvdW5nIGN5YmVycHVuayBib3VudHkgaHVudGVyIHN0YW5kaW5nIGluIGEgcmFpbi1zbGlja2VkIG5lb24gYWxsZXkgYXQgbmlnaHQuIEJsYWNrIHRhY3RpY2FsIGxvbmdjb2F0IG92ZXIgYSBkYXJrIGFybW9yZWQgdmVzdCwgZmluZ2VybGVzcyBnbG92ZXMsIGhvbHN0ZXJlZCBmdXR1cmlzdGljIHNpZGVhcm0gYXQgdGhlIGhpcCwgZ2xvd2luZyB2aXNvciBtYXNrIHB1c2hlZCB1cCBvbnRvIHRoZSBmb3JlaGVhZC4gQ2luZW1hdGljIGxvdy1hbmdsZSBzaG90IHdpdGggc3Ryb25nIG1hZ2VudGEgYW5kIGN5YW4gcmltIGxpZ2h0aW5nIGZyb20gb2Zmc2NyZWVuIG5lb24gc2lnbnMgcmVmbGVjdGluZyBvbiB3ZXQgcGF2ZW1lbnQuIFN0ZWFtIHJpc2luZyBmcm9tIGEgbWFuaG9sZSBiZWhpbmQuIEZhaW50IGZhY3Rpb24gc2lnaWwgcGF0Y2ggb24gdGhlIHNob3VsZGVyLiAxNjo5IGhvcml6b250YWwgY29tcG9zaXRpb24sIHNoYXJwIGZvY3VzIG9uIHRoZSBjaGFyYWN0ZXIsIGF0bW9zcGhlcmljIGhhemUuIE5vIHRleHQgb3ZlcmxheSwgbm8gcmVhbCBicmFuZCBsb2dvcywgbm8gd2F0ZXJtYXJrLiBDaW5lbWF0aWMgY2hhcmFjdGVyIGtleSB2aXN1YWwgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgZmFicmljIGFuZCBtZXRhbCB0ZXh0dXJlcy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case10/output.png" width="250" alt="赛博朋克赏金猎人三分之四视角"></a><br><sub><b>Case 154</b> · <a href="#character-design-case-10-cyberpunk-bounty-hunter-three-quarter-view">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">赛博朋克赏金猎人三分之四视角</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=SGFsZi1ib2R5IHZlcnRpY2FsIGNoYXJhY3RlciBwb3J0cmFpdCBvZiBhIHlvdW5nIGRydWlkIGluIGEgbWlzdHkgb2xkLWdyb3d0aCBmb3Jlc3QgYXQgZ29sZGVuIGhvdXIuIExheWVyZWQgbGVhdGhlciBhbmQgd292ZW4gbGVhZiBhcm1vciB3aXRoIHN1YnRsZSBtb3NzIGVtYnJvaWRlcnksIGEgc21hbGwgYW50bGVyIGNyb3duIG5lc3RsZWQgaW4gbG9uZyBicmFpZGVkIGRhcmsgaGFpciwgb25lIGhhbmQgaG9sZGluZyBhIGZhaW50bHkgZ2xvd2luZyB3b29kZW4gc3RhZmYgZW50d2luZWQgd2l0aCBpdnkuIFdhcm0gc3VuIHJheXMgZmlsdGVyaW5nIHRocm91Z2ggZmVybnMgYmVoaW5kLCBzb2Z0IGdyZWVuIGFuZCBhbWJlciBwYWxldHRlLiBDYWxtIGZvY3VzZWQgZXhwcmVzc2lvbiBsb29raW5nIG9mZi1mcmFtZS4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbiwgaGVhZCBhbmQgY2hlc3QgZnJhbWluZy4gTm8gdGV4dCwgbm8gY2xhbiBzeW1ib2xzLCBubyB3YXRlcm1hcmsuIFBhaW50ZXJseSBmYW50YXN5IGlsbHVzdHJhdGlvbiB3aXRoIHBob3RvcmVhbGlzdGljIGRldGFpbHMsIG1hZ2F6aW5lIGNvdmVyIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case11/output.png" width="250" alt="奇幻德鲁伊半身肖像"></a><br><sub><b>Case 155</b> · <a href="#character-design-case-11-fantasy-druid-half-body-portrait">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">奇幻德鲁伊半身肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=RnVsbC1ib2R5IGNoYXJhY3RlciByZWZlcmVuY2Ugc2hlZXQgc2hvd2luZyB0aGUgc2FtZSBzY2ktZmkgbWVjaCBwaWxvdCBpbiB0aHJlZSB2aWV3cyDigJQgZnJvbnQsIHNpZGUsIGFuZCBiYWNrIOKAlCBsaW5lZCB1cCBob3Jpem9udGFsbHkgb24gYSBjbGVhbiBjb29sIGdyZXkgdGVjaG5pY2FsLWdyaWQgYmFja2dyb3VuZC4gV2hpdGUgYW5kIG9yYW5nZSBmbGlnaHQgc3VpdCB3aXRoIHJlaW5mb3JjZWQgY2hlc3QgcGxhdGUsIGhlbG1ldCBoZWxkIHVuZGVyIG9uZSBhcm0sIHV0aWxpdHkgYmVsdCB3aXRoIHR3byBjYW5pc3RlcnMuIFN1YnRsZSBkcm9wIHNoYWRvdyBvbiB0aGUgZ3JpZCwgdGhpbiBvcmFuZ2UgYW5ub3RhdGlvbiBsaW5lcyBjb25uZWN0aW5nIGtleSBnZWFyIHBpZWNlcy4gMTY6OSBob3Jpem9udGFsIGNvbXBvc2l0aW9uLCBzaGFycCBuZXV0cmFsIHN0dWRpbyBsaWdodGluZyBmcm9tIGFib3ZlLiBObyByZWFsIGJyYW5kIHRleHQsIG5vIHdhdGVybWFyay4gVGVjaG5pY2FsIGNoYXJhY3RlciBkZXNpZ24gc2hlZXQgYWVzdGhldGljLCBwaG90b3JlYWxpc3RpYyBzdWl0IG1hdGVyaWFscy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case12/output.png" width="250" alt="科幻机甲驾驶员三视图"></a><br><sub><b>Case 156</b> · <a href="#character-design-case-12-sci-fi-mech-pilot-full-body-sheet">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">科幻机甲驾驶员三视图</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgYW5pbWUtc3R5bGUgY29uY2VwdCBmcmFtZSBvZiBhIGNoZWVyZnVsIEphcGFuZXNlIGhpZ2ggc2Nob29sIGlkb2wgaW4gYSBzb2Z0IHBhc3RlbCB1bmlmb3JtLCBzdGFuZGluZyB1bmRlciBjaGVycnkgYmxvc3NvbSBwZXRhbHMgZHJpZnRpbmcgaW4gdGhlIGJyZWV6ZS4gTWlkIHNob3QsIHdhcm0gYWZ0ZXJub29uIHN1bmxpZ2h0LCBzbGlnaHQgbGVucyBib2tlaC4gT24gdGhlIHJpZ2h0IHNpZGUgb2YgdGhlIGZyYW1lIGEgc21hbGwgZXhwcmVzc2lvbiBzdHJpcCBzaG93aW5nIGZvdXIgbWluaSBwb3J0cmFpdHMgb2YgdGhlIHNhbWUgY2hhcmFjdGVyOiBzbWlsZSwgc3VycHJpc2VkLCB0aG91Z2h0ZnVsLCBsYXVnaGluZy4gU2FrdXJhIHRyZWUgYnJhbmNoIGFyY2hlcyBvdmVyIHRoZSB0b3Agb2YgdGhlIGZyYW1lLiBWZXJ0aWNhbCA5OjE2IGNvbXBvc2l0aW9uLiBObyB0ZXh0IG9uIHRoZSB1bmlmb3JtLCBubyBzY2hvb2wgY3Jlc3QsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBhbmltZSBwcm9kdWN0aW9uLWdyYWRlIGlsbHVzdHJhdGlvbiBxdWFsaXR5LCBjbGVhbiBsaW5lIGFydCB3aXRoIHBhaW50ZXJseSBiYWNrZ3JvdW5kLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case13/output.png" width="250" alt="动漫校园偶像设定画面"></a><br><sub><b>Case 157</b> · <a href="#character-design-case-13-anime-school-idol-concept-frame">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">动漫校园偶像设定画面</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Q2hpYmktc3R5bGUgc3F1YXJlIGNoYXJhY3RlciBzdGlja2VyIGRlc2lnbiBvZiBhIGNoZWVyZnVsIHlvdW5nIGJha2VyeSBvd25lcjogcm91bmQgZnJpZW5kbHkgZmFjZSwgc21hbGwgZmxvdXIgc211ZGdlIG9uIG9uZSBjaGVlaywgb3ZlcnNpemVkIHdoaXRlIGFwcm9uIG92ZXIgYSBzdHJpcGVkIHNoaXJ0LCBob2xkaW5nIGEgZnJlc2hseSBiYWtlZCBsb2FmIHdpdGggYm90aCBoYW5kcy4gVHdvIHBvc2UgdmFyaWF0aW9ucyBvZiB0aGUgc2FtZSBjaGFyYWN0ZXIgc3RhY2tlZCB2ZXJ0aWNhbGx5IGluc2lkZSB0aGUgMToxIGZyYW1lOiB0b3AgcG9zZSBzbWlsaW5nIGFuZCBvZmZlcmluZyBicmVhZCwgYm90dG9tIHBvc2UgaGFuZHMgb24gaGlwcyB3aW5raW5nLiBDbGVhbiB3aGl0ZSBiYWNrZ3JvdW5kIHdpdGggc3VidGxlIGRyb3Agc2hhZG93IHVuZGVyIGVhY2ggcG9zZS4gTm8gdGV4dCwgbm8gc2hvcCBuYW1lLCBubyB3YXRlcm1hcmsuIENsZWFuIGxpbmUgYXJ0LCB3YXJtIHBhc3RlbCBwYWxldHRlLCBzdGlja2VyLXBhY2sgcmVhZHkgZGVzaWduLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/character_design_case14/output.png" width="250" alt="面包店主理人贴纸"></a><br><sub><b>Case 158</b> · <a href="#character-design-case-14-cozy-bakery-owner-character-sticker">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">面包店主理人贴纸</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Q2luZW1hdGljIGVudmlyb25tZW50IGhlcm8gc2hvdCBvZiBhIGxvbmUgcG9zdC1hcG9jYWx5cHRpYyBzY2F2ZW5nZXIgc3RhbmRpbmcgaW4gdGhlIGZvcmVncm91bmQgc2lsaG91ZXR0ZSBhZ2FpbnN0IGEgdmFzdCBydWluZWQgY2l0eXNjYXBlIGF0IGR1c3Qgc3Rvcm0gaG91ci4gSGVhdnkgbGF5ZXJlZCBjbG90aGluZyB3aXRoIGdvZ2dsZXMgYXJvdW5kIHRoZSBuZWNrLCBhIHdyYXBwZWQgc2NhcmYgY292ZXJpbmcgdGhlIGxvd2VyIGZhY2UsIGEgd29ybiBjYW52YXMgYmFja3BhY2sgd2l0aCBhdHRhY2hlZCBzY3JhcCBtZXRhbCBjYW5pc3RlcnMuIENydW1ibGVkIHNreXNjcmFwZXIgZGVicmlzIGFuZCBhIHRpbHRlZCBicm9rZW4gc3RyZWV0bGlnaHQgaW4gdGhlIGZvcmVncm91bmQsIGhhenkgb3JhbmdlIHN1biBzdHJ1Z2dsaW5nIHRocm91Z2ggc3VzcGVuZGVkIGR1c3QuIDE2OjkgaG9yaXpvbnRhbCBjb21wb3NpdGlvbiwgZGVlcCBkZXNhdHVyYXRlZCBwYWxldHRlIHdpdGggYSBzaW5nbGUgd2FybSBsaWdodCBzb3VyY2UuIE5vIHRleHQsIG5vIGZhY3Rpb24gbG9nbywgbm8gd2F0ZXJtYXJrLiBIb2xseXdvb2QgY29uY2VwdCBhcnQgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgZHVzdCBhbmQgZmFicmljLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case15/output.png" width="250" alt="废土拾荒者环境主视觉"></a><br><sub><b>Case 159</b> · <a href="#character-design-case-15-post-apocalyptic-scavenger-environment-hero">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">废土拾荒者环境主视觉</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgaGFsZi1ib2R5IGNpbmVtYXRpYyBub2lyIHBvcnRyYWl0IG9mIGEgaGFyZC1ib2lsZWQgZGV0ZWN0aXZlIGluc2lkZSBhIGRhcmsgMTk0MHMgb2ZmaWNlIGF0IG5pZ2h0LiBTaW5nbGUgdmVuZXRpYW4gYmxpbmQgc2hhZG93IHBhdHRlcm4gY2FzdCBhY3Jvc3MgdGhlIGZhY2UgYW5kIHRoZSBkYXJrIHRyZW5jaGNvYXQsIGxvdy1rZXkga2V5IGxpZ2h0IGZyb20gdGhlIGxlZnQsIGRlZXAgc2hhZG93cyBvbiB0aGUgcmlnaHQuIEZlZG9yYSB0aWx0ZWQgc2xpZ2h0bHkgZm9yd2FyZCwgbGl0IGNpZ2FyZXR0ZSBoZWxkIGNhc3VhbGx5IHdpdGggYSB0aGluIHNtb2tlIGN1cmwgcmlzaW5nLiBDb21wb3NlZCBtaWQgZXhwcmVzc2lvbiwgZXllcyBjYXRjaGluZyB0aGUgbGlnaHQuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGhlYWQgYW5kIGNoZXN0IGZyYW1pbmcuIE5vIHRleHQgb24gdGhlIHdhbGwsIG5vIGJhZGdlIHZpc2libGUsIG5vIHdhdGVybWFyay4gQ2xhc3NpYyBmaWxtIG5vaXIgY2luZW1hdG9ncmFwaHkgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgc2tpbiBhbmQgZmFicmljIHRleHR1cmVzLCBzdWJ0bGUgMzVtbSBncmFpbi4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case16/output.png" width="250" alt="黑色电影侦探半身"></a><br><sub><b>Case 160</b> · <a href="#character-design-case-16-detective-noir-half-body-cinematic">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">黑色电影侦探半身</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCBkeW5hbWljIGFjdGlvbiBrZXkgdmlzdWFsIG9mIGEgaGlnaC1mYW50YXN5IGVsZiBhcmNoZXIgbWlkLXNob3QsIGJvZHkgdHdpc3RlZCBpbiBhIHBvd2VyZnVsIGRyYXdpbmcgcG9zZSB3aXRoIHRoZSBib3dzdHJpbmcgZnVsbHkgcHVsbGVkIGJhY2suIExvbmcgc2lsdmVyIGhhaXIgZmxvd2luZyB3aXRoIG1vdGlvbiwgb3JuYXRlIGxpZ2h0IGxlYXRoZXIgYXJtb3Igd2l0aCBlbmdyYXZlZCBzaWx2ZXIgZmlsaWdyZWUsIGVhcnMgcG9pbnRlZCwgZm9jdXNlZCBncmVlbiBleWVzIGxvY2tlZCBvbiBhbiB1bnNlZW4gdGFyZ2V0LiBTdWJ0bGUgbW90aW9uIGJsdXIgaW4gdGhlIGJhY2tncm91bmQgb2YgYSBzdW4tZGFwcGxlZCBhbmNpZW50IGZvcmVzdCwgZHJpZnRpbmcgbGVhdmVzIGFyb3VuZCB0aGUgZmlndXJlLiAxNjo5IGhvcml6b250YWwgY29tcG9zaXRpb24uIE5vIHRleHQsIG5vIGNsYW4gc2lnaWwsIG5vIHdhdGVybWFyay4gSGlnaC1mYW50YXN5IGNvbmNlcHQgYXJ0IHF1YWxpdHksIHBhaW50ZXJseSB3aXRoIHBob3RvcmVhbGlzdGljIHRleHR1cmVzLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case17/output.png" width="250" alt="高奇幻精灵弓手动作姿态"></a><br><sub><b>Case 161</b> · <a href="#character-design-case-17-high-fantasy-elf-archer-action-pose">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">高奇幻精灵弓手动作姿态</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBpc29tZXRyaWMgbWFzY290IGRlc2lnbiBvZiBhIGZyaWVuZGx5IGh1bWFub2lkIGNvZmZlZSBiYXJpc3RhIHJvYm90LiBDbGVhbiByb3VuZGVkIHdoaXRlIHBhbmVscyB3aXRoIG1pbnQgZ3JlZW4gYWNjZW50IHN0cmlwZXMsIHNpbmdsZSBsYXJnZSByb3VuZCBzY3JlZW4gZmFjZSBkaXNwbGF5aW5nIGEgc2ltcGxlIHNtaWxlIG1hZGUgb2YgdHdvIGRvdHMgYW5kIGFuIHVwdHVybmVkIGFyYywgdGhyZWUtZmluZ2VyZWQgYXJ0aWN1bGF0ZWQgaGFuZHMgaG9sZGluZyBhIHNtYWxsIGNlcmFtaWMgY3VwIG9mIGVzcHJlc3NvLiBTdWJ0bGUgc3RlYW0gZnJvbSB0aGUgY3VwLiBTdGFuZHMgb24gYSBzbWFsbCBzb2Z0IGdyZXkgaXNvbWV0cmljIGJhc2UgdGlsZS4gQnJpZ2h0IHNvZnQgc3R1ZGlvIGxpZ2h0aW5nIGZyb20gYWJvdmUtZnJvbnQsIHNxdWFyZSAxOjEgYnJhbmQtcmVhZHkgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZSBvbiB0aGUgcm9ib3QsIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBtYXNjb3QgaWxsdXN0cmF0aW9uIHF1YWxpdHksIHBob3RvcmVhbGlzdGljIHBsYXN0aWMgYW5kIG1ldGFsIG1hdGVyaWFscy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/character_design_case18/output.png" width="250" alt="友好机器人咖啡师吉祥物"></a><br><sub><b>Case 162</b> · <a href="#character-design-case-18-friendly-robot-coffee-barista-mascot">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">友好机器人咖啡师吉祥物</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgc2NlbmUgaWxsdXN0cmF0aW9uIG9mIGEgeW91bmcgY290dGFnZWNvcmUgd2l0Y2ggc3RhbmRpbmcgaW5zaWRlIGhlciB3YXJtIHdvb2RlbiBhcG90aGVjYXJ5IGludGVyaW9yIGF0IHN1bnNldC4gTG9uZyBmbG93aW5nIGVhcnRoLXRvbmUgZHJlc3Mgd2l0aCBhIGtuaXR0ZWQgc2hhd2wsIGhhaXIgbG9vc2VseSBicmFpZGVkIHdpdGggYSBzbWFsbCBkcmllZCBmbG93ZXIgdHVja2VkIGJlaGluZCBvbmUgZWFyLiBBcm91bmQgaGVyOiBzb2Z0bHkgZ2xvd2luZyBnbGFzcyBqYXJzIGZpbGxlZCB3aXRoIGRyaWVkIGhlcmJzIGFuZCBzaGltbWVyaW5nIHBvdGlvbnMgb24gc2hlbHZlcywgYW4gb3BlbiBzcGVsbCBib29rIG9uIGEgd29vZGVuIHRhYmxlIHRvIGhlciByaWdodCwgYSBzbGVlcGluZyBibGFjayBjYXQgY3VybGVkIG9uIGEgc3RhY2sgb2YgYm9va3MuIFdhcm0gYW1iZXIgbGlnaHQgZnJvbSBhIHdpbmRvdyBjYXN0cyBsb25nIGJlYW1zIGFjcm9zcyB0aGUgcm9vbS4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbi4gTm8gbGVnaWJsZSB0ZXh0IG9uIHRoZSBib29rLCBubyBzaG9wIHNpZ25hZ2UsIG5vIHdhdGVybWFyay4gUGFpbnRlcmx5IGZhbnRhc3kgaWxsdXN0cmF0aW9uIHF1YWxpdHkgd2l0aCBwaG90b3JlYWxpc3RpYyB0ZXh0dXJlcy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case19/output.png" width="250" alt="田园风女巫药房场景"></a><br><sub><b>Case 163</b> · <a href="#character-design-case-19-cottagecore-witch-apothecary-scene">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">田园风女巫药房场景</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
   </tr>
 </table>
 
@@ -204,13 +220,183 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 </details>
 
+<a id="character-design-case-10-cyberpunk-bounty-hunter-three-quarter-view"></a>
+
+### Case 154: [赛博朋克赏金猎人三分之四视角](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VGhyZWUtcXVhcnRlciBjaGFyYWN0ZXIga2V5IHZpc3VhbCBvZiBhIHlvdW5nIGN5YmVycHVuayBib3VudHkgaHVudGVyIHN0YW5kaW5nIGluIGEgcmFpbi1zbGlja2VkIG5lb24gYWxsZXkgYXQgbmlnaHQuIEJsYWNrIHRhY3RpY2FsIGxvbmdjb2F0IG92ZXIgYSBkYXJrIGFybW9yZWQgdmVzdCwgZmluZ2VybGVzcyBnbG92ZXMsIGhvbHN0ZXJlZCBmdXR1cmlzdGljIHNpZGVhcm0gYXQgdGhlIGhpcCwgZ2xvd2luZyB2aXNvciBtYXNrIHB1c2hlZCB1cCBvbnRvIHRoZSBmb3JlaGVhZC4gQ2luZW1hdGljIGxvdy1hbmdsZSBzaG90IHdpdGggc3Ryb25nIG1hZ2VudGEgYW5kIGN5YW4gcmltIGxpZ2h0aW5nIGZyb20gb2Zmc2NyZWVuIG5lb24gc2lnbnMgcmVmbGVjdGluZyBvbiB3ZXQgcGF2ZW1lbnQuIFN0ZWFtIHJpc2luZyBmcm9tIGEgbWFuaG9sZSBiZWhpbmQuIEZhaW50IGZhY3Rpb24gc2lnaWwgcGF0Y2ggb24gdGhlIHNob3VsZGVyLiAxNjo5IGhvcml6b250YWwgY29tcG9zaXRpb24sIHNoYXJwIGZvY3VzIG9uIHRoZSBjaGFyYWN0ZXIsIGF0bW9zcGhlcmljIGhhemUuIE5vIHRleHQgb3ZlcmxheSwgbm8gcmVhbCBicmFuZCBsb2dvcywgbm8gd2F0ZXJtYXJrLiBDaW5lbWF0aWMgY2hhcmFjdGVyIGtleSB2aXN1YWwgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgZmFicmljIGFuZCBtZXRhbCB0ZXh0dXJlcy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case10/output.png" width="560" alt="赛博朋克赏金猎人三分之四视角"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Three-quarter character key visual of a young cyberpunk bounty hunter standing in a rain-slicked neon alley at night. Black tactical longcoat over a dark armored vest, fingerless gloves, holstered futuristic sidearm at the hip, glowing visor mask pushed up onto the forehead. Cinematic low-angle shot with strong magenta and cyan rim lighting from offscreen neon signs reflecting on wet pavement. Steam rising from a manhole behind. Faint faction sigil patch on the shoulder. 16:9 horizontal composition, sharp focus on the character, atmospheric haze. No text overlay, no real brand logos, no watermark. Cinematic character key visual quality, photorealistic fabric and metal textures.
+```
+
+</details>
+
+<a id="character-design-case-11-fantasy-druid-half-body-portrait"></a>
+
+### Case 155: [奇幻德鲁伊半身肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=SGFsZi1ib2R5IHZlcnRpY2FsIGNoYXJhY3RlciBwb3J0cmFpdCBvZiBhIHlvdW5nIGRydWlkIGluIGEgbWlzdHkgb2xkLWdyb3d0aCBmb3Jlc3QgYXQgZ29sZGVuIGhvdXIuIExheWVyZWQgbGVhdGhlciBhbmQgd292ZW4gbGVhZiBhcm1vciB3aXRoIHN1YnRsZSBtb3NzIGVtYnJvaWRlcnksIGEgc21hbGwgYW50bGVyIGNyb3duIG5lc3RsZWQgaW4gbG9uZyBicmFpZGVkIGRhcmsgaGFpciwgb25lIGhhbmQgaG9sZGluZyBhIGZhaW50bHkgZ2xvd2luZyB3b29kZW4gc3RhZmYgZW50d2luZWQgd2l0aCBpdnkuIFdhcm0gc3VuIHJheXMgZmlsdGVyaW5nIHRocm91Z2ggZmVybnMgYmVoaW5kLCBzb2Z0IGdyZWVuIGFuZCBhbWJlciBwYWxldHRlLiBDYWxtIGZvY3VzZWQgZXhwcmVzc2lvbiBsb29raW5nIG9mZi1mcmFtZS4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbiwgaGVhZCBhbmQgY2hlc3QgZnJhbWluZy4gTm8gdGV4dCwgbm8gY2xhbiBzeW1ib2xzLCBubyB3YXRlcm1hcmsuIFBhaW50ZXJseSBmYW50YXN5IGlsbHVzdHJhdGlvbiB3aXRoIHBob3RvcmVhbGlzdGljIGRldGFpbHMsIG1hZ2F6aW5lIGNvdmVyIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case11/output.png" width="560" alt="奇幻德鲁伊半身肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Half-body vertical character portrait of a young druid in a misty old-growth forest at golden hour. Layered leather and woven leaf armor with subtle moss embroidery, a small antler crown nestled in long braided dark hair, one hand holding a faintly glowing wooden staff entwined with ivy. Warm sun rays filtering through ferns behind, soft green and amber palette. Calm focused expression looking off-frame. Vertical 9:16 composition, head and chest framing. No text, no clan symbols, no watermark. Painterly fantasy illustration with photorealistic details, magazine cover quality.
+```
+
+</details>
+
+<a id="character-design-case-12-sci-fi-mech-pilot-full-body-sheet"></a>
+
+### Case 156: [科幻机甲驾驶员三视图](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=RnVsbC1ib2R5IGNoYXJhY3RlciByZWZlcmVuY2Ugc2hlZXQgc2hvd2luZyB0aGUgc2FtZSBzY2ktZmkgbWVjaCBwaWxvdCBpbiB0aHJlZSB2aWV3cyDigJQgZnJvbnQsIHNpZGUsIGFuZCBiYWNrIOKAlCBsaW5lZCB1cCBob3Jpem9udGFsbHkgb24gYSBjbGVhbiBjb29sIGdyZXkgdGVjaG5pY2FsLWdyaWQgYmFja2dyb3VuZC4gV2hpdGUgYW5kIG9yYW5nZSBmbGlnaHQgc3VpdCB3aXRoIHJlaW5mb3JjZWQgY2hlc3QgcGxhdGUsIGhlbG1ldCBoZWxkIHVuZGVyIG9uZSBhcm0sIHV0aWxpdHkgYmVsdCB3aXRoIHR3byBjYW5pc3RlcnMuIFN1YnRsZSBkcm9wIHNoYWRvdyBvbiB0aGUgZ3JpZCwgdGhpbiBvcmFuZ2UgYW5ub3RhdGlvbiBsaW5lcyBjb25uZWN0aW5nIGtleSBnZWFyIHBpZWNlcy4gMTY6OSBob3Jpem9udGFsIGNvbXBvc2l0aW9uLCBzaGFycCBuZXV0cmFsIHN0dWRpbyBsaWdodGluZyBmcm9tIGFib3ZlLiBObyByZWFsIGJyYW5kIHRleHQsIG5vIHdhdGVybWFyay4gVGVjaG5pY2FsIGNoYXJhY3RlciBkZXNpZ24gc2hlZXQgYWVzdGhldGljLCBwaG90b3JlYWxpc3RpYyBzdWl0IG1hdGVyaWFscy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case12/output.png" width="560" alt="科幻机甲驾驶员三视图"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Full-body character reference sheet showing the same sci-fi mech pilot in three views — front, side, and back — lined up horizontally on a clean cool grey technical-grid background. White and orange flight suit with reinforced chest plate, helmet held under one arm, utility belt with two canisters. Subtle drop shadow on the grid, thin orange annotation lines connecting key gear pieces. 16:9 horizontal composition, sharp neutral studio lighting from above. No real brand text, no watermark. Technical character design sheet aesthetic, photorealistic suit materials.
+```
+
+</details>
+
+<a id="character-design-case-13-anime-school-idol-concept-frame"></a>
+
+### Case 157: [动漫校园偶像设定画面](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgYW5pbWUtc3R5bGUgY29uY2VwdCBmcmFtZSBvZiBhIGNoZWVyZnVsIEphcGFuZXNlIGhpZ2ggc2Nob29sIGlkb2wgaW4gYSBzb2Z0IHBhc3RlbCB1bmlmb3JtLCBzdGFuZGluZyB1bmRlciBjaGVycnkgYmxvc3NvbSBwZXRhbHMgZHJpZnRpbmcgaW4gdGhlIGJyZWV6ZS4gTWlkIHNob3QsIHdhcm0gYWZ0ZXJub29uIHN1bmxpZ2h0LCBzbGlnaHQgbGVucyBib2tlaC4gT24gdGhlIHJpZ2h0IHNpZGUgb2YgdGhlIGZyYW1lIGEgc21hbGwgZXhwcmVzc2lvbiBzdHJpcCBzaG93aW5nIGZvdXIgbWluaSBwb3J0cmFpdHMgb2YgdGhlIHNhbWUgY2hhcmFjdGVyOiBzbWlsZSwgc3VycHJpc2VkLCB0aG91Z2h0ZnVsLCBsYXVnaGluZy4gU2FrdXJhIHRyZWUgYnJhbmNoIGFyY2hlcyBvdmVyIHRoZSB0b3Agb2YgdGhlIGZyYW1lLiBWZXJ0aWNhbCA5OjE2IGNvbXBvc2l0aW9uLiBObyB0ZXh0IG9uIHRoZSB1bmlmb3JtLCBubyBzY2hvb2wgY3Jlc3QsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBhbmltZSBwcm9kdWN0aW9uLWdyYWRlIGlsbHVzdHJhdGlvbiBxdWFsaXR5LCBjbGVhbiBsaW5lIGFydCB3aXRoIHBhaW50ZXJseSBiYWNrZ3JvdW5kLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case13/output.png" width="560" alt="动漫校园偶像设定画面"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical anime-style concept frame of a cheerful Japanese high school idol in a soft pastel uniform, standing under cherry blossom petals drifting in the breeze. Mid shot, warm afternoon sunlight, slight lens bokeh. On the right side of the frame a small expression strip showing four mini portraits of the same character: smile, surprised, thoughtful, laughing. Sakura tree branch arches over the top of the frame. Vertical 9:16 composition. No text on the uniform, no school crest, no watermark. Premium anime production-grade illustration quality, clean line art with painterly background.
+```
+
+</details>
+
+<a id="character-design-case-14-cozy-bakery-owner-character-sticker"></a>
+
+### Case 158: [面包店主理人贴纸](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `1:1` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Q2hpYmktc3R5bGUgc3F1YXJlIGNoYXJhY3RlciBzdGlja2VyIGRlc2lnbiBvZiBhIGNoZWVyZnVsIHlvdW5nIGJha2VyeSBvd25lcjogcm91bmQgZnJpZW5kbHkgZmFjZSwgc21hbGwgZmxvdXIgc211ZGdlIG9uIG9uZSBjaGVlaywgb3ZlcnNpemVkIHdoaXRlIGFwcm9uIG92ZXIgYSBzdHJpcGVkIHNoaXJ0LCBob2xkaW5nIGEgZnJlc2hseSBiYWtlZCBsb2FmIHdpdGggYm90aCBoYW5kcy4gVHdvIHBvc2UgdmFyaWF0aW9ucyBvZiB0aGUgc2FtZSBjaGFyYWN0ZXIgc3RhY2tlZCB2ZXJ0aWNhbGx5IGluc2lkZSB0aGUgMToxIGZyYW1lOiB0b3AgcG9zZSBzbWlsaW5nIGFuZCBvZmZlcmluZyBicmVhZCwgYm90dG9tIHBvc2UgaGFuZHMgb24gaGlwcyB3aW5raW5nLiBDbGVhbiB3aGl0ZSBiYWNrZ3JvdW5kIHdpdGggc3VidGxlIGRyb3Agc2hhZG93IHVuZGVyIGVhY2ggcG9zZS4gTm8gdGV4dCwgbm8gc2hvcCBuYW1lLCBubyB3YXRlcm1hcmsuIENsZWFuIGxpbmUgYXJ0LCB3YXJtIHBhc3RlbCBwYWxldHRlLCBzdGlja2VyLXBhY2sgcmVhZHkgZGVzaWduLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/character_design_case14/output.png" width="560" alt="面包店主理人贴纸"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Chibi-style square character sticker design of a cheerful young bakery owner: round friendly face, small flour smudge on one cheek, oversized white apron over a striped shirt, holding a freshly baked loaf with both hands. Two pose variations of the same character stacked vertically inside the 1:1 frame: top pose smiling and offering bread, bottom pose hands on hips winking. Clean white background with subtle drop shadow under each pose. No text, no shop name, no watermark. Clean line art, warm pastel palette, sticker-pack ready design.
+```
+
+</details>
+
+<a id="character-design-case-15-post-apocalyptic-scavenger-environment-hero"></a>
+
+### Case 159: [废土拾荒者环境主视觉](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Q2luZW1hdGljIGVudmlyb25tZW50IGhlcm8gc2hvdCBvZiBhIGxvbmUgcG9zdC1hcG9jYWx5cHRpYyBzY2F2ZW5nZXIgc3RhbmRpbmcgaW4gdGhlIGZvcmVncm91bmQgc2lsaG91ZXR0ZSBhZ2FpbnN0IGEgdmFzdCBydWluZWQgY2l0eXNjYXBlIGF0IGR1c3Qgc3Rvcm0gaG91ci4gSGVhdnkgbGF5ZXJlZCBjbG90aGluZyB3aXRoIGdvZ2dsZXMgYXJvdW5kIHRoZSBuZWNrLCBhIHdyYXBwZWQgc2NhcmYgY292ZXJpbmcgdGhlIGxvd2VyIGZhY2UsIGEgd29ybiBjYW52YXMgYmFja3BhY2sgd2l0aCBhdHRhY2hlZCBzY3JhcCBtZXRhbCBjYW5pc3RlcnMuIENydW1ibGVkIHNreXNjcmFwZXIgZGVicmlzIGFuZCBhIHRpbHRlZCBicm9rZW4gc3RyZWV0bGlnaHQgaW4gdGhlIGZvcmVncm91bmQsIGhhenkgb3JhbmdlIHN1biBzdHJ1Z2dsaW5nIHRocm91Z2ggc3VzcGVuZGVkIGR1c3QuIDE2OjkgaG9yaXpvbnRhbCBjb21wb3NpdGlvbiwgZGVlcCBkZXNhdHVyYXRlZCBwYWxldHRlIHdpdGggYSBzaW5nbGUgd2FybSBsaWdodCBzb3VyY2UuIE5vIHRleHQsIG5vIGZhY3Rpb24gbG9nbywgbm8gd2F0ZXJtYXJrLiBIb2xseXdvb2QgY29uY2VwdCBhcnQgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgZHVzdCBhbmQgZmFicmljLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case15/output.png" width="560" alt="废土拾荒者环境主视觉"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Cinematic environment hero shot of a lone post-apocalyptic scavenger standing in the foreground silhouette against a vast ruined cityscape at dust storm hour. Heavy layered clothing with goggles around the neck, a wrapped scarf covering the lower face, a worn canvas backpack with attached scrap metal canisters. Crumbled skyscraper debris and a tilted broken streetlight in the foreground, hazy orange sun struggling through suspended dust. 16:9 horizontal composition, deep desaturated palette with a single warm light source. No text, no faction logo, no watermark. Hollywood concept art quality, photorealistic dust and fabric.
+```
+
+</details>
+
+<a id="character-design-case-16-detective-noir-half-body-cinematic"></a>
+
+### Case 160: [黑色电影侦探半身](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgaGFsZi1ib2R5IGNpbmVtYXRpYyBub2lyIHBvcnRyYWl0IG9mIGEgaGFyZC1ib2lsZWQgZGV0ZWN0aXZlIGluc2lkZSBhIGRhcmsgMTk0MHMgb2ZmaWNlIGF0IG5pZ2h0LiBTaW5nbGUgdmVuZXRpYW4gYmxpbmQgc2hhZG93IHBhdHRlcm4gY2FzdCBhY3Jvc3MgdGhlIGZhY2UgYW5kIHRoZSBkYXJrIHRyZW5jaGNvYXQsIGxvdy1rZXkga2V5IGxpZ2h0IGZyb20gdGhlIGxlZnQsIGRlZXAgc2hhZG93cyBvbiB0aGUgcmlnaHQuIEZlZG9yYSB0aWx0ZWQgc2xpZ2h0bHkgZm9yd2FyZCwgbGl0IGNpZ2FyZXR0ZSBoZWxkIGNhc3VhbGx5IHdpdGggYSB0aGluIHNtb2tlIGN1cmwgcmlzaW5nLiBDb21wb3NlZCBtaWQgZXhwcmVzc2lvbiwgZXllcyBjYXRjaGluZyB0aGUgbGlnaHQuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGhlYWQgYW5kIGNoZXN0IGZyYW1pbmcuIE5vIHRleHQgb24gdGhlIHdhbGwsIG5vIGJhZGdlIHZpc2libGUsIG5vIHdhdGVybWFyay4gQ2xhc3NpYyBmaWxtIG5vaXIgY2luZW1hdG9ncmFwaHkgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgc2tpbiBhbmQgZmFicmljIHRleHR1cmVzLCBzdWJ0bGUgMzVtbSBncmFpbi4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case16/output.png" width="560" alt="黑色电影侦探半身"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical half-body cinematic noir portrait of a hard-boiled detective inside a dark 1940s office at night. Single venetian blind shadow pattern cast across the face and the dark trenchcoat, low-key key light from the left, deep shadows on the right. Fedora tilted slightly forward, lit cigarette held casually with a thin smoke curl rising. Composed mid expression, eyes catching the light. Vertical 9:16 composition, head and chest framing. No text on the wall, no badge visible, no watermark. Classic film noir cinematography quality, photorealistic skin and fabric textures, subtle 35mm grain.
+```
+
+</details>
+
+<a id="character-design-case-17-high-fantasy-elf-archer-action-pose"></a>
+
+### Case 161: [高奇幻精灵弓手动作姿态](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCBkeW5hbWljIGFjdGlvbiBrZXkgdmlzdWFsIG9mIGEgaGlnaC1mYW50YXN5IGVsZiBhcmNoZXIgbWlkLXNob3QsIGJvZHkgdHdpc3RlZCBpbiBhIHBvd2VyZnVsIGRyYXdpbmcgcG9zZSB3aXRoIHRoZSBib3dzdHJpbmcgZnVsbHkgcHVsbGVkIGJhY2suIExvbmcgc2lsdmVyIGhhaXIgZmxvd2luZyB3aXRoIG1vdGlvbiwgb3JuYXRlIGxpZ2h0IGxlYXRoZXIgYXJtb3Igd2l0aCBlbmdyYXZlZCBzaWx2ZXIgZmlsaWdyZWUsIGVhcnMgcG9pbnRlZCwgZm9jdXNlZCBncmVlbiBleWVzIGxvY2tlZCBvbiBhbiB1bnNlZW4gdGFyZ2V0LiBTdWJ0bGUgbW90aW9uIGJsdXIgaW4gdGhlIGJhY2tncm91bmQgb2YgYSBzdW4tZGFwcGxlZCBhbmNpZW50IGZvcmVzdCwgZHJpZnRpbmcgbGVhdmVzIGFyb3VuZCB0aGUgZmlndXJlLiAxNjo5IGhvcml6b250YWwgY29tcG9zaXRpb24uIE5vIHRleHQsIG5vIGNsYW4gc2lnaWwsIG5vIHdhdGVybWFyay4gSGlnaC1mYW50YXN5IGNvbmNlcHQgYXJ0IHF1YWxpdHksIHBhaW50ZXJseSB3aXRoIHBob3RvcmVhbGlzdGljIHRleHR1cmVzLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/character_design_case17/output.png" width="560" alt="高奇幻精灵弓手动作姿态"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Horizontal dynamic action key visual of a high-fantasy elf archer mid-shot, body twisted in a powerful drawing pose with the bowstring fully pulled back. Long silver hair flowing with motion, ornate light leather armor with engraved silver filigree, ears pointed, focused green eyes locked on an unseen target. Subtle motion blur in the background of a sun-dappled ancient forest, drifting leaves around the figure. 16:9 horizontal composition. No text, no clan sigil, no watermark. High-fantasy concept art quality, painterly with photorealistic textures.
+```
+
+</details>
+
+<a id="character-design-case-18-friendly-robot-coffee-barista-mascot"></a>
+
+### Case 162: [友好机器人咖啡师吉祥物](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `1:1` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBpc29tZXRyaWMgbWFzY290IGRlc2lnbiBvZiBhIGZyaWVuZGx5IGh1bWFub2lkIGNvZmZlZSBiYXJpc3RhIHJvYm90LiBDbGVhbiByb3VuZGVkIHdoaXRlIHBhbmVscyB3aXRoIG1pbnQgZ3JlZW4gYWNjZW50IHN0cmlwZXMsIHNpbmdsZSBsYXJnZSByb3VuZCBzY3JlZW4gZmFjZSBkaXNwbGF5aW5nIGEgc2ltcGxlIHNtaWxlIG1hZGUgb2YgdHdvIGRvdHMgYW5kIGFuIHVwdHVybmVkIGFyYywgdGhyZWUtZmluZ2VyZWQgYXJ0aWN1bGF0ZWQgaGFuZHMgaG9sZGluZyBhIHNtYWxsIGNlcmFtaWMgY3VwIG9mIGVzcHJlc3NvLiBTdWJ0bGUgc3RlYW0gZnJvbSB0aGUgY3VwLiBTdGFuZHMgb24gYSBzbWFsbCBzb2Z0IGdyZXkgaXNvbWV0cmljIGJhc2UgdGlsZS4gQnJpZ2h0IHNvZnQgc3R1ZGlvIGxpZ2h0aW5nIGZyb20gYWJvdmUtZnJvbnQsIHNxdWFyZSAxOjEgYnJhbmQtcmVhZHkgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZSBvbiB0aGUgcm9ib3QsIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBtYXNjb3QgaWxsdXN0cmF0aW9uIHF1YWxpdHksIHBob3RvcmVhbGlzdGljIHBsYXN0aWMgYW5kIG1ldGFsIG1hdGVyaWFscy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/character_design_case18/output.png" width="560" alt="友好机器人咖啡师吉祥物"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Square 1:1 isometric mascot design of a friendly humanoid coffee barista robot. Clean rounded white panels with mint green accent stripes, single large round screen face displaying a simple smile made of two dots and an upturned arc, three-fingered articulated hands holding a small ceramic cup of espresso. Subtle steam from the cup. Stands on a small soft grey isometric base tile. Bright soft studio lighting from above-front, square 1:1 brand-ready composition. No real brand name on the robot, no logo, no watermark. Premium mascot illustration quality, photorealistic plastic and metal materials.
+```
+
+</details>
+
+<a id="character-design-case-19-cottagecore-witch-apothecary-scene"></a>
+
+### Case 163: [田园风女巫药房场景](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgc2NlbmUgaWxsdXN0cmF0aW9uIG9mIGEgeW91bmcgY290dGFnZWNvcmUgd2l0Y2ggc3RhbmRpbmcgaW5zaWRlIGhlciB3YXJtIHdvb2RlbiBhcG90aGVjYXJ5IGludGVyaW9yIGF0IHN1bnNldC4gTG9uZyBmbG93aW5nIGVhcnRoLXRvbmUgZHJlc3Mgd2l0aCBhIGtuaXR0ZWQgc2hhd2wsIGhhaXIgbG9vc2VseSBicmFpZGVkIHdpdGggYSBzbWFsbCBkcmllZCBmbG93ZXIgdHVja2VkIGJlaGluZCBvbmUgZWFyLiBBcm91bmQgaGVyOiBzb2Z0bHkgZ2xvd2luZyBnbGFzcyBqYXJzIGZpbGxlZCB3aXRoIGRyaWVkIGhlcmJzIGFuZCBzaGltbWVyaW5nIHBvdGlvbnMgb24gc2hlbHZlcywgYW4gb3BlbiBzcGVsbCBib29rIG9uIGEgd29vZGVuIHRhYmxlIHRvIGhlciByaWdodCwgYSBzbGVlcGluZyBibGFjayBjYXQgY3VybGVkIG9uIGEgc3RhY2sgb2YgYm9va3MuIFdhcm0gYW1iZXIgbGlnaHQgZnJvbSBhIHdpbmRvdyBjYXN0cyBsb25nIGJlYW1zIGFjcm9zcyB0aGUgcm9vbS4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbi4gTm8gbGVnaWJsZSB0ZXh0IG9uIHRoZSBib29rLCBubyBzaG9wIHNpZ25hZ2UsIG5vIHdhdGVybWFyay4gUGFpbnRlcmx5IGZhbnRhc3kgaWxsdXN0cmF0aW9uIHF1YWxpdHkgd2l0aCBwaG90b3JlYWxpc3RpYyB0ZXh0dXJlcy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/character_design_case19/output.png" width="560" alt="田园风女巫药房场景"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical scene illustration of a young cottagecore witch standing inside her warm wooden apothecary interior at sunset. Long flowing earth-tone dress with a knitted shawl, hair loosely braided with a small dried flower tucked behind one ear. Around her: softly glowing glass jars filled with dried herbs and shimmering potions on shelves, an open spell book on a wooden table to her right, a sleeping black cat curled on a stack of books. Warm amber light from a window casts long beams across the room. Vertical 9:16 composition. No legible text on the book, no shop signage, no watermark. Painterly fantasy illustration quality with photorealistic textures.
+```
+
+</details>
+
 ---
 
 ## 继续浏览其他分类
 
-- [人像与摄影](./portrait-photography.zh-CN.md) · 18 个案例
-- [海报与插画](./poster-illustration.zh-CN.md) · 40 个案例
-- [UI 与社交截图](./ui-social.zh-CN.md) · 21 个案例
+- [人像与摄影](./portrait-photography.zh-CN.md) · 26 个案例
+- [海报与插画](./poster-illustration.zh-CN.md) · 48 个案例
+- [UI 与社交截图](./ui-social.zh-CN.md) · 31 个案例
 - [模型测试与社区案例](./comparison-community.zh-CN.md) · 15 个案例
 - [精选参考案例](./community-reference.zh-CN.md) · 17 个案例
 - [电商与产品](./e-commerce.zh-CN.md) · 20 个案例

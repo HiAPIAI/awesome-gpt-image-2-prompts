@@ -4,7 +4,7 @@
 
 写真、人像、街拍、胶片和手机截图风格。
 
-> 案例库 · 18 个案例
+> 案例库 · 26 个案例
 
 ---
 
@@ -38,6 +38,20 @@
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgS29yZWFuIGlkb2wgcG9ydHJhaXQgcGhvdG9ncmFwaHksIHNpbmdsZSBzdWJqZWN0ICBzb2Z0IGJsYWNrIG1pc3QgZmlsdGVyIGVmZmVjdCwgbG93ZXJlZCBjb250cmFzdCwgZ2VudGxlIGhpZ2hsaWdodCBibG9vbSwgc3VidGxlIGdsb3csIHNvZnQgZGlmZnVzaW9uLCBzbGlnaHRseSBmYWRlZCBibGFja3MgIG1pbmltYWwgaW5kb29yIHNldHRpbmcgbmVhciB3aW5kb3csIHdoaXRlIGN1cnRhaW5zLCBjbGVhbiBsaWdodC10b25lZCBiYWNrZ3JvdW5kICB5b3VuZyBLb3JlYW4gZmVtYWxlIGlkb2wsIG5hdHVyYWwgbWluaW1hbCBtYWtldXAsIGRld3kgcmVhbGlzdGljIHNraW4gdGV4dHVyZSwgc3VidGxlIGltcGVyZmVjdGlvbnMgIG91dGZpdDogb3ZlcnNpemVkIHdoaXRlIGJ1dHRvbi11cCBzaGlydCArIHNob3J0IGJvdHRvbXMsIHNsaWdodGx5IGxvb3NlIGZpdCwgc29mdCBhbmQgY2FzdWFsIHN0eWxpbmcsIG5vIHJldmVhbGluZyBlbGVtZW50cyAgaGFpcjogbG9uZyBkYXJrIGhhaXIsIHNsaWdodGx5IG1lc3N5LCBuYXR1cmFsIHZvbHVtZSwgc29mdGx5IGZsb3dpbmcgIHBvc2U6IHJlbGF4ZWQgc3RhbmRpbmcgb3Igc2xpZ2h0IGxlYW4sIGJvZHkgc3VidGx5IGFuZ2xlZCwgb25lIGxlZyBzbGlnaHRseSBmb3J3YXJkLCBzaG91bGRlcnMgcmVsYXhlZDsgb25lIGhhbmQgbGlnaHRseSB0b3VjaGluZyBjb2xsYXIgb3IgcmVzdGluZyBuZWFyIG5lY2tsaW5lLCB0aGUgb3RoZXIgcmVsYXhlZDsgZ2VudGxlIGJvZHkgY3VydmUgd2l0aG91dCBleGFnZ2VyYXRpb24gIGV4cHJlc3Npb246IHNvZnQgY3V0ZSBzbWlsZSwgc2xpZ2h0bHkgcGxheWZ1bCBleWVzLCBkaXJlY3Qgb3Igc2xpZ2h0bHkgb2ZmLWNhbWVyYSBnYXplICBjYW1lcmE6IGNsb3NlIHRvIG1pZC1ib2R5IGZyYW1pbmcsIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBsaWdodGluZzogZGlmZnVzZWQgbmF0dXJhbCBkYXlsaWdodCwgc29mdCBzaGFkb3dzLCBnZW50bGUgbGlnaHQgd3JhcHBpbmcgYXJvdW5kIGZhY2UgYW5kIGJvZHkgIG1vb2Q6IGN1dGUgeWV0IHN1YnRseSBzZW5zdWFsLCBpbnRpbWF0ZSwgZXZlcnlkYXkgc29mdG5lc3MsIHF1aWV0IHJvbWFudGljIGF0bW9zcGhlcmUgIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgZmluZSBmaWxtIGdyYWluLCBzbGlnaHQgc29mdG5lc3MgYXQgZWRnZXMsIG5hdHVyYWwgaW1wZXJmZWN0aW9ucywgZHJlYW15IHVuZGVyc3RhdGVkIHRvbmU%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_case16/output.jpg" width="250" alt="柔黑雾感偶像人像"></a><br><sub><b>Case 016</b> · <a href="#portrait-case-16-soft-black-mist-idol-portrait-by-bubblebrain">提示词</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046518189509734903">柔黑雾感偶像人像</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=OToxNiB2ZXJ0aWNhbCDigJQgSmFwYW5lc2UgRnVqaSBmaWxtIHN0eWxlIGNvdXBsZSBwb3J0cmFpdCwgdHdvIHN1YmplY3RzICBGdWppZmlsbSBhbmFsb2cgYWVzdGhldGljIChQcm8gNDAwSCAvIFN1cGVyaWEgZmVlbCksIHNvZnQgcGFzdGVsIHRvbmVzLCBzbGlnaHQgZ3JlZW4tbWFnZW50YSBzaGlmdCwgbG93IGNvbnRyYXN0LCBnZW50bGUgaGlnaGxpZ2h0IHJvbGwtb2ZmLCBmaW5lIGZpbG0gZ3JhaW4sIHN1YnRsZSBoYWxhdGlvbiAgYnJpZ2h0IG5hdHVyYWwgZGF5bGlnaHQsIGRpZmZ1c2VkIHN1bmxpZ2h0IHRocm91Z2ggd2luZG93LCBzb2Z0IHNoYWRvd3MsIGFpcnkgYXRtb3NwaGVyZSAgeW91bmcgSmFwYW5lc2UgY291cGxlLCBuYXR1cmFsIG1pbmltYWwgbWFrZXVwLCByZWFsaXN0aWMgc2tpbiB0ZXh0dXJlLCBzbGlnaHQgaW1wZXJmZWN0aW9ucyAgZmVtYWxlIG91dGZpdDogb3ZlcnNpemVkIGJ1dHRvbi11cCBzaGlydCB3aXRoIGxvb3NlIHNob3J0cywgcmVsYXhlZCBmaXQsIHNvZnQgY2FzdWFsIHN0eWxpbmcgICBtYWxlIG91dGZpdDogc2ltcGxlIHQtc2hpcnQgb3IgbGlnaHQgc2hpcnQsIGNsZWFuIGFuZCB1bmRlcnN0YXRlZCAgaGFpcjogbmF0dXJhbCwgc2xpZ2h0bHkgdG91c2xlZCBmb3IgYm90aCAgcG9zZTogY2xvc2UgaW50aW1hdGUgZGlzdGFuY2Ug4oCUIHNpdHRpbmcgb3Igc3RhbmRpbmcgY2xvc2UgdG9nZXRoZXI7IHRoZSBnaXJsIGdlbnRseSBsZWFuaW5nIHRvd2FyZCBoaW0sIG9uZSBoYW5kIGxpZ2h0bHkgcmVzdGluZyBvbiBoaXMgc2hvdWxkZXIgb3IgY2hlc3Q7IHRoZSBib3kgc2xpZ2h0bHkgbGVhbmluZyBpbiwgZmFjZXMgY2xvc2UsIGFsbW9zdCB0b3VjaGluZywgY2FwdHVyaW5nIHRoZSBtb21lbnQganVzdCBiZWZvcmUgYSBraXNzICBleHByZXNzaW9uOiBzb2Z0IHNtaWxlcyBvciBnZW50bGUgZ2F6ZSB0b3dhcmQgZWFjaCBvdGhlciwgcmVsYXhlZCBhbmQgbmF0dXJhbCwgZW1vdGlvbmFsIGNvbm5lY3Rpb24gdmlzaWJsZSAgY2FtZXJhOiBjbG9zZSBmcmFtaW5nICh3YWlzdC11cCksIGV5ZS1sZXZlbCwgaW50aW1hdGUgZGlzdGFuY2UsIHNsaWdodCBoYW5kaGVsZCBmZWVsICBzZXR0aW5nOiBtaW5pbWFsIGluZG9vciBuZWFyIHdpbmRvdywgbGlnaHQgY3VydGFpbnMsIGNsZWFuIHNvZnQgYmFja2dyb3VuZCAgbGlnaHRpbmc6IGRpZmZ1c2VkIGRheWxpZ2h0LCBnZW50bGUgaGlnaGxpZ2h0IGJsb29tLCBzb2Z0IHNoYWRvdyB0cmFuc2l0aW9ucyAgbW9vZDogd2FybSwgcm9tYW50aWMsIGludGltYXRlIGV2ZXJ5ZGF5IG1vbWVudCwgbmF0dXJhbCBhZmZlY3Rpb24gIHF1YWxpdHk6IHVsdHJhLXJlYWxpc3RpYywgYW5hbG9nIGZpbG0gbG9vaywgZmluZSBncmFpbiwgc2xpZ2h0IHNvZnRuZXNzLCBuYXR1cmFsIGltcGVyZmVjdGlvbnM%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_case17/output.jpg" width="250" alt="富士胶片情侣人像"></a><br><sub><b>Case 017</b> · <a href="#portrait-case-17-fujifilm-couple-portrait-by-bubblebrain">提示词</a></sub><br><sub><a href="https://x.com/BubbleBrain/status/2046502288102170757">富士胶片情侣人像</a> · <a href="https://x.com/BubbleBrain">@BubbleBrain</a></sub></td>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=5qC55o2u5L2g5a%2B55oiR55qE6K6k55%2BlIOe7meaIkeeUn%2BaIkOS4gOS4quKAnOS9oOiupOivhueahOaIkeKAneeahCDlm77niYc%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery"><img src="../images/portrait_case18/output.jpg" width="250" alt="AI 自我感知人像"></a><br><sub><b>Case 018</b> · <a href="#portrait-case-18-ai-self-perception-portrait-by-80vul">提示词</a></sub><br><sub><a href="https://x.com/80vul/status/2046218165961753047">AI 自我感知人像</a> · <a href="https://x.com/80vul">@80vul</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=RWRpdG9yaWFsIDM6NCBzdHVkaW8gcG9ydHJhaXQgb2YgYSB5b3VuZyBFYXN0IEFzaWFuIHdvbWFuIHdpdGggc2hvcnQgYm9iYmVkIGJsYWNrIGhhaXIsIHdlYXJpbmcgYSBzaGFycGx5IHRhaWxvcmVkIHByaW1hcnktcmVkIGJsYXplciBvdmVyIGEgY2xlYW4gd2hpdGUgc2hpcnQuIFN0YW5kaW5nIGluIGZyb250IG9mIGEgQmF1aGF1cy1zdHlsZSBnZW9tZXRyaWMgc3R1ZGlvIGJhY2tkcm9wOiBsYXJnZSBmbGF0IGJsb2NrcyBvZiBwcmltYXJ5IHllbGxvdywgcHJpbWFyeSBibHVlLCBhbmQgd2FybSBjcmVhbSBwYWludGVkIGluIGNsZWFuIHJlY3RhbmdsZXMuIFN0cm9uZyBkaXJlY3Rpb25hbCBzdHVkaW8ga2V5IGxpZ2h0IGZyb20gdGhlIHJpZ2h0IGNhc3RpbmcgaGFyZCBnZW9tZXRyaWMgc2hhZG93cyBhY3Jvc3MgdGhlIGJhY2tkcm9wLiBDb25maWRlbnQgbmV1dHJhbCBleHByZXNzaW9uIGxvb2tpbmcganVzdCBwYXN0IHRoZSBjYW1lcmEuIDM6NCB2ZXJ0aWNhbCBjb21wb3NpdGlvbiwgaGVhZCBhbmQgc2hvdWxkZXJzIGZyYW1pbmcuIE5vIGJyYW5kIGxvZ28sIG5vIGpld2VscnkgdGV4dCwgbm8gd2F0ZXJtYXJrLiBNYWdhemluZSBmYXNoaW9uIGVkaXRvcmlhbCBxdWFsaXR5LCBwaG90b3JlYWxpc3RpYyBza2luIGFuZCBmYWJyaWMgdGV4dHVyZXMsIHVsdHJhIHNoYXJwIGZvY3VzLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case19/output.png" width="250" alt="包豪斯风格女性时装肖像"></a><br><sub><b>Case 164</b> · <a href="#portrait-photography-case-19-editorial-female-portrait-bauhaus-studio">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">包豪斯风格女性时装肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBjYW5kaWQgc3RyZWV0IHBvcnRyYWl0IG9mIGEgeW91bmcgd29tYW4gaW4gYSBjbGVhciBwbGFzdGljIHJhaW5jb2F0IG92ZXIgYSBob29kZWQgc3dlYXRzaGlydCwgd2Fsa2luZyB0aHJvdWdoIGEgcmFpbi1zb2FrZWQgU2hpYnV5YSBpbnRlcnNlY3Rpb24gYXQgbmlnaHQuIE1hc3NpdmUgbmVvbiBiaWxsYm9hcmRzIGluIHBpbmssIGN5YW4gYW5kIHJlZCByZWZsZWN0ZWQgb24gdGhlIHdldCBwYXZlbWVudCBhcm91bmQgaGVyIGZlZXQuIFNsaWdodCBtb3Rpb24gYmx1ciBvbiB0aGUgdW1icmVsbGEgc2hlIGNhcnJpZXMuIFdldCBoYWlyIHN0cmFuZHMgc3RpY2tpbmcgdG8gaGVyIGNoZWVrcywgc29mdCBtYWtldXAsIGNhbG0gZXhwcmVzc2lvbi4gUGhvbmUtc2hvdCBmcmFtaW5nIGFlc3RoZXRpYywgdmVydGljYWwgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZXMgb24gdGhlIGJpbGxib2FyZHMsIG5vIHJlYWRhYmxlIHRleHQsIG5vIHdhdGVybWFyay4gQ2luZW1hdGljIHN0cmVldCBwaG90b2dyYXBoeSBxdWFsaXR5IHdpdGggc3VidGxlIDM1bW0gZ3JhaW4sIHBob3RvcmVhbGlzdGljIHJhaW4gZHJvcGxldHMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case20/output.png" width="250" alt="东京涩谷雨夜街头肖像"></a><br><sub><b>Case 165</b> · <a href="#portrait-photography-case-20-street-portrait-tokyo-shibuya-rain-night">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">东京涩谷雨夜街头肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGggb2YgYSBtaWQtY2FyZWVyIGNoZWYgaW5zaWRlIGEgYnVzeSBwcm9mZXNzaW9uYWwga2l0Y2hlbiwgY2FwdHVyZWQgbWlkLWFjdGlvbiB3aGlsZSBwbGF0aW5nIGEgZGlzaC4gSGVhdCBzaGltbWVyIHJpc2luZyBmcm9tIGEgcGFuIGluIHRoZSBmb3JlZ3JvdW5kLCBmYWludCBzdGVhbSBibHVycmluZyBhcm91bmQgaGltLCBmb2N1c2VkIGludGVuc2UgZXhwcmVzc2lvbi4gV2hpdGUgZG91YmxlLWJyZWFzdGVkIGNoZWYgamFja2V0IHNtdWRnZWQgd2l0aCBzYXVjZSBvbiB0aGUgY2hlc3QsIHNsZWV2ZXMgcm9sbGVkIHVwIHNob3dpbmcgZm9yZWFybXMuIFdhcm0gb3ZlcmhlYWQgc2VydmljZSBsaWdodCwgc2xpZ2h0IG1vdGlvbiBibHVyIG9uIHRoZSBwbGF0aW5nIGhhbmQuIFZlcnRpY2FsIDM6NCBmcmFtaW5nLCBzbGlnaHRseSBsb3cgYW5nbGUuIE5vIHJlc3RhdXJhbnQgbmFtZSBvbiB0aGUgYXByb24sIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBmb29kIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGh5IHF1YWxpdHksIHBob3RvcmVhbGlzdGljIHNraW4gc3dlYXQgZGV0YWlsIGFuZCBmYWJyaWMgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case21/output.png" width="250" alt="纪实风格厨师工作中"></a><br><sub><b>Case 166</b> · <a href="#portrait-photography-case-21-documentary-chef-mid-action">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">纪实风格厨师工作中</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBraW5ldGljIHBvcnRyYWl0IG9mIGEgdGVlbmFnZSBza2F0ZWJvYXJkZXIgbWlkLWZyYW1lIGF0IHRoZSB0b3Agb2YgYSB3b29kZW4gaGFsZiBwaXBlIGF0IHN1bnNldCwgYm9hcmQgYW5nbGVkIGp1c3QgcGFzdCB0aGUgbGlwLCBib2R5IGluIGEgc2xpZ2h0IGNyb3VjaCByZWFkeSB0byBkcm9wLiBTdHJvbmcgZ29sZGVuIGJhY2tsaWdodCByaW0tbGlnaHRpbmcgdGhlIHNpbGhvdWV0dGUsIGR1c3QgcGFydGljbGVzIGNhdWdodCBpbiB0aGUgYWlyIGFyb3VuZCBoaW0uIEZhZGVkIGxvb3NlIHQtc2hpcnQgYW5kIGRlbmltIHNob3J0cywgc2N1ZmZlZCBzbmVha2Vycy4gVmVydGljYWwgY29tcG9zaXRpb24sIGR5bmFtaWMgYnV0IHNoYXJwIGZvY3VzIG9uIHRoZSBza2F0ZXIuIE5vIGJyYW5kIHN0aWNrZXIgb24gdGhlIGRlY2ssIG5vIGxvZ28gb24gdGhlIGNsb3RoaW5nLCBubyB3YXRlcm1hcmsuIFByZW1pdW0geW91dGggc3BvcnQgZG9jdW1lbnRhcnkgcGhvdG9ncmFwaHkgcXVhbGl0eSB3aXRoIHN1YnRsZSBtb3Rpb24gYmx1ciwgcGhvdG9yZWFsaXN0aWMgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case22/output.png" width="250" alt="U 池逆光滑板少年"></a><br><sub><b>Case 167</b> · <a href="#portrait-photography-case-22-skater-portrait-half-pipe-backlight">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">U 池逆光滑板少年</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGNsZWFuIG1vZGVybiBjb3Jwb3JhdGUgaGVhZHNob3Qgb2YgYW4gRWFzdCBBc2lhbiB3b21hbiBpbiBoZXIgZWFybHkgZm9ydGllcywgd2VhcmluZyBhIGNoYXJjb2FsIGdyZXkgd29vbCBibGF6ZXIgb3ZlciBhIHNpbXBsZSB3aGl0ZSBzaWxrIHRvcC4gQ29uZmlkZW50IGNvbXBvc2VkIGV4cHJlc3Npb24sIHNsaWdodCBzbWlsZSwgYXJtcyByZWxheGVkLiBTb2Z0IG5hdHVyYWwgd2luZG93IGxpZ2h0IGZyb20gdGhlIHVwcGVyIGxlZnQsIHNpbXBsZSBzZWFtbGVzcyBjb29sIGdyZXkgYmFja2Ryb3AuIFRpZ2h0IGhlYWQtYW5kLXNob3VsZGVycyBmcmFtaW5nLCB2ZXJ0aWNhbCAzOjQgY29tcG9zaXRpb24uIFNoYXJwIGNhdGNobGlnaHQgaW4gYm90aCBleWVzLCBzdWJ0bGUgaGlnaGxpZ2h0IG9uIGNoZWVrYm9uZXMuIE5vIGNvbXBhbnkgbG9nbyB2aXNpYmxlLCBubyBicmFuZCBwaW4sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBleGVjdXRpdmUgcG9ydHJhaXQgcGhvdG9ncmFwaHkgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgc2tpbiB0ZXh0dXJlLCBtYWdhemluZSBidXNpbmVzcyBwcm9maWxlIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case23/output.png" width="250" alt="现代企业 CEO 商务肖像"></a><br><sub><b>Case 168</b> · <a href="#portrait-photography-case-23-ceo-headshot-modern-corporate">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">现代企业 CEO 商务肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBqb3lmdWwgZmVzdGl2YWwgcG9ydHJhaXQgb2YgYSB5b3VuZyB3b21hbiBtaWQtbGF1Z2ggYXQgYSBIb2xpIGZlc3RpdmFsLCBoZXIgZmFjZSBhbmQgd2hpdGUga3VydGEgcGFydGlhbGx5IGNvYXRlZCBpbiBicmlnaHQgcGluaywgeWVsbG93IGFuZCB0dXJxdW9pc2UgY29sb3IgcG93ZGVyLiBBIGJ1cnN0IG9mIGNvbG9yIHBvd2RlciBzdXNwZW5kZWQgbWlkLWFpciBhcm91bmQgaGVyIGhlYWQgZnJvbSBzb21lb25lIG9mZnNjcmVlbi4gQnJpbGxpYW50IGxhdGUtbW9ybmluZyBzdW5saWdodCwgZHVzdCBwYXJ0aWNsZXMgZ2xvd2luZyBpbiB0aGUgbGlnaHQuIFRpZ2h0IHZlcnRpY2FsIGZyYW1pbmcgZnJvbSBjaGVzdCB1cCwgaGVhZCBzbGlnaHRseSB0aHJvd24gYmFjayBpbiBkZWxpZ2h0LiBObyBmZXN0aXZhbCBicmFuZGluZywgbm8gdGV4dCwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGh5IHF1YWxpdHksIHNoYXJwIGZvY3VzIG9uIGhlciBmYWNlIHdpdGggc3VidGxlIG1vdGlvbiBibHVyIG9uIHRoZSBwb3dkZXIgY2xvdWQsIHBob3RvcmVhbGlzdGljIHNraW4gYW5kIHBpZ21lbnQgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case24/output.png" width="250" alt="胡里彩粉节肖像"></a><br><sub><b>Case 169</b> · <a href="#portrait-photography-case-24-festival-portrait-holi-color-powder">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">胡里彩粉节肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGRyYW1hdGljIGF0aGxldGUgcG9ydHJhaXQgb2YgYSB5b3VuZyBib3hlciBsZWFuaW5nIGFnYWluc3QgYSBjaGFpbi1saW5rIGZlbmNlIGluc2lkZSBhbiBvbGQgaW5kdXN0cmlhbCBib3hpbmcgZ3ltLCBpbGx1bWluYXRlZCBieSBhIHNpbmdsZSBoaWdoLWNvbnRyYXN0IFJlbWJyYW5kdC1zdHlsZSB3aW5kb3cgbGlnaHQgZnJvbSB0aGUgdXBwZXIgbGVmdC4gU3dlYXQgYmVhZGluZyBvbiB0aGUgYnJvdyBhbmQgYmFyZSBzaG91bGRlcnMsIGhhbmQgd3JhcHMgc3RpbGwgb24sIGludGVuc2UgZm9jdXNlZCBnYXplIGp1c3QgcGFzdCB0aGUgY2FtZXJhLiBEYXJrIG1vb2R5IGJhY2tncm91bmQgd2l0aCBhIGZhZGVkIG91dC1vZi1mb2N1cyBoZWF2eSBiYWcgaW4gdGhlIGNvcm5lci4gVmVydGljYWwgMzo0IGZyYW1pbmcsIGhlYWQgYW5kIGNoZXN0LiBObyBicmFuZCBsb2dvIG9uIHRoZSB3cmFwcywgbm8gZ3ltIHNpZ25hZ2UsIG5vIHdhdGVybWFyay4gQ2luZW1hdGljIHNwb3J0cyBwb3J0cmFpdHVyZSBxdWFsaXR5LCBwaG90b3JlYWxpc3RpYyBza2luIHN3ZWF0IGRldGFpbCBhbmQgZHVzdC1saXQgYWlyLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case25/output.png" width="250" alt="拳击馆运动员细节肖像"></a><br><sub><b>Case 170</b> · <a href="#portrait-photography-case-25-athlete-portrait-boxing-gym-sweat-detail">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">拳击馆运动员细节肖像</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MTY6OSBob3Jpem9udGFsIGNpbmVtYXRpYyBjb3VwbGUgcG9ydHJhaXQgc2hvdCBmcm9tIGJlaGluZCBhcyBhIHlvdW5nIGNvdXBsZSB3YWxrcyBoYW5kLWluLWhhbmQgZG93biBhIGxlYWYtc3RyZXduIGZvcmVzdCBwYXRoIGluIGRlZXAgYXV0dW1uLiBCb3RoIHdlYXJpbmcga25pdHRlZCBuZXV0cmFsIHN3ZWF0ZXJzIGFuZCBkYXJrIGplYW5zLCBubyBmYWNlcyB2aXNpYmxlLiBXYXJtIGxhdGUtYWZ0ZXJub29uIGdvbGRlbiBob3VyIGxpZ2h0IGZpbHRlcmluZyB0aHJvdWdoIG9yYW5nZSBhbmQgYW1iZXIgbGVhdmVzLCBzb2Z0IGxlbnMgZmxhcmUuIFRoZSBwYXRoIGN1cnZlcyBnZW50bHkgYXdheSB0byB0aGUgcmlnaHQuIEVkZ2UtdG8tZWRnZSBjb21wb3NpdGlvbiB3aXRoIGdlbmVyb3VzIGNhbm9weSBhYm92ZSBhbmQgYSB0aGljayBjYXJwZXQgb2YgZmFsbGVuIGxlYXZlcyBiZWxvdy4gTm8gdGV4dCBvdmVybGF5cywgbm8gd2F0ZXJtYXJrLiBDaW5lbWF0aWMgcmVsYXRpb25zaGlwIHBvcnRyYWl0IHBob3RvZ3JhcGh5IHF1YWxpdHksIHBob3RvcmVhbGlzdGljIGZvbGlhZ2UgYW5kIGZhYnJpYyB0ZXh0dXJlcyB3aXRoIHN1YnRsZSAzNW1tIGdyYWluLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/portrait_photography_case26/output.png" width="250" alt="秋季森林情侣背影"></a><br><sub><b>Case 171</b> · <a href="#portrait-photography-case-26-couple-portrait-autumn-forest-path">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">秋季森林情侣背影</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
   </tr>
 </table>
 
@@ -354,13 +368,149 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 </details>
 
+<a id="portrait-photography-case-19-editorial-female-portrait-bauhaus-studio"></a>
+
+### Case 164: [包豪斯风格女性时装肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `3:4` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=RWRpdG9yaWFsIDM6NCBzdHVkaW8gcG9ydHJhaXQgb2YgYSB5b3VuZyBFYXN0IEFzaWFuIHdvbWFuIHdpdGggc2hvcnQgYm9iYmVkIGJsYWNrIGhhaXIsIHdlYXJpbmcgYSBzaGFycGx5IHRhaWxvcmVkIHByaW1hcnktcmVkIGJsYXplciBvdmVyIGEgY2xlYW4gd2hpdGUgc2hpcnQuIFN0YW5kaW5nIGluIGZyb250IG9mIGEgQmF1aGF1cy1zdHlsZSBnZW9tZXRyaWMgc3R1ZGlvIGJhY2tkcm9wOiBsYXJnZSBmbGF0IGJsb2NrcyBvZiBwcmltYXJ5IHllbGxvdywgcHJpbWFyeSBibHVlLCBhbmQgd2FybSBjcmVhbSBwYWludGVkIGluIGNsZWFuIHJlY3RhbmdsZXMuIFN0cm9uZyBkaXJlY3Rpb25hbCBzdHVkaW8ga2V5IGxpZ2h0IGZyb20gdGhlIHJpZ2h0IGNhc3RpbmcgaGFyZCBnZW9tZXRyaWMgc2hhZG93cyBhY3Jvc3MgdGhlIGJhY2tkcm9wLiBDb25maWRlbnQgbmV1dHJhbCBleHByZXNzaW9uIGxvb2tpbmcganVzdCBwYXN0IHRoZSBjYW1lcmEuIDM6NCB2ZXJ0aWNhbCBjb21wb3NpdGlvbiwgaGVhZCBhbmQgc2hvdWxkZXJzIGZyYW1pbmcuIE5vIGJyYW5kIGxvZ28sIG5vIGpld2VscnkgdGV4dCwgbm8gd2F0ZXJtYXJrLiBNYWdhemluZSBmYXNoaW9uIGVkaXRvcmlhbCBxdWFsaXR5LCBwaG90b3JlYWxpc3RpYyBza2luIGFuZCBmYWJyaWMgdGV4dHVyZXMsIHVsdHJhIHNoYXJwIGZvY3VzLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case19/output.png" width="560" alt="包豪斯风格女性时装肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Editorial 3:4 studio portrait of a young East Asian woman with short bobbed black hair, wearing a sharply tailored primary-red blazer over a clean white shirt. Standing in front of a Bauhaus-style geometric studio backdrop: large flat blocks of primary yellow, primary blue, and warm cream painted in clean rectangles. Strong directional studio key light from the right casting hard geometric shadows across the backdrop. Confident neutral expression looking just past the camera. 3:4 vertical composition, head and shoulders framing. No brand logo, no jewelry text, no watermark. Magazine fashion editorial quality, photorealistic skin and fabric textures, ultra sharp focus.
+```
+
+</details>
+
+<a id="portrait-photography-case-20-street-portrait-tokyo-shibuya-rain-night"></a>
+
+### Case 165: [东京涩谷雨夜街头肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBjYW5kaWQgc3RyZWV0IHBvcnRyYWl0IG9mIGEgeW91bmcgd29tYW4gaW4gYSBjbGVhciBwbGFzdGljIHJhaW5jb2F0IG92ZXIgYSBob29kZWQgc3dlYXRzaGlydCwgd2Fsa2luZyB0aHJvdWdoIGEgcmFpbi1zb2FrZWQgU2hpYnV5YSBpbnRlcnNlY3Rpb24gYXQgbmlnaHQuIE1hc3NpdmUgbmVvbiBiaWxsYm9hcmRzIGluIHBpbmssIGN5YW4gYW5kIHJlZCByZWZsZWN0ZWQgb24gdGhlIHdldCBwYXZlbWVudCBhcm91bmQgaGVyIGZlZXQuIFNsaWdodCBtb3Rpb24gYmx1ciBvbiB0aGUgdW1icmVsbGEgc2hlIGNhcnJpZXMuIFdldCBoYWlyIHN0cmFuZHMgc3RpY2tpbmcgdG8gaGVyIGNoZWVrcywgc29mdCBtYWtldXAsIGNhbG0gZXhwcmVzc2lvbi4gUGhvbmUtc2hvdCBmcmFtaW5nIGFlc3RoZXRpYywgdmVydGljYWwgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZXMgb24gdGhlIGJpbGxib2FyZHMsIG5vIHJlYWRhYmxlIHRleHQsIG5vIHdhdGVybWFyay4gQ2luZW1hdGljIHN0cmVldCBwaG90b2dyYXBoeSBxdWFsaXR5IHdpdGggc3VidGxlIDM1bW0gZ3JhaW4sIHBob3RvcmVhbGlzdGljIHJhaW4gZHJvcGxldHMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case20/output.png" width="560" alt="东京涩谷雨夜街头肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 candid street portrait of a young woman in a clear plastic raincoat over a hooded sweatshirt, walking through a rain-soaked Shibuya intersection at night. Massive neon billboards in pink, cyan and red reflected on the wet pavement around her feet. Slight motion blur on the umbrella she carries. Wet hair strands sticking to her cheeks, soft makeup, calm expression. Phone-shot framing aesthetic, vertical composition. No real brand names on the billboards, no readable text, no watermark. Cinematic street photography quality with subtle 35mm grain, photorealistic rain droplets.
+```
+
+</details>
+
+<a id="portrait-photography-case-21-documentary-chef-mid-action"></a>
+
+### Case 166: [纪实风格厨师工作中](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `3:4` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGggb2YgYSBtaWQtY2FyZWVyIGNoZWYgaW5zaWRlIGEgYnVzeSBwcm9mZXNzaW9uYWwga2l0Y2hlbiwgY2FwdHVyZWQgbWlkLWFjdGlvbiB3aGlsZSBwbGF0aW5nIGEgZGlzaC4gSGVhdCBzaGltbWVyIHJpc2luZyBmcm9tIGEgcGFuIGluIHRoZSBmb3JlZ3JvdW5kLCBmYWludCBzdGVhbSBibHVycmluZyBhcm91bmQgaGltLCBmb2N1c2VkIGludGVuc2UgZXhwcmVzc2lvbi4gV2hpdGUgZG91YmxlLWJyZWFzdGVkIGNoZWYgamFja2V0IHNtdWRnZWQgd2l0aCBzYXVjZSBvbiB0aGUgY2hlc3QsIHNsZWV2ZXMgcm9sbGVkIHVwIHNob3dpbmcgZm9yZWFybXMuIFdhcm0gb3ZlcmhlYWQgc2VydmljZSBsaWdodCwgc2xpZ2h0IG1vdGlvbiBibHVyIG9uIHRoZSBwbGF0aW5nIGhhbmQuIFZlcnRpY2FsIDM6NCBmcmFtaW5nLCBzbGlnaHRseSBsb3cgYW5nbGUuIE5vIHJlc3RhdXJhbnQgbmFtZSBvbiB0aGUgYXByb24sIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBmb29kIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGh5IHF1YWxpdHksIHBob3RvcmVhbGlzdGljIHNraW4gc3dlYXQgZGV0YWlsIGFuZCBmYWJyaWMgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case21/output.png" width="560" alt="纪实风格厨师工作中"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+3:4 vertical documentary photograph of a mid-career chef inside a busy professional kitchen, captured mid-action while plating a dish. Heat shimmer rising from a pan in the foreground, faint steam blurring around him, focused intense expression. White double-breasted chef jacket smudged with sauce on the chest, sleeves rolled up showing forearms. Warm overhead service light, slight motion blur on the plating hand. Vertical 3:4 framing, slightly low angle. No restaurant name on the apron, no logo, no watermark. Premium food documentary photography quality, photorealistic skin sweat detail and fabric textures.
+```
+
+</details>
+
+<a id="portrait-photography-case-22-skater-portrait-half-pipe-backlight"></a>
+
+### Case 167: [U 池逆光滑板少年](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBraW5ldGljIHBvcnRyYWl0IG9mIGEgdGVlbmFnZSBza2F0ZWJvYXJkZXIgbWlkLWZyYW1lIGF0IHRoZSB0b3Agb2YgYSB3b29kZW4gaGFsZiBwaXBlIGF0IHN1bnNldCwgYm9hcmQgYW5nbGVkIGp1c3QgcGFzdCB0aGUgbGlwLCBib2R5IGluIGEgc2xpZ2h0IGNyb3VjaCByZWFkeSB0byBkcm9wLiBTdHJvbmcgZ29sZGVuIGJhY2tsaWdodCByaW0tbGlnaHRpbmcgdGhlIHNpbGhvdWV0dGUsIGR1c3QgcGFydGljbGVzIGNhdWdodCBpbiB0aGUgYWlyIGFyb3VuZCBoaW0uIEZhZGVkIGxvb3NlIHQtc2hpcnQgYW5kIGRlbmltIHNob3J0cywgc2N1ZmZlZCBzbmVha2Vycy4gVmVydGljYWwgY29tcG9zaXRpb24sIGR5bmFtaWMgYnV0IHNoYXJwIGZvY3VzIG9uIHRoZSBza2F0ZXIuIE5vIGJyYW5kIHN0aWNrZXIgb24gdGhlIGRlY2ssIG5vIGxvZ28gb24gdGhlIGNsb3RoaW5nLCBubyB3YXRlcm1hcmsuIFByZW1pdW0geW91dGggc3BvcnQgZG9jdW1lbnRhcnkgcGhvdG9ncmFwaHkgcXVhbGl0eSB3aXRoIHN1YnRsZSBtb3Rpb24gYmx1ciwgcGhvdG9yZWFsaXN0aWMgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case22/output.png" width="560" alt="U 池逆光滑板少年"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 kinetic portrait of a teenage skateboarder mid-frame at the top of a wooden half pipe at sunset, board angled just past the lip, body in a slight crouch ready to drop. Strong golden backlight rim-lighting the silhouette, dust particles caught in the air around him. Faded loose t-shirt and denim shorts, scuffed sneakers. Vertical composition, dynamic but sharp focus on the skater. No brand sticker on the deck, no logo on the clothing, no watermark. Premium youth sport documentary photography quality with subtle motion blur, photorealistic textures.
+```
+
+</details>
+
+<a id="portrait-photography-case-23-ceo-headshot-modern-corporate"></a>
+
+### Case 168: [现代企业 CEO 商务肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `3:4` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGNsZWFuIG1vZGVybiBjb3Jwb3JhdGUgaGVhZHNob3Qgb2YgYW4gRWFzdCBBc2lhbiB3b21hbiBpbiBoZXIgZWFybHkgZm9ydGllcywgd2VhcmluZyBhIGNoYXJjb2FsIGdyZXkgd29vbCBibGF6ZXIgb3ZlciBhIHNpbXBsZSB3aGl0ZSBzaWxrIHRvcC4gQ29uZmlkZW50IGNvbXBvc2VkIGV4cHJlc3Npb24sIHNsaWdodCBzbWlsZSwgYXJtcyByZWxheGVkLiBTb2Z0IG5hdHVyYWwgd2luZG93IGxpZ2h0IGZyb20gdGhlIHVwcGVyIGxlZnQsIHNpbXBsZSBzZWFtbGVzcyBjb29sIGdyZXkgYmFja2Ryb3AuIFRpZ2h0IGhlYWQtYW5kLXNob3VsZGVycyBmcmFtaW5nLCB2ZXJ0aWNhbCAzOjQgY29tcG9zaXRpb24uIFNoYXJwIGNhdGNobGlnaHQgaW4gYm90aCBleWVzLCBzdWJ0bGUgaGlnaGxpZ2h0IG9uIGNoZWVrYm9uZXMuIE5vIGNvbXBhbnkgbG9nbyB2aXNpYmxlLCBubyBicmFuZCBwaW4sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBleGVjdXRpdmUgcG9ydHJhaXQgcGhvdG9ncmFwaHkgcXVhbGl0eSwgcGhvdG9yZWFsaXN0aWMgc2tpbiB0ZXh0dXJlLCBtYWdhemluZSBidXNpbmVzcyBwcm9maWxlIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case23/output.png" width="560" alt="现代企业 CEO 商务肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+3:4 vertical clean modern corporate headshot of an East Asian woman in her early forties, wearing a charcoal grey wool blazer over a simple white silk top. Confident composed expression, slight smile, arms relaxed. Soft natural window light from the upper left, simple seamless cool grey backdrop. Tight head-and-shoulders framing, vertical 3:4 composition. Sharp catchlight in both eyes, subtle highlight on cheekbones. No company logo visible, no brand pin, no watermark. Premium executive portrait photography quality, photorealistic skin texture, magazine business profile aesthetic.
+```
+
+</details>
+
+<a id="portrait-photography-case-24-festival-portrait-holi-color-powder"></a>
+
+### Case 169: [胡里彩粉节肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBqb3lmdWwgZmVzdGl2YWwgcG9ydHJhaXQgb2YgYSB5b3VuZyB3b21hbiBtaWQtbGF1Z2ggYXQgYSBIb2xpIGZlc3RpdmFsLCBoZXIgZmFjZSBhbmQgd2hpdGUga3VydGEgcGFydGlhbGx5IGNvYXRlZCBpbiBicmlnaHQgcGluaywgeWVsbG93IGFuZCB0dXJxdW9pc2UgY29sb3IgcG93ZGVyLiBBIGJ1cnN0IG9mIGNvbG9yIHBvd2RlciBzdXNwZW5kZWQgbWlkLWFpciBhcm91bmQgaGVyIGhlYWQgZnJvbSBzb21lb25lIG9mZnNjcmVlbi4gQnJpbGxpYW50IGxhdGUtbW9ybmluZyBzdW5saWdodCwgZHVzdCBwYXJ0aWNsZXMgZ2xvd2luZyBpbiB0aGUgbGlnaHQuIFRpZ2h0IHZlcnRpY2FsIGZyYW1pbmcgZnJvbSBjaGVzdCB1cCwgaGVhZCBzbGlnaHRseSB0aHJvd24gYmFjayBpbiBkZWxpZ2h0LiBObyBmZXN0aXZhbCBicmFuZGluZywgbm8gdGV4dCwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGRvY3VtZW50YXJ5IHBob3RvZ3JhcGh5IHF1YWxpdHksIHNoYXJwIGZvY3VzIG9uIGhlciBmYWNlIHdpdGggc3VidGxlIG1vdGlvbiBibHVyIG9uIHRoZSBwb3dkZXIgY2xvdWQsIHBob3RvcmVhbGlzdGljIHNraW4gYW5kIHBpZ21lbnQgdGV4dHVyZXMu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/portrait_photography_case24/output.png" width="560" alt="胡里彩粉节肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi festival, her face and white kurta partially coated in bright pink, yellow and turquoise color powder. A burst of color powder suspended mid-air around her head from someone offscreen. Brilliant late-morning sunlight, dust particles glowing in the light. Tight vertical framing from chest up, head slightly thrown back in delight. No festival branding, no text, no watermark. Premium documentary photography quality, sharp focus on her face with subtle motion blur on the powder cloud, photorealistic skin and pigment textures.
+```
+
+</details>
+
+<a id="portrait-photography-case-25-athlete-portrait-boxing-gym-sweat-detail"></a>
+
+### Case 170: [拳击馆运动员细节肖像](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `3:4` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=Mzo0IHZlcnRpY2FsIGRyYW1hdGljIGF0aGxldGUgcG9ydHJhaXQgb2YgYSB5b3VuZyBib3hlciBsZWFuaW5nIGFnYWluc3QgYSBjaGFpbi1saW5rIGZlbmNlIGluc2lkZSBhbiBvbGQgaW5kdXN0cmlhbCBib3hpbmcgZ3ltLCBpbGx1bWluYXRlZCBieSBhIHNpbmdsZSBoaWdoLWNvbnRyYXN0IFJlbWJyYW5kdC1zdHlsZSB3aW5kb3cgbGlnaHQgZnJvbSB0aGUgdXBwZXIgbGVmdC4gU3dlYXQgYmVhZGluZyBvbiB0aGUgYnJvdyBhbmQgYmFyZSBzaG91bGRlcnMsIGhhbmQgd3JhcHMgc3RpbGwgb24sIGludGVuc2UgZm9jdXNlZCBnYXplIGp1c3QgcGFzdCB0aGUgY2FtZXJhLiBEYXJrIG1vb2R5IGJhY2tncm91bmQgd2l0aCBhIGZhZGVkIG91dC1vZi1mb2N1cyBoZWF2eSBiYWcgaW4gdGhlIGNvcm5lci4gVmVydGljYWwgMzo0IGZyYW1pbmcsIGhlYWQgYW5kIGNoZXN0LiBObyBicmFuZCBsb2dvIG9uIHRoZSB3cmFwcywgbm8gZ3ltIHNpZ25hZ2UsIG5vIHdhdGVybWFyay4gQ2luZW1hdGljIHNwb3J0cyBwb3J0cmFpdHVyZSBxdWFsaXR5LCBwaG90b3JlYWxpc3RpYyBza2luIHN3ZWF0IGRldGFpbCBhbmQgZHVzdC1saXQgYWlyLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=3%3A4"><img src="../images/portrait_photography_case25/output.png" width="560" alt="拳击馆运动员细节肖像"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+3:4 vertical dramatic athlete portrait of a young boxer leaning against a chain-link fence inside an old industrial boxing gym, illuminated by a single high-contrast Rembrandt-style window light from the upper left. Sweat beading on the brow and bare shoulders, hand wraps still on, intense focused gaze just past the camera. Dark moody background with a faded out-of-focus heavy bag in the corner. Vertical 3:4 framing, head and chest. No brand logo on the wraps, no gym signage, no watermark. Cinematic sports portraiture quality, photorealistic skin sweat detail and dust-lit air.
+```
+
+</details>
+
+<a id="portrait-photography-case-26-couple-portrait-autumn-forest-path"></a>
+
+### Case 171: [秋季森林情侣背影](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=MTY6OSBob3Jpem9udGFsIGNpbmVtYXRpYyBjb3VwbGUgcG9ydHJhaXQgc2hvdCBmcm9tIGJlaGluZCBhcyBhIHlvdW5nIGNvdXBsZSB3YWxrcyBoYW5kLWluLWhhbmQgZG93biBhIGxlYWYtc3RyZXduIGZvcmVzdCBwYXRoIGluIGRlZXAgYXV0dW1uLiBCb3RoIHdlYXJpbmcga25pdHRlZCBuZXV0cmFsIHN3ZWF0ZXJzIGFuZCBkYXJrIGplYW5zLCBubyBmYWNlcyB2aXNpYmxlLiBXYXJtIGxhdGUtYWZ0ZXJub29uIGdvbGRlbiBob3VyIGxpZ2h0IGZpbHRlcmluZyB0aHJvdWdoIG9yYW5nZSBhbmQgYW1iZXIgbGVhdmVzLCBzb2Z0IGxlbnMgZmxhcmUuIFRoZSBwYXRoIGN1cnZlcyBnZW50bHkgYXdheSB0byB0aGUgcmlnaHQuIEVkZ2UtdG8tZWRnZSBjb21wb3NpdGlvbiB3aXRoIGdlbmVyb3VzIGNhbm9weSBhYm92ZSBhbmQgYSB0aGljayBjYXJwZXQgb2YgZmFsbGVuIGxlYXZlcyBiZWxvdy4gTm8gdGV4dCBvdmVybGF5cywgbm8gd2F0ZXJtYXJrLiBDaW5lbWF0aWMgcmVsYXRpb25zaGlwIHBvcnRyYWl0IHBob3RvZ3JhcGh5IHF1YWxpdHksIHBob3RvcmVhbGlzdGljIGZvbGlhZ2UgYW5kIGZhYnJpYyB0ZXh0dXJlcyB3aXRoIHN1YnRsZSAzNW1tIGdyYWluLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/portrait_photography_case26/output.png" width="560" alt="秋季森林情侣背影"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+16:9 horizontal cinematic couple portrait shot from behind as a young couple walks hand-in-hand down a leaf-strewn forest path in deep autumn. Both wearing knitted neutral sweaters and dark jeans, no faces visible. Warm late-afternoon golden hour light filtering through orange and amber leaves, soft lens flare. The path curves gently away to the right. Edge-to-edge composition with generous canopy above and a thick carpet of fallen leaves below. No text overlays, no watermark. Cinematic relationship portrait photography quality, photorealistic foliage and fabric textures with subtle 35mm grain.
+```
+
+</details>
+
 ---
 
 ## 继续浏览其他分类
 
-- [海报与插画](./poster-illustration.zh-CN.md) · 40 个案例
-- [角色设计](./character-design.zh-CN.md) · 7 个案例
-- [UI 与社交截图](./ui-social.zh-CN.md) · 21 个案例
+- [海报与插画](./poster-illustration.zh-CN.md) · 48 个案例
+- [角色设计](./character-design.zh-CN.md) · 17 个案例
+- [UI 与社交截图](./ui-social.zh-CN.md) · 31 个案例
 - [模型测试与社区案例](./comparison-community.zh-CN.md) · 15 个案例
 - [精选参考案例](./community-reference.zh-CN.md) · 17 个案例
 - [电商与产品](./e-commerce.zh-CN.md) · 20 个案例
