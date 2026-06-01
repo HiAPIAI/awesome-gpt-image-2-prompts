@@ -4,7 +4,7 @@
 
 App 首页、社交页面、直播截图、信息卡和移动端界面。
 
-> 案例库 · 21 个案例
+> 案例库 · 31 个案例
 
 ---
 
@@ -43,6 +43,24 @@ App 首页、社交页面、直播截图、信息卡和移动端界面。
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=QSA5OjE2IHZlcnRpY2FsIHZlcnNpb24sIGhpZ2gtZGV0YWlsIHJlYWxpc3RpYyBzdHlsZSBDaGluZXNlIFRpa1RvayBsaXZlIHNjcmVlbnNob3QsIEVsb24gTXVzayBpcyB0YWxraW5nIHRvIHRoZSBtb2JpbGUgcGhvbmUgY2FtZXJhIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tLCBleGNpdGVkLCBzbWlsaW5nLCBhbmQgdGhlIGxpdmUgYXRtb3NwaGVyZSBpcyB3YXJtIGFuZCByZWFsLiBIZSBoZWxkIGEgd2hpdGUgaGFuZHdyaXR0ZW4gc2lnbiBpbiBvbmUgaGFuZCwgd2hpY2ggY2xlYXJseSBzYWlkOiAiVGhhbmsgeW91IFNoaW5uaW5nIi4gVGhlcmUgYXJlIG9idmlvdXMgQ2hpbmVzZSBUaWtUb2sgaW50ZXJmYWNlIGVsZW1lbnRzIGluIHRoZSBsaXZlIGJyb2FkY2FzdCBzY3JlZW4sIGluY2x1ZGluZyBsaWtlcywgY29tbWVudHMgYW5kIHNoYXJlIGljb25zIGFycmFuZ2VkIHZlcnRpY2FsbHkgb24gdGhlIHJpZ2h0LCBzY3JvbGxpbmcgQ2hpbmVzZSBidWxsZXQgc2NyZWVucyBhbmQgaW50ZXJhY3RpdmUgY29tbWVudHMgYmVsb3csIGFuZCB0aGUgImxpdmUgYnJvYWRjYXN0IiBsb2dvIGF0IHRoZSB0b3AsIHdoaWNoIGxvb2tzIGxpa2UgYSByZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW5zaG90LiBUaGVyZSBpcyBhbiBleWUtY2F0Y2hpbmcgZ2lmdCBwcm9tcHQgc3BlY2lhbCBlZmZlY3QgaW4gdGhlIHNjcmVlbjogIlNoaW5uaW5nIHNlbnQgVGlrVG9rIE5vLiAxIiwgd2l0aCBnaWZ0IGFuaW1hdGlvbiBsaWdodCBlZmZlY3QgYW5kIHBsYXRmb3JtLXN0eWxlIHByb21wdCBib3guIE11c2sgaXMgaW4gYSBwcm9mZXNzaW9uYWwgbGl2ZSBicm9hZGNhc3QgZW52aXJvbm1lbnQsIHdpdGggYSBtb2JpbGUgcGhvbmUgaG9sZGVyLCBhIHJpbmcgZmlsbCBsaWdodCBhbmQgYSBkZXNrdG9wIG1pY3JvcGhvbmUgaW4gZnJvbnQgb2YgaGltLiBUaGUgYmFja2dyb3VuZCBpcyBhIG1vZGVybiB0ZWNobm9sb2d5IGxpdmUgYnJvYWRjYXN0IHJvb20gd2l0aCBicmlnaHQgbGlnaHRzIGFuZCBhIHNsaWdodCBuZW9uIGF0bW9zcGhlcmUuIFRoZSBjb21wb3NpdGlvbiBpcyByZWFsIGFuZCBuYXR1cmFsLCBsaWtlIHRoZSBvbmdvaW5nIGxpdmUgc2NyZWVuc2hvdCBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybS4gVGhlIGludGVyZmFjZSBpbmZvcm1hdGlvbiBpcyByaWNoIGJ1dCBub3QgbWVzc3ksIHRoZSBjaGFyYWN0ZXJzIGFyZSBjbGVhciwgdGhlIGV4cHJlc3Npb24gaXMgdml2aWQsIHRoZSBkZXRhaWxzIGFyZSByaWNoLCB0aGUgc2Vuc2Ugb2YgcmVhbCBwaG90b2dyYXBoeSwgdGhlIGRlcHRoIG9mIGZpZWxkLCBoaWdoIGRlZmluaXRpb24sIGNpbmVtYXRpYywgcGhvdG9yZWFsaXN0aWMsIHJlYWxpc3RpYyBsaXZlc3RyZWFtIHNjcmVlbnNob3QsIHNvY2lhbCBtZWRpYSBVSSwgQ2hpbmVzZSBEb3V5aW4gbGl2ZSByb29tLCBkZXRhaWxlZCBsaWdodGluZywgbmF0dXJhbCBza2luIHRleHR1cmUuCgpOZWdhdGl2ZSBwcm9tcHRzOgoKTG93IGRlZmluaXRpb24sIGJsdXIsIGNhcnRvb24sIGlsbHVzdHJhdGlvbiwgdG9vIHN0cm9uZyBDRyBzZW5zZSwgdHdvLWRpbWVuc2lvbmFsLCBkZWZvcm1lZCBmaW5nZXJzLCB3cm9uZyB0ZXh0LCBzY3JhbWJsZWQgY29kZSwgbXVsdGlwbGUgbW9iaWxlIHBob25lcywgbXVsdGlwbGUgYnJhbmRzLCBjaGFyYWN0ZXIgcmVwZXRpdGlvbiwgZmFjZSBjb2xsYXBzZSwgZmFjaWFsIGZlYXR1cmVzIGRpc3RvcnRpb24sIGV4Y2Vzc2l2ZSBza2luIHBvbGlzaGluZywgb3ZlcmV4cG9zdXJlLCB0b28gZGFyaywgbWVzc3kgYmFja2dyb3VuZCwgd3JvbmcgVUksIG5vbi1DaGluZXNlIHNob3J0IHZpZGVvIGludGVyZmFjZSwgdG9vIG1hbnkgRW5nbGlzaCBidWxsZXQgc2NyZWVucywgZ2lmdCBzcGVjaWFsIGVmZmVjdHMgYXJlIG5vdCBvYnZpb3VzLCBjcm9wcGluZyBlcnJvciwgcHJvcG9ydGlvbmFsIGVycm9yCgpTdXBwbGVtZW50YXJ5IHJlaW5mb3JjZW1lbnQgd29yZHM6CgpSZWFsIG1vYmlsZSBwaG9uZSBzY3JlZW4gcmVjb3JkaW5nIHNjcmVlbnNob3QgZmVlbGluZywgdGhlIGxpdmUgYnJvYWRjYXN0IFVJIGlzIGNvbXBsZXRlLCB0aGUgZ2lmdCBwcm9tcHQgYm94IGNvbmZvcm1zIHRvIHRoZSBzdHlsZSBvZiB0aGUgQ2hpbmVzZSBzaG9ydCB2aWRlbyBwbGF0Zm9ybSwgdGhlIENoaW5lc2UgY29tbWVudCBhcmVhIGlzIGFjdGl2ZSwgdGhlIG51bWJlciBvZiBwZW9wbGUgb25saW5lIGluIHRoZSBsaXZlIGJyb2FkY2FzdCByb29tIGlzIGNsZWFybHkgZGlzcGxheWVkLCBhbmQgdGhlIHRpbWUsIHBvd2VyIGFuZCBzaWduYWwgYmFyIGFyZSB2aXNpYmxlLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_case36/output.jpg" width="250" alt="名人抖音直播截图"></a><br><sub><b>Case 084</b> · <a href="#ui-case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010">提示词</a></sub><br><sub><a href="https://x.com/Shinning1010/status/2046501587762188535">名人抖音直播截图</a> · <a href="https://x.com/Shinning1010">@Shinning1010</a></sub></td>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=55So5pyq5p2l6YO95biC6aOO5qC855Sf5oiQVUnorr7orqHns7vnu58s54G15oSf5p2l6Ieq6LWb5Y2a5pyL5YWL5Z%2BO5biC5aSc5pmvLOWMheWQq%2Bmck%2BiZueeBr%2BOAgeeOu%2BeSg%2BW7uuetkeWPjeWwhOOAgemrmOWvueavlOWFieW9sSzphY3oibLku6XntKvoibLjgIHok53oibLjgIHnsonoibLpnJPombnkuLrkuLss6K6%2B6K6h572R6aG1RGFzaGJvYXJk44CB56e75Yqo56uv55WM6Z2i44CB5Y2h54mH44CB5oyJ6ZKu44CB5o6n5Lu2562JLOinhuinieeCq%2BmFt%2BOAgeWxguasoeS4sOWvjOOAgeenkeaKgOaEn%2BaegeW8ug%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery"><img src="../images/ui_case38/output.jpg" width="250" alt="赛博朋克霓虹 UI 设计系统"></a><br><sub><b>Case 085</b> · <a href="#ui-case-38-cyberpunk-neon-ui-design-system-by-azlnfvp">提示词</a></sub><br><sub><a href="https://x.com/AZLnfvp/status/2046468976092533180">赛博朋克霓虹 UI 设计系统</a> · <a href="https://x.com/AZLnfvp">@AZLnfvp</a></sub></td>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=MeOAgeeUn%2BaIkOeJueacl%2BaZruWSjOmHkeato%2BaBqeWcqOaKlumfs%2BebtOaSremXtOaJk1BL55qE5oiq5Zu%2BICAKMuOAgeeUn%2BaIkOS4jeefpeeBq%2BiInueahOWwj%2Be6ouS5puS4u%2BmhteaIquWbviAgCjPjgIHnlJ%2FmiJDlm77niYc6IOaJi%2BWGmeWcqOaVmeWupOm7keadv%2BS4iueahOWHuuW4iOihqOWFqOaWhyznnJ%2Flrp7mhJ%2FnmoTnsonnrJTlrZfov7ks5pm05pyX55m95aSp55SoaVBob25l5omL5py65a6e5ouNICAKNOOAgeeUn%2BaIkOWbvueJhzogVC04MDDmnLrlmajkurrnmoTmt5jlrp3llYblk4Hor6bmg4XpobUs5bGV56S6OiDmnLrlmajkurrnmoTmraPpnaLkvqfpnaLog4zpnaLkuInop4blm74sIOS6p%2BWTgeS7t%2BagvCwg5Lqn5ZOB57uG6IqCLCDlip%2Fog73lkozkvb%2FnlKjlnLrmma%2FnrYk%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery"><img src="../images/ui_case39/output.jpg" width="250" alt="直播 PK 截图模板"></a><br><sub><b>Case 086</b> · <a href="#ui-case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq">提示词</a></sub><br><sub><a href="https://x.com/alanlovelq/status/2046048929490612464">直播 PK 截图模板</a> · <a href="https://x.com/alanlovelq">@alanlovelq</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtb2JpbGUgYXBwIG9uYm9hcmRpbmcgc2NyZWVuIG1vY2t1cCBmb3IgYSB3ZWxsbmVzcyB0cmFja2VyLiBTb2Z0IHdhcm0gZ3JhZGllbnQgYmFja2dyb3VuZCBmcm9tIHBhbGUgcGVhY2ggdG8gZHVzdHkgbGF2ZW5kZXIuIENlbnRlcmVkIGZsYXQgaWxsdXN0cmF0aW9uIG9mIGEgc21hbGwgYWJzdHJhY3QgZmlndXJlIG1lZGl0YXRpbmcgY3Jvc3MtbGVnZ2VkIHdpdGggc29mdCBmbG9hdGluZyBsZWF2ZXMgYXJvdW5kIHRoZW0uIEFib3ZlIHRoZSBpbGx1c3RyYXRpb24gYSBmcmllbmRseSB0d28tbGluZSBoZWFkbGluZSByZWFkcyAiVGlueSBjaGVjay1pbnMuIFJlYWwgcmVzdWx0cy4iLiBCZWxvdyBpdCB0aHJlZSBzbWFsbCBzdGVwIGluZGljYXRvciBkb3RzLCBmaXJzdCBvbmUgZmlsbGVkIGdyZWVuLiBBdCB0aGUgYm90dG9tIG9mIHRoZSBzY3JlZW4gYSBzaW5nbGUgcHJvbWluZW50IHJvdW5kZWQgQ1RBIGJ1dHRvbiBpbiBkZWVwIG1pbnQgZ3JlZW4gd2l0aCB3aGl0ZSB0ZXh0IHJlYWRpbmcgIkdldCBTdGFydGVkIi4gUGhvbmUtc2hhcGVkIHZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24gd2l0aCBzdWJ0bGUgaW5uZXIgcGFkZGluZy4gTm8gcmVhbCBicmFuZCBuYW1lLCBubyBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gbW9iaWxlIFVJIGRlc2lnbiBxdWFsaXR5LCBjcmlzcCB0eXBvZ3JhcGh5IHJlbmRlcmluZy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case40/output.png" width="250" alt="健康追踪 App 引导页"></a><br><sub><b>Case 180</b> · <a href="#ui-social-case-40-app-onboarding-wellness-tracker">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">健康追踪 App 引导页</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBOb3Rpb24tc3R5bGUgdGVtcGxhdGUgY292ZXIgbW9ja3VwLiBTb2Z0IHBhc3RlbCBjcmVhbSBiYWNrZ3JvdW5kIHdpdGggc3VidGxlIHBhcGVyIGdyYWluIHRleHR1cmUuIENlbnRlcmVkIG1pbmltYWwgZmxhdCBpbGx1c3RyYXRpb24gb2YgYSBzdGFjayBvZiB0aHJlZSBsYXllcmVkIHByb2plY3QgY2FyZHMgaW4gcGFsZSBzYWdlLCBwZWFjaCwgYW5kIGxhdmVuZGVyLCBlYWNoIHdpdGggYSB0aW55IHBsYWNlaG9sZGVyIHByb2dyZXNzIGJhciBhbmQgYSBzbWFsbCBpY29uLiBBYm92ZSB0aGUgaWxsdXN0cmF0aW9uIGEgYm9sZCBtb2Rlcm4gc2VyaWYgdGl0bGUgcmVhZHMgIlByb2plY3QgVHJhY2tlciIuIEJlbG93IGl0IGluIHNtYWxsZXIgY2xlYW4gc2Fucy1zZXJpZiB0eXBlIHJlYWRzICJBIHNpbXBsZSB0ZW1wbGF0ZSBmb3Igc2hpcHBpbmcgdGhpbmdzIi4gVmVydGljYWwgY29tcG9zaXRpb24gd2l0aCBnZW5lcm91cyBtYXJnaW5zLiBObyByZWFsIGJyYW5kIG5hbWUsIG5vIE5vdGlvbiBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gcHJvZHVjdGl2aXR5IHRlbXBsYXRlIGNvdmVyIGFlc3RoZXRpYywgbWFnYXppbmUgbGF5b3V0IHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case41/output.png" width="250" alt="Notion 模板封面 · 项目追踪"></a><br><sub><b>Case 181</b> · <a href="#ui-social-case-41-notion-template-cover-project-tracker">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Notion 模板封面 · 项目追踪</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCAxNjo5IHNvY2lhbC1zaGFyZSBjb3ZlciBjYXJkIGZvciBhIHdlZWtseSBBSSBuZXdzbGV0dGVyIHRocmVhZC4gQmFja2dyb3VuZCBpcyBhIGNsZWFuIGNvb2wgY2hhcmNvYWwgZ3JhZGllbnQuIExlZnQgc2lkZSBzaG93cyBhIGJvbGQgbGFyZ2Ugc2VyaWYgaGVhZGxpbmUgc3RhY2tlZCBvdmVyIHRocmVlIGxpbmVzIHJlYWRpbmcgIlRoaXMgV2VlayAvIGluIEFJIC8gSXNzdWUgNDciLiBSaWdodCBzaWRlIHNob3dzIGEgc21hbGwgZmxvYXRpbmcgbW9ja3VwIG9mIGEgcGhvbmUgc2NyZWVuIGRpc3BsYXlpbmcgYW4gYWJzdHJhY3QgZmVlZCB3aXRoIHRocmVlIGJsdXJyZWQtb3V0IHR3ZWV0IGNhcmRzLiBCZWxvdyB0aGUgaGVhZGxpbmUgb24gdGhlIGxlZnQgYSBzbWFsbGVyIG1vbm9zcGFjZWQgbGluZSByZWFkcyAiMTAgc3RvcmllcyDCtyA0IG1pbiByZWFkIi4gSG9yaXpvbnRhbCAxNjo5IGNvbXBvc2l0aW9uIHdpdGggc2hhcnAgdHlwb2dyYXBoeSByZW5kZXJpbmcuIE5vIHJlYWwgYnJhbmQgbmFtZSwgbm8gcmVhbCB0d2VldCBjb250ZW50LCBubyB3YXRlcm1hcmsuIFByZW1pdW0gc29jaWFsLXNoYXJlIGNvdmVyIGRlc2lnbiBxdWFsaXR5Lg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/ui_social_case42/output.png" width="250" alt="AI 周报推文封面卡"></a><br><sub><b>Case 182</b> · <a href="#ui-social-case-42-twitter-thread-cover-card-ai-weekly-recap">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">AI 周报推文封面卡</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpT1MgbG9jayBzY3JlZW4gZGVzaWduIGNvbmNlcHQuIFBob25lLWZyYW1lIHZlcnRpY2FsIGNvbXBvc2l0aW9uLiBCYWNrZ3JvdW5kIGlzIGEgc29mdCBlYXJseS1tb3JuaW5nIGdyYWRpZW50IGZyb20gcGFsZSBibHVzaCB0byB3YXJtIGNyZWFtLiBUb3AgY2VudGVyIHNob3dzIHRoZSB0aW1lICIwNzoyMyIgaW4gYSBjbGVhbiBsaWdodCBzYW5zLXNlcmlmLiBCZWxvdyB0aGUgdGltZSBhIHNtYWxsIHN1YnRsZSBkYXRlIGxpbmUgIk1vbmRheSwgTWF5IDI2Ii4gQ2VudGVyZWQgbG93ZXItdGhpcmQgb2YgdGhlIHNjcmVlbiBzaG93cyBhIHNpbmdsZSBpdGFsaWMgc2VyaWYgcXVvdGU6ICJZb3UgaGF2ZSBwb3dlciBvdmVyIHlvdXIgbWluZCDigJQgbm90IG91dHNpZGUgZXZlbnRzLiIuIEEgdGlueSBhdHRyaWJ1dGlvbiBsaW5lICLigJQgTWFyY3VzIEF1cmVsaXVzIiBiZW5lYXRoIGl0LiBObyBhcHAgaWNvbnMgY2x1dHRlcmluZyB0aGUgc2NyZWVuLCBubyBub3RpZmljYXRpb24gdG9hc3RzLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gbG9jayBzY3JlZW4gdHlwb2dyYXBoeSBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case43/output.png" width="250" alt="iOS 锁屏概念 · 斯多葛箴言"></a><br><sub><b>Case 183</b> · <a href="#ui-social-case-43-ios-lock-screen-concept-stoic-quote">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">iOS 锁屏概念 · 斯多葛箴言</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBwb2RjYXN0IGVwaXNvZGUgY292ZXIuIEJhY2tncm91bmQgaXMgYSBkZWVwIHNhdHVyYXRlZCB0ZXJyYWNvdHRhIG9yYW5nZSBjb2xvci4gVXBwZXItbGVmdCBzaG93cyBhIHNtYWxsIHNob3cgbG9nbyBwbGFjZWhvbGRlciwgYW4gYWJzdHJhY3Qgc291bmQgd2F2ZSBzeW1ib2wgaW4gY3JlYW0uIENlbnRlcmVkIGxvd2VyIGhhbGYgZmVhdHVyZXMgYSBzdHlsaXplZCBoYWxmLWJvZHkgaWxsdXN0cmF0aW9uIG9mIGEgZ2VuZXJpYyBob3N0IGZpZ3VyZSB3aXRoIGhlYWRwaG9uZXMgb24sIGRyYXduIGluIGZsYXQgY3JlYW0gYW5kIGRhcmsgYWNjZW50cy4gQWJvdmUgdGhlIGhvc3QgaWxsdXN0cmF0aW9uIGEgYm9sZCBzYW5zLXNlcmlmIGhlYWRsaW5lIHJlYWRzICJFUC4gMTI0IC8gQnVpbGRpbmcgUXVpZXRseSIuIEJlbG93IGl0IGEgc21hbGxlciBzZXJpZiBzdWJoZWFkICJ3aXRoIGFuIGFub255bW91cyBmb3VuZGVyIi4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbi4gTm8gcmVhbCBzaG93IG5hbWUsIG5vIHJlYWwgaG9zdCBuYW1lLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gcG9kY2FzdCBjb3ZlciBkZXNpZ24gcXVhbGl0eSwgY3Jpc3AgdHlwb2dyYXBoeSByZW5kZXJpbmcu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case44/output.png" width="250" alt="播客单集封面"></a><br><sub><b>Case 184</b> · <a href="#ui-social-case-44-podcast-episode-cover-frame">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">播客单集封面</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBSRUFETUUgaGVybyBiYW5uZXIgZm9yIGFuIG9wZW4gc291cmNlIHByb2plY3QuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBkZWVwIG1pZG5pZ2h0IGluZGlnbyBjb2xvciB3aXRoIGEgc3VidGxlIGxvdy1vcGFjaXR5IGdlb21ldHJpYyBwYXR0ZXJuIG9mIGludGVyc2VjdGluZyB0aGluIGxpbmVzIHN1Z2dlc3RpbmcgY29kZSBvciBncmFwaHMuIENlbnRlcmVkIHVwcGVyIGFyZWEgc2hvd3MgdGhlIHByb2plY3QgbmFtZSAiTGlnaHRob3VzZSIgaW4gYSBib2xkIG1vZGVybiBtb25vc3BhY2VkIGZvbnQgaW4gcHVyZSB3aGl0ZS4gQmVuZWF0aCBpdCBhIHNtYWxsZXIgbGluZSBpbiBzb2Z0IG1pbnQgZ3JlZW4gcmVhZHMgIi8vIEEgdGlueSBzY2hlZHVsZXIgZm9yIHRpcmVkIGRldmVsb3BlcnMiLiBBdCB0aGUgbG93ZXIgcmlnaHQgY29ybmVyIHRocmVlIHNtYWxsIGFic3RyYWN0IGJhZGdlIHBsYWNlaG9sZGVycywgcmVjdGFuZ2xlcyBsYWJlbGVkICJNSVQiLCAidjEuMCIsICJDSSIuIFNxdWFyZSAxOjEgY29tcG9zaXRpb24uIE5vIHJlYWwgR2l0SHViIFVSTCB0ZXh0LCBubyB3YXRlcm1hcmsuIFByZW1pdW0gZGV2ZWxvcGVyIFJFQURNRSBjb3ZlciBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/ui_social_case45/output.png" width="250" alt="开源项目 README 主视觉"></a><br><sub><b>Case 185</b> · <a href="#ui-social-case-45-open-source-project-readme-hero">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">开源项目 README 主视觉</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBmaW50ZWNoIGJhbmtpbmcgYXBwIGRhc2hib2FyZCBzY3JlZW4gbW9ja3VwLiBQaG9uZS1zaGFwZWQgZnJhbWUuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBkZWVwIG5hdnkgYmx1ZSBncmFkaWVudC4gQXQgdGhlIHRvcCBhIGZyaWVuZGx5IGdyZWV0aW5nICJIaSwgQWxleCIgaW4gd2hpdGUgc2Fucy1zZXJpZi4gQmVsb3cgaXQgYSBsYXJnZSByb3VuZGVkIGNhcmQgaW4gc2xpZ2h0bHkgbGlnaHRlciBuYXZ5IHNob3dpbmcgYSBwbGFjZWhvbGRlciBiYWxhbmNlICIkIDQsODIwLjMyIiB3aXRoIGEgc21hbGxlciBsaW5lICJBdmFpbGFibGUiLiBCZWxvdyB0aGUgY2FyZCBhIGhvcml6b250YWwgc2VnbWVudGVkIGJhciBjaGFydCBzaG93aW5nIHNwZW5kaW5nIGNhdGVnb3JpZXMgaW4gbWludCwgcGVhY2gsIGFuZCBsYXZlbmRlciBiYXJzLiBBdCB0aGUgYm90dG9tIHRocmVlIHNtYWxsIGljb24gYnV0dG9ucyAiU2VuZCAvIFJlY2VpdmUgLyBUb3AgdXAiIHdpdGggc2ltcGxlIGZsYXQgaWNvbnMuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGNyaXNwIHBpeGVsLWFsaWduZWQgVUkuIE5vIHJlYWwgYmFuayBicmFuZCwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGZpbnRlY2ggVUkgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case46/output.png" width="250" alt="手机银行 App 主面板"></a><br><sub><b>Case 186</b> · <a href="#ui-social-case-46-mobile-banking-app-dashboard-mock">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">手机银行 App 主面板</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBuZXdzbGV0dGVyIGhlYWRlciBpbGx1c3RyYXRpb24gaW4gYSBmbGF0IGVkaXRvcmlhbCB2ZWN0b3Igc3R5bGUuIFNvZnQgd2FybSBjcmVhbSBiYWNrZ3JvdW5kLiBDZW50ZXJlZCBpbGx1c3RyYXRpb24gb2YgYSBzaW5nbGUgaGFuZCBob2xkaW5nIHVwIGEgZm9sZGVkIHBhcGVyIG5ld3NwYXBlciB3aXRoIHRoZSB3b3JkICJURUNIIiBzdWJ0bHkgcmVhZGFibGUgb24gdGhlIGZyb250LCBzdXJyb3VuZGVkIGJ5IGZsb2F0aW5nIHNtYWxsIGFic3RyYWN0IGljb25zOiBlbnZlbG9wZSwgbGlnaHRidWxiLCB0ZXJtaW5hbCBjdXJzb3IsIGdyYXBoIGxpbmUsIGluIG11dGVkIHRlYWwgYW5kIHdhcm0gb3JhbmdlLiBBYm92ZSB0aGUgaWxsdXN0cmF0aW9uIGEgYm9sZCBzZXJpZiB0aXRsZSByZWFkcyAiVGhlIFdlZWtseSBCdWxsZXRpbiIuIEJlbG93IGl0IGEgc21hbGwgbGluZSAiU2VudCBldmVyeSBGcmlkYXksIDcgQU0iLiBTcXVhcmUgMToxIGNvbXBvc2l0aW9uLiBObyByZWFsIHB1YmxpY2F0aW9uIG5hbWUsIG5vIGxvZ29zLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gZWRpdG9yaWFsIG5ld3NsZXR0ZXIgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/ui_social_case47/output.png" width="250" alt="Newsletter 顶部插图 · 科技简报"></a><br><sub><b>Case 187</b> · <a href="#ui-social-case-47-newsletter-header-tech-bulletin">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Newsletter 顶部插图 · 科技简报</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBBSSBjaGF0IGFwcGxpY2F0aW9uIGZpcnN0LXJ1biBzY3JlZW4gbW9ja3VwLiBQaG9uZS1zaGFwZWQgZnJhbWUuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBvZmYtd2hpdGUuIFRvcCBjZW50ZXIgc2hvd3MgYSBzbWFsbCBmcmllbmRseSBtYXNjb3QgaWxsdXN0cmF0aW9uIG9mIGFuIGFic3RyYWN0IGZsb2F0aW5nIGdlb21ldHJpYyBjaGFyYWN0ZXIgd2F2aW5nLiBCZWxvdyB0aGUgbWFzY290IGEgYm9sZCBzYW5zLXNlcmlmIGdyZWV0aW5nIHJlYWRzICJIaSEgSG93IGNhbiBJIGhlbHAgdG9kYXk%2FIi4gQmVsb3cgdGhlIGdyZWV0aW5nIHRocmVlIHJvdW5kZWQgc3VnZ2VzdGlvbiBjaGlwcyBzdGFja2VkIHZlcnRpY2FsbHkgd2l0aCBleGFtcGxlIHF1ZXN0aW9uczogIlN1bW1hcml6ZSBhIHdlYnBhZ2UiLCAiRHJhZnQgYSBxdWljayBlbWFpbCIsICJQbGFuIGEgd2Vla2VuZCB0cmlwIi4gQXQgdGhlIHZlcnkgYm90dG9tIGEgc2ltcGxlIHRleHQgaW5wdXQgZmllbGQgd2l0aCBhIHBsYWNlaG9sZGVyICJUeXBlIGEgbWVzc2FnZeKApiIgYW5kIGEgc21hbGwgc2VuZCBhcnJvdyBpY29uLiBWZXJ0aWNhbCA5OjE2IGNvbXBvc2l0aW9uLCBjcmlzcCBwaXhlbC1hbGlnbmVkIFVJLiBObyByZWFsIGJyYW5kIG5hbWUsIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBBSSBhcHAgb25ib2FyZGluZyBVSSBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case48/output.png" width="250" alt="AI 聊天 App 首次启动页"></a><br><sub><b>Case 188</b> · <a href="#ui-social-case-48-ai-chat-app-first-run-screen">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">AI 聊天 App 首次启动页</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtdXNpYyBwbGF5ZXIgbm93LXBsYXlpbmcgc2NyZWVuIG1vY2t1cC4gQmFja2dyb3VuZCBpcyBhIHNvZnQgYmx1cnJlZCBncmFkaWVudCBleHRyYWN0ZWQgZnJvbSBhbiBhbGJ1bSBjb3ZlciwgZG9taW5hbnQgaW4gZGVlcCB0ZWFsIGFuZCB3YXJtIGdvbGQuIENlbnRlcmVkIHVwcGVyIGFyZWEgc2hvd3MgYSBjbGVhbiByb3VuZGVkIHNxdWFyZSBhbGJ1bSBhcnR3b3JrIHBsYWNlaG9sZGVyLCBhIHN0eWxpemVkIGFic3RyYWN0IGNpcmNsZSB3aXRoIGNvbmNlbnRyaWMgcmluZ3MsIG5vIHRleHQuIEJlbG93IHRoZSBhcnR3b3JrIGEgYm9sZCBzYW5zLXNlcmlmIHRyYWNrIHRpdGxlICJTbG93IExpZ2h0IiBhbmQgYSBzbWFsbGVyIHN1YmhlYWQgImJ5IExvbmcgRXZlbmluZyIuIEJlbmVhdGggdGhhdCBhIHRoaW4gcHJvZ3Jlc3MgYmFyIGF0IGFib3V0IG9uZS10aGlyZCwgd2l0aCBzbWFsbCB0aW1lc3RhbXBzICIxOjE4IC8gMzo0NSIuIEF0IHRoZSB2ZXJ5IGJvdHRvbSB0aHJlZSBsYXJnZSBwbGF5YmFjayBjb250cm9sIGljb25zOiBwcmV2aW91cywgcGxheSwgbmV4dCwgcGx1cyB0d28gc21hbGxlciBzaWRlIGljb25zIGZvciBzaHVmZmxlIGFuZCByZXBlYXQuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGNyaXNwIHBpeGVsLWFsaWduZWQgVUkuIE5vIHJlYWwgYXJ0aXN0IG5hbWUsIG5vIHJlYWwgYXBwIG5hbWUsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBtdXNpYyBwbGF5ZXIgVUkgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case49/output.png" width="250" alt="音乐播放器播放中页"></a><br><sub><b>Case 189</b> · <a href="#ui-social-case-49-music-player-now-playing-screen">提示词</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">音乐播放器播放中页</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
   </tr>
 </table>
 
@@ -512,13 +530,183 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 </details>
 
+<a id="ui-social-case-40-app-onboarding-wellness-tracker"></a>
+
+### Case 180: [健康追踪 App 引导页](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtb2JpbGUgYXBwIG9uYm9hcmRpbmcgc2NyZWVuIG1vY2t1cCBmb3IgYSB3ZWxsbmVzcyB0cmFja2VyLiBTb2Z0IHdhcm0gZ3JhZGllbnQgYmFja2dyb3VuZCBmcm9tIHBhbGUgcGVhY2ggdG8gZHVzdHkgbGF2ZW5kZXIuIENlbnRlcmVkIGZsYXQgaWxsdXN0cmF0aW9uIG9mIGEgc21hbGwgYWJzdHJhY3QgZmlndXJlIG1lZGl0YXRpbmcgY3Jvc3MtbGVnZ2VkIHdpdGggc29mdCBmbG9hdGluZyBsZWF2ZXMgYXJvdW5kIHRoZW0uIEFib3ZlIHRoZSBpbGx1c3RyYXRpb24gYSBmcmllbmRseSB0d28tbGluZSBoZWFkbGluZSByZWFkcyAiVGlueSBjaGVjay1pbnMuIFJlYWwgcmVzdWx0cy4iLiBCZWxvdyBpdCB0aHJlZSBzbWFsbCBzdGVwIGluZGljYXRvciBkb3RzLCBmaXJzdCBvbmUgZmlsbGVkIGdyZWVuLiBBdCB0aGUgYm90dG9tIG9mIHRoZSBzY3JlZW4gYSBzaW5nbGUgcHJvbWluZW50IHJvdW5kZWQgQ1RBIGJ1dHRvbiBpbiBkZWVwIG1pbnQgZ3JlZW4gd2l0aCB3aGl0ZSB0ZXh0IHJlYWRpbmcgIkdldCBTdGFydGVkIi4gUGhvbmUtc2hhcGVkIHZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24gd2l0aCBzdWJ0bGUgaW5uZXIgcGFkZGluZy4gTm8gcmVhbCBicmFuZCBuYW1lLCBubyBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gbW9iaWxlIFVJIGRlc2lnbiBxdWFsaXR5LCBjcmlzcCB0eXBvZ3JhcGh5IHJlbmRlcmluZy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case40/output.png" width="560" alt="健康追踪 App 引导页"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 mobile app onboarding screen mockup for a wellness tracker. Soft warm gradient background from pale peach to dusty lavender. Centered flat illustration of a small abstract figure meditating cross-legged with soft floating leaves around them. Above the illustration a friendly two-line headline reads "Tiny check-ins. Real results.". Below it three small step indicator dots, first one filled green. At the bottom of the screen a single prominent rounded CTA button in deep mint green with white text reading "Get Started". Phone-shaped vertical 9:16 composition with subtle inner padding. No real brand name, no logo, no watermark. Premium mobile UI design quality, crisp typography rendering.
+```
+
+</details>
+
+<a id="ui-social-case-41-notion-template-cover-project-tracker"></a>
+
+### Case 181: [Notion 模板封面 · 项目追踪](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBOb3Rpb24tc3R5bGUgdGVtcGxhdGUgY292ZXIgbW9ja3VwLiBTb2Z0IHBhc3RlbCBjcmVhbSBiYWNrZ3JvdW5kIHdpdGggc3VidGxlIHBhcGVyIGdyYWluIHRleHR1cmUuIENlbnRlcmVkIG1pbmltYWwgZmxhdCBpbGx1c3RyYXRpb24gb2YgYSBzdGFjayBvZiB0aHJlZSBsYXllcmVkIHByb2plY3QgY2FyZHMgaW4gcGFsZSBzYWdlLCBwZWFjaCwgYW5kIGxhdmVuZGVyLCBlYWNoIHdpdGggYSB0aW55IHBsYWNlaG9sZGVyIHByb2dyZXNzIGJhciBhbmQgYSBzbWFsbCBpY29uLiBBYm92ZSB0aGUgaWxsdXN0cmF0aW9uIGEgYm9sZCBtb2Rlcm4gc2VyaWYgdGl0bGUgcmVhZHMgIlByb2plY3QgVHJhY2tlciIuIEJlbG93IGl0IGluIHNtYWxsZXIgY2xlYW4gc2Fucy1zZXJpZiB0eXBlIHJlYWRzICJBIHNpbXBsZSB0ZW1wbGF0ZSBmb3Igc2hpcHBpbmcgdGhpbmdzIi4gVmVydGljYWwgY29tcG9zaXRpb24gd2l0aCBnZW5lcm91cyBtYXJnaW5zLiBObyByZWFsIGJyYW5kIG5hbWUsIG5vIE5vdGlvbiBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gcHJvZHVjdGl2aXR5IHRlbXBsYXRlIGNvdmVyIGFlc3RoZXRpYywgbWFnYXppbmUgbGF5b3V0IHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case41/output.png" width="560" alt="Notion 模板封面 · 项目追踪"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 Notion-style template cover mockup. Soft pastel cream background with subtle paper grain texture. Centered minimal flat illustration of a stack of three layered project cards in pale sage, peach, and lavender, each with a tiny placeholder progress bar and a small icon. Above the illustration a bold modern serif title reads "Project Tracker". Below it in smaller clean sans-serif type reads "A simple template for shipping things". Vertical composition with generous margins. No real brand name, no Notion logo, no watermark. Premium productivity template cover aesthetic, magazine layout quality.
+```
+
+</details>
+
+<a id="ui-social-case-42-twitter-thread-cover-card-ai-weekly-recap"></a>
+
+### Case 182: [AI 周报推文封面卡](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `16:9` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCAxNjo5IHNvY2lhbC1zaGFyZSBjb3ZlciBjYXJkIGZvciBhIHdlZWtseSBBSSBuZXdzbGV0dGVyIHRocmVhZC4gQmFja2dyb3VuZCBpcyBhIGNsZWFuIGNvb2wgY2hhcmNvYWwgZ3JhZGllbnQuIExlZnQgc2lkZSBzaG93cyBhIGJvbGQgbGFyZ2Ugc2VyaWYgaGVhZGxpbmUgc3RhY2tlZCBvdmVyIHRocmVlIGxpbmVzIHJlYWRpbmcgIlRoaXMgV2VlayAvIGluIEFJIC8gSXNzdWUgNDciLiBSaWdodCBzaWRlIHNob3dzIGEgc21hbGwgZmxvYXRpbmcgbW9ja3VwIG9mIGEgcGhvbmUgc2NyZWVuIGRpc3BsYXlpbmcgYW4gYWJzdHJhY3QgZmVlZCB3aXRoIHRocmVlIGJsdXJyZWQtb3V0IHR3ZWV0IGNhcmRzLiBCZWxvdyB0aGUgaGVhZGxpbmUgb24gdGhlIGxlZnQgYSBzbWFsbGVyIG1vbm9zcGFjZWQgbGluZSByZWFkcyAiMTAgc3RvcmllcyDCtyA0IG1pbiByZWFkIi4gSG9yaXpvbnRhbCAxNjo5IGNvbXBvc2l0aW9uIHdpdGggc2hhcnAgdHlwb2dyYXBoeSByZW5kZXJpbmcuIE5vIHJlYWwgYnJhbmQgbmFtZSwgbm8gcmVhbCB0d2VldCBjb250ZW50LCBubyB3YXRlcm1hcmsuIFByZW1pdW0gc29jaWFsLXNoYXJlIGNvdmVyIGRlc2lnbiBxdWFsaXR5Lg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=16%3A9"><img src="../images/ui_social_case42/output.png" width="560" alt="AI 周报推文封面卡"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Horizontal 16:9 social-share cover card for a weekly AI newsletter thread. Background is a clean cool charcoal gradient. Left side shows a bold large serif headline stacked over three lines reading "This Week / in AI / Issue 47". Right side shows a small floating mockup of a phone screen displaying an abstract feed with three blurred-out tweet cards. Below the headline on the left a smaller monospaced line reads "10 stories · 4 min read". Horizontal 16:9 composition with sharp typography rendering. No real brand name, no real tweet content, no watermark. Premium social-share cover design quality.
+```
+
+</details>
+
+<a id="ui-social-case-43-ios-lock-screen-concept-stoic-quote"></a>
+
+### Case 183: [iOS 锁屏概念 · 斯多葛箴言](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpT1MgbG9jayBzY3JlZW4gZGVzaWduIGNvbmNlcHQuIFBob25lLWZyYW1lIHZlcnRpY2FsIGNvbXBvc2l0aW9uLiBCYWNrZ3JvdW5kIGlzIGEgc29mdCBlYXJseS1tb3JuaW5nIGdyYWRpZW50IGZyb20gcGFsZSBibHVzaCB0byB3YXJtIGNyZWFtLiBUb3AgY2VudGVyIHNob3dzIHRoZSB0aW1lICIwNzoyMyIgaW4gYSBjbGVhbiBsaWdodCBzYW5zLXNlcmlmLiBCZWxvdyB0aGUgdGltZSBhIHNtYWxsIHN1YnRsZSBkYXRlIGxpbmUgIk1vbmRheSwgTWF5IDI2Ii4gQ2VudGVyZWQgbG93ZXItdGhpcmQgb2YgdGhlIHNjcmVlbiBzaG93cyBhIHNpbmdsZSBpdGFsaWMgc2VyaWYgcXVvdGU6ICJZb3UgaGF2ZSBwb3dlciBvdmVyIHlvdXIgbWluZCDigJQgbm90IG91dHNpZGUgZXZlbnRzLiIuIEEgdGlueSBhdHRyaWJ1dGlvbiBsaW5lICLigJQgTWFyY3VzIEF1cmVsaXVzIiBiZW5lYXRoIGl0LiBObyBhcHAgaWNvbnMgY2x1dHRlcmluZyB0aGUgc2NyZWVuLCBubyBub3RpZmljYXRpb24gdG9hc3RzLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gbG9jayBzY3JlZW4gdHlwb2dyYXBoeSBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case43/output.png" width="560" alt="iOS 锁屏概念 · 斯多葛箴言"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 iOS lock screen design concept. Phone-frame vertical composition. Background is a soft early-morning gradient from pale blush to warm cream. Top center shows the time "07:23" in a clean light sans-serif. Below the time a small subtle date line "Monday, May 26". Centered lower-third of the screen shows a single italic serif quote: "You have power over your mind — not outside events.". A tiny attribution line "— Marcus Aurelius" beneath it. No app icons cluttering the screen, no notification toasts, no watermark. Premium lock screen typography design quality.
+```
+
+</details>
+
+<a id="ui-social-case-44-podcast-episode-cover-frame"></a>
+
+### Case 184: [播客单集封面](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBwb2RjYXN0IGVwaXNvZGUgY292ZXIuIEJhY2tncm91bmQgaXMgYSBkZWVwIHNhdHVyYXRlZCB0ZXJyYWNvdHRhIG9yYW5nZSBjb2xvci4gVXBwZXItbGVmdCBzaG93cyBhIHNtYWxsIHNob3cgbG9nbyBwbGFjZWhvbGRlciwgYW4gYWJzdHJhY3Qgc291bmQgd2F2ZSBzeW1ib2wgaW4gY3JlYW0uIENlbnRlcmVkIGxvd2VyIGhhbGYgZmVhdHVyZXMgYSBzdHlsaXplZCBoYWxmLWJvZHkgaWxsdXN0cmF0aW9uIG9mIGEgZ2VuZXJpYyBob3N0IGZpZ3VyZSB3aXRoIGhlYWRwaG9uZXMgb24sIGRyYXduIGluIGZsYXQgY3JlYW0gYW5kIGRhcmsgYWNjZW50cy4gQWJvdmUgdGhlIGhvc3QgaWxsdXN0cmF0aW9uIGEgYm9sZCBzYW5zLXNlcmlmIGhlYWRsaW5lIHJlYWRzICJFUC4gMTI0IC8gQnVpbGRpbmcgUXVpZXRseSIuIEJlbG93IGl0IGEgc21hbGxlciBzZXJpZiBzdWJoZWFkICJ3aXRoIGFuIGFub255bW91cyBmb3VuZGVyIi4gVmVydGljYWwgOToxNiBjb21wb3NpdGlvbi4gTm8gcmVhbCBzaG93IG5hbWUsIG5vIHJlYWwgaG9zdCBuYW1lLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gcG9kY2FzdCBjb3ZlciBkZXNpZ24gcXVhbGl0eSwgY3Jpc3AgdHlwb2dyYXBoeSByZW5kZXJpbmcu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case44/output.png" width="560" alt="播客单集封面"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 podcast episode cover. Background is a deep saturated terracotta orange color. Upper-left shows a small show logo placeholder, an abstract sound wave symbol in cream. Centered lower half features a stylized half-body illustration of a generic host figure with headphones on, drawn in flat cream and dark accents. Above the host illustration a bold sans-serif headline reads "EP. 124 / Building Quietly". Below it a smaller serif subhead "with an anonymous founder". Vertical 9:16 composition. No real show name, no real host name, no watermark. Premium podcast cover design quality, crisp typography rendering.
+```
+
+</details>
+
+<a id="ui-social-case-45-open-source-project-readme-hero"></a>
+
+### Case 185: [开源项目 README 主视觉](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `1:1` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBSRUFETUUgaGVybyBiYW5uZXIgZm9yIGFuIG9wZW4gc291cmNlIHByb2plY3QuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBkZWVwIG1pZG5pZ2h0IGluZGlnbyBjb2xvciB3aXRoIGEgc3VidGxlIGxvdy1vcGFjaXR5IGdlb21ldHJpYyBwYXR0ZXJuIG9mIGludGVyc2VjdGluZyB0aGluIGxpbmVzIHN1Z2dlc3RpbmcgY29kZSBvciBncmFwaHMuIENlbnRlcmVkIHVwcGVyIGFyZWEgc2hvd3MgdGhlIHByb2plY3QgbmFtZSAiTGlnaHRob3VzZSIgaW4gYSBib2xkIG1vZGVybiBtb25vc3BhY2VkIGZvbnQgaW4gcHVyZSB3aGl0ZS4gQmVuZWF0aCBpdCBhIHNtYWxsZXIgbGluZSBpbiBzb2Z0IG1pbnQgZ3JlZW4gcmVhZHMgIi8vIEEgdGlueSBzY2hlZHVsZXIgZm9yIHRpcmVkIGRldmVsb3BlcnMiLiBBdCB0aGUgbG93ZXIgcmlnaHQgY29ybmVyIHRocmVlIHNtYWxsIGFic3RyYWN0IGJhZGdlIHBsYWNlaG9sZGVycywgcmVjdGFuZ2xlcyBsYWJlbGVkICJNSVQiLCAidjEuMCIsICJDSSIuIFNxdWFyZSAxOjEgY29tcG9zaXRpb24uIE5vIHJlYWwgR2l0SHViIFVSTCB0ZXh0LCBubyB3YXRlcm1hcmsuIFByZW1pdW0gZGV2ZWxvcGVyIFJFQURNRSBjb3ZlciBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/ui_social_case45/output.png" width="560" alt="开源项目 README 主视觉"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Square 1:1 README hero banner for an open source project. Background is a clean deep midnight indigo color with a subtle low-opacity geometric pattern of intersecting thin lines suggesting code or graphs. Centered upper area shows the project name "Lighthouse" in a bold modern monospaced font in pure white. Beneath it a smaller line in soft mint green reads "// A tiny scheduler for tired developers". At the lower right corner three small abstract badge placeholders, rectangles labeled "MIT", "v1.0", "CI". Square 1:1 composition. No real GitHub URL text, no watermark. Premium developer README cover design quality.
+```
+
+</details>
+
+<a id="ui-social-case-46-mobile-banking-app-dashboard-mock"></a>
+
+### Case 186: [手机银行 App 主面板](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBmaW50ZWNoIGJhbmtpbmcgYXBwIGRhc2hib2FyZCBzY3JlZW4gbW9ja3VwLiBQaG9uZS1zaGFwZWQgZnJhbWUuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBkZWVwIG5hdnkgYmx1ZSBncmFkaWVudC4gQXQgdGhlIHRvcCBhIGZyaWVuZGx5IGdyZWV0aW5nICJIaSwgQWxleCIgaW4gd2hpdGUgc2Fucy1zZXJpZi4gQmVsb3cgaXQgYSBsYXJnZSByb3VuZGVkIGNhcmQgaW4gc2xpZ2h0bHkgbGlnaHRlciBuYXZ5IHNob3dpbmcgYSBwbGFjZWhvbGRlciBiYWxhbmNlICIkIDQsODIwLjMyIiB3aXRoIGEgc21hbGxlciBsaW5lICJBdmFpbGFibGUiLiBCZWxvdyB0aGUgY2FyZCBhIGhvcml6b250YWwgc2VnbWVudGVkIGJhciBjaGFydCBzaG93aW5nIHNwZW5kaW5nIGNhdGVnb3JpZXMgaW4gbWludCwgcGVhY2gsIGFuZCBsYXZlbmRlciBiYXJzLiBBdCB0aGUgYm90dG9tIHRocmVlIHNtYWxsIGljb24gYnV0dG9ucyAiU2VuZCAvIFJlY2VpdmUgLyBUb3AgdXAiIHdpdGggc2ltcGxlIGZsYXQgaWNvbnMuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGNyaXNwIHBpeGVsLWFsaWduZWQgVUkuIE5vIHJlYWwgYmFuayBicmFuZCwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGZpbnRlY2ggVUkgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case46/output.png" width="560" alt="手机银行 App 主面板"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 fintech banking app dashboard screen mockup. Phone-shaped frame. Background is a clean deep navy blue gradient. At the top a friendly greeting "Hi, Alex" in white sans-serif. Below it a large rounded card in slightly lighter navy showing a placeholder balance "$ 4,820.32" with a smaller line "Available". Below the card a horizontal segmented bar chart showing spending categories in mint, peach, and lavender bars. At the bottom three small icon buttons "Send / Receive / Top up" with simple flat icons. Vertical 9:16 composition, crisp pixel-aligned UI. No real bank brand, no watermark. Premium fintech UI design quality.
+```
+
+</details>
+
+<a id="ui-social-case-47-newsletter-header-tech-bulletin"></a>
+
+### Case 187: [Newsletter 顶部插图 · 科技简报](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `1:1` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=U3F1YXJlIDE6MSBuZXdzbGV0dGVyIGhlYWRlciBpbGx1c3RyYXRpb24gaW4gYSBmbGF0IGVkaXRvcmlhbCB2ZWN0b3Igc3R5bGUuIFNvZnQgd2FybSBjcmVhbSBiYWNrZ3JvdW5kLiBDZW50ZXJlZCBpbGx1c3RyYXRpb24gb2YgYSBzaW5nbGUgaGFuZCBob2xkaW5nIHVwIGEgZm9sZGVkIHBhcGVyIG5ld3NwYXBlciB3aXRoIHRoZSB3b3JkICJURUNIIiBzdWJ0bHkgcmVhZGFibGUgb24gdGhlIGZyb250LCBzdXJyb3VuZGVkIGJ5IGZsb2F0aW5nIHNtYWxsIGFic3RyYWN0IGljb25zOiBlbnZlbG9wZSwgbGlnaHRidWxiLCB0ZXJtaW5hbCBjdXJzb3IsIGdyYXBoIGxpbmUsIGluIG11dGVkIHRlYWwgYW5kIHdhcm0gb3JhbmdlLiBBYm92ZSB0aGUgaWxsdXN0cmF0aW9uIGEgYm9sZCBzZXJpZiB0aXRsZSByZWFkcyAiVGhlIFdlZWtseSBCdWxsZXRpbiIuIEJlbG93IGl0IGEgc21hbGwgbGluZSAiU2VudCBldmVyeSBGcmlkYXksIDcgQU0iLiBTcXVhcmUgMToxIGNvbXBvc2l0aW9uLiBObyByZWFsIHB1YmxpY2F0aW9uIG5hbWUsIG5vIGxvZ29zLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gZWRpdG9yaWFsIG5ld3NsZXR0ZXIgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=1%3A1"><img src="../images/ui_social_case47/output.png" width="560" alt="Newsletter 顶部插图 · 科技简报"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Square 1:1 newsletter header illustration in a flat editorial vector style. Soft warm cream background. Centered illustration of a single hand holding up a folded paper newspaper with the word "TECH" subtly readable on the front, surrounded by floating small abstract icons: envelope, lightbulb, terminal cursor, graph line, in muted teal and warm orange. Above the illustration a bold serif title reads "The Weekly Bulletin". Below it a small line "Sent every Friday, 7 AM". Square 1:1 composition. No real publication name, no logos, no watermark. Premium editorial newsletter design quality.
+```
+
+</details>
+
+<a id="ui-social-case-48-ai-chat-app-first-run-screen"></a>
+
+### Case 188: [AI 聊天 App 首次启动页](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBBSSBjaGF0IGFwcGxpY2F0aW9uIGZpcnN0LXJ1biBzY3JlZW4gbW9ja3VwLiBQaG9uZS1zaGFwZWQgZnJhbWUuIEJhY2tncm91bmQgaXMgYSBjbGVhbiBvZmYtd2hpdGUuIFRvcCBjZW50ZXIgc2hvd3MgYSBzbWFsbCBmcmllbmRseSBtYXNjb3QgaWxsdXN0cmF0aW9uIG9mIGFuIGFic3RyYWN0IGZsb2F0aW5nIGdlb21ldHJpYyBjaGFyYWN0ZXIgd2F2aW5nLiBCZWxvdyB0aGUgbWFzY290IGEgYm9sZCBzYW5zLXNlcmlmIGdyZWV0aW5nIHJlYWRzICJIaSEgSG93IGNhbiBJIGhlbHAgdG9kYXk%2FIi4gQmVsb3cgdGhlIGdyZWV0aW5nIHRocmVlIHJvdW5kZWQgc3VnZ2VzdGlvbiBjaGlwcyBzdGFja2VkIHZlcnRpY2FsbHkgd2l0aCBleGFtcGxlIHF1ZXN0aW9uczogIlN1bW1hcml6ZSBhIHdlYnBhZ2UiLCAiRHJhZnQgYSBxdWljayBlbWFpbCIsICJQbGFuIGEgd2Vla2VuZCB0cmlwIi4gQXQgdGhlIHZlcnkgYm90dG9tIGEgc2ltcGxlIHRleHQgaW5wdXQgZmllbGQgd2l0aCBhIHBsYWNlaG9sZGVyICJUeXBlIGEgbWVzc2FnZeKApiIgYW5kIGEgc21hbGwgc2VuZCBhcnJvdyBpY29uLiBWZXJ0aWNhbCA5OjE2IGNvbXBvc2l0aW9uLCBjcmlzcCBwaXhlbC1hbGlnbmVkIFVJLiBObyByZWFsIGJyYW5kIG5hbWUsIG5vIGxvZ28sIG5vIHdhdGVybWFyay4gUHJlbWl1bSBBSSBhcHAgb25ib2FyZGluZyBVSSBkZXNpZ24gcXVhbGl0eS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case48/output.png" width="560" alt="AI 聊天 App 首次启动页"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 AI chat application first-run screen mockup. Phone-shaped frame. Background is a clean off-white. Top center shows a small friendly mascot illustration of an abstract floating geometric character waving. Below the mascot a bold sans-serif greeting reads "Hi! How can I help today?". Below the greeting three rounded suggestion chips stacked vertically with example questions: "Summarize a webpage", "Draft a quick email", "Plan a weekend trip". At the very bottom a simple text input field with a placeholder "Type a message…" and a small send arrow icon. Vertical 9:16 composition, crisp pixel-aligned UI. No real brand name, no logo, no watermark. Premium AI app onboarding UI design quality.
+```
+
+</details>
+
+<a id="ui-social-case-49-music-player-now-playing-screen"></a>
+
+### Case 189: [音乐播放器播放中页](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+作者: [@hiapi_ai](https://x.com/hiapi_ai) · 比例: `9:16` · 语言: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtdXNpYyBwbGF5ZXIgbm93LXBsYXlpbmcgc2NyZWVuIG1vY2t1cC4gQmFja2dyb3VuZCBpcyBhIHNvZnQgYmx1cnJlZCBncmFkaWVudCBleHRyYWN0ZWQgZnJvbSBhbiBhbGJ1bSBjb3ZlciwgZG9taW5hbnQgaW4gZGVlcCB0ZWFsIGFuZCB3YXJtIGdvbGQuIENlbnRlcmVkIHVwcGVyIGFyZWEgc2hvd3MgYSBjbGVhbiByb3VuZGVkIHNxdWFyZSBhbGJ1bSBhcnR3b3JrIHBsYWNlaG9sZGVyLCBhIHN0eWxpemVkIGFic3RyYWN0IGNpcmNsZSB3aXRoIGNvbmNlbnRyaWMgcmluZ3MsIG5vIHRleHQuIEJlbG93IHRoZSBhcnR3b3JrIGEgYm9sZCBzYW5zLXNlcmlmIHRyYWNrIHRpdGxlICJTbG93IExpZ2h0IiBhbmQgYSBzbWFsbGVyIHN1YmhlYWQgImJ5IExvbmcgRXZlbmluZyIuIEJlbmVhdGggdGhhdCBhIHRoaW4gcHJvZ3Jlc3MgYmFyIGF0IGFib3V0IG9uZS10aGlyZCwgd2l0aCBzbWFsbCB0aW1lc3RhbXBzICIxOjE4IC8gMzo0NSIuIEF0IHRoZSB2ZXJ5IGJvdHRvbSB0aHJlZSBsYXJnZSBwbGF5YmFjayBjb250cm9sIGljb25zOiBwcmV2aW91cywgcGxheSwgbmV4dCwgcGx1cyB0d28gc21hbGxlciBzaWRlIGljb25zIGZvciBzaHVmZmxlIGFuZCByZXBlYXQuIFZlcnRpY2FsIDk6MTYgY29tcG9zaXRpb24sIGNyaXNwIHBpeGVsLWFsaWduZWQgVUkuIE5vIHJlYWwgYXJ0aXN0IG5hbWUsIG5vIHJlYWwgYXBwIG5hbWUsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBtdXNpYyBwbGF5ZXIgVUkgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=zh_gallery&amp;s=9%3A16"><img src="../images/ui_social_case49/output.png" width="560" alt="音乐播放器播放中页"></a></p>
+
+<details>
+<summary><b>展开并复制 Prompt</b></summary>
+
+```text
+Vertical 9:16 music player now-playing screen mockup. Background is a soft blurred gradient extracted from an album cover, dominant in deep teal and warm gold. Centered upper area shows a clean rounded square album artwork placeholder, a stylized abstract circle with concentric rings, no text. Below the artwork a bold sans-serif track title "Slow Light" and a smaller subhead "by Long Evening". Beneath that a thin progress bar at about one-third, with small timestamps "1:18 / 3:45". At the very bottom three large playback control icons: previous, play, next, plus two smaller side icons for shuffle and repeat. Vertical 9:16 composition, crisp pixel-aligned UI. No real artist name, no real app name, no watermark. Premium music player UI design quality.
+```
+
+</details>
+
 ---
 
 ## 继续浏览其他分类
 
-- [人像与摄影](./portrait-photography.zh-CN.md) · 18 个案例
-- [海报与插画](./poster-illustration.zh-CN.md) · 40 个案例
-- [角色设计](./character-design.zh-CN.md) · 7 个案例
+- [人像与摄影](./portrait-photography.zh-CN.md) · 26 个案例
+- [海报与插画](./poster-illustration.zh-CN.md) · 48 个案例
+- [角色设计](./character-design.zh-CN.md) · 17 个案例
 - [模型测试与社区案例](./comparison-community.zh-CN.md) · 15 个案例
 - [精选参考案例](./community-reference.zh-CN.md) · 17 个案例
 - [电商与产品](./e-commerce.zh-CN.md) · 20 个案例

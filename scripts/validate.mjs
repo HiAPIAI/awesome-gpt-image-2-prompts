@@ -44,12 +44,12 @@ const allowedDuplicateImagePairs = new Set();
 
 const selfGeneratedSourceUrl = "https://github.com/HiAPIAI/awesome-gpt-image-2-prompts";
 
-const expectedTotalItems = 153;
+const expectedTotalItems = 189;
 const expectedCategoryCounts = new Map([
-  ["portrait-photography", 18],
-  ["poster-illustration", 40],
-  ["character-design", 7],
-  ["ui-social", 21],
+  ["portrait-photography", 26],
+  ["poster-illustration", 48],
+  ["character-design", 17],
+  ["ui-social", 31],
   ["comparison-community", 15],
   ["community-reference", 17],
   ["e-commerce", 20],

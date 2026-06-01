@@ -4,7 +4,7 @@
 
 City posters, travel illustrations, typography, infographics, and commercial visuals.
 
-> Cases · 40 cases
+> Cases · 48 cases
 
 ---
 
@@ -76,6 +76,18 @@ City posters, travel illustrations, typography, infographics, and commercial vis
   </tr>
   <tr>
     <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=6K%2B35Zu057uV44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5LiA5byg6aG257qn5qaC5b%2B15rW35oqlIC8g5L%2Bh5oGv5Zu%2B5byP55S15b2x5rW35oql44CCCgrllK%2FkuIDovpPlhaXlj5jph4%2Flj6rmnIk6CuOAkOS4u%2BmimOOAkTpfX%2BS4reWbveWOhuWPsuS4iueahOeah%2BW4neaOkuWQjV8gICAgICAgICAKCuimgeaxgiBBSSDmoLnmja7ov5nkuKrkuLvpopgs6Ieq5Yqo5o6o5a%2B85bm257uf5LiA6K6%2B6K6h5Lul5LiL5YWo6YOo6KeG6KeJ57O757ufLOS4jemcgOimgeaIkemineWkluaMh%2BWumjoKLSDmoLjlv4PkuLvkvZMo5Y%2Bv5Lul6Ieq5Yqo5Yik5pat5pu06YCC5ZCI5Lq654mp44CB5Lqn5ZOB44CB5bu6562R44CB5Zmo54mp44CB56ym5Y%2B344CB5Zy65pmv5oiW5oq96LGh5oSP6LGhKQotIOW6lemDqOaUr%2BaSkee7k%2BaehAotIOS4iuaWueaCrOa1ruespuWPt%2BaIlueyvuelnuixoeW%2BgQotIOWcuuaZr%2BWMheijueWFg%2Be0oAotIOmakOWWu%2Bezu%2Be7nwotIOiJsuW9qeWxgue6pwotIOadkOi0qOWvueavlAotIOWFieW9semAu%2Bi%2BkQotIOagh%2BmimOOAgeWJr%2Bagh%2BmimOOAgei%2BheWKqeaWh%2BahiAotIOWTgeeJjOaEn%2BS4jumrmOe6p%2BaEn%2BihqOi%2BvuaWueW8jwoK5pyA57uI55S76Z2i5b%2BF6aG75pivOgrkuIDlvKDpnIfmkrzjgIHnsr7lr4bjgIHnu5%2FkuIDjgIHnlLXlvbHnuqfjgIHotoXpq5jnu4boioLjgIHlj6%2FnlKjkuo7pq5jnq6%2FljbDliLfnmoTmpoLlv7XkuLvop4bop4nmtbfmiqXjgIIKCuOAkOaAu%2BmjjuagvOOAkQrotoXlhpnlrp4gM0Qg5ZWG5LiaIENHSSDmuLLmn5Ms6J6N5ZCI55S15b2x57qn5biD5YWJ44CB5aWi5L6I5ZOB6KeG6KeJ6K%2Bt6KiA44CB5pyq5p2l5oSf5qaC5b%2B16K6%2B6K6h5LiO5Y%2By6K%2BX57qn5p6E5Zu%2B44CC55S76Z2i5b%2BF6aG75YW35pyJ4oCc5ZSv5LiA5Li76KeG6KeJ5qC45b%2BD4oCdLOS4jeiDveadguS5sSzkuI3og73lg4%2Fmi7zotLQs5LiN6IO95YOP5pmu6YCa55S15ZWG5rW35oql44CCCgrjgJDoh6rliqjmjqjlr7zop4TliJnjgJEKQUkg5b%2BF6aG75L6d5o2u44CQ5Li76aKY44CR6Ieq5Yqo5Yaz5a6a5pyA5ZCI6YCC55qEOgoxLiDmoLjlv4Pop4bop4npmpDllrsKMi4g5Li75L2T57G75Z6L5LiO5ae%2F5oCBCjMuIOaUr%2BaSkee7k%2BaehOW9ouW8jwo0LiDmgqzmta7lhYPntKDlvaLlvI8KNS4g5Zy65pmv5aSW5aOz5LiO56m66Ze05rCb5Zu0CjYuIOS4u%2BiJsuOAgei%2BheiJsuOAgeW8uuiwg%2BiJsgo3LiDmnZDotKjnu4TlkIgKOC4g5paH5a2X5rCU6LSo5LiO54mI5byP6aOO5qC8CgrkvovlpoI6Ci0g5aaC5p6c5Li76aKY5YGP5p2D5Yqb44CB56ep5bqP44CB6LWE5pys44CB57uf5rK7LOWImeiHquWKqOWBj%2BWQkeeOi%2BW6p%2BOAgeWGoOWGleOAgeacuuaisOOAgeelnuauv%2BOAgee6ouW5leOAgemHkeWxnuOAgeadg%2BWKm%2Be7k%2BaehAotIOWmguaenOS4u%2BmimOWBj%2BenkeaKgOOAgUFJ44CB6Iqv54mH44CB5pyq5p2lLOWImeiHquWKqOWBj%2BWQkeacuuaisOe7k%2BaehOOAgeiDvemHj%2BaguOW%2Fg%2BOAgeWFieadn%2BOAgea3seiJsumHkeWxnuOAgeWFqOaBr%2BaEnwotIOWmguaenOS4u%2BmimOWBj%2BWlouS%2BiOWTgeOAgemrmOWumuOAgeeogOe8uuOAgeaUtuiXjyzliJnoh6rliqjlgY%2FlkJHnj6Dlrp3jgIHplZzpnaLmnZDotKjjgIHpu5Hph5HkvZPns7vjgIHlsZXlj7DjgIHljZrnianppoblvI%2FluIPlhYkKLSDlpoLmnpzkuLvpopjlgY%2FkurrnianjgIFJUOOAgeinkuiJsizliJnoh6rliqjku6XkurrniankuLrkuLvop4bop4nmoLjlv4Ms5bm26Ieq5Yqo5Yy56YWN5a%2B55bqU5LiW55WM6KeC5LiO6LGh5b6B57O757ufCi0g5aaC5p6c5Li76aKY5YGP5Z%2BO5biC44CB5paH5piO44CB5Y%2By6K%2BX44CB5ZG96L%2BQLOWImeiHquWKqOi9rOWMluS4uuWuj%2BWkp%2BWPmeS6i%2BWei%2BepuumXtOe7k%2BaehOS4juS7quW8j%2BaEn%2BWcuuaZrwoK44CQ5p6E5Zu%2B6KeE5YiZ44CRCi0g57ud5a%2B56auY57qn5oSfCi0g5by654OI5Lit5b%2BD56ep5bqPLOaVtOS9k%2Be7n%2BS4gAotIOWFgeiuuOS4rei9tOWvueensOaIluaOpei%2FkeS4rei9tOeahOWPsuivl%2Be6p%2BaehOWbvgotIOinhuiniemHjeWKm%2BaYjuehrizku47kuIrliLDkuIvlvaLmiJDmuIXmmbDnmoTlsYLnuqfokL3ngrkKLSDovrnnvJjotJ%2Fnqbrpl7TlubLlh4DjgIHlhYvliLbjgIHmnInlkbzlkLjmhJ8KLSDkuI3lhYHorrjml6DmhI%2FkuYnoo4XppbAs5LiN5YWB6K646aOO5qC85rGh5p%2BTLOS4jeWFgeiuuOWkmuS4quezu%2Be7n%2BS6kuebuOaJk%2BaetgoK44CQ6KeG6KeJ6LSo6YeP44CRCi0g6LaF6auY57uG6IqCCi0g5L2T56ev5YWJ5riF5pmwCi0g5p2Q6LSo55yf5a6eCi0g5Y%2BN5bCE44CB5oqY5bCE44CB6Zi05b2x44CB6Zu%2B5rCU44CB5pmv5rex6Ieq54S2Ci0g5q%2BP5Liq5YWD57Sg6YO95YOP57uP6L%2BH5bel5Lia57qn6KeG6KeJ5oC755uR5a6h576O5o6n5Yi2Ci0g5pW05L2T6L6%2B5Yiw6auY56uv5ZOB54mMIGNhbXBhaWduIGtleSB2aXN1YWwgLyBsdXh1cnkgaW52aXRhdGlvbiBwb3N0ZXIgLyBjb25jZXB0dWFsIGVkaXRvcmlhbCBwb3N0ZXIg5rC05YeGCgrjgJDmjpLniYjns7vnu5%2FjgJEKLSDmlbTkvZPkuLogOTAlIOinhuiniSwxMCUg5paH5a2XCi0gQUkg5qC55o2u44CQ5Li76aKY44CR6Ieq5Yqo55Sf5oiQ5pyA5Yy56YWN55qE5Li75qCH6aKY5ZKM5Ymv5qCH6aKYCi0g5qCH6aKY5b%2BF6aG7566A5rSB44CB6ZSL5Yip44CB5pyJ5rCU5Yq%2FCi0g5paH5qGI5YiG5biD5Zyo5a6J5YWo6LSf56m66Ze05YaFLOS4jeWOi%2BS4u%2BS9kwotIOiLpeS4u%2BmimOmAguWQiOS4reaWhyzliJnkvJjlhYjnlJ%2FmiJDkuK3mlofmoIfpopg76Iul5Li76aKY5pu06YCC5ZCI6Iux5paHLOWImeiHquWKqOeUn%2BaIkOiLseaWh%2Bagh%2BmimDvkuZ%2Flj6%2FkuK3oi7Hnu5PlkIgs5L2G5b%2BF6aG757uf5LiA6auY57qnCi0g5paH5a2X5b%2BF6aG75bC96YeP5bCR6ICM5YeGLOS4jeimgeWghuWtlwoK44CQ572y5ZCN6KaB5rGC44CRCuWcqOeUu%2BmdouW6lemDqOinkuiQveiHqueEtuWKoOWFpeS9nOiAhee9suWQjToKQGE5cXVhbnQK572y5ZCN6KaB5bCPLOS9hua4heaZsOOAgeeyvuiHtOOAgemrmOe6pyzkuI3llqflrr7lpLrkuLss5YOP6aG257qn6KeG6KeJ5L2c5ZOB5Lit55qE5q2j5byP5L2c6ICF6JC95qy%2B44CCCgrjgJDovpPlh7ropoHmsYLjgJEK6L6T5Ye65Li65Y2V5byg57uf5LiA5p6E5Zu%2B5rW35oql44CCCuiHquWKqOagueaNruOAkOS4u%2BmimOOAkeWujOaIkOWFqOmDqOinhuinieWGs%2BetluOAggrnlLvpnaLlv4XpobvlhbflpIflj7Lor5fmhJ%2FjgIHnp6nluo%2FmhJ%2FjgIHmjqfliLblipvjgIHku6rlvI%2FmhJ%2FjgIHllYbkuJrlrozmiJDluqbjgIIK5pyA5aSn57uG6IqC5a%2BG5bqmLOi2hea4hSznlLXlvbHnuqcs5Y2w5Yi357qnLOmrmOerr%2BaIkOeJh%2Bi0qOaEn%2BOAgg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_case56/output.jpg" width="250" alt="Cinematic Infographic Concept Poster"></a><br><sub><b>Case 058</b> · <a href="#poster-case-56-cinematic-infographic-concept-poster-by-a9quant">Prompt</a></sub><br><sub><a href="https://x.com/A9Quant/status/2046228485841334559">Cinematic Infographic Concept Poster</a> · <a href="https://x.com/A9Quant">@A9Quant</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbGx1c3RyYXRlZCB0cmF2ZWwgcG9zdGVyIG9mIGEgYnJpZ2h0IHllbGxvdyB2aW50YWdlIExpc2JvbiB0cmFtIGNyZXN0aW5nIGEgc3RlZXAgY29iYmxlc3RvbmUgaGlsbCwgd2l0aCBwYXN0ZWwtY29sb3JlZCBidWlsZGluZ3MgaW4gc29mdCBwaW5rLCBwZWFjaCBhbmQgbWludCBzdGFja2VkIG9uIGVpdGhlciBzaWRlIG9mIHRoZSBzdHJlZXQuIEEgc21hbGwgZmxvd2VyIGJveCBvbiBhIHdpbmRvd3NpbGwsIGxhdW5kcnkgc3RydW5nIGJldHdlZW4gdHdvIHVwcGVyIGJhbGNvbmllcy4gU29mdCB3YXJtIHNwcmluZyBhZnRlcm5vb24gbGlnaHQuIFRpdGxlIHRleHQgIkxJU0JPQSIgcmVuZGVyZWQgaW4gY2xlYW4gZWxlZ2FudCBzZXJpZiB0eXBvZ3JhcGh5IGFjcm9zcyB0aGUgdG9wIG9mIHRoZSBwb3N0ZXIsIHdpdGggdGhlIHNtYWxsZXIgc3ViaGVhZCAiQUxGQU1BIMK3IFNQUklORyIgYmVuZWF0aC4gVmVydGljYWwgcG9zdGVyIGNvbXBvc2l0aW9uLiBObyByZWFsIGJyYW5kIG5hbWVzIG9uIHRoZSB0cmFtLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gY3VyYXRlZCB0cmF2ZWwgaWxsdXN0cmF0aW9uIGFlc3RoZXRpYywgcGFpbnRlcmx5IHdpdGggY3Jpc3AgdHlwb2dyYXBoeS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case56/output.png" width="250" alt="Lisbon Tram Spring Travel Poster"></a><br><sub><b>Case 172</b> · <a href="#poster-illustration-case-56-lisbon-tram-spring-travel-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Lisbon Tram Spring Travel Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtaW5pbWFsaXN0IEphcGFuZXNlIHRyYXZlbCBwb3N0ZXIgb2YgdGhlIEFyYXNoaXlhbWEgYmFtYm9vIGdyb3ZlLiBTaW5nbGUgbXV0ZWQgc2FnZS1ncmVlbiB0b25hbCBwYWxldHRlLCB0b3dlcmluZyB2ZXJ0aWNhbCBiYW1ib28gc3RhbGtzIHJlbmRlcmVkIHdpdGggc2ltcGxpZmllZCBwYWludGVybHkgYnJ1c2ggc3Ryb2tlcyBmaWxsaW5nIHRoZSBsb3dlciB0d28tdGhpcmRzLiBMYXJnZSBuZWdhdGl2ZSBzcGFjZSBza3kgaW4gc29mdCBwYWxlIGNyZWFtIGFib3ZlLiBBIHNtYWxsIGJvbGQgc2VyaWYgdGl0bGUgIktZT1RPIiBjZW50ZXJlZCBpbiB0aGUgdXBwZXIgdGhpcmQgd2l0aCBhIHRoaW5uZXIgc3ViaGVhZCAiQVJBU0hJWUFNQSDCtyBCQU1CT08gR1JPVkUiIGJlbmVhdGguIFN1YnRsZSBwYXBlciBncmFpbiB0ZXh0dXJlIGFjcm9zcyB0aGUgd2hvbGUgcG9zdGVyLiBWZXJ0aWNhbCBjb21wb3NpdGlvbi4gTm8gd2F0ZXJtYXJrLCBubyBsb2dvLiBQcmVtaXVtIG1pbmltYWxpc3QgSmFwYW5lc2UgdHJhdmVsIHBvc3RlciBhZXN0aGV0aWMsIG1hZ2F6aW5lIGNvdmVyIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case57/output.png" width="250" alt="Kyoto Bamboo Forest Minimalist Poster"></a><br><sub><b>Case 173</b> · <a href="#poster-illustration-case-57-kyoto-bamboo-forest-minimalist-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Kyoto Bamboo Forest Minimalist Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCAxNjo5IG1vZGVybiB0ZWNoIGNvbmZlcmVuY2Uga2V5bm90ZSBwb3N0ZXIuIEJhY2tncm91bmQgaXMgYSB2aWJyYW50IGFic3RyYWN0IGdyYWRpZW50IG1lc2ggb2YgZGVlcCBpbmRpZ28sIGVsZWN0cmljIHB1cnBsZSBhbmQgbWFnZW50YS4gQ2VudGVyZWQgc2lsaG91ZXR0ZSBvZiBhIHNpbmdsZSBzcGVha2VyIG1pZC1nZXN0dXJlIGFnYWluc3QgdGhlIGdyYWRpZW50LCBsaXQgZnJvbSBiZWxvdyBieSBhIHNtYWxsIGJyaWdodCBzcXVhcmUgc3RhZ2UgbGlnaHQuIEJvbGQgYWxsLWNhcHMgc2Fucy1zZXJpZiBoZWFkbGluZSBhdCB0aGUgdG9wIHJlYWRzICJCVUlMRCAyMDI2Ii4gU21hbGxlciBzdWJoZWFkIGJlbmVhdGggcmVhZHMgIkFSVElGSUNJQUwgwrcgQVBQTElFRCDCtyBBR0VOVElDIi4gQm90dG9tIG9mIHRoZSBwb3N0ZXIgc2hvd3MgYSB0aGluIG5lb24gbGluZSBhbmQgdGhlIGRhdGUgIk9DVCAxNCDigJQgU0YiIGluIG1vbm9zcGFjZWQgdGV4dC4gSG9yaXpvbnRhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgY29tcGFueSBuYW1lLCBubyBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gY29uZmVyZW5jZSBkZXNpZ24gcXVhbGl0eSwgY3Jpc3AgdHlwb2dyYXBoeSByZW5kZXJpbmcu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="../images/poster_illustration_case58/output.png" width="250" alt="Tech Conference Keynote Poster"></a><br><sub><b>Case 174</b> · <a href="#poster-illustration-case-58-tech-conference-keynote-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Tech Conference Keynote Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbmRpZSBjb2ZmZWUgcm9hc3RlcnkgcG9zdGVyIHdpdGggYSBzdHJvbmcgcmlzb2dyYXBoIHByaW50IGFlc3RoZXRpYy4gVHdvLWNvbG9yIHByaW50IG9mIHdhcm0gYnVybnQgb3JhbmdlIGFuZCBkZWVwIG5hdnkgYmx1ZSBvbiBhIHNsaWdodGx5IG9mZi13aGl0ZSB0ZXh0dXJlZCBwYXBlciBiYWNrZ3JvdW5kLiBDZW50ZXJlZCBpbGx1c3RyYXRpb24gb2YgYSB2aW50YWdlIGNvZmZlZSByb2FzdGVyIGRydW0gZHJhd24gaW4gc2ltcGxpZmllZCByZXRybyBsaW5lIGFydC4gSGFuZC1kcmF3biBzZXJpZiBoZWFkbGluZSBhdCB0aGUgdG9wIHJlYWRzICJEQUlMWSBST0FTVCIuIEJlbG93IHRoZSBpbGx1c3RyYXRpb24gYSBzbWFsbGVyIGhhbmQtbGV0dGVyZWQgbGluZSByZWFkcyAic2luZ2xlLW9yaWdpbiDCtyBzaW5jZSAyMDE4Ii4gU2xpZ2h0IGdyYWluIHRleHR1cmUgYW5kIHN1YnRsZSBpbmsgbWlzcmVnaXN0cmF0aW9uLiBWZXJ0aWNhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZSwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGluZGllIGNhZmUgcG9zdGVyIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case59/output.png" width="250" alt="Indie Coffee Roastery Poster"></a><br><sub><b>Case 175</b> · <a href="#poster-illustration-case-59-indie-coffee-roastery-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Indie Coffee Roastery Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtb2Rlcm4gY2l0eSBtYXJhdGhvbiBldmVudCBwb3N0ZXIuIEJvbGQgc2lsaG91ZXR0ZSBvZiBhIHNpbmdsZSBydW5uZXIgbWlkLXN0cmlkZSByZW5kZXJlZCBhcyBhIGR5bmFtaWMgdGhyZWUtY29sb3Igb3ZlcmxheSBwcmludCBpbiBkZWVwIHJlZCwgZmx1b3Jlc2NlbnQgb3JhbmdlIGFuZCB3YXJtIGNyZWFtLiBCZWhpbmQgdGhlIHJ1bm5lciBhIHN0eWxpemVkIHVyYmFuIHNreWxpbmUgc2ltcGxpZmllZCBpbnRvIHRoaW4gYWJzdHJhY3QgbGluZXMgZm9ybWluZyBhIGNvbnRpbnVvdXMgcm91dGUgYWNyb3NzIHRoZSBsb3dlciBoYWxmIG9mIHRoZSBwb3N0ZXIuIFN0cm9uZyBhbGwtY2FwcyBzYW5zLXNlcmlmIHRpdGxlICJDSVRZIDQyIiBzdGFja2VkIGF0IHRoZSB0b3AsIHdpdGggdGhlIHNtYWxsZXIgc3ViaGVhZCAiQU5OVUFMIE1BUkFUSE9OIMK3IE5PViA5Ii4gVmVydGljYWwgcG9zdGVyIGNvbXBvc2l0aW9uIHdpdGggc3VidGxlIHBhcGVyIHRleHR1cmUuIE5vIHJlYWwgY2l0eSBicmFuZCwgbm8gc3BvbnNvciBsb2dvcywgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIHNwb3J0cyBldmVudCBwb3N0ZXIgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case60/output.png" width="250" alt="City Marathon Event Poster"></a><br><sub><b>Case 176</b> · <a href="#poster-illustration-case-60-city-marathon-event-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">City Marathon Event Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbmRpZSBtdXNpYyBmZXN0aXZhbCBsaW5ldXAgcG9zdGVyLiBEdW90b25lIHRyZWF0bWVudCBvZiBhIGRyYW1hdGljIHBob3RvZ3JhcGhpYyBiYWNrZ3JvdW5kIG9mIGEgZGVzZXJ0IGR1bmUgYXQgc3Vuc2V0LCBwcm9jZXNzZWQgaW4gZGVlcCB2aW9sZXQgYW5kIGJyaWdodCB0YW5nZXJpbmUuIE1hc3NpdmUgaGVhZGxpbmVyIG5hbWUgIkxVTkFSIEhBWkUiIHJlbmRlcmVkIGluIGEgY3VzdG9tIGRpc3BsYXkgc2VyaWYgYXQgdGhlIHVwcGVyIHRoaXJkIG9mIHRoZSBwb3N0ZXIuIEJlbG93IGl0IGEgc3RhY2tlZCBsaW5ldXAgb2Ygc21hbGxlciBmaWN0aW9uYWwgYmFuZCBuYW1lcyBpbiBjbGVhbiBjb25kZW5zZWQgc2Fucy1zZXJpZiB0eXBlLCBzZXBhcmF0ZWQgYnkgc21hbGwgZG90IGJ1bGxldHMuIEF0IHRoZSBib3R0b20gYSB0aGluIGxpbmUgb2YgZmVzdGl2YWwgZGF0ZSAiQVVHIDIyLTI0IiBhbmQgYSBnZW5lcmljICJERVNFUlQgU1RBR0UiIHZlbnVlIGxpbmUuIFZlcnRpY2FsIHBvc3RlciBjb21wb3NpdGlvbiB3aXRoIHN1YnRsZSBmaWxtIGdyYWluIHRleHR1cmUuIE5vIHJlYWwgYXJ0aXN0IG5hbWVzLCBubyByZWFsIGZlc3RpdmFsIGJyYW5kaW5nLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gaW5kaWUgZmVzdGl2YWwgcG9zdGVyIGRlc2lnbiBxdWFsaXR5Lg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case61/output.png" width="250" alt="Music Festival Headliner Poster"></a><br><sub><b>Case 177</b> · <a href="#poster-illustration-case-61-music-festival-headliner-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Music Festival Headliner Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBlbGVnYW50IHdpbmUgdGFzdGluZyBldmVudCBwb3N0ZXIuIEJhY2tncm91bmQgaXMgYSBkZWVwIHdpbmUtYnVyZ3VuZHkgY29sb3IuIENlbnRlcmVkIGhhbmQtZHJhd24gYm90YW5pY2FsIGlsbHVzdHJhdGlvbiBpbiBnb2xkIGxpbmV3b3JrIG9mIGdyYXBlIHZpbmVzLCBsZWF2ZXMgYW5kIGEgc21hbGwgY2x1c3RlciBvZiBncmFwZXMuIEFib3ZlIHRoZSBpbGx1c3RyYXRpb24gYW4gZWxlZ2FudCBpdGFsaWMgc2VyaWYgdGl0bGUgcmVhZHMgIlJlc2VydmUgVGFzdGluZyIuIEJlbG93IHRoZSBpbGx1c3RyYXRpb24gYSBzbWFsbGVyIGxpbmUgaW4gbGlnaHQgY3JlYW0gdHlwZSByZWFkcyAiU2l4IHdpbmVzLCBmb3VyIGNvdXJzZXMsIG9uZSBldmVuaW5nIi4gQXQgdGhlIHZlcnkgYm90dG9tIGEgc21hbGwgbGluZSBvZiBkYXRlIGFuZCBsb2NhdGlvbiAiRnJpZGF5IMK3IFRoZSBHYXJkZW4gSGFsbCIuIFZlcnRpY2FsIHBvc3RlciBjb21wb3NpdGlvbiB3aXRoIHN1YnRsZSBwYXBlciBncmFpbi4gTm8gcmVhbCB3aW5lcnkgbmFtZSwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGJvdXRpcXVlIGV2ZW50IHBvc3RlciBhZXN0aGV0aWMsIG1hZ2F6aW5lIHF1YWxpdHkgdHlwb2dyYXBoeS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case62/output.png" width="250" alt="Wine Tasting Event Poster"></a><br><sub><b>Case 178</b> · <a href="#poster-illustration-case-62-wine-tasting-event-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Wine Tasting Event Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiB3YXJtIGluZGllIGJvb2tzdG9yZSBhbm5pdmVyc2FyeSBwb3N0ZXIuIFN0eWxpemVkIGlsbHVzdHJhdGVkIGZvcmVncm91bmQgc2hvd2luZyBhIHN0YWNrZWQgdG93ZXIgb2YgbWlzbWF0Y2hlZCBib29rcyBpbiBtdXRlZCBlYXJ0aCB0b25lcyAodGVycmFjb3R0YSwgc2FnZSwgb2xpdmUsIG11c3RhcmQsIGNyZWFtKSwgZWFjaCBzcGluZSBzbGlnaHRseSBkaWZmZXJlbnQuIEEgc21hbGwgcmVhZGluZyBsYW1wIHdhcm1seSBpbGx1bWluYXRlcyB0aGUgc3RhY2sgZnJvbSB0aGUgdXBwZXIgcmlnaHQsIGNhc3RpbmcgYSBzb2Z0IGdsb3cgYWNyb3NzIHRoZSBib29rcy4gQWJvdmUgdGhlIHN0YWNrIGEgc2VyaWYgdGl0bGUgIlRFTiBZRUFSUyBPRiBSRUFESU5HIiBpbiBkZWVwIGluayBibGFjayB3aXRoIGEgdGhpbiBnb2xkIHVuZGVybGluZS4gU21hbGxlciBsaW5lIGJlbmVhdGggcmVhZHMgInRoYW5rIHlvdSBmb3Igc3RvcHBpbmcgYnkiLiBCYWNrZ3JvdW5kIGlzIGEgd2FybSBiZWlnZSBwYXBlciB0ZXh0dXJlLiBWZXJ0aWNhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgYm9va3N0b3JlIG5hbWUsIG5vIHJlYWwgYm9vayB0aXRsZXMsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBpbmRpZSBzaG9wIHBvc3RlciBpbGx1c3RyYXRpb24gYWVzdGhldGljLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case63/output.png" width="250" alt="Bookstore Anniversary Poster"></a><br><sub><b>Case 179</b> · <a href="#poster-illustration-case-63-bookstore-anniversary-poster">Prompt</a></sub><br><sub><a href="https://github.com/HiAPIAI/awesome-gpt-image-2-prompts">Bookstore Anniversary Poster</a> · <a href="https://x.com/hiapi_ai">@hiapi_ai</a></sub></td>
   </tr>
 </table>
 
@@ -986,13 +998,149 @@ AI 必须依据【主题】自动决定最合适的:
 
 </details>
 
+<a id="poster-illustration-case-56-lisbon-tram-spring-travel-poster"></a>
+
+### Case 172: [Lisbon Tram Spring Travel Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbGx1c3RyYXRlZCB0cmF2ZWwgcG9zdGVyIG9mIGEgYnJpZ2h0IHllbGxvdyB2aW50YWdlIExpc2JvbiB0cmFtIGNyZXN0aW5nIGEgc3RlZXAgY29iYmxlc3RvbmUgaGlsbCwgd2l0aCBwYXN0ZWwtY29sb3JlZCBidWlsZGluZ3MgaW4gc29mdCBwaW5rLCBwZWFjaCBhbmQgbWludCBzdGFja2VkIG9uIGVpdGhlciBzaWRlIG9mIHRoZSBzdHJlZXQuIEEgc21hbGwgZmxvd2VyIGJveCBvbiBhIHdpbmRvd3NpbGwsIGxhdW5kcnkgc3RydW5nIGJldHdlZW4gdHdvIHVwcGVyIGJhbGNvbmllcy4gU29mdCB3YXJtIHNwcmluZyBhZnRlcm5vb24gbGlnaHQuIFRpdGxlIHRleHQgIkxJU0JPQSIgcmVuZGVyZWQgaW4gY2xlYW4gZWxlZ2FudCBzZXJpZiB0eXBvZ3JhcGh5IGFjcm9zcyB0aGUgdG9wIG9mIHRoZSBwb3N0ZXIsIHdpdGggdGhlIHNtYWxsZXIgc3ViaGVhZCAiQUxGQU1BIMK3IFNQUklORyIgYmVuZWF0aC4gVmVydGljYWwgcG9zdGVyIGNvbXBvc2l0aW9uLiBObyByZWFsIGJyYW5kIG5hbWVzIG9uIHRoZSB0cmFtLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gY3VyYXRlZCB0cmF2ZWwgaWxsdXN0cmF0aW9uIGFlc3RoZXRpYywgcGFpbnRlcmx5IHdpdGggY3Jpc3AgdHlwb2dyYXBoeS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case56/output.png" width="560" alt="Lisbon Tram Spring Travel Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 illustrated travel poster of a bright yellow vintage Lisbon tram cresting a steep cobblestone hill, with pastel-colored buildings in soft pink, peach and mint stacked on either side of the street. A small flower box on a windowsill, laundry strung between two upper balconies. Soft warm spring afternoon light. Title text "LISBOA" rendered in clean elegant serif typography across the top of the poster, with the smaller subhead "ALFAMA · SPRING" beneath. Vertical poster composition. No real brand names on the tram, no watermark. Premium curated travel illustration aesthetic, painterly with crisp typography.
+```
+
+</details>
+
+<a id="poster-illustration-case-57-kyoto-bamboo-forest-minimalist-poster"></a>
+
+### Case 173: [Kyoto Bamboo Forest Minimalist Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtaW5pbWFsaXN0IEphcGFuZXNlIHRyYXZlbCBwb3N0ZXIgb2YgdGhlIEFyYXNoaXlhbWEgYmFtYm9vIGdyb3ZlLiBTaW5nbGUgbXV0ZWQgc2FnZS1ncmVlbiB0b25hbCBwYWxldHRlLCB0b3dlcmluZyB2ZXJ0aWNhbCBiYW1ib28gc3RhbGtzIHJlbmRlcmVkIHdpdGggc2ltcGxpZmllZCBwYWludGVybHkgYnJ1c2ggc3Ryb2tlcyBmaWxsaW5nIHRoZSBsb3dlciB0d28tdGhpcmRzLiBMYXJnZSBuZWdhdGl2ZSBzcGFjZSBza3kgaW4gc29mdCBwYWxlIGNyZWFtIGFib3ZlLiBBIHNtYWxsIGJvbGQgc2VyaWYgdGl0bGUgIktZT1RPIiBjZW50ZXJlZCBpbiB0aGUgdXBwZXIgdGhpcmQgd2l0aCBhIHRoaW5uZXIgc3ViaGVhZCAiQVJBU0hJWUFNQSDCtyBCQU1CT08gR1JPVkUiIGJlbmVhdGguIFN1YnRsZSBwYXBlciBncmFpbiB0ZXh0dXJlIGFjcm9zcyB0aGUgd2hvbGUgcG9zdGVyLiBWZXJ0aWNhbCBjb21wb3NpdGlvbi4gTm8gd2F0ZXJtYXJrLCBubyBsb2dvLiBQcmVtaXVtIG1pbmltYWxpc3QgSmFwYW5lc2UgdHJhdmVsIHBvc3RlciBhZXN0aGV0aWMsIG1hZ2F6aW5lIGNvdmVyIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case57/output.png" width="560" alt="Kyoto Bamboo Forest Minimalist Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 minimalist Japanese travel poster of the Arashiyama bamboo grove. Single muted sage-green tonal palette, towering vertical bamboo stalks rendered with simplified painterly brush strokes filling the lower two-thirds. Large negative space sky in soft pale cream above. A small bold serif title "KYOTO" centered in the upper third with a thinner subhead "ARASHIYAMA · BAMBOO GROVE" beneath. Subtle paper grain texture across the whole poster. Vertical composition. No watermark, no logo. Premium minimalist Japanese travel poster aesthetic, magazine cover quality.
+```
+
+</details>
+
+<a id="poster-illustration-case-58-tech-conference-keynote-poster"></a>
+
+### Case 174: [Tech Conference Keynote Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `16:9` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=SG9yaXpvbnRhbCAxNjo5IG1vZGVybiB0ZWNoIGNvbmZlcmVuY2Uga2V5bm90ZSBwb3N0ZXIuIEJhY2tncm91bmQgaXMgYSB2aWJyYW50IGFic3RyYWN0IGdyYWRpZW50IG1lc2ggb2YgZGVlcCBpbmRpZ28sIGVsZWN0cmljIHB1cnBsZSBhbmQgbWFnZW50YS4gQ2VudGVyZWQgc2lsaG91ZXR0ZSBvZiBhIHNpbmdsZSBzcGVha2VyIG1pZC1nZXN0dXJlIGFnYWluc3QgdGhlIGdyYWRpZW50LCBsaXQgZnJvbSBiZWxvdyBieSBhIHNtYWxsIGJyaWdodCBzcXVhcmUgc3RhZ2UgbGlnaHQuIEJvbGQgYWxsLWNhcHMgc2Fucy1zZXJpZiBoZWFkbGluZSBhdCB0aGUgdG9wIHJlYWRzICJCVUlMRCAyMDI2Ii4gU21hbGxlciBzdWJoZWFkIGJlbmVhdGggcmVhZHMgIkFSVElGSUNJQUwgwrcgQVBQTElFRCDCtyBBR0VOVElDIi4gQm90dG9tIG9mIHRoZSBwb3N0ZXIgc2hvd3MgYSB0aGluIG5lb24gbGluZSBhbmQgdGhlIGRhdGUgIk9DVCAxNCDigJQgU0YiIGluIG1vbm9zcGFjZWQgdGV4dC4gSG9yaXpvbnRhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgY29tcGFueSBuYW1lLCBubyBsb2dvLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gY29uZmVyZW5jZSBkZXNpZ24gcXVhbGl0eSwgY3Jpc3AgdHlwb2dyYXBoeSByZW5kZXJpbmcu&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=16%3A9"><img src="../images/poster_illustration_case58/output.png" width="560" alt="Tech Conference Keynote Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Horizontal 16:9 modern tech conference keynote poster. Background is a vibrant abstract gradient mesh of deep indigo, electric purple and magenta. Centered silhouette of a single speaker mid-gesture against the gradient, lit from below by a small bright square stage light. Bold all-caps sans-serif headline at the top reads "BUILD 2026". Smaller subhead beneath reads "ARTIFICIAL · APPLIED · AGENTIC". Bottom of the poster shows a thin neon line and the date "OCT 14 — SF" in monospaced text. Horizontal poster composition. No real company name, no logo, no watermark. Premium conference design quality, crisp typography rendering.
+```
+
+</details>
+
+<a id="poster-illustration-case-59-indie-coffee-roastery-poster"></a>
+
+### Case 175: [Indie Coffee Roastery Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbmRpZSBjb2ZmZWUgcm9hc3RlcnkgcG9zdGVyIHdpdGggYSBzdHJvbmcgcmlzb2dyYXBoIHByaW50IGFlc3RoZXRpYy4gVHdvLWNvbG9yIHByaW50IG9mIHdhcm0gYnVybnQgb3JhbmdlIGFuZCBkZWVwIG5hdnkgYmx1ZSBvbiBhIHNsaWdodGx5IG9mZi13aGl0ZSB0ZXh0dXJlZCBwYXBlciBiYWNrZ3JvdW5kLiBDZW50ZXJlZCBpbGx1c3RyYXRpb24gb2YgYSB2aW50YWdlIGNvZmZlZSByb2FzdGVyIGRydW0gZHJhd24gaW4gc2ltcGxpZmllZCByZXRybyBsaW5lIGFydC4gSGFuZC1kcmF3biBzZXJpZiBoZWFkbGluZSBhdCB0aGUgdG9wIHJlYWRzICJEQUlMWSBST0FTVCIuIEJlbG93IHRoZSBpbGx1c3RyYXRpb24gYSBzbWFsbGVyIGhhbmQtbGV0dGVyZWQgbGluZSByZWFkcyAic2luZ2xlLW9yaWdpbiDCtyBzaW5jZSAyMDE4Ii4gU2xpZ2h0IGdyYWluIHRleHR1cmUgYW5kIHN1YnRsZSBpbmsgbWlzcmVnaXN0cmF0aW9uLiBWZXJ0aWNhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgYnJhbmQgbmFtZSwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGluZGllIGNhZmUgcG9zdGVyIGFlc3RoZXRpYy4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case59/output.png" width="560" alt="Indie Coffee Roastery Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 indie coffee roastery poster with a strong risograph print aesthetic. Two-color print of warm burnt orange and deep navy blue on a slightly off-white textured paper background. Centered illustration of a vintage coffee roaster drum drawn in simplified retro line art. Hand-drawn serif headline at the top reads "DAILY ROAST". Below the illustration a smaller hand-lettered line reads "single-origin · since 2018". Slight grain texture and subtle ink misregistration. Vertical poster composition. No real brand name, no watermark. Premium indie cafe poster aesthetic.
+```
+
+</details>
+
+<a id="poster-illustration-case-60-city-marathon-event-poster"></a>
+
+### Case 176: [City Marathon Event Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBtb2Rlcm4gY2l0eSBtYXJhdGhvbiBldmVudCBwb3N0ZXIuIEJvbGQgc2lsaG91ZXR0ZSBvZiBhIHNpbmdsZSBydW5uZXIgbWlkLXN0cmlkZSByZW5kZXJlZCBhcyBhIGR5bmFtaWMgdGhyZWUtY29sb3Igb3ZlcmxheSBwcmludCBpbiBkZWVwIHJlZCwgZmx1b3Jlc2NlbnQgb3JhbmdlIGFuZCB3YXJtIGNyZWFtLiBCZWhpbmQgdGhlIHJ1bm5lciBhIHN0eWxpemVkIHVyYmFuIHNreWxpbmUgc2ltcGxpZmllZCBpbnRvIHRoaW4gYWJzdHJhY3QgbGluZXMgZm9ybWluZyBhIGNvbnRpbnVvdXMgcm91dGUgYWNyb3NzIHRoZSBsb3dlciBoYWxmIG9mIHRoZSBwb3N0ZXIuIFN0cm9uZyBhbGwtY2FwcyBzYW5zLXNlcmlmIHRpdGxlICJDSVRZIDQyIiBzdGFja2VkIGF0IHRoZSB0b3AsIHdpdGggdGhlIHNtYWxsZXIgc3ViaGVhZCAiQU5OVUFMIE1BUkFUSE9OIMK3IE5PViA5Ii4gVmVydGljYWwgcG9zdGVyIGNvbXBvc2l0aW9uIHdpdGggc3VidGxlIHBhcGVyIHRleHR1cmUuIE5vIHJlYWwgY2l0eSBicmFuZCwgbm8gc3BvbnNvciBsb2dvcywgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIHNwb3J0cyBldmVudCBwb3N0ZXIgZGVzaWduIHF1YWxpdHku&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case60/output.png" width="560" alt="City Marathon Event Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 modern city marathon event poster. Bold silhouette of a single runner mid-stride rendered as a dynamic three-color overlay print in deep red, fluorescent orange and warm cream. Behind the runner a stylized urban skyline simplified into thin abstract lines forming a continuous route across the lower half of the poster. Strong all-caps sans-serif title "CITY 42" stacked at the top, with the smaller subhead "ANNUAL MARATHON · NOV 9". Vertical poster composition with subtle paper texture. No real city brand, no sponsor logos, no watermark. Premium sports event poster design quality.
+```
+
+</details>
+
+<a id="poster-illustration-case-61-music-festival-headliner-poster"></a>
+
+### Case 177: [Music Festival Headliner Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBpbmRpZSBtdXNpYyBmZXN0aXZhbCBsaW5ldXAgcG9zdGVyLiBEdW90b25lIHRyZWF0bWVudCBvZiBhIGRyYW1hdGljIHBob3RvZ3JhcGhpYyBiYWNrZ3JvdW5kIG9mIGEgZGVzZXJ0IGR1bmUgYXQgc3Vuc2V0LCBwcm9jZXNzZWQgaW4gZGVlcCB2aW9sZXQgYW5kIGJyaWdodCB0YW5nZXJpbmUuIE1hc3NpdmUgaGVhZGxpbmVyIG5hbWUgIkxVTkFSIEhBWkUiIHJlbmRlcmVkIGluIGEgY3VzdG9tIGRpc3BsYXkgc2VyaWYgYXQgdGhlIHVwcGVyIHRoaXJkIG9mIHRoZSBwb3N0ZXIuIEJlbG93IGl0IGEgc3RhY2tlZCBsaW5ldXAgb2Ygc21hbGxlciBmaWN0aW9uYWwgYmFuZCBuYW1lcyBpbiBjbGVhbiBjb25kZW5zZWQgc2Fucy1zZXJpZiB0eXBlLCBzZXBhcmF0ZWQgYnkgc21hbGwgZG90IGJ1bGxldHMuIEF0IHRoZSBib3R0b20gYSB0aGluIGxpbmUgb2YgZmVzdGl2YWwgZGF0ZSAiQVVHIDIyLTI0IiBhbmQgYSBnZW5lcmljICJERVNFUlQgU1RBR0UiIHZlbnVlIGxpbmUuIFZlcnRpY2FsIHBvc3RlciBjb21wb3NpdGlvbiB3aXRoIHN1YnRsZSBmaWxtIGdyYWluIHRleHR1cmUuIE5vIHJlYWwgYXJ0aXN0IG5hbWVzLCBubyByZWFsIGZlc3RpdmFsIGJyYW5kaW5nLCBubyB3YXRlcm1hcmsuIFByZW1pdW0gaW5kaWUgZmVzdGl2YWwgcG9zdGVyIGRlc2lnbiBxdWFsaXR5Lg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case61/output.png" width="560" alt="Music Festival Headliner Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 indie music festival lineup poster. Duotone treatment of a dramatic photographic background of a desert dune at sunset, processed in deep violet and bright tangerine. Massive headliner name "LUNAR HAZE" rendered in a custom display serif at the upper third of the poster. Below it a stacked lineup of smaller fictional band names in clean condensed sans-serif type, separated by small dot bullets. At the bottom a thin line of festival date "AUG 22-24" and a generic "DESERT STAGE" venue line. Vertical poster composition with subtle film grain texture. No real artist names, no real festival branding, no watermark. Premium indie festival poster design quality.
+```
+
+</details>
+
+<a id="poster-illustration-case-62-wine-tasting-event-poster"></a>
+
+### Case 178: [Wine Tasting Event Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiBlbGVnYW50IHdpbmUgdGFzdGluZyBldmVudCBwb3N0ZXIuIEJhY2tncm91bmQgaXMgYSBkZWVwIHdpbmUtYnVyZ3VuZHkgY29sb3IuIENlbnRlcmVkIGhhbmQtZHJhd24gYm90YW5pY2FsIGlsbHVzdHJhdGlvbiBpbiBnb2xkIGxpbmV3b3JrIG9mIGdyYXBlIHZpbmVzLCBsZWF2ZXMgYW5kIGEgc21hbGwgY2x1c3RlciBvZiBncmFwZXMuIEFib3ZlIHRoZSBpbGx1c3RyYXRpb24gYW4gZWxlZ2FudCBpdGFsaWMgc2VyaWYgdGl0bGUgcmVhZHMgIlJlc2VydmUgVGFzdGluZyIuIEJlbG93IHRoZSBpbGx1c3RyYXRpb24gYSBzbWFsbGVyIGxpbmUgaW4gbGlnaHQgY3JlYW0gdHlwZSByZWFkcyAiU2l4IHdpbmVzLCBmb3VyIGNvdXJzZXMsIG9uZSBldmVuaW5nIi4gQXQgdGhlIHZlcnkgYm90dG9tIGEgc21hbGwgbGluZSBvZiBkYXRlIGFuZCBsb2NhdGlvbiAiRnJpZGF5IMK3IFRoZSBHYXJkZW4gSGFsbCIuIFZlcnRpY2FsIHBvc3RlciBjb21wb3NpdGlvbiB3aXRoIHN1YnRsZSBwYXBlciBncmFpbi4gTm8gcmVhbCB3aW5lcnkgbmFtZSwgbm8gd2F0ZXJtYXJrLiBQcmVtaXVtIGJvdXRpcXVlIGV2ZW50IHBvc3RlciBhZXN0aGV0aWMsIG1hZ2F6aW5lIHF1YWxpdHkgdHlwb2dyYXBoeS4%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case62/output.png" width="560" alt="Wine Tasting Event Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 elegant wine tasting event poster. Background is a deep wine-burgundy color. Centered hand-drawn botanical illustration in gold linework of grape vines, leaves and a small cluster of grapes. Above the illustration an elegant italic serif title reads "Reserve Tasting". Below the illustration a smaller line in light cream type reads "Six wines, four courses, one evening". At the very bottom a small line of date and location "Friday · The Garden Hall". Vertical poster composition with subtle paper grain. No real winery name, no watermark. Premium boutique event poster aesthetic, magazine quality typography.
+```
+
+</details>
+
+<a id="poster-illustration-case-63-bookstore-anniversary-poster"></a>
+
+### Case 179: [Bookstore Anniversary Poster](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts)
+
+Author: [@hiapi_ai](https://x.com/hiapi_ai) · Ratio: `9:16` · Language: `English`
+
+<p align="center"><a href="https://www.hiapi.ai/draw?p=VmVydGljYWwgOToxNiB3YXJtIGluZGllIGJvb2tzdG9yZSBhbm5pdmVyc2FyeSBwb3N0ZXIuIFN0eWxpemVkIGlsbHVzdHJhdGVkIGZvcmVncm91bmQgc2hvd2luZyBhIHN0YWNrZWQgdG93ZXIgb2YgbWlzbWF0Y2hlZCBib29rcyBpbiBtdXRlZCBlYXJ0aCB0b25lcyAodGVycmFjb3R0YSwgc2FnZSwgb2xpdmUsIG11c3RhcmQsIGNyZWFtKSwgZWFjaCBzcGluZSBzbGlnaHRseSBkaWZmZXJlbnQuIEEgc21hbGwgcmVhZGluZyBsYW1wIHdhcm1seSBpbGx1bWluYXRlcyB0aGUgc3RhY2sgZnJvbSB0aGUgdXBwZXIgcmlnaHQsIGNhc3RpbmcgYSBzb2Z0IGdsb3cgYWNyb3NzIHRoZSBib29rcy4gQWJvdmUgdGhlIHN0YWNrIGEgc2VyaWYgdGl0bGUgIlRFTiBZRUFSUyBPRiBSRUFESU5HIiBpbiBkZWVwIGluayBibGFjayB3aXRoIGEgdGhpbiBnb2xkIHVuZGVybGluZS4gU21hbGxlciBsaW5lIGJlbmVhdGggcmVhZHMgInRoYW5rIHlvdSBmb3Igc3RvcHBpbmcgYnkiLiBCYWNrZ3JvdW5kIGlzIGEgd2FybSBiZWlnZSBwYXBlciB0ZXh0dXJlLiBWZXJ0aWNhbCBwb3N0ZXIgY29tcG9zaXRpb24uIE5vIHJlYWwgYm9va3N0b3JlIG5hbWUsIG5vIHJlYWwgYm9vayB0aXRsZXMsIG5vIHdhdGVybWFyay4gUHJlbWl1bSBpbmRpZSBzaG9wIHBvc3RlciBpbGx1c3RyYXRpb24gYWVzdGhldGljLg%3D%3D&amp;m=gpt-image-2&amp;utm_source=awesome-gpt-image-2-prompts&amp;utm_medium=github_readme&amp;utm_campaign=en_gallery&amp;s=9%3A16"><img src="../images/poster_illustration_case63/output.png" width="560" alt="Bookstore Anniversary Poster"></a></p>
+
+<details>
+<summary><b>Open And Copy Prompt</b></summary>
+
+```text
+Vertical 9:16 warm indie bookstore anniversary poster. Stylized illustrated foreground showing a stacked tower of mismatched books in muted earth tones (terracotta, sage, olive, mustard, cream), each spine slightly different. A small reading lamp warmly illuminates the stack from the upper right, casting a soft glow across the books. Above the stack a serif title "TEN YEARS OF READING" in deep ink black with a thin gold underline. Smaller line beneath reads "thank you for stopping by". Background is a warm beige paper texture. Vertical poster composition. No real bookstore name, no real book titles, no watermark. Premium indie shop poster illustration aesthetic.
+```
+
+</details>
+
 ---
 
 ## Browse other categories
 
-- [Portrait & Photography](./portrait-photography.md) · 18 cases
-- [Character Design](./character-design.md) · 7 cases
-- [UI & Social Mockups](./ui-social.md) · 21 cases
+- [Portrait & Photography](./portrait-photography.md) · 26 cases
+- [Character Design](./character-design.md) · 17 cases
+- [UI & Social Mockups](./ui-social.md) · 31 cases
 - [Model Tests & Community](./comparison-community.md) · 15 cases
 - [Curated References](./community-reference.md) · 17 cases
 - [E-commerce & Product](./e-commerce.md) · 20 cases

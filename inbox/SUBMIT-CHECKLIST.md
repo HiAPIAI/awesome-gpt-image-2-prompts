@@ -2,7 +2,7 @@
 
 > **Generated** from `inbox/slots.json` and `data/prompts.json`. Do not edit by hand — run `node scripts/build-checklist.mjs` after changing a prompt or after importing a batch.
 
-Total slots: **71** · Done: **35** · Todo: **36**.
+Total slots: **71** · Done: **71** · Todo: **0**.
 
 Workflow: pick an open slot → copy the prompt → generate at the aspect ratio shown → save as `inbox/images/<slot-id>.jpg|png|webp` → run `node scripts/import-inbox.mjs`. Slots that are already imported into `data/prompts.json` show ✅.
 
@@ -436,12 +436,12 @@ Horizontal 16:9 web banner ad for an AI image generation API. Background is a so
 
 ---
 
-## 🧝 Character Design (0 / 10 done)
+## 🧝 Character Design (10 / 10 done)
 
-### 🕒 `char-01` — Cyberpunk Bounty Hunter — Three-Quarter View
+### ✅ `char-01` — Cyberpunk Bounty Hunter — Three-Quarter View
 *赛博朋克赏金猎人三分之四视角*
 
-- [ ] Generated and saved as `inbox/images/char-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -450,10 +450,10 @@ Horizontal 16:9 web banner ad for an AI image generation API. Background is a so
 Three-quarter character key visual of a young cyberpunk bounty hunter standing in a rain-slicked neon alley at night. Black tactical longcoat over a dark armored vest, fingerless gloves, holstered futuristic sidearm at the hip, glowing visor mask pushed up onto the forehead. Cinematic low-angle shot with strong magenta and cyan rim lighting from offscreen neon signs reflecting on wet pavement. Steam rising from a manhole behind. Faint faction sigil patch on the shoulder. 16:9 horizontal composition, sharp focus on the character, atmospheric haze. No text overlay, no real brand logos, no watermark. Cinematic character key visual quality, photorealistic fabric and metal textures.
 ```
 
-### 🕒 `char-02` — Fantasy Druid Half-Body Portrait
+### ✅ `char-02` — Fantasy Druid Half-Body Portrait
 *奇幻德鲁伊半身肖像*
 
-- [ ] Generated and saved as `inbox/images/char-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -462,10 +462,10 @@ Three-quarter character key visual of a young cyberpunk bounty hunter standing i
 Half-body vertical character portrait of a young druid in a misty old-growth forest at golden hour. Layered leather and woven leaf armor with subtle moss embroidery, a small antler crown nestled in long braided dark hair, one hand holding a faintly glowing wooden staff entwined with ivy. Warm sun rays filtering through ferns behind, soft green and amber palette. Calm focused expression looking off-frame. Vertical 9:16 composition, head and chest framing. No text, no clan symbols, no watermark. Painterly fantasy illustration with photorealistic details, magazine cover quality.
 ```
 
-### 🕒 `char-03` — Sci-Fi Mech Pilot Full-Body Sheet
+### ✅ `char-03` — Sci-Fi Mech Pilot Full-Body Sheet
 *科幻机甲驾驶员三视图*
 
-- [ ] Generated and saved as `inbox/images/char-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -474,10 +474,10 @@ Half-body vertical character portrait of a young druid in a misty old-growth for
 Full-body character reference sheet showing the same sci-fi mech pilot in three views — front, side, and back — lined up horizontally on a clean cool grey technical-grid background. White and orange flight suit with reinforced chest plate, helmet held under one arm, utility belt with two canisters. Subtle drop shadow on the grid, thin orange annotation lines connecting key gear pieces. 16:9 horizontal composition, sharp neutral studio lighting from above. No real brand text, no watermark. Technical character design sheet aesthetic, photorealistic suit materials.
 ```
 
-### 🕒 `char-04` — Anime School Idol Concept Frame
+### ✅ `char-04` — Anime School Idol Concept Frame
 *动漫校园偶像设定画面*
 
-- [ ] Generated and saved as `inbox/images/char-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -486,10 +486,10 @@ Full-body character reference sheet showing the same sci-fi mech pilot in three 
 Vertical anime-style concept frame of a cheerful Japanese high school idol in a soft pastel uniform, standing under cherry blossom petals drifting in the breeze. Mid shot, warm afternoon sunlight, slight lens bokeh. On the right side of the frame a small expression strip showing four mini portraits of the same character: smile, surprised, thoughtful, laughing. Sakura tree branch arches over the top of the frame. Vertical 9:16 composition. No text on the uniform, no school crest, no watermark. Premium anime production-grade illustration quality, clean line art with painterly background.
 ```
 
-### 🕒 `char-05` — Cozy Bakery Owner Character Sticker
+### ✅ `char-05` — Cozy Bakery Owner Character Sticker
 *面包店主理人贴纸*
 
-- [ ] Generated and saved as `inbox/images/char-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -498,10 +498,10 @@ Vertical anime-style concept frame of a cheerful Japanese high school idol in a 
 Chibi-style square character sticker design of a cheerful young bakery owner: round friendly face, small flour smudge on one cheek, oversized white apron over a striped shirt, holding a freshly baked loaf with both hands. Two pose variations of the same character stacked vertically inside the 1:1 frame: top pose smiling and offering bread, bottom pose hands on hips winking. Clean white background with subtle drop shadow under each pose. No text, no shop name, no watermark. Clean line art, warm pastel palette, sticker-pack ready design.
 ```
 
-### 🕒 `char-06` — Post-Apocalyptic Scavenger — Environment Hero
+### ✅ `char-06` — Post-Apocalyptic Scavenger — Environment Hero
 *废土拾荒者环境主视觉*
 
-- [ ] Generated and saved as `inbox/images/char-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -510,10 +510,10 @@ Chibi-style square character sticker design of a cheerful young bakery owner: ro
 Cinematic environment hero shot of a lone post-apocalyptic scavenger standing in the foreground silhouette against a vast ruined cityscape at dust storm hour. Heavy layered clothing with goggles around the neck, a wrapped scarf covering the lower face, a worn canvas backpack with attached scrap metal canisters. Crumbled skyscraper debris and a tilted broken streetlight in the foreground, hazy orange sun struggling through suspended dust. 16:9 horizontal composition, deep desaturated palette with a single warm light source. No text, no faction logo, no watermark. Hollywood concept art quality, photorealistic dust and fabric.
 ```
 
-### 🕒 `char-07` — Detective Noir Half-Body Cinematic
+### ✅ `char-07` — Detective Noir Half-Body Cinematic
 *黑色电影侦探半身*
 
-- [ ] Generated and saved as `inbox/images/char-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -522,10 +522,10 @@ Cinematic environment hero shot of a lone post-apocalyptic scavenger standing in
 Vertical half-body cinematic noir portrait of a hard-boiled detective inside a dark 1940s office at night. Single venetian blind shadow pattern cast across the face and the dark trenchcoat, low-key key light from the left, deep shadows on the right. Fedora tilted slightly forward, lit cigarette held casually with a thin smoke curl rising. Composed mid expression, eyes catching the light. Vertical 9:16 composition, head and chest framing. No text on the wall, no badge visible, no watermark. Classic film noir cinematography quality, photorealistic skin and fabric textures, subtle 35mm grain.
 ```
 
-### 🕒 `char-08` — High-Fantasy Elf Archer — Action Pose
+### ✅ `char-08` — High-Fantasy Elf Archer — Action Pose
 *高奇幻精灵弓手动作姿态*
 
-- [ ] Generated and saved as `inbox/images/char-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -534,10 +534,10 @@ Vertical half-body cinematic noir portrait of a hard-boiled detective inside a d
 Horizontal dynamic action key visual of a high-fantasy elf archer mid-shot, body twisted in a powerful drawing pose with the bowstring fully pulled back. Long silver hair flowing with motion, ornate light leather armor with engraved silver filigree, ears pointed, focused green eyes locked on an unseen target. Subtle motion blur in the background of a sun-dappled ancient forest, drifting leaves around the figure. 16:9 horizontal composition. No text, no clan sigil, no watermark. High-fantasy concept art quality, painterly with photorealistic textures.
 ```
 
-### 🕒 `char-09` — Friendly Robot Coffee Barista Mascot
+### ✅ `char-09` — Friendly Robot Coffee Barista Mascot
 *友好机器人咖啡师吉祥物*
 
-- [ ] Generated and saved as `inbox/images/char-09.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -546,10 +546,10 @@ Horizontal dynamic action key visual of a high-fantasy elf archer mid-shot, body
 Square 1:1 isometric mascot design of a friendly humanoid coffee barista robot. Clean rounded white panels with mint green accent stripes, single large round screen face displaying a simple smile made of two dots and an upturned arc, three-fingered articulated hands holding a small ceramic cup of espresso. Subtle steam from the cup. Stands on a small soft grey isometric base tile. Bright soft studio lighting from above-front, square 1:1 brand-ready composition. No real brand name on the robot, no logo, no watermark. Premium mascot illustration quality, photorealistic plastic and metal materials.
 ```
 
-### 🕒 `char-10` — Cottagecore Witch Apothecary Scene
+### ✅ `char-10` — Cottagecore Witch Apothecary Scene
 *田园风女巫药房场景*
 
-- [ ] Generated and saved as `inbox/images/char-10.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -560,12 +560,12 @@ Vertical scene illustration of a young cottagecore witch standing inside her war
 
 ---
 
-## 📸 Portrait & Photography (0 / 8 done)
+## 📸 Portrait & Photography (8 / 8 done)
 
-### 🕒 `port-01` — Editorial Female Portrait — Bauhaus Studio
+### ✅ `port-01` — Editorial Female Portrait — Bauhaus Studio
 *包豪斯风格女性时装肖像*
 
-- [ ] Generated and saved as `inbox/images/port-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `3:4`
 
 **Prompt:**
@@ -574,10 +574,10 @@ Vertical scene illustration of a young cottagecore witch standing inside her war
 Editorial 3:4 studio portrait of a young East Asian woman with short bobbed black hair, wearing a sharply tailored primary-red blazer over a clean white shirt. Standing in front of a Bauhaus-style geometric studio backdrop: large flat blocks of primary yellow, primary blue, and warm cream painted in clean rectangles. Strong directional studio key light from the right casting hard geometric shadows across the backdrop. Confident neutral expression looking just past the camera. 3:4 vertical composition, head and shoulders framing. No brand logo, no jewelry text, no watermark. Magazine fashion editorial quality, photorealistic skin and fabric textures, ultra sharp focus.
 ```
 
-### 🕒 `port-02` — Street Portrait — Tokyo Shibuya Rain Night
+### ✅ `port-02` — Street Portrait — Tokyo Shibuya Rain Night
 *东京涩谷雨夜街头肖像*
 
-- [ ] Generated and saved as `inbox/images/port-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -586,10 +586,10 @@ Editorial 3:4 studio portrait of a young East Asian woman with short bobbed blac
 Vertical 9:16 candid street portrait of a young woman in a clear plastic raincoat over a hooded sweatshirt, walking through a rain-soaked Shibuya intersection at night. Massive neon billboards in pink, cyan and red reflected on the wet pavement around her feet. Slight motion blur on the umbrella she carries. Wet hair strands sticking to her cheeks, soft makeup, calm expression. Phone-shot framing aesthetic, vertical composition. No real brand names on the billboards, no readable text, no watermark. Cinematic street photography quality with subtle 35mm grain, photorealistic rain droplets.
 ```
 
-### 🕒 `port-03` — Documentary Chef Mid-Action
+### ✅ `port-03` — Documentary Chef Mid-Action
 *纪实风格厨师工作中*
 
-- [ ] Generated and saved as `inbox/images/port-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `3:4`
 
 **Prompt:**
@@ -598,10 +598,10 @@ Vertical 9:16 candid street portrait of a young woman in a clear plastic raincoa
 3:4 vertical documentary photograph of a mid-career chef inside a busy professional kitchen, captured mid-action while plating a dish. Heat shimmer rising from a pan in the foreground, faint steam blurring around him, focused intense expression. White double-breasted chef jacket smudged with sauce on the chest, sleeves rolled up showing forearms. Warm overhead service light, slight motion blur on the plating hand. Vertical 3:4 framing, slightly low angle. No restaurant name on the apron, no logo, no watermark. Premium food documentary photography quality, photorealistic skin sweat detail and fabric textures.
 ```
 
-### 🕒 `port-04` — Skater Portrait — Half Pipe Backlight
+### ✅ `port-04` — Skater Portrait — Half Pipe Backlight
 *U 池逆光滑板少年*
 
-- [ ] Generated and saved as `inbox/images/port-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -610,10 +610,10 @@ Vertical 9:16 candid street portrait of a young woman in a clear plastic raincoa
 Vertical 9:16 kinetic portrait of a teenage skateboarder mid-frame at the top of a wooden half pipe at sunset, board angled just past the lip, body in a slight crouch ready to drop. Strong golden backlight rim-lighting the silhouette, dust particles caught in the air around him. Faded loose t-shirt and denim shorts, scuffed sneakers. Vertical composition, dynamic but sharp focus on the skater. No brand sticker on the deck, no logo on the clothing, no watermark. Premium youth sport documentary photography quality with subtle motion blur, photorealistic textures.
 ```
 
-### 🕒 `port-05` — CEO Headshot — Modern Corporate
+### ✅ `port-05` — CEO Headshot — Modern Corporate
 *现代企业 CEO 商务肖像*
 
-- [ ] Generated and saved as `inbox/images/port-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `3:4`
 
 **Prompt:**
@@ -622,10 +622,10 @@ Vertical 9:16 kinetic portrait of a teenage skateboarder mid-frame at the top of
 3:4 vertical clean modern corporate headshot of an East Asian woman in her early forties, wearing a charcoal grey wool blazer over a simple white silk top. Confident composed expression, slight smile, arms relaxed. Soft natural window light from the upper left, simple seamless cool grey backdrop. Tight head-and-shoulders framing, vertical 3:4 composition. Sharp catchlight in both eyes, subtle highlight on cheekbones. No company logo visible, no brand pin, no watermark. Premium executive portrait photography quality, photorealistic skin texture, magazine business profile aesthetic.
 ```
 
-### 🕒 `port-06` — Festival Portrait — Holi Color Powder
+### ✅ `port-06` — Festival Portrait — Holi Color Powder
 *胡里彩粉节肖像*
 
-- [ ] Generated and saved as `inbox/images/port-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -634,10 +634,10 @@ Vertical 9:16 kinetic portrait of a teenage skateboarder mid-frame at the top of
 Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi festival, her face and white kurta partially coated in bright pink, yellow and turquoise color powder. A burst of color powder suspended mid-air around her head from someone offscreen. Brilliant late-morning sunlight, dust particles glowing in the light. Tight vertical framing from chest up, head slightly thrown back in delight. No festival branding, no text, no watermark. Premium documentary photography quality, sharp focus on her face with subtle motion blur on the powder cloud, photorealistic skin and pigment textures.
 ```
 
-### 🕒 `port-07` — Athlete Portrait — Boxing Gym Sweat Detail
+### ✅ `port-07` — Athlete Portrait — Boxing Gym Sweat Detail
 *拳击馆运动员细节肖像*
 
-- [ ] Generated and saved as `inbox/images/port-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `3:4`
 
 **Prompt:**
@@ -646,10 +646,10 @@ Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi fest
 3:4 vertical dramatic athlete portrait of a young boxer leaning against a chain-link fence inside an old industrial boxing gym, illuminated by a single high-contrast Rembrandt-style window light from the upper left. Sweat beading on the brow and bare shoulders, hand wraps still on, intense focused gaze just past the camera. Dark moody background with a faded out-of-focus heavy bag in the corner. Vertical 3:4 framing, head and chest. No brand logo on the wraps, no gym signage, no watermark. Cinematic sports portraiture quality, photorealistic skin sweat detail and dust-lit air.
 ```
 
-### 🕒 `port-08` — Couple Portrait — Autumn Forest Path
+### ✅ `port-08` — Couple Portrait — Autumn Forest Path
 *秋季森林情侣背影*
 
-- [ ] Generated and saved as `inbox/images/port-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -660,12 +660,12 @@ Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi fest
 
 ---
 
-## 🏙️ Poster & Illustration (0 / 8 done)
+## 🏙️ Poster & Illustration (8 / 8 done)
 
-### 🕒 `post-01` — Lisbon Tram Spring Travel Poster
+### ✅ `post-01` — Lisbon Tram Spring Travel Poster
 *里斯本电车春季旅行海报*
 
-- [ ] Generated and saved as `inbox/images/post-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -674,10 +674,10 @@ Vertical 9:16 joyful festival portrait of a young woman mid-laugh at a Holi fest
 Vertical 9:16 illustrated travel poster of a bright yellow vintage Lisbon tram cresting a steep cobblestone hill, with pastel-colored buildings in soft pink, peach and mint stacked on either side of the street. A small flower box on a windowsill, laundry strung between two upper balconies. Soft warm spring afternoon light. Title text "LISBOA" rendered in clean elegant serif typography across the top of the poster, with the smaller subhead "ALFAMA · SPRING" beneath. Vertical poster composition. No real brand names on the tram, no watermark. Premium curated travel illustration aesthetic, painterly with crisp typography.
 ```
 
-### 🕒 `post-02` — Kyoto Bamboo Forest Minimalist Poster
+### ✅ `post-02` — Kyoto Bamboo Forest Minimalist Poster
 *京都嵐山竹林极简海报*
 
-- [ ] Generated and saved as `inbox/images/post-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -686,10 +686,10 @@ Vertical 9:16 illustrated travel poster of a bright yellow vintage Lisbon tram c
 Vertical 9:16 minimalist Japanese travel poster of the Arashiyama bamboo grove. Single muted sage-green tonal palette, towering vertical bamboo stalks rendered with simplified painterly brush strokes filling the lower two-thirds. Large negative space sky in soft pale cream above. A small bold serif title "KYOTO" centered in the upper third with a thinner subhead "ARASHIYAMA · BAMBOO GROVE" beneath. Subtle paper grain texture across the whole poster. Vertical composition. No watermark, no logo. Premium minimalist Japanese travel poster aesthetic, magazine cover quality.
 ```
 
-### 🕒 `post-03` — Tech Conference Keynote Poster
+### ✅ `post-03` — Tech Conference Keynote Poster
 *科技大会主题演讲海报*
 
-- [ ] Generated and saved as `inbox/images/post-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -698,10 +698,10 @@ Vertical 9:16 minimalist Japanese travel poster of the Arashiyama bamboo grove. 
 Horizontal 16:9 modern tech conference keynote poster. Background is a vibrant abstract gradient mesh of deep indigo, electric purple and magenta. Centered silhouette of a single speaker mid-gesture against the gradient, lit from below by a small bright square stage light. Bold all-caps sans-serif headline at the top reads "BUILD 2026". Smaller subhead beneath reads "ARTIFICIAL · APPLIED · AGENTIC". Bottom of the poster shows a thin neon line and the date "OCT 14 — SF" in monospaced text. Horizontal poster composition. No real company name, no logo, no watermark. Premium conference design quality, crisp typography rendering.
 ```
 
-### 🕒 `post-04` — Indie Coffee Roastery Poster
+### ✅ `post-04` — Indie Coffee Roastery Poster
 *独立咖啡烘焙坊海报*
 
-- [ ] Generated and saved as `inbox/images/post-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -710,10 +710,10 @@ Horizontal 16:9 modern tech conference keynote poster. Background is a vibrant a
 Vertical 9:16 indie coffee roastery poster with a strong risograph print aesthetic. Two-color print of warm burnt orange and deep navy blue on a slightly off-white textured paper background. Centered illustration of a vintage coffee roaster drum drawn in simplified retro line art. Hand-drawn serif headline at the top reads "DAILY ROAST". Below the illustration a smaller hand-lettered line reads "single-origin · since 2018". Slight grain texture and subtle ink misregistration. Vertical poster composition. No real brand name, no watermark. Premium indie cafe poster aesthetic.
 ```
 
-### 🕒 `post-05` — City Marathon Event Poster
+### ✅ `post-05` — City Marathon Event Poster
 *城市马拉松赛事海报*
 
-- [ ] Generated and saved as `inbox/images/post-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -722,10 +722,10 @@ Vertical 9:16 indie coffee roastery poster with a strong risograph print aesthet
 Vertical 9:16 modern city marathon event poster. Bold silhouette of a single runner mid-stride rendered as a dynamic three-color overlay print in deep red, fluorescent orange and warm cream. Behind the runner a stylized urban skyline simplified into thin abstract lines forming a continuous route across the lower half of the poster. Strong all-caps sans-serif title "CITY 42" stacked at the top, with the smaller subhead "ANNUAL MARATHON · NOV 9". Vertical poster composition with subtle paper texture. No real city brand, no sponsor logos, no watermark. Premium sports event poster design quality.
 ```
 
-### 🕒 `post-06` — Music Festival Headliner Poster
+### ✅ `post-06` — Music Festival Headliner Poster
 *音乐节主咖海报*
 
-- [ ] Generated and saved as `inbox/images/post-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -734,10 +734,10 @@ Vertical 9:16 modern city marathon event poster. Bold silhouette of a single run
 Vertical 9:16 indie music festival lineup poster. Duotone treatment of a dramatic photographic background of a desert dune at sunset, processed in deep violet and bright tangerine. Massive headliner name "LUNAR HAZE" rendered in a custom display serif at the upper third of the poster. Below it a stacked lineup of smaller fictional band names in clean condensed sans-serif type, separated by small dot bullets. At the bottom a thin line of festival date "AUG 22-24" and a generic "DESERT STAGE" venue line. Vertical poster composition with subtle film grain texture. No real artist names, no real festival branding, no watermark. Premium indie festival poster design quality.
 ```
 
-### 🕒 `post-07` — Wine Tasting Event Poster
+### ✅ `post-07` — Wine Tasting Event Poster
 *品酒会活动海报*
 
-- [ ] Generated and saved as `inbox/images/post-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -746,10 +746,10 @@ Vertical 9:16 indie music festival lineup poster. Duotone treatment of a dramati
 Vertical 9:16 elegant wine tasting event poster. Background is a deep wine-burgundy color. Centered hand-drawn botanical illustration in gold linework of grape vines, leaves and a small cluster of grapes. Above the illustration an elegant italic serif title reads "Reserve Tasting". Below the illustration a smaller line in light cream type reads "Six wines, four courses, one evening". At the very bottom a small line of date and location "Friday · The Garden Hall". Vertical poster composition with subtle paper grain. No real winery name, no watermark. Premium boutique event poster aesthetic, magazine quality typography.
 ```
 
-### 🕒 `post-08` — Bookstore Anniversary Poster
+### ✅ `post-08` — Bookstore Anniversary Poster
 *书店周年纪念海报*
 
-- [ ] Generated and saved as `inbox/images/post-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -760,12 +760,12 @@ Vertical 9:16 warm indie bookstore anniversary poster. Stylized illustrated fore
 
 ---
 
-## 📱 UI & Social Mockups (0 / 10 done)
+## 📱 UI & Social Mockups (10 / 10 done)
 
-### 🕒 `uisoc-01` — App Onboarding — Wellness Tracker
+### ✅ `uisoc-01` — App Onboarding — Wellness Tracker
 *健康追踪 App 引导页*
 
-- [ ] Generated and saved as `inbox/images/uisoc-01.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -774,10 +774,10 @@ Vertical 9:16 warm indie bookstore anniversary poster. Stylized illustrated fore
 Vertical 9:16 mobile app onboarding screen mockup for a wellness tracker. Soft warm gradient background from pale peach to dusty lavender. Centered flat illustration of a small abstract figure meditating cross-legged with soft floating leaves around them. Above the illustration a friendly two-line headline reads "Tiny check-ins. Real results.". Below it three small step indicator dots, first one filled green. At the bottom of the screen a single prominent rounded CTA button in deep mint green with white text reading "Get Started". Phone-shaped vertical 9:16 composition with subtle inner padding. No real brand name, no logo, no watermark. Premium mobile UI design quality, crisp typography rendering.
 ```
 
-### 🕒 `uisoc-02` — Notion Template Cover — Project Tracker
+### ✅ `uisoc-02` — Notion Template Cover — Project Tracker
 *Notion 模板封面 · 项目追踪*
 
-- [ ] Generated and saved as `inbox/images/uisoc-02.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -786,10 +786,10 @@ Vertical 9:16 mobile app onboarding screen mockup for a wellness tracker. Soft w
 Vertical 9:16 Notion-style template cover mockup. Soft pastel cream background with subtle paper grain texture. Centered minimal flat illustration of a stack of three layered project cards in pale sage, peach, and lavender, each with a tiny placeholder progress bar and a small icon. Above the illustration a bold modern serif title reads "Project Tracker". Below it in smaller clean sans-serif type reads "A simple template for shipping things". Vertical composition with generous margins. No real brand name, no Notion logo, no watermark. Premium productivity template cover aesthetic, magazine layout quality.
 ```
 
-### 🕒 `uisoc-03` — Twitter Thread Cover Card — AI Weekly Recap
+### ✅ `uisoc-03` — Twitter Thread Cover Card — AI Weekly Recap
 *AI 周报推文封面卡*
 
-- [ ] Generated and saved as `inbox/images/uisoc-03.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `16:9`
 
 **Prompt:**
@@ -798,10 +798,10 @@ Vertical 9:16 Notion-style template cover mockup. Soft pastel cream background w
 Horizontal 16:9 social-share cover card for a weekly AI newsletter thread. Background is a clean cool charcoal gradient. Left side shows a bold large serif headline stacked over three lines reading "This Week / in AI / Issue 47". Right side shows a small floating mockup of a phone screen displaying an abstract feed with three blurred-out tweet cards. Below the headline on the left a smaller monospaced line reads "10 stories · 4 min read". Horizontal 16:9 composition with sharp typography rendering. No real brand name, no real tweet content, no watermark. Premium social-share cover design quality.
 ```
 
-### 🕒 `uisoc-04` — iOS Lock Screen Concept — Stoic Quote
+### ✅ `uisoc-04` — iOS Lock Screen Concept — Stoic Quote
 *iOS 锁屏概念 · 斯多葛箴言*
 
-- [ ] Generated and saved as `inbox/images/uisoc-04.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -810,10 +810,10 @@ Horizontal 16:9 social-share cover card for a weekly AI newsletter thread. Backg
 Vertical 9:16 iOS lock screen design concept. Phone-frame vertical composition. Background is a soft early-morning gradient from pale blush to warm cream. Top center shows the time "07:23" in a clean light sans-serif. Below the time a small subtle date line "Monday, May 26". Centered lower-third of the screen shows a single italic serif quote: "You have power over your mind — not outside events.". A tiny attribution line "— Marcus Aurelius" beneath it. No app icons cluttering the screen, no notification toasts, no watermark. Premium lock screen typography design quality.
 ```
 
-### 🕒 `uisoc-05` — Podcast Episode Cover Frame
+### ✅ `uisoc-05` — Podcast Episode Cover Frame
 *播客单集封面*
 
-- [ ] Generated and saved as `inbox/images/uisoc-05.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -822,10 +822,10 @@ Vertical 9:16 iOS lock screen design concept. Phone-frame vertical composition. 
 Vertical 9:16 podcast episode cover. Background is a deep saturated terracotta orange color. Upper-left shows a small show logo placeholder, an abstract sound wave symbol in cream. Centered lower half features a stylized half-body illustration of a generic host figure with headphones on, drawn in flat cream and dark accents. Above the host illustration a bold sans-serif headline reads "EP. 124 / Building Quietly". Below it a smaller serif subhead "with an anonymous founder". Vertical 9:16 composition. No real show name, no real host name, no watermark. Premium podcast cover design quality, crisp typography rendering.
 ```
 
-### 🕒 `uisoc-06` — Open Source Project README Hero
+### ✅ `uisoc-06` — Open Source Project README Hero
 *开源项目 README 主视觉*
 
-- [ ] Generated and saved as `inbox/images/uisoc-06.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -834,10 +834,10 @@ Vertical 9:16 podcast episode cover. Background is a deep saturated terracotta o
 Square 1:1 README hero banner for an open source project. Background is a clean deep midnight indigo color with a subtle low-opacity geometric pattern of intersecting thin lines suggesting code or graphs. Centered upper area shows the project name "Lighthouse" in a bold modern monospaced font in pure white. Beneath it a smaller line in soft mint green reads "// A tiny scheduler for tired developers". At the lower right corner three small abstract badge placeholders, rectangles labeled "MIT", "v1.0", "CI". Square 1:1 composition. No real GitHub URL text, no watermark. Premium developer README cover design quality.
 ```
 
-### 🕒 `uisoc-07` — Mobile Banking App Dashboard Mock
+### ✅ `uisoc-07` — Mobile Banking App Dashboard Mock
 *手机银行 App 主面板*
 
-- [ ] Generated and saved as `inbox/images/uisoc-07.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -846,10 +846,10 @@ Square 1:1 README hero banner for an open source project. Background is a clean 
 Vertical 9:16 fintech banking app dashboard screen mockup. Phone-shaped frame. Background is a clean deep navy blue gradient. At the top a friendly greeting "Hi, Alex" in white sans-serif. Below it a large rounded card in slightly lighter navy showing a placeholder balance "$ 4,820.32" with a smaller line "Available". Below the card a horizontal segmented bar chart showing spending categories in mint, peach, and lavender bars. At the bottom three small icon buttons "Send / Receive / Top up" with simple flat icons. Vertical 9:16 composition, crisp pixel-aligned UI. No real bank brand, no watermark. Premium fintech UI design quality.
 ```
 
-### 🕒 `uisoc-08` — Newsletter Header — Tech Bulletin
+### ✅ `uisoc-08` — Newsletter Header — Tech Bulletin
 *Newsletter 顶部插图 · 科技简报*
 
-- [ ] Generated and saved as `inbox/images/uisoc-08.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `1:1`
 
 **Prompt:**
@@ -858,10 +858,10 @@ Vertical 9:16 fintech banking app dashboard screen mockup. Phone-shaped frame. B
 Square 1:1 newsletter header illustration in a flat editorial vector style. Soft warm cream background. Centered illustration of a single hand holding up a folded paper newspaper with the word "TECH" subtly readable on the front, surrounded by floating small abstract icons: envelope, lightbulb, terminal cursor, graph line, in muted teal and warm orange. Above the illustration a bold serif title reads "The Weekly Bulletin". Below it a small line "Sent every Friday, 7 AM". Square 1:1 composition. No real publication name, no logos, no watermark. Premium editorial newsletter design quality.
 ```
 
-### 🕒 `uisoc-09` — AI Chat App First-Run Screen
+### ✅ `uisoc-09` — AI Chat App First-Run Screen
 *AI 聊天 App 首次启动页*
 
-- [ ] Generated and saved as `inbox/images/uisoc-09.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**
@@ -870,10 +870,10 @@ Square 1:1 newsletter header illustration in a flat editorial vector style. Soft
 Vertical 9:16 AI chat application first-run screen mockup. Phone-shaped frame. Background is a clean off-white. Top center shows a small friendly mascot illustration of an abstract floating geometric character waving. Below the mascot a bold sans-serif greeting reads "Hi! How can I help today?". Below the greeting three rounded suggestion chips stacked vertically with example questions: "Summarize a webpage", "Draft a quick email", "Plan a weekend trip". At the very bottom a simple text input field with a placeholder "Type a message…" and a small send arrow icon. Vertical 9:16 composition, crisp pixel-aligned UI. No real brand name, no logo, no watermark. Premium AI app onboarding UI design quality.
 ```
 
-### 🕒 `uisoc-10` — Music Player Now-Playing Screen
+### ✅ `uisoc-10` — Music Player Now-Playing Screen
 *音乐播放器播放中页*
 
-- [ ] Generated and saved as `inbox/images/uisoc-10.jpg` (or .png / .webp)
+- [x] Already imported into `data/prompts.json`.
 - Aspect ratio: `9:16`
 
 **Prompt:**

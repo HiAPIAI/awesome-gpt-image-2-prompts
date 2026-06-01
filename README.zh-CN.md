@@ -7,7 +7,7 @@
 [![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/zh/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 [![文档](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
-![153 个提示词](https://img.shields.io/badge/153%20%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D-f97316)
+![189 个提示词](https://img.shields.io/badge/189%20%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D-f97316)
 ![8 个分类](https://img.shields.io/badge/8%20%E4%B8%AA%E5%88%86%E7%B1%BB-111827)
 ![真实案例图](https://img.shields.io/badge/%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B%E5%9B%BE-16a34a)
 ![复制 Prompt](https://img.shields.io/badge/%E5%A4%8D%E5%88%B6%20Prompt-f59e0b)
@@ -32,12 +32,12 @@
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.zh-CN.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="人像与摄影"></a><br><sub><b>人像与摄影</b> · 18 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.zh-CN.md"><img src="./images/poster_case1/output.jpg" width="240" alt="海报与插画"></a><br><sub><b>海报与插画</b> · 40 个案例</sub></td>
-    <td align="center" width="33%" valign="top"><a href="./cases/character-design.zh-CN.md"><img src="./images/character_case1/output.jpg" width="240" alt="角色设计"></a><br><sub><b>角色设计</b> · 7 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/portrait-photography.zh-CN.md"><img src="./images/portrait_case1/output.jpg" width="240" alt="人像与摄影"></a><br><sub><b>人像与摄影</b> · 26 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/poster-illustration.zh-CN.md"><img src="./images/poster_case1/output.jpg" width="240" alt="海报与插画"></a><br><sub><b>海报与插画</b> · 48 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/character-design.zh-CN.md"><img src="./images/character_case1/output.jpg" width="240" alt="角色设计"></a><br><sub><b>角色设计</b> · 17 个案例</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.zh-CN.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI 与社交截图"></a><br><sub><b>UI 与社交截图</b> · 21 个案例</sub></td>
+    <td align="center" width="33%" valign="top"><a href="./cases/ui-social.zh-CN.md"><img src="./images/ui_case1/output.jpg" width="240" alt="UI 与社交截图"></a><br><sub><b>UI 与社交截图</b> · 31 个案例</sub></td>
     <td align="center" width="33%" valign="top"><a href="./cases/comparison-community.zh-CN.md"><img src="./images/comparison_case5/output.jpg" width="240" alt="模型测试与社区案例"></a><br><sub><b>模型测试与社区案例</b> · 15 个案例</sub></td>
     <td align="center" width="33%" valign="top"><a href="./cases/community-reference.zh-CN.md"><img src="./images/community_reference/reddit-10/output.jpg" width="240" alt="精选参考案例"></a><br><sub><b>精选参考案例</b> · 17 个案例</sub></td>
   </tr>
@@ -53,7 +53,7 @@
 
 这不是单纯的提示词清单，而是一组可以直接复用的视觉创作案例：真实效果图、完整 Prompt、画面比例、HiAPI Draw 预填链接都放在一起。你可以先看效果，再把人物、产品、城市、品牌或文案换成自己的内容。
 
-探索 153 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计、模型测试和高复用参考等场景。每个案例都附带真实效果图、完整 Prompt、原作者或来源署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
+探索 189 个精选视觉创作案例，涵盖人物肖像、商业海报、角色设定、界面设计、模型测试和高复用参考等场景。每个案例都附带真实效果图、完整 Prompt、原作者或来源署名与原帖链接，帮助你快速拆解并复用 AI 视觉创作技巧。
 
 ## 为什么使用这个案例库？
 
@@ -93,10 +93,10 @@
 
 | 分类 | 数量 | 适合做什么 |
 | --- | ---: | --- |
-| [人像与摄影](./cases/portrait-photography.zh-CN.md) | 18 | 写真、人像、街拍、胶片和手机截图风格。 |
-| [海报与插画](./cases/poster-illustration.zh-CN.md) | 40 | 城市海报、旅行插画、字体设计、信息图和商业视觉。 |
-| [角色设计](./cases/character-design.zh-CN.md) | 7 | 角色设定卡、动画截图、主视觉和角色世界观。 |
-| [UI 与社交截图](./cases/ui-social.zh-CN.md) | 21 | App 首页、社交页面、直播截图、信息卡和移动端界面。 |
+| [人像与摄影](./cases/portrait-photography.zh-CN.md) | 26 | 写真、人像、街拍、胶片和手机截图风格。 |
+| [海报与插画](./cases/poster-illustration.zh-CN.md) | 48 | 城市海报、旅行插画、字体设计、信息图和商业视觉。 |
+| [角色设计](./cases/character-design.zh-CN.md) | 17 | 角色设定卡、动画截图、主视觉和角色世界观。 |
+| [UI 与社交截图](./cases/ui-social.zh-CN.md) | 31 | App 首页、社交页面、直播截图、信息卡和移动端界面。 |
 | [模型测试与社区案例](./cases/comparison-community.zh-CN.md) | 15 | 计数、文字、游戏截图、复杂场景和模型能力测试。 |
 | [精选参考案例](./cases/community-reference.zh-CN.md) | 17 | 游戏画面、科研配图、信息图、产品视觉和角色设定等高复用参考。 |
 | [电商与产品](./cases/e-commerce.zh-CN.md) | 20 | 产品摄影、模特试穿、详情页主图、节日礼盒、品牌套图——直接服务于商品转化的视觉。 |
@@ -104,7 +104,7 @@
 
 <a id="gallery-portrait-photography"></a>
 
-### [人像与摄影](./cases/portrait-photography.zh-CN.md) · 18 个案例
+### [人像与摄影](./cases/portrait-photography.zh-CN.md) · 26 个案例
 
 写真、人像、街拍、胶片和手机截图风格。
 
@@ -121,11 +121,11 @@
   </tr>
 </table>
 
-**[浏览全部 18 个案例 →](./cases/portrait-photography.zh-CN.md)**
+**[浏览全部 26 个案例 →](./cases/portrait-photography.zh-CN.md)**
 
 <a id="gallery-poster-illustration"></a>
 
-### [海报与插画](./cases/poster-illustration.zh-CN.md) · 40 个案例
+### [海报与插画](./cases/poster-illustration.zh-CN.md) · 48 个案例
 
 城市海报、旅行插画、字体设计、信息图和商业视觉。
 
@@ -142,11 +142,11 @@
   </tr>
 </table>
 
-**[浏览全部 40 个案例 →](./cases/poster-illustration.zh-CN.md)**
+**[浏览全部 48 个案例 →](./cases/poster-illustration.zh-CN.md)**
 
 <a id="gallery-character-design"></a>
 
-### [角色设计](./cases/character-design.zh-CN.md) · 7 个案例
+### [角色设计](./cases/character-design.zh-CN.md) · 17 个案例
 
 角色设定卡、动画截图、主视觉和角色世界观。
 
@@ -163,11 +163,11 @@
   </tr>
 </table>
 
-**[浏览全部 7 个案例 →](./cases/character-design.zh-CN.md)**
+**[浏览全部 17 个案例 →](./cases/character-design.zh-CN.md)**
 
 <a id="gallery-ui-social"></a>
 
-### [UI 与社交截图](./cases/ui-social.zh-CN.md) · 21 个案例
+### [UI 与社交截图](./cases/ui-social.zh-CN.md) · 31 个案例
 
 App 首页、社交页面、直播截图、信息卡和移动端界面。
 
@@ -184,7 +184,7 @@ App 首页、社交页面、直播截图、信息卡和移动端界面。
   </tr>
 </table>
 
-**[浏览全部 21 个案例 →](./cases/ui-social.zh-CN.md)**
+**[浏览全部 31 个案例 →](./cases/ui-social.zh-CN.md)**
 
 <a id="gallery-comparison-community"></a>
 

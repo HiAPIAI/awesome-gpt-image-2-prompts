@@ -395,10 +395,10 @@ Top-down flat-lay of a neatly organised back-to-school stationery bundle on a cl
 
 ## Browse other categories
 
-- [Portrait & Photography](./portrait-photography.md) · 18 cases
-- [Poster & Illustration](./poster-illustration.md) · 40 cases
-- [Character Design](./character-design.md) · 7 cases
-- [UI & Social Mockups](./ui-social.md) · 21 cases
+- [Portrait & Photography](./portrait-photography.md) · 26 cases
+- [Poster & Illustration](./poster-illustration.md) · 48 cases
+- [Character Design](./character-design.md) · 17 cases
+- [UI & Social Mockups](./ui-social.md) · 31 cases
 - [Model Tests & Community](./comparison-community.md) · 15 cases
 - [Curated References](./community-reference.md) · 17 cases
 - [Ad Creative](./ad-creative.md) · 15 cases
