@@ -495,7 +495,7 @@ Vertical anime-style concept frame of a cheerful Japanese high school idol in a 
 **Prompt:**
 
 ```
-Chibi-style square character sticker design of a cheerful young bakery owner: round friendly face, small flour smudge on one cheek, oversized white apron over a striped shirt, holding a freshly baked loaf with both hands. Two pose variations of the same character stacked vertically inside the 1:1 frame: top pose smiling and offering bread, bottom pose hands on hips winking. Clean white background with subtle drop shadow under each pose. No text, no shop name, no watermark. Clean line art, warm pastel palette, sticker-pack ready design.
+Chibi-style square character sticker design of a cheerful YOUNG WOMAN bakery owner: round friendly face, soft feminine features, long hair loosely tied up with a few strands escaping, small flour smudge on one cheek, oversized white apron over a striped shirt, holding a freshly baked loaf of bread with both hands. Two pose variations of the SAME female character stacked vertically inside the 1:1 frame: top pose smiling and offering bread, bottom pose hands on hips winking. Clean white background with subtle drop shadow under each pose. No text, no shop name, no watermark. Clean line art, warm pastel palette, sticker-pack ready design. Aspect ratio MUST be exactly 1:1 (square).
 ```
 
 ### ✅ `char-06` — Post-Apocalyptic Scavenger — Environment Hero
@@ -807,7 +807,7 @@ Horizontal 16:9 social-share cover card for a weekly AI newsletter thread. Backg
 **Prompt:**
 
 ```
-Vertical 9:16 iOS lock screen design concept. Phone-frame vertical composition. Background is a soft early-morning gradient from pale blush to warm cream. Top center shows the time "07:23" in a clean light sans-serif. Below the time a small subtle date line "Monday, May 26". Centered lower-third of the screen shows a single italic serif quote: "You have power over your mind — not outside events.". A tiny attribution line "— Marcus Aurelius" beneath it. No app icons cluttering the screen, no notification toasts, no watermark. Premium lock screen typography design quality.
+Vertical 9:16 lock screen design concept — the OUTPUT IMAGE itself must be exactly 9:16 aspect ratio (for example 941x1672, 1080x1920, or 720x1280). Do NOT use 9:19.5 or any taller real-phone aspect — render at strict 9:16 even though it depicts a phone. The phone frame inside the canvas should look generic, not match any specific iPhone or Android model proportions. Background is a soft early-morning gradient from pale blush to warm cream. Top center shows the time "07:23" in a clean light sans-serif. Below the time a small subtle date line "Monday, May 26". Centered lower-third of the screen shows a single italic serif quote: "You have power over your mind — not outside events.". A tiny attribution line "— Marcus Aurelius" beneath it. No app icons cluttering the screen, no notification toasts, no watermark. Premium lock screen typography design quality. Strict 9:16 image canvas.
 ```
 
 ### ✅ `uisoc-05` — Podcast Episode Cover Frame
