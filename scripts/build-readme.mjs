@@ -100,7 +100,7 @@ const copy = {
     language: "语言",
     licenseTitle: "授权说明",
     licenseText:
-      "仓库代码、脚本、JSON 字段结构（key 名称和文件格式）、README 排版适用 MIT License。JSON 中的 Prompt 内容、案例图片、作者署名、第三方品牌名称及平台名称不属于 MIT 授权范围，版权归原权利人所有，除非其另行授权。请不要把本仓库理解为对 Prompt 文本、案例图片或第三方素材的再授权；公开展示、复制、改编或商业使用时，请遵守原作者、发布平台和相关权利方的要求。",
+      "本仓库由 HiAPI 拥有的部分——整理结构、说明文字、代码与脚本、JSON 字段结构（key 名称和文件格式）、README 排版及 HiAPI 官方生成的示例——适用 [CC BY 4.0](LICENSE)，转载或改编请署名 HiAPI 并附本仓库链接。JSON 中的 Prompt 内容、案例图片、作者署名、第三方品牌名称及平台名称不在本授权范围内，版权归原权利人所有。请不要把本仓库理解为对 Prompt 文本、案例图片或第三方素材的再授权；公开展示、复制、改编或商业使用时，请遵守原作者、发布平台和相关权利方的要求，详见 [NOTICE.md](NOTICE.md)。",
     ctaTitle: "找到满意的效果了？去生成吧。",
     ctaText: "GPT Image 2、Flux 等主流图像模型，一个 API Key 统一接入，按量计费无需订阅。",
     ctaButton: "在 HiAPI 生成图像 →",
@@ -193,7 +193,7 @@ Explore ${data.items.length} curated visual generation cases across portraits, c
     language: "Language",
     licenseTitle: "License",
     licenseText:
-      "Repository code, scripts, JSON field structure (key names and file format), and README layout are MIT licensed. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by the MIT license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders.",
+      "HiAPI-owned repository materials — original curation, repository structure, README copy, code and scripts, JSON field structure (key names and file format), and HiAPI-created examples — are licensed under [CC BY 4.0](LICENSE): reuse and adapt with attribution to HiAPI and a link back to this repository. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by this license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders — see [NOTICE.md](NOTICE.md).",
     ctaTitle: "Found a prompt you like? Go generate.",
     ctaText: "GPT Image 2, Flux, and more — one API key for all major image models, pay as you go.",
     ctaButton: "Generate on HiAPI →",
