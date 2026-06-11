@@ -369,7 +369,7 @@ Every image in this repo links to HiAPI Draw with the model, prompt, and aspect 
 
 ## License
 
-Repository code, scripts, JSON field structure (key names and file format), and README layout are MIT licensed. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by the MIT license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders.
+HiAPI-owned repository materials — original curation, repository structure, README copy, code and scripts, JSON field structure (key names and file format), and HiAPI-created examples — are licensed under [CC BY 4.0](LICENSE): reuse and adapt with attribution to HiAPI and a link back to this repository. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by this license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders — see [NOTICE.md](NOTICE.md).
 
 ---
 
