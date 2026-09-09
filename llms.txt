@@ -28,6 +28,13 @@ Primary model:
 
 - `gpt-image-2`
 
+Related skill:
+
+- Skill repository: https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill
+- Model IDs: `gpt-image-2.5-flare`, `gpt-image-2.5-sunburst`
+- Status: released; public installation available
+- Installation and API documentation: https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md
+
 HiAPI endpoint:
 
 - `POST https://api.hiapi.ai/v1/chat/completions`

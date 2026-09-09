@@ -26,6 +26,10 @@
 
 ---
 
+## GPT Image 2.5 Skill
+
+如需使用 `gpt-image-2.5-flare` 和 `gpt-image-2.5-sunburst` 工作流，请查看 [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill)。公开 skill 仓库现已可访问；安装方式请参考[skill 安装说明](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md)。
+
 <div align="center">
 
 <h3>精选案例预览</h3>
