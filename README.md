@@ -26,6 +26,10 @@
 
 ---
 
+## GPT Image 2.5 Skill
+
+For `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst` workflows, see [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill). The public skill repository is available; use its [installation guide](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md).
+
 <div align="center">
 
 <h3>Featured Cases</h3>
