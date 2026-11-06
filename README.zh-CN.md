@@ -26,6 +26,16 @@
 
 ---
 
+## GPT Image 2.6 Skill
+
+如需使用 `gpt-image-2.6-flare` 和 `gpt-image-2.6-sunburst` 工作流——包含 SVG 与 GIF 输出（仅文生图）、mask 或 markup 局部改图，以及 1K/2K/4K 配五档质量——请查看 [HiAPI GPT Image 2.6 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill)。一行命令安装：
+
+```bash
+npx -y github:HiAPIAI/hiapi-gpt-image-2-6-skill -y
+```
+
+公开 skill 仓库现已可访问；安装方式请参考[skill 安装说明](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill/blob/main/llms-install.md)。
+
 ## GPT Image 2.5 Skill
 
 如需使用 `gpt-image-2.5-flare` 和 `gpt-image-2.5-sunburst` 工作流，请查看 [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill)。公开 skill 仓库现已可访问；安装方式请参考[skill 安装说明](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md)。
@@ -85,11 +95,11 @@
 
 ## 新动态
 
+- **2026-11-07** — GPT Image 2.6 Skill 发布：SVG/GIF 输出（仅文生图）、mask 或 markup 局部改图、签名自动更新。 · [→](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill)
 - **2026-05-22** — HiAPI skill 一行命令安装上线：`npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`，支持本地 Agent skill 目录。 · [→](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
 - **2026-05-21** — 新仓 `awesome-seedance-2-0-prompts` 上线，160+ Seedance 2.0 视频配方，覆盖 8 大类目。 · [→](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts)
 - **2026-05-13** — 新增社区参考精选案例，覆盖人像、海报、角色、界面四大方向。
 - **2026-05-12** — 整理来源、NOTICE 与双语 README 文案；案例署名规范进一步收紧。 · [→](./NOTICE.md)
-- **2026-05-07** — 整体定位调整为 API 可用的创作配方——每个案例都带 HiAPI Draw 预填链接，模型和比例都已配好。
 
 ## 按类型浏览
 

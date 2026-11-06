@@ -26,6 +26,16 @@
 
 ---
 
+## GPT Image 2.6 Skill
+
+For `gpt-image-2.6-flare` and `gpt-image-2.6-sunburst` workflows — including SVG and GIF output (text-to-image only), mask or markup local edits, and 1K/2K/4K with five quality tiers — see [HiAPI GPT Image 2.6 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill). Install it in one command:
+
+```bash
+npx -y github:HiAPIAI/hiapi-gpt-image-2-6-skill -y
+```
+
+The public skill repository is available; use its [installation guide](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill/blob/main/llms-install.md).
+
 ## GPT Image 2.5 Skill
 
 For `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst` workflows, see [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill). The public skill repository is available; use its [installation guide](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md).
@@ -85,11 +95,11 @@ Explore 189 curated visual generation cases across portraits, commercial posters
 
 ## What's New
 
+- **2026-11-07** — GPT Image 2.6 skill released: SVG/GIF output (text-to-image only), mask or markup local edits, signed auto-update. · [→](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill)
 - **2026-05-22** — One-command installer shipped for HiAPI skills: `npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`. Supports local agent skill directories. · [→](https://github.com/HiAPIAI/hiapi-gpt-image-2-skill)
 - **2026-05-21** — New repo `awesome-seedance-2-0-prompts` launched with 160+ Seedance 2.0 video recipes across 8 categories. · [→](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts)
 - **2026-05-13** — Added community reference prompt picks — fresh examples across portrait, poster, character, and UI categories.
 - **2026-05-12** — Sources, NOTICE, and per-locale README copy cleaned up; case attribution discipline tightened. · [→](./NOTICE.md)
-- **2026-05-07** — Repo positioned as API-ready creative recipes — every case links to HiAPI Draw with model and ratio prefilled.
 
 ## Browse By Type
 

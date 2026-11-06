@@ -35,6 +35,15 @@ Related skill:
 - Status: released; public installation available
 - Installation and API documentation: https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md
 
+Related GPT Image 2.6 skill:
+
+- Skill repository: https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill
+- Model IDs: `gpt-image-2.6-flare/text-to-image`, `gpt-image-2.6-flare/image-to-image`, `gpt-image-2.6-sunburst/text-to-image`, `gpt-image-2.6-sunburst/image-to-image`
+- Status: released; public installation available
+- Install: `npx -y github:HiAPIAI/hiapi-gpt-image-2-6-skill -y`
+- Adds SVG and GIF output (text-to-image only), mask or markup local edits, 16 aspect ratios, and signed automatic updates within the 1.x line
+- Installation and API documentation: https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill/blob/main/llms-install.md
+
 HiAPI endpoint:
 
 - `POST https://api.hiapi.ai/v1/chat/completions`

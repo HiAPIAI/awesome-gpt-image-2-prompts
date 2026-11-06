@@ -577,6 +577,37 @@ function newsBlock(locale, t) {
   return `## ${t.news.title}\n\n${lines.join("\n")}`;
 }
 
+const fence = "```";
+
+const skillBlocks = {
+  en: `## GPT Image 2.6 Skill
+
+For \`gpt-image-2.6-flare\` and \`gpt-image-2.6-sunburst\` workflows — including SVG and GIF output (text-to-image only), mask or markup local edits, and 1K/2K/4K with five quality tiers — see [HiAPI GPT Image 2.6 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill). Install it in one command:
+
+${fence}bash
+npx -y github:HiAPIAI/hiapi-gpt-image-2-6-skill -y
+${fence}
+
+The public skill repository is available; use its [installation guide](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill/blob/main/llms-install.md).
+
+## GPT Image 2.5 Skill
+
+For \`gpt-image-2.5-flare\` and \`gpt-image-2.5-sunburst\` workflows, see [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill). The public skill repository is available; use its [installation guide](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md).`,
+  zh: `## GPT Image 2.6 Skill
+
+如需使用 \`gpt-image-2.6-flare\` 和 \`gpt-image-2.6-sunburst\` 工作流——包含 SVG 与 GIF 输出（仅文生图）、mask 或 markup 局部改图，以及 1K/2K/4K 配五档质量——请查看 [HiAPI GPT Image 2.6 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill)。一行命令安装：
+
+${fence}bash
+npx -y github:HiAPIAI/hiapi-gpt-image-2-6-skill -y
+${fence}
+
+公开 skill 仓库现已可访问；安装方式请参考[skill 安装说明](https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill/blob/main/llms-install.md)。
+
+## GPT Image 2.5 Skill
+
+如需使用 \`gpt-image-2.5-flare\` 和 \`gpt-image-2.5-sunburst\` 工作流，请查看 [HiAPI GPT Image 2.5 Skill](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill)。公开 skill 仓库现已可访问；安装方式请参考[skill 安装说明](https://github.com/HiAPIAI/hiapi-gpt-image-2-5-skill/blob/main/llms-install.md)。`,
+};
+
 function hiapiApiBlock(locale, t) {
   const links = hiapi[locale];
   const example = locale === "zh"
@@ -782,6 +813,8 @@ function readme(locale) {
 > Have a prompt with a real output image? **[Submit it via issue template →](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts/issues/new?template=submit-a-prompt.yml)** · [Contributing guide](./CONTRIBUTING.md)
 
 ---
+
+${skillBlocks[locale]}
 
 ${heroPreviewGrid(locale, t)}
 

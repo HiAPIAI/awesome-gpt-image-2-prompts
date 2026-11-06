@@ -2,6 +2,12 @@
   "$schema_note": "Items are sorted newest first. The top 5 render in README. Keep `en` and `zh` strings under 140 chars each.",
   "items": [
     {
+      "date": "2026-11-07",
+      "en": "GPT Image 2.6 skill released: SVG/GIF output (text-to-image only), mask or markup local edits, signed auto-update.",
+      "zh": "GPT Image 2.6 Skill 发布：SVG/GIF 输出（仅文生图）、mask 或 markup 局部改图、签名自动更新。",
+      "link": "https://github.com/HiAPIAI/hiapi-gpt-image-2-6-skill"
+    },
+    {
       "date": "2026-05-22",
       "en": "One-command installer shipped for HiAPI skills: `npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`. Supports local agent skill directories.",
       "zh": "HiAPI skill 一行命令安装上线：`npx -y github:HiAPIAI/hiapi-gpt-image-2-skill -y`，支持本地 Agent skill 目录。",
