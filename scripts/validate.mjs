@@ -72,8 +72,10 @@ const expectedAspectRatios = new Map([
 const requiredRightsLanguage = new Map([
   ["README.md", ["original rightsholders", "NOTICE.md"]],
   ["README.zh-CN.md", ["原权利人", "NOTICE.md"]],
-  ["NOTICE.md", ["not a relicensing", "非公开个人信息", "support@hiapi.ai"]],
-  ["LICENSE", ["Prompt text", "example images", "original rightsholders"]],
+  ["NOTICE.md", ["not a relicensing", "非公开个人信息", "support@hiapi.ai", "example images", "original rightsholders"]],
+  // LICENSE is the verbatim CC BY 4.0 text since 2026-06-11; the layered rights
+  // notice lives in NOTICE.md.
+  ["LICENSE", ["Attribution 4.0 International"]],
   ["llms.txt", ["not as HiAPI ownership", "non-public profile information", "support@hiapi.ai"]],
 ]);
 
